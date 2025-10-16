@@ -33,7 +33,7 @@ Toolkit for **extracting and processing game data** from *Blue Protocol: Star Re
 
 ## Documentation
 
-See **[GameData.md](GameData.md)** for detailed extraction and processing notes.
+See **[GameData.md](https://github.com/Zaarrg/BlueProtocolStarResonanceDataAnalysis/blob/master/Docs/GameData.md)** for detailed extraction and processing notes.
 
 ---
 
