@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package zproto;
+
+import "stru_chat_hypertext.proto";
+import "enum_chit_chat_channel_type.proto";
+
+message SendSysChatHypertextRequest {
+  zproto.ChitChatChannelType channel_type = 1;
+  zproto.ChatHypertext hypertext = 2;
+  int64 target_char_id = 3;
+  int64 send_char_id = 4;
+  string text = 5;
+  bool send_to_me = 6;
+}
+

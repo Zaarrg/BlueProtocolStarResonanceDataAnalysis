@@ -1,0 +1,22 @@
+{
+  "1": {
+    "Id": 1,
+    "BookName": "Historical Events",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_289"
+  },
+  "2": {
+    "Id": 2,
+    "BookName": "Circumstances and Experiences",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_291"
+  },
+  "3": {
+    "Id": 3,
+    "BookName": "Settings and Concepts",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_295"
+  },
+  "4": {
+    "Id": 4,
+    "BookName": "Other",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_288"
+  }
+}

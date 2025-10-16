@@ -1,0 +1,190 @@
+{
+  "1": {
+    "Id": 1,
+    "Comment": "Obtain 200 Activity Merits",
+    "UnionTitle": "Guild Merit",
+    "UnionComment": "Obtain {*val*} Activity Merits",
+    "Picture": "ui/textures/union_2/union_temporary03",
+    "TargetType": 1,
+    "TargetId": [],
+    "TimeId": 15,
+    "AwardId": 20500000,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ],
+    "ChangeUnion": 0,
+    "Label": "Daily"
+  },
+  "2": {
+    "Id": 2,
+    "Comment": "Obtain 500 Activity Merits",
+    "UnionTitle": "Guild Merit",
+    "UnionComment": "Obtain {*val*} Activity Merits",
+    "Picture": "ui/textures/union_2/union_temporary02",
+    "TargetType": 1,
+    "TargetId": [
+      41,
+      500,
+      0
+    ],
+    "TimeId": 15,
+    "AwardId": 20500010,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      800505
+    ],
+    "ChangeUnion": 0,
+    "Label": "Daily"
+  },
+  "3": {
+    "Id": 3,
+    "Comment": "Check-in quest completed",
+    "UnionTitle": "Check-in",
+    "UnionComment": "Complete Check-in Quest",
+    "Picture": "ui/textures/union_2/union_temporary04",
+    "TargetType": 1,
+    "TargetId": [
+      310,
+      1,
+      12000,
+      1200001,
+      23900101
+    ],
+    "TimeId": 15,
+    "AwardId": 20500020,
+    "GetAwardId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      6
+    ],
+    "ChangeUnion": 1,
+    "Label": "Daily"
+  },
+  "4": {
+    "Id": 4,
+    "Comment": "Complete Cargo Quest",
+    "UnionTitle": "Guild Cargo",
+    "UnionComment": "Complete Cargo Quest",
+    "Picture": "ui/textures/union_2/union_temporary05",
+    "TargetType": 1,
+    "TargetId": [
+      43,
+      1,
+      0
+    ],
+    "TimeId": 15,
+    "AwardId": 20500030,
+    "GetAwardId": 0,
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      42
+    ],
+    "ChangeUnion": 1,
+    "Label": "Daily"
+  },
+  "5": {
+    "Id": 5,
+    "Comment": "10 members of the Guild participated in hunting",
+    "UnionTitle": "Guild Hunt",
+    "UnionComment": "{*val*} members participated",
+    "Picture": "ui/textures/union_2/union_temporary07",
+    "TargetType": 2,
+    "TargetId": [
+      42,
+      10,
+      0,
+      12011,
+      12012,
+      12013
+    ],
+    "TimeId": 17,
+    "AwardId": 20500100,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500108,
+      500151
+    ],
+    "ChangeUnion": 0,
+    "Label": "Weekly"
+  },
+  "6": {
+    "Id": 6,
+    "Comment": "30 members of the Guild participated in hunting",
+    "UnionTitle": "Guild Hunt",
+    "UnionComment": "{*val*} members participated",
+    "Picture": "ui/textures/union_2/union_temporary08",
+    "TargetType": 2,
+    "TargetId": [
+      42,
+      30,
+      0,
+      12011,
+      12012,
+      12013
+    ],
+    "TimeId": 17,
+    "AwardId": 20500110,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500108,
+      500152
+    ],
+    "ChangeUnion": 0,
+    "Label": "Weekly"
+  },
+  "7": {
+    "Id": 7,
+    "Comment": "10 members of the Guild participated in battle dance",
+    "UnionTitle": "Guild Dance",
+    "UnionComment": "{*val*} members participated",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "TargetType": 2,
+    "TargetId": [
+      44,
+      10,
+      12000
+    ],
+    "TimeId": 17,
+    "AwardId": 20500120,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500108,
+      900200
+    ],
+    "ChangeUnion": 0,
+    "Label": "Weekly"
+  },
+  "8": {
+    "Id": 8,
+    "Comment": "30 members of the Guild participated in battle dance",
+    "UnionTitle": "Guild Dance",
+    "UnionComment": "{*val*} members participated",
+    "Picture": "ui/textures/union_2/union_temporary09",
+    "TargetType": 2,
+    "TargetId": [
+      44,
+      30,
+      12000
+    ],
+    "TimeId": 17,
+    "AwardId": 20500130,
+    "GetAwardId": 0,
+    "QuickJumpType": 2,
+    "QuickJumpParam": [
+      500108,
+      900200
+    ],
+    "ChangeUnion": 0,
+    "Label": "Weekly"
+  }
+}

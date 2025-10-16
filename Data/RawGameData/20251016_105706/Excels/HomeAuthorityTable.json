@@ -1,0 +1,26 @@
+{
+  "500201": {
+    "Id": 500201,
+    "Authority": "Visit Homestead"
+  },
+  "500202": {
+    "Id": 500202,
+    "Authority": "Furniture Interaction"
+  },
+  "500203": {
+    "Id": 500203,
+    "Authority": "Flower Sales"
+  },
+  "500204": {
+    "Id": 500204,
+    "Authority": "Furniture Editing"
+  },
+  "500205": {
+    "Id": 500205,
+    "Authority": "Furniture Crafting"
+  },
+  "500206": {
+    "Id": 500206,
+    "Authority": "Shared Warehouse"
+  }
+}

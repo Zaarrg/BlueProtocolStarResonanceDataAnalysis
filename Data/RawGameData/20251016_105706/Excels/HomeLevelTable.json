@@ -1,0 +1,232 @@
+{
+  "1": {
+    "Id": 1,
+    "Exp": 15000,
+    "Condition": [],
+    "Mailid": 2100,
+    "IndoorFurnitureLimit": 200,
+    "OutdoorFurnitureLimit": 200,
+    "PlantNumber": [
+      [
+        401,
+        8
+      ]
+    ],
+    "PlanType": [
+      1
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 8,
+    "LvUpDesc": [
+      "Indoor space unlocked",
+      "Crafting queue unlocked",
+      "Max flower field placements: 8",
+      "You can now plant flowers"
+    ],
+    "OutdorrQuest": 0,
+    "OutdorrArea": 0,
+    "InsideQuest": 0,
+    "InsideId": 1
+  },
+  "2": {
+    "Id": 2,
+    "Exp": 25000,
+    "Condition": [],
+    "Mailid": 2101,
+    "IndoorFurnitureLimit": 250,
+    "OutdoorFurnitureLimit": 250,
+    "PlantNumber": [
+      [
+        401,
+        12
+      ]
+    ],
+    "PlanType": [
+      1,
+      2
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 9,
+    "LvUpDesc": [
+      "You can now plant new flowers",
+      "More Flower Fields 8 → 12"
+    ],
+    "OutdorrQuest": 0,
+    "OutdorrArea": 0,
+    "InsideQuest": 0,
+    "InsideId": 0
+  },
+  "3": {
+    "Id": 3,
+    "Exp": 35000,
+    "Condition": [],
+    "Mailid": 2102,
+    "IndoorFurnitureLimit": 300,
+    "OutdoorFurnitureLimit": 300,
+    "PlantNumber": [
+      [
+        401,
+        12
+      ]
+    ],
+    "PlanType": [
+      1,
+      2
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 10,
+    "LvUpDesc": [
+      "Indoor expansion unlocked",
+      "Outdoor expansion unlocked",
+      "Special furniture unlocked in the Store"
+    ],
+    "OutdorrQuest": 171005,
+    "OutdorrArea": 110,
+    "InsideQuest": 171003,
+    "InsideId": 2
+  },
+  "4": {
+    "Id": 4,
+    "Exp": 45000,
+    "Condition": [],
+    "Mailid": 2103,
+    "IndoorFurnitureLimit": 350,
+    "OutdoorFurnitureLimit": 350,
+    "PlantNumber": [
+      [
+        401,
+        16
+      ]
+    ],
+    "PlanType": [
+      1,
+      2,
+      3
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 12,
+    "LvUpDesc": [
+      "Outdoor expansion unlocked",
+      "You can now plant new flowers",
+      "More Flower Fields: 12 → 16"
+    ],
+    "OutdorrQuest": 171006,
+    "OutdorrArea": 111,
+    "InsideQuest": 0,
+    "InsideId": 0
+  },
+  "5": {
+    "Id": 5,
+    "Exp": 65000,
+    "Condition": [],
+    "Mailid": 2104,
+    "IndoorFurnitureLimit": 400,
+    "OutdoorFurnitureLimit": 400,
+    "PlantNumber": [
+      [
+        401,
+        16
+      ]
+    ],
+    "PlanType": [
+      1,
+      2,
+      3
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 14,
+    "LvUpDesc": [
+      "Outdoor expansion unlocked",
+      "Advanced fertilizer available in the Store"
+    ],
+    "OutdorrQuest": 171007,
+    "OutdorrArea": 112,
+    "InsideQuest": 0,
+    "InsideId": 0
+  },
+  "6": {
+    "Id": 6,
+    "Exp": 85000,
+    "Condition": [],
+    "Mailid": 2105,
+    "IndoorFurnitureLimit": 450,
+    "OutdoorFurnitureLimit": 450,
+    "PlantNumber": [
+      [
+        401,
+        16
+      ]
+    ],
+    "PlanType": [
+      1,
+      2,
+      3
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 16,
+    "LvUpDesc": [
+      "Indoor expansion unlocked",
+      "Special indoor furniture unlocked in the Store"
+    ],
+    "OutdorrQuest": 0,
+    "OutdorrArea": 0,
+    "InsideQuest": 171004,
+    "InsideId": 3
+  },
+  "7": {
+    "Id": 7,
+    "Exp": 120000,
+    "Condition": [],
+    "Mailid": 2106,
+    "IndoorFurnitureLimit": 500,
+    "OutdoorFurnitureLimit": 500,
+    "PlantNumber": [
+      [
+        401,
+        20
+      ]
+    ],
+    "PlanType": [
+      1,
+      2,
+      3
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 18,
+    "LvUpDesc": [
+      "More Flower Fields 16 → 20"
+    ],
+    "OutdorrQuest": 0,
+    "OutdorrArea": 0,
+    "InsideQuest": 0,
+    "InsideId": 0
+  },
+  "8": {
+    "Id": 8,
+    "Exp": 0,
+    "Condition": [],
+    "Mailid": 0,
+    "IndoorFurnitureLimit": 550,
+    "OutdoorFurnitureLimit": 550,
+    "PlantNumber": [
+      [
+        401,
+        20
+      ]
+    ],
+    "PlanType": [
+      1,
+      2,
+      3
+    ],
+    "Shop": 1,
+    "CLeanSpeed": 20,
+    "LvUpDesc": [
+      "All store furniture unlocked"
+    ],
+    "OutdorrQuest": 0,
+    "OutdorrArea": 0,
+    "InsideQuest": 0,
+    "InsideId": 0
+  }
+}

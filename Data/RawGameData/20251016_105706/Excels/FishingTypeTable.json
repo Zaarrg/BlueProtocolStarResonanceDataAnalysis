@@ -1,0 +1,30 @@
+{
+  "1": {
+    "Type": 1,
+    "FishingTypeIcon": "ui/atlas/fishing/fishing_tab_01",
+    "Title": "Fish",
+    "Infoshow": 1,
+    "ShowAnim": "as_mon_fish_fishingshow02"
+  },
+  "2": {
+    "Type": 2,
+    "FishingTypeIcon": "ui/atlas/fishing/fishing_tab_03",
+    "Title": "Non-fish Creatures",
+    "Infoshow": 0,
+    "ShowAnim": "as_mon_fish_fishingshow01"
+  },
+  "5": {
+    "Type": 5,
+    "FishingTypeIcon": "ui/atlas/fishing/fishing_tab_02",
+    "Title": "Ocean Trash",
+    "Infoshow": 0,
+    "ShowAnim": "as_mon_fish_fishingshow01"
+  },
+  "99": {
+    "Type": 99,
+    "FishingTypeIcon": "ui/atlas/fishing/fishing_tab_04",
+    "Title": "Legendary Creatures",
+    "Infoshow": 0,
+    "ShowAnim": "as_mon_fish_fishingshow01"
+  }
+}

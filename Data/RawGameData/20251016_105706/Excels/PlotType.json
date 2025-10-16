@@ -1,0 +1,17 @@
+{
+  "1": {
+    "Id": 1,
+    "Size": {
+      "x": 60.0,
+      "y": 65.0,
+      "z": 30.0
+    },
+    "HousingSize": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "EditorCameraPoint": 125,
+    "Grid": "home/grid/grid",
+    "HousingType": 1
+  }
+}

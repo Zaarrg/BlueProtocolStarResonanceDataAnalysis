@@ -1,0 +1,278 @@
+{
+  "101101": {
+    "Id": 101101,
+    "TargetType": 228,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear all Unstable Spaces once this week.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "101102": {
+    "Id": 101102,
+    "TargetType": 228,
+    "Num": 2,
+    "SceneId": 0,
+    "Param": [],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear all Unstable Spaces twice this week.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "101201": {
+    "Id": 101201,
+    "TargetType": 229,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear Unstable Space once this week.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "101202": {
+    "Id": 101202,
+    "TargetType": 229,
+    "Num": 5,
+    "SceneId": 0,
+    "Param": [],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear Unstable Space five times this week.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "103101": {
+    "Id": 103101,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1031,
+      1032,
+      1033
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Rescue Tina\" Normal mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "103201": {
+    "Id": 103201,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1033,
+      1032
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Rescue Tina\" Hard mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "103301": {
+    "Id": 103301,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1033
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Rescue Tina\" Nightmare mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "112101": {
+    "Id": 112101,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1121,
+      1122,
+      1123
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Towering Ruin\" Normal mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "112201": {
+    "Id": 112201,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1122,
+      1123
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Towering Ruin\" Hard mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "112301": {
+    "Id": 112301,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      1123
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Towering Ruin\" Nightmare mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "600701": {
+    "Id": 600701,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6007,
+      6008,
+      6009
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Goblin Lair\" Normal mode.",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "600801": {
+    "Id": 600801,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6008,
+      6009
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Goblin Lair\" Hard mode",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "600901": {
+    "Id": 600901,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6009
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Goblin Lair\" Nightmare Mode",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "602101": {
+    "Id": 602101,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6021,
+      6022,
+      6023
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Kanamia Tribe\" Normal Mode",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "602201": {
+    "Id": 602201,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6022,
+      6023
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Kanamia Tribe\" Hard Mode",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  },
+  "602301": {
+    "Id": 602301,
+    "TargetType": 1,
+    "Num": 99999,
+    "SceneId": 0,
+    "Param": [
+      6023
+    ],
+    "TargetPos": "",
+    "IsTeamShare": false,
+    "TargetDes": "Clear \"Chaotic - Kanamia Tribe\" Nightmare Mode",
+    "IsShowProgress": false,
+    "SpVariable": [],
+    "SpVariableLimit": [],
+    "SpVariableName": [],
+    "IsShowSpVariableProgress": []
+  }
+}

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package zproto;
+
+import "stru_profession_info.proto";
+import "stru_profession_skill_info.proto";
+import "stru_profession_talent_info.proto";
+import "stru_dirty_mask.proto";
+
+message ProfessionList {
+  int32 cur_profession_id = 1;
+  repeated int32 cur_assist_professions = 3;
+  map<int32, zproto.ProfessionInfo> profession_list = 4;
+  map<int32, zproto.ProfessionSkillInfo> aoyi_skill_info_map = 7;
+  uint32 total_talent_points = 8;
+  uint32 total_talent_reset_count = 9;
+  map<int32, zproto.ProfessionTalentInfo> talent_list = 10;
+}
+

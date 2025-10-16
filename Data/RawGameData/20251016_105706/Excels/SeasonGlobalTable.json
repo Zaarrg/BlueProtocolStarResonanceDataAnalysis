@@ -1,0 +1,34 @@
+{
+  "1": {
+    "SeasonId": 1,
+    "SeasonName": "Void Corruption Frenzy",
+    "SeasonTimeId": 10101,
+    "MinEquipLevel": 100,
+    "MaxEquipLevel": 200,
+    "MaxWeaponLevel": 60
+  },
+  "2": {
+    "SeasonId": 2,
+    "SeasonName": "Imagine",
+    "SeasonTimeId": 10201,
+    "MinEquipLevel": 400,
+    "MaxEquipLevel": 650,
+    "MaxWeaponLevel": 60
+  },
+  "3": {
+    "SeasonId": 3,
+    "SeasonName": "Decay",
+    "SeasonTimeId": 10301,
+    "MinEquipLevel": 700,
+    "MaxEquipLevel": 950,
+    "MaxWeaponLevel": 60
+  },
+  "4": {
+    "SeasonId": 4,
+    "SeasonName": "Rebirth",
+    "SeasonTimeId": 10401,
+    "MinEquipLevel": 1000,
+    "MaxEquipLevel": 1250,
+    "MaxWeaponLevel": 60
+  }
+}

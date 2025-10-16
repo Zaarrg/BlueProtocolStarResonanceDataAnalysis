@@ -1,0 +1,11 @@
+{
+  "101": {
+    "Id": 101,
+    "TaskType": 1,
+    "EpisodeInfo": [],
+    "Order": 1,
+    "EpisodeTitle": "Chapter 1",
+    "EpisodeIcon": "ui/atlas/quest/quest_season/quest_book_tob_1",
+    "EpisodeName": "The Whistling Seabreeze"
+  }
+}

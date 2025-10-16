@@ -1,0 +1,181 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "Moonlight Cha-Cha",
+    "RecipeText": "One serving of Blue Citrus Serum and Lemonade each",
+    "IntroductionText": "\"Dear, let the moon and sea breeze intertwine into a kiss, and dance with me on the deck.\" A drink favored by couples in Asterleeds, if tasted during a date, <style=\"emph-gn\">romance</style> points conservatively increase by 0.01%!",
+    "Recipe": [
+      [
+        1030007,
+        1
+      ],
+      [
+        1030009,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Sweet and sour refreshing",
+    "Title": "\"Must-order item for dates\"",
+    "Icon": "item_icons_moonlightchacha"
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "Margherita Sunset",
+    "RecipeText": "One serving of Red Berry Serum and Lemonade each",
+    "IntroductionText": "A sip of this, and you're back at the seaside at dusk, when your beloved turns and smiles. Warm, <style=\"emph-gn\">hazy</style> memories in a glass (even if just a little).",
+    "Recipe": [
+      [
+        1030006,
+        1
+      ],
+      [
+        1030009,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Silky and rich",
+    "Title": "\"Beloved by elegant people\"",
+    "Icon": "item_icons_margarettwilight"
+  },
+  "1003": {
+    "Id": 1003,
+    "Name": "Hot Sand Paradise",
+    "RecipeText": "One serving of Red Berry Serum and one serving of Soda, needs to be served hot",
+    "IntroductionText": "\"<style=\"emph-gn\">Burn</style> with the waves, my soul!\" Bold, spicy, and rebellious-this drink is for seaside boys becoming men. One sip, and your mood blazes like the afternoon sun.",
+    "Recipe": [
+      [
+        1030006,
+        1
+      ],
+      [
+        1030008,
+        1
+      ],
+      [
+        1030011,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Spicy and invigorating",
+    "Title": "\"Favored by tough guys\"",
+    "Icon": "item_icons_sandheaven"
+  },
+  "1004": {
+    "Id": 1004,
+    "Name": "Silent Sea Breeze",
+    "RecipeText": "One serving of Blue Citrus Serum and one serving of Soda, needs to be served with ice",
+    "IntroductionText": "\"If you hate or love someone, order this drink for him/her.\" No need for words, the <style=\"emph-gn\">silence</style> after drinking is the best answer.",
+    "Recipe": [
+      [
+        1030007,
+        1
+      ],
+      [
+        1030008,
+        1
+      ],
+      [
+        1030010,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Tart and intense",
+    "Title": "\"Top recommendation for art lovers\"",
+    "Icon": "item_icons_silentseabreeze"
+  },
+  "1005": {
+    "Id": 1005,
+    "Name": "A Touch of Neon",
+    "RecipeText": "Two servings of Red Berry Serum, needs to be served hot",
+    "IntroductionText": "Always <style=\"emph-gn\">safe</style>, always popular. Warm, sweet with a hint of artificial bitterness, it might be the first adult drink for young people.",
+    "Recipe": [
+      [
+        1030006,
+        2
+      ],
+      [
+        1030011,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Sweet and warm",
+    "Title": "\"Ignites a youth storm\"",
+    "Icon": "item_icons_touchofneon"
+  },
+  "1006": {
+    "Id": 1006,
+    "Name": "Coral Ice Sea",
+    "RecipeText": "Two servings of Blue Citrus Serum, needs to be served with ice",
+    "IntroductionText": "In Asterleeds, no one has seen a <style=\"emph-gn\">frozen</style> sea, but that doesn't stop them from imagining it on their tongues.",
+    "Recipe": [
+      [
+        1030007,
+        2
+      ],
+      [
+        1030010,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": true,
+    "MadeIn": "Asterleeds",
+    "Tag": "Fresh and icy",
+    "Title": "\"Exclusive special for the Seabreeze Festival\"",
+    "Icon": "item_icons_icycoralsea"
+  },
+  "2001": {
+    "Id": 2001,
+    "Name": "\"Hot Sand Paradise\"",
+    "RecipeText": "",
+    "IntroductionText": "It is the true choice for tough guys. Tough-guys, you understand? Its color is as powerful as flames. The moment you drink it, your heart and soul feel ignited...",
+    "Recipe": [
+      [
+        1030006,
+        1
+      ],
+      [
+        1030008,
+        3
+      ],
+      [
+        1030011,
+        1
+      ]
+    ],
+    "Model": "",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Tag": "",
+    "Title": "",
+    "Icon": ""
+  },
+  "5001": {
+    "Id": 5001,
+    "Name": "Failed Drink",
+    "RecipeText": "",
+    "IntroductionText": "An undrinkable beverage, a failed creation was born. But it's okay, everything can be tried again, including making drinks.",
+    "Recipe": [],
+    "Model": "",
+    "IsVisible": false,
+    "MadeIn": "",
+    "Tag": "Unpleasant taste",
+    "Title": "\"Mysterious... very mysterious\"",
+    "Icon": ""
+  }
+}

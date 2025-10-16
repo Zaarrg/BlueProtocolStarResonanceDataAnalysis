@@ -1,0 +1,48 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Engram Hub",
+    "Scene": [],
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_1",
+    "FunctionId": 801001,
+    "RedDotId": 40
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Monster Hunt",
+    "Scene": [
+      7,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_3",
+    "FunctionId": 100804,
+    "RedDotId": 71
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Journey",
+    "Scene": [],
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_2",
+    "FunctionId": 100802,
+    "RedDotId": 1201
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Reputation",
+    "Scene": [
+      7,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "Icon": "ui/atlas/explore_monster/explore_monster_btn_icon_5",
+    "FunctionId": 800819,
+    "RedDotId": 0
+  }
+}

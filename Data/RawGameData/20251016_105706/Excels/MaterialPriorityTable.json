@@ -1,0 +1,86 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "蓝色线条虚影材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 4,
+    "MaterialType": 3
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "巨塔boss激昂材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 2,
+    "MaterialType": 2
+  },
+  "1003": {
+    "Id": 1003,
+    "Name": "次元切换boss虚影材质（不要用在其他地方）",
+    "MaterialFilePath": [],
+    "MaterialPriority": 5,
+    "MaterialType": 3
+  },
+  "1004": {
+    "Id": 1004,
+    "Name": "巨塔boss二阶段激昂材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 4,
+    "MaterialType": 2
+  },
+  "1005": {
+    "Id": 1005,
+    "Name": "巨塔boss二阶段默认材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 3,
+    "MaterialType": 0
+  },
+  "1006": {
+    "Id": 1006,
+    "Name": "巨塔boss一阶段默认材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 1,
+    "MaterialType": 0
+  },
+  "1007": {
+    "Id": 1007,
+    "Name": "德劳格士兵材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 2,
+    "MaterialType": 3
+  },
+  "1008": {
+    "Id": 1008,
+    "Name": "Boss虚弱材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 4,
+    "MaterialType": 3
+  },
+  "1009": {
+    "Id": 1009,
+    "Name": "共鸣技能材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 4,
+    "MaterialType": 3
+  },
+  "1010": {
+    "Id": 1010,
+    "Name": "幽灵玩具材质",
+    "MaterialFilePath": [],
+    "MaterialPriority": 2,
+    "MaterialType": 3
+  },
+  "1011": {
+    "Id": 1011,
+    "Name": "金色士兵",
+    "MaterialFilePath": [],
+    "MaterialPriority": 2,
+    "MaterialType": 3
+  },
+  "1012": {
+    "Id": 1012,
+    "Name": "赫鲁加虚影",
+    "MaterialFilePath": [],
+    "MaterialPriority": 2,
+    "MaterialType": 3
+  }
+}

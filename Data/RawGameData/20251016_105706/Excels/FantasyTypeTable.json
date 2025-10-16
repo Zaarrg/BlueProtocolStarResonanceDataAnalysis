@@ -1,0 +1,51 @@
+{
+  "0": {
+    "Id": 0,
+    "Des": "万能（给孔位限制用，表示孔位没有限制，什么卡片都可以插，卡片没有这个类型）",
+    "Name": "Universal",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_108",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_108"
+  },
+  "1": {
+    "Id": 1,
+    "Des": "输出专属型（测试）",
+    "Name": "Attack",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_102",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_102"
+  },
+  "2": {
+    "Id": 2,
+    "Des": "辅助专属型（测试）",
+    "Name": "Support",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_103",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_103"
+  },
+  "3": {
+    "Id": 3,
+    "Des": "生存专属型（测试）",
+    "Name": "Guard",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_104",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_104"
+  },
+  "4": {
+    "Id": 4,
+    "Des": "万能型（可以插在任何槽位上）",
+    "Name": "Universal",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_107",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_107"
+  },
+  "5": {
+    "Id": 5,
+    "Des": "三职业通用一（测试）",
+    "Name": "General 1",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_105",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_105"
+  },
+  "6": {
+    "Id": 6,
+    "Des": "三职业通用二（测试）",
+    "Name": "General 2",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_106",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_106"
+  }
+}

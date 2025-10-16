@@ -1,0 +1,570 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Protect Allied Target",
+    "TargetList": [],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        2000,
+        5000
+      ]
+    ],
+    "Time": 150
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Break Through Enemy Forces",
+    "TargetList": [
+      112221,
+      112222
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        2000,
+        5000
+      ]
+    ],
+    "Time": 60
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Defeat Soldiers",
+    "TargetList": [
+      100125
+    ],
+    "Difficult": 0,
+    "CompleteAction": [],
+    "Time": 200
+  },
+  "700001": {
+    "Id": 700001,
+    "Name": "Bane Lord Invasion",
+    "TargetList": [
+      700001
+    ],
+    "Difficult": 1,
+    "CompleteAction": [],
+    "Time": 46
+  },
+  "1021001": {
+    "Id": 1021001,
+    "Name": "Protect Tina",
+    "TargetList": [
+      100161,
+      100162
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        50
+      ]
+    ],
+    "Time": 61
+  },
+  "1021006": {
+    "Id": 1021006,
+    "Name": "Rescue Asterleeds Soldiers",
+    "TargetList": [
+      100187,
+      100188
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        75,
+        75
+      ]
+    ],
+    "Time": 61
+  },
+  "1111006": {
+    "Id": 1111006,
+    "Name": "Dimensional Communication",
+    "TargetList": [
+      111113,
+      111114
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        100
+      ]
+    ],
+    "Time": 90
+  },
+  "6011001": {
+    "Id": 6011001,
+    "Name": "Defeat the Storm Weaver",
+    "TargetList": [
+      6011001,
+      6011002
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        100
+      ]
+    ],
+    "Time": 90
+  },
+  "6011002": {
+    "Id": 6011002,
+    "Name": "Defeat Dark Twin Spirits",
+    "TargetList": [
+      6011003,
+      6011004,
+      6011005
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        50,
+        100
+      ]
+    ],
+    "Time": 90
+  },
+  "6011003": {
+    "Id": 6011003,
+    "Name": "Help Necalli retrieve engrams",
+    "TargetList": [
+      6011006,
+      6011007,
+      6011008
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        50,
+        100
+      ]
+    ],
+    "Time": 85
+  },
+  "6011004": {
+    "Id": 6011004,
+    "Name": "Shatter the Shield and Rescue the Bound Necalli",
+    "TargetList": [
+      6011009,
+      6011010
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        100
+      ]
+    ],
+    "Time": 90
+  },
+  "6011006": {
+    "Id": 6011006,
+    "Name": "Capture the Boarlet",
+    "TargetList": [
+      6011013,
+      6011014
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        50
+      ]
+    ],
+    "Time": 45
+  },
+  "6009001": {
+    "Id": 6009001,
+    "Name": "Clear the Arachnocrabs",
+    "TargetList": [
+      600120,
+      600121
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        75,
+        75
+      ]
+    ],
+    "Time": 91
+  },
+  "1211002": {
+    "Id": 1211002,
+    "Name": "Windbreaking Shadow.",
+    "TargetList": [
+      121103,
+      121104
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        75,
+        75
+      ]
+    ],
+    "Time": 91
+  },
+  "1021002": {
+    "Id": 1021002,
+    "Name": "Ambush - Elite",
+    "TargetList": [
+      100166,
+      100167
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1021003": {
+    "Id": 1021003,
+    "Name": "Rescue Asterleeds Soldiers",
+    "TargetList": [
+      100168,
+      100169
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 61
+  },
+  "1021004": {
+    "Id": 1021004,
+    "Name": "Engram Imbalance",
+    "TargetList": [
+      100172,
+      100173
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1021005": {
+    "Id": 1021005,
+    "Name": "Manned Mech",
+    "TargetList": [
+      100185,
+      100186
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1111001": {
+    "Id": 1111001,
+    "Name": "Ambush",
+    "TargetList": [
+      111103,
+      111104
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1111002": {
+    "Id": 1111002,
+    "Name": "Star Energy Charging",
+    "TargetList": [
+      111105,
+      111106
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        100
+      ]
+    ],
+    "Time": 91
+  },
+  "1111003": {
+    "Id": 1111003,
+    "Name": "Dimensional Symbiosis",
+    "TargetList": [
+      111107,
+      111108
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1111004": {
+    "Id": 1111004,
+    "Name": "Laser Killing Array",
+    "TargetList": [
+      111109,
+      111110
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        100,
+        50
+      ]
+    ],
+    "Time": 91
+  },
+  "1111005": {
+    "Id": 1111005,
+    "Name": "Mechanical Wreckage",
+    "TargetList": [
+      111111,
+      111112
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        100
+      ]
+    ],
+    "Time": 91
+  },
+  "1211001": {
+    "Id": 1211001,
+    "Name": "Escort Investigator",
+    "TargetList": [
+      121101,
+      121102
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 92
+  },
+  "1211006": {
+    "Id": 1211006,
+    "Name": "Consume Full Energy",
+    "TargetList": [
+      121114
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 99
+  },
+  "6001001": {
+    "Id": 6001001,
+    "Name": "Ambush",
+    "TargetList": [
+      600101,
+      600102
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 91
+  },
+  "6001002": {
+    "Id": 6001002,
+    "Name": "Protect Villagers",
+    "TargetList": [
+      600103,
+      600104
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 91
+  },
+  "6001003": {
+    "Id": 6001003,
+    "Name": "Engram Imbalance",
+    "TargetList": [
+      600105,
+      600106
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 91
+  },
+  "6001004": {
+    "Id": 6001004,
+    "Name": "Engram Line Turbulence",
+    "TargetList": [
+      600107,
+      600108
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 181
+  },
+  "6001005": {
+    "Id": 6001005,
+    "Name": "Rescue Villagers",
+    "TargetList": [
+      600109,
+      600110
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        180,
+        300
+      ]
+    ],
+    "Time": 121
+  },
+  "6011005": {
+    "Id": 6011005,
+    "Name": "Consume Particles",
+    "TargetList": [
+      6011011,
+      6011012
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        30,
+        80
+      ]
+    ],
+    "Time": 121
+  },
+  "2000101": {
+    "Id": 2000101,
+    "Name": "Trial Together",
+    "TargetList": [
+      2000102,
+      2000103
+    ],
+    "Difficult": 1,
+    "CompleteAction": [],
+    "Time": 180
+  },
+  "1331001": {
+    "Id": 1331001,
+    "Name": "Recover Imagine Fragments",
+    "TargetList": [
+      1331001,
+      1331002
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        50,
+        50
+      ]
+    ],
+    "Time": 45
+  },
+  "1331011": {
+    "Id": 1331011,
+    "Name": "Destroy the Corrupted Source",
+    "TargetList": [
+      1331011,
+      1331012
+    ],
+    "Difficult": 1,
+    "CompleteAction": [
+      [
+        1,
+        150,
+        50
+      ]
+    ],
+    "Time": 60
+  },
+  "5111001": {
+    "Id": 5111001,
+    "Name": "Thunder Demon Smackdown",
+    "TargetList": [
+      511101
+    ],
+    "Difficult": 0,
+    "CompleteAction": [],
+    "Time": 60
+  }
+}

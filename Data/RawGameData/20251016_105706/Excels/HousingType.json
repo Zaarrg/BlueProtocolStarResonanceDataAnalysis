@@ -1,0 +1,53 @@
+{
+  "1": {
+    "Id": 1,
+    "HousingPosition": {
+      "x": 0.0,
+      "y": 0.69,
+      "z": 0.0
+    },
+    "HousingSize": {
+      "x": 20.0,
+      "y": 20.0,
+      "z": 9.0
+    },
+    "EditorCameraPoint": 16,
+    "Grid": "home/grid/grid",
+    "SceneId": 40001,
+    "StoryPath": "scenes/house_story_visuallayer40001_small"
+  },
+  "2": {
+    "Id": 2,
+    "HousingPosition": {
+      "x": 0.0,
+      "y": 0.69,
+      "z": 0.0
+    },
+    "HousingSize": {
+      "x": 20.0,
+      "y": 20.0,
+      "z": 14.5
+    },
+    "EditorCameraPoint": 16,
+    "Grid": "home/grid/grid",
+    "SceneId": 40001,
+    "StoryPath": "scenes/house_story_visuallayer40001_medium"
+  },
+  "3": {
+    "Id": 3,
+    "HousingPosition": {
+      "x": 0.0,
+      "y": 0.69,
+      "z": 0.0
+    },
+    "HousingSize": {
+      "x": 39.0,
+      "y": 20.0,
+      "z": 19.0
+    },
+    "EditorCameraPoint": 17,
+    "Grid": "home/grid/grid",
+    "SceneId": 40001,
+    "StoryPath": "scenes/house_story_visuallayer40001"
+  }
+}

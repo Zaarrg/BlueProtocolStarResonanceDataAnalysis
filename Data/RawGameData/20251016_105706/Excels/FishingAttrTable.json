@@ -1,0 +1,875 @@
+{
+  "10000": {
+    "FishingAttrId": 10000,
+    "Name": "Fish Attribute Template - Direct Hook",
+    "SizeDefaultWeight": [
+      [
+        1,
+        1500,
+        2000,
+        5000
+      ],
+      [
+        2,
+        2000,
+        2500,
+        3000
+      ],
+      [
+        3,
+        2500,
+        3000,
+        1000
+      ],
+      [
+        4,
+        3000,
+        3500,
+        500
+      ],
+      [
+        5,
+        3500,
+        4500,
+        0
+      ]
+    ],
+    "Qte": 0,
+    "BiteTime": [
+      2.0,
+      0.3,
+      8.0
+    ],
+    "OffHookTime": [
+      3.0,
+      2.0,
+      10.0
+    ],
+    "OffTime": [
+      1.0,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      15,
+      2,
+      20
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      6,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      9,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      6,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -30,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      0.1,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      1.0,
+      0.05,
+      3.0
+    ]
+  },
+  "10001": {
+    "FishingAttrId": 10001,
+    "Name": "Fish Attribute Template - Easy",
+    "SizeDefaultWeight": [
+      [
+        1,
+        2000,
+        2800,
+        5000
+      ],
+      [
+        2,
+        2800,
+        3600,
+        3000
+      ],
+      [
+        3,
+        3600,
+        4400,
+        1000
+      ],
+      [
+        4,
+        4400,
+        5200,
+        500
+      ],
+      [
+        5,
+        5200,
+        7000,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      2.0,
+      0.3,
+      8.0
+    ],
+    "OffHookTime": [
+      3.0,
+      2.0,
+      10.0
+    ],
+    "OffTime": [
+      1.0,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      20,
+      2,
+      50
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      10,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      10,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      10,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      0.3,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      1.5,
+      0.05,
+      3.0
+    ]
+  },
+  "10002": {
+    "FishingAttrId": 10002,
+    "Name": "Fish Attribute Template - Normal",
+    "SizeDefaultWeight": [
+      [
+        1,
+        1300,
+        2320,
+        5000
+      ],
+      [
+        2,
+        2320,
+        3340,
+        3000
+      ],
+      [
+        3,
+        3340,
+        4360,
+        1000
+      ],
+      [
+        4,
+        4360,
+        5380,
+        500
+      ],
+      [
+        5,
+        5380,
+        6400,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.5,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      2.0,
+      1.0,
+      10.0
+    ],
+    "OffTime": [
+      0.7,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      15,
+      2,
+      30
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      12,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      0.3,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      3.0,
+      0.05,
+      3.0
+    ]
+  },
+  "10003": {
+    "FishingAttrId": 10003,
+    "Name": "Fish Attribute Template - Hard",
+    "SizeDefaultWeight": [
+      [
+        1,
+        3400,
+        5840,
+        5000
+      ],
+      [
+        2,
+        5840,
+        8280,
+        3000
+      ],
+      [
+        3,
+        8280,
+        10720,
+        1000
+      ],
+      [
+        4,
+        10720,
+        13160,
+        500
+      ],
+      [
+        5,
+        13160,
+        15600,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.0,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      1.0,
+      0.2,
+      10.0
+    ],
+    "OffTime": [
+      0.4,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      10,
+      2,
+      20
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      15,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      15,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      8,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      0.8,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      0.3,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      5.0,
+      0.05,
+      10.0
+    ]
+  },
+  "10004": {
+    "FishingAttrId": 10004,
+    "Name": "Fish Attribute Template - Normal - More Turns",
+    "SizeDefaultWeight": [
+      [
+        1,
+        1300,
+        2320,
+        5000
+      ],
+      [
+        2,
+        2320,
+        3340,
+        3000
+      ],
+      [
+        3,
+        3340,
+        4360,
+        1000
+      ],
+      [
+        4,
+        4360,
+        5380,
+        500
+      ],
+      [
+        5,
+        5380,
+        6400,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.5,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      1.0,
+      0.2,
+      10.0
+    ],
+    "OffTime": [
+      0.5,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      15,
+      2,
+      30
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      12,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      0.8,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      0.2,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      4.0,
+      0.05,
+      6.0
+    ]
+  },
+  "10005": {
+    "FishingAttrId": 10005,
+    "Name": "Fish Attribute Template - Hard - Fewer Turns but High Penalty for Mistakes",
+    "SizeDefaultWeight": [
+      [
+        1,
+        3400,
+        5840,
+        5000
+      ],
+      [
+        2,
+        5840,
+        8280,
+        3000
+      ],
+      [
+        3,
+        8280,
+        10720,
+        1000
+      ],
+      [
+        4,
+        10720,
+        13160,
+        500
+      ],
+      [
+        5,
+        13160,
+        15600,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.0,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      0.2,
+      0.2,
+      10.0
+    ],
+    "OffTime": [
+      0.1,
+      0.0,
+      3.0
+    ],
+    "DrawSpeed": [
+      10,
+      2,
+      20
+    ],
+    "OffSpeed": [
+      15,
+      2,
+      30
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      20,
+      0,
+      40
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      30,
+      0,
+      50
+    ],
+    "SameDirectionSpeedWithDraw": [
+      8,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.5
+    ],
+    "FishStayInterval": [
+      0.4,
+      0.0,
+      1.0
+    ],
+    "FishSpeed": [
+      3.0,
+      0.05,
+      6.0
+    ]
+  },
+  "20000": {
+    "FishingAttrId": 20000,
+    "Name": "Trash Template - Easy",
+    "SizeDefaultWeight": [
+      [
+        1,
+        300,
+        800,
+        5000
+      ],
+      [
+        2,
+        800,
+        1300,
+        3000
+      ],
+      [
+        3,
+        1300,
+        1800,
+        1000
+      ],
+      [
+        4,
+        1800,
+        2300,
+        500
+      ],
+      [
+        5,
+        2300,
+        2800,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      2.0,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      3.0,
+      2.0,
+      10.0
+    ],
+    "OffTime": [
+      5.0,
+      2.0,
+      10.0
+    ],
+    "DrawSpeed": [
+      20,
+      2,
+      50
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      10,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      10,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      10,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      3.0,
+      0.2,
+      5.0
+    ],
+    "FishSpeed": [
+      0.1,
+      0.05,
+      3.0
+    ]
+  },
+  "20001": {
+    "FishingAttrId": 20001,
+    "Name": "Trash Template - Normal",
+    "SizeDefaultWeight": [
+      [
+        1,
+        300,
+        800,
+        5000
+      ],
+      [
+        2,
+        800,
+        1300,
+        3000
+      ],
+      [
+        3,
+        1300,
+        1800,
+        1000
+      ],
+      [
+        4,
+        1800,
+        2300,
+        500
+      ],
+      [
+        5,
+        2300,
+        2800,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.5,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      2.0,
+      1.0,
+      10.0
+    ],
+    "OffTime": [
+      3.0,
+      2.0,
+      10.0
+    ],
+    "DrawSpeed": [
+      15,
+      2,
+      30
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      12,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      12,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      1.0,
+      0.2,
+      2.0
+    ],
+    "FishSpeed": [
+      0.5,
+      0.05,
+      3.0
+    ]
+  },
+  "20002": {
+    "FishingAttrId": 20002,
+    "Name": "Trash Template - Hard",
+    "SizeDefaultWeight": [
+      [
+        1,
+        300,
+        800,
+        5000
+      ],
+      [
+        2,
+        800,
+        1300,
+        3000
+      ],
+      [
+        3,
+        1300,
+        1800,
+        1000
+      ],
+      [
+        4,
+        1800,
+        2300,
+        500
+      ],
+      [
+        5,
+        2300,
+        2800,
+        0
+      ]
+    ],
+    "Qte": 1,
+    "BiteTime": [
+      1.0,
+      0.3,
+      5.0
+    ],
+    "OffHookTime": [
+      1.0,
+      0.2,
+      10.0
+    ],
+    "OffTime": [
+      1.0,
+      0.5,
+      5.0
+    ],
+    "DrawSpeed": [
+      10,
+      2,
+      20
+    ],
+    "OffSpeed": [
+      10,
+      2,
+      10
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      15,
+      0,
+      20
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      15,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithDraw": [
+      8,
+      0,
+      20
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -20,
+      -40,
+      -5
+    ],
+    "FishPathInterval": [
+      1.0,
+      0.2,
+      1.0
+    ],
+    "FishStayInterval": [
+      1.0,
+      0.2,
+      2.0
+    ],
+    "FishSpeed": [
+      0.8,
+      0.05,
+      3.0
+    ]
+  }
+}

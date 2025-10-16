@@ -1,0 +1,26 @@
+{
+  "101": {
+    "Id": 101,
+    "BookName": "Books & Manuals",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_252",
+    "Episode": 1
+  },
+  "102": {
+    "Id": 102,
+    "BookName": "Letters & Records",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_294",
+    "Episode": 2
+  },
+  "103": {
+    "Id": 103,
+    "BookName": "Notices & Posters",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_292",
+    "Episode": 3
+  },
+  "104": {
+    "Id": 104,
+    "BookName": "Other Readables",
+    "ReadingBookDes": "ui/atlas/item/c_tab_icon/com_icon_tab_288",
+    "Episode": 4
+  }
+}

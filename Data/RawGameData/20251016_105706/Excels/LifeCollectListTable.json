@@ -1,0 +1,2782 @@
+{
+  "20000009": {
+    "Id": 20000009,
+    "LifeProId": 101,
+    "Name": "Helmflower",
+    "Sort": 1,
+    "Quality": 0,
+    "Des": "A yellow flower growing on floating isles. Its shape resembles a helm. Often called Rudder Anemone by sailors.",
+    "Icon": "item_icons_sunflower",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000560,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000009
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000004": {
+    "Id": 20000004,
+    "LifeProId": 101,
+    "Name": "Snowflake Parsley",
+    "Sort": 2,
+    "Quality": 0,
+    "Des": "A blue medicinal flower found in Minsterhorn Village. First Appeared after the Andra Landing Battle.",
+    "Icon": "item_icons_snowflower",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1003,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000570,
+    "Award": 21000220,
+    "SpecialAward": [
+      [
+        21000221,
+        101004
+      ],
+      [
+        21000222,
+        101005
+      ],
+      [
+        21000223,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000004
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000007": {
+    "Id": 20000007,
+    "LifeProId": 101,
+    "Name": "Grey-top Flax",
+    "Sort": 3,
+    "Quality": 0,
+    "Des": "Linen nurtured by the Pale Azure Lake, breathing pristine vapors.",
+    "Icon": "item_icons_flax_02",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000580,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000007
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000002": {
+    "Id": 20000002,
+    "LifeProId": 101,
+    "Name": "Pink Musk",
+    "Sort": 4,
+    "Quality": 1,
+    "Des": "A pink decorative flower native to the Windblown Plains. Admired by the Asterians and recognized for its healing properties.",
+    "Icon": "item_icons_pinkflower",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1009,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000590,
+    "Award": 21000210,
+    "SpecialAward": [
+      [
+        21000211,
+        101004
+      ],
+      [
+        21000212,
+        101005
+      ],
+      [
+        21000213,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000002
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000019": {
+    "Id": 20000019,
+    "LifeProId": 101,
+    "Name": "Asteria Cotton",
+    "Sort": 5,
+    "Quality": 1,
+    "Des": "Found in the southern meadows of Minsterhorn. Produces high-quality cotton loved by the villagers.",
+    "Icon": "item_icons_cottongrass_01",
+    "NeedLevel": [
+      0,
+      10
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000600,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000019
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000005": {
+    "Id": 20000005,
+    "LifeProId": 101,
+    "Name": "Whispering Orchid",
+    "Sort": 6,
+    "Quality": 2,
+    "Des": "A rare purple flower that grows in the ocean depths. Known for its high medicinal value.",
+    "Icon": "item_icons_purpleflower_02",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1012,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000610,
+    "Award": 21000230,
+    "SpecialAward": [
+      [
+        21000231,
+        101004
+      ],
+      [
+        21000232,
+        101005
+      ],
+      [
+        21000233,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      75,
+      7,
+      20000005
+    ],
+    "Scene": 75,
+    "ProduceArea": "Skimmer's Lair",
+    "Hide": false
+  },
+  "20000020": {
+    "Id": 20000020,
+    "LifeProId": 101,
+    "Name": "Rainbow Herb",
+    "Sort": 7,
+    "Quality": 1,
+    "Des": "item_icons_sunflower",
+    "Icon": "item_icons_lifematerial_evergreengrass01",
+    "NeedLevel": [
+      0,
+      5
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        5
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000620,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000020
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": true
+  },
+  "20000018": {
+    "Id": 20000018,
+    "LifeProId": 101,
+    "Name": "Wheat Field",
+    "Sort": 17,
+    "Quality": 0,
+    "Des": "The wind composes a golden melody, whispered gently through the fields. Ripe ears of grain sway and bow in rhythmic grace across the vast wheat fields of Minsterhorn village.",
+    "Icon": "item_icons_lifematerial_wheat01",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000630,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000018
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000021": {
+    "Id": 20000021,
+    "LifeProId": 101,
+    "Name": "Thin Twig",
+    "Sort": 14,
+    "Quality": 0,
+    "Des": "Above the Cliff Ruins lies a forest, its scattered clearings nestled beneath the sheltering canopy of trees.",
+    "Icon": "item_icons_lifematerial_branch01",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000640,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000021
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000022": {
+    "Id": 20000022,
+    "LifeProId": 101,
+    "Name": "Wood Branch",
+    "Sort": 15,
+    "Quality": 1,
+    "Des": "Isles of Pale Azure Lake, adrift beneath a cathedral of trees.",
+    "Icon": "item_icons_lifematerial_branch02",
+    "NeedLevel": [
+      0,
+      10
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000650,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000022
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000023": {
+    "Id": 20000023,
+    "LifeProId": 101,
+    "Name": "Branch Cluster",
+    "Sort": 16,
+    "Quality": 2,
+    "Des": "Littoral shallows adrift in dappled sylvan shadows.",
+    "Icon": "item_icons_lifematerial_stalk03",
+    "NeedLevel": [
+      0,
+      17
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21000660,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      71,
+      7,
+      20000023
+    ],
+    "Scene": 71,
+    "ProduceArea": "Duskdye Woods",
+    "Hide": false
+  },
+  "20000010": {
+    "Id": 20000010,
+    "LifeProId": 101,
+    "Name": "Sweet Berry",
+    "Sort": 8,
+    "Quality": 0,
+    "Des": "A sweet edible berry native to the Statue of the Hero. Considered a local specialty.",
+    "Icon": "item_icons_berry",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1002,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000670,
+    "Award": 21000260,
+    "SpecialAward": [
+      [
+        21000261,
+        101004
+      ],
+      [
+        21000262,
+        101005
+      ],
+      [
+        21000263,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000010
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000016": {
+    "Id": 20000016,
+    "LifeProId": 101,
+    "Name": "Umu Fruit",
+    "Sort": 9,
+    "Quality": 1,
+    "Des": "Grown upon floating islands, only the tempest-swept lands can cultivate its distinctive flavor.",
+    "Icon": "item_icons_um_fruit_01",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1008,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000680,
+    "Award": 21000280,
+    "SpecialAward": [
+      [
+        21000281,
+        101004
+      ],
+      [
+        21000282,
+        101005
+      ],
+      [
+        21000283,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000016
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000017": {
+    "Id": 20000017,
+    "LifeProId": 101,
+    "Name": "Azure Fruit",
+    "Sort": 10,
+    "Quality": 2,
+    "Des": "Emerging from the ocean floor, this rare blue fruit is the seabed's most treasured offering.",
+    "Icon": "item_icons_deepblue_fruit_01",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1011,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000690,
+    "Award": 21000290,
+    "SpecialAward": [
+      [
+        21000291,
+        101004
+      ],
+      [
+        21000292,
+        101005
+      ],
+      [
+        21000293,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      75,
+      7,
+      20000017
+    ],
+    "Scene": 75,
+    "ProduceArea": "Skimmer's Lair",
+    "Hide": false
+  },
+  "20000006": {
+    "Id": 20000006,
+    "LifeProId": 101,
+    "Name": "Meadow Mushroom",
+    "Sort": 11,
+    "Quality": 0,
+    "Des": "Found near the massive mechanical ruins at the site of the Andra Landing Battlefield. Looks like tiny umbrellas that protect insects from the weather.",
+    "Icon": "item_icons_mushroom",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1001,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000700,
+    "Award": 21000240,
+    "SpecialAward": [
+      [
+        21000241,
+        101004
+      ],
+      [
+        21000242,
+        101005
+      ],
+      [
+        21000243,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000006
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000015": {
+    "Id": 20000015,
+    "LifeProId": 101,
+    "Name": "Glowshroom",
+    "Sort": 12,
+    "Quality": 1,
+    "Des": "Growing in damp, shadowy environments, it emits an eerie glow at night.",
+    "Icon": "item_icons_fluorescent_mushroom_01",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1007,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000710,
+    "Award": 21000270,
+    "SpecialAward": [
+      [
+        21000271,
+        101004
+      ],
+      [
+        21000272,
+        101005
+      ],
+      [
+        21000273,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      74,
+      7,
+      20000015
+    ],
+    "Scene": 74,
+    "ProduceArea": "Underground District",
+    "Hide": false
+  },
+  "20000008": {
+    "Id": 20000008,
+    "LifeProId": 101,
+    "Name": "Granny Pine",
+    "Sort": 13,
+    "Quality": 2,
+    "Des": "A rare underwater fungus regarded as a treasure beneath the sea.",
+    "Icon": "item_icons_matsutake",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        1010,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000720,
+    "Award": 21000250,
+    "SpecialAward": [
+      [
+        21000251,
+        101004
+      ],
+      [
+        21000252,
+        101005
+      ],
+      [
+        21000253,
+        101006
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      75,
+      7,
+      20000008
+    ],
+    "Scene": 75,
+    "ProduceArea": "Skimmer's Lair",
+    "Hide": false
+  },
+  "20000012": {
+    "Id": 20000012,
+    "LifeProId": 101,
+    "Name": "Firefly",
+    "Sort": 18,
+    "Quality": 0,
+    "Des": "Frequently seen along the waterside of the Statue of the Hero, this creature emits a gentle light that pierces the surrounding darkness.",
+    "Icon": "item_icons_yingguangchi",
+    "NeedLevel": [
+      0,
+      2
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        2
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 10003140,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000012
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000013": {
+    "Id": 20000013,
+    "LifeProId": 101,
+    "Name": "Tris Sea Fish",
+    "Sort": 19,
+    "Quality": 0,
+    "Des": "A swift swimmer of the deep indigenous to southern waters, this agile fish challenges even the most skilled anglers.",
+    "Icon": "item_icons_fish01",
+    "NeedLevel": [
+      0,
+      2
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        2
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 10003130,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000013
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000014": {
+    "Id": 20000014,
+    "LifeProId": 101,
+    "Name": "Pale Blue Fish",
+    "Sort": 20,
+    "Quality": 0,
+    "Des": "A swift swimmer of the deep indigenous to Pale Azure Lake, this agile fish challenges even the most skilled anglers.",
+    "Icon": "item_icons_fish03",
+    "NeedLevel": [
+      0,
+      2
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        2
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 10003130,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000014
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000003": {
+    "Id": 20000003,
+    "LifeProId": 101,
+    "Name": "Scallop",
+    "Sort": 21,
+    "Quality": 0,
+    "Des": "This scallop thrives along the Seaside shore. Beneath the its sharp shell lies tender, succulent meat.",
+    "Icon": "item_icons_scallop",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        101,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 10003020,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31001,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000003
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000101": {
+    "Id": 20000101,
+    "LifeProId": 102,
+    "Name": "Baru Ore",
+    "Sort": 2,
+    "Quality": 1,
+    "Des": "Low-grade Baru ore is commonly found within the Towering Ruin. While focused on gathering, you may harvest Baru Ore, which is used to craft Mystery Metals.",
+    "Icon": "item_icons_iron_ore_01",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10201,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000750,
+    "Award": 21000310,
+    "SpecialAward": [
+      [
+        21000311,
+        102012
+      ],
+      [
+        21000312,
+        102013
+      ],
+      [
+        21000313,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000101
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000102": {
+    "Id": 20000102,
+    "LifeProId": 102,
+    "Name": "Baru Rich Ore",
+    "Sort": 3,
+    "Quality": 2,
+    "Des": "Intermediate-grade Baru ore is commonly found in the core module sector. While focused on gathering, you may harvest Baru Rich Ore, which is used to craft Mystery Metals.",
+    "Icon": "item_icons_iron_ore_02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10204,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000760,
+    "Award": 21000320,
+    "SpecialAward": [
+      [
+        21000321,
+        102012
+      ],
+      [
+        21000322,
+        102013
+      ],
+      [
+        21000323,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      74,
+      7,
+      20000102
+    ],
+    "Scene": 74,
+    "ProduceArea": "Underground District",
+    "Hide": false
+  },
+  "20000103": {
+    "Id": 20000103,
+    "LifeProId": 102,
+    "Name": "Baru Pure Ore",
+    "Sort": 4,
+    "Quality": 3,
+    "Des": "Rich Baru ore is commonly found along the Thunder Cliff Trail. While focused on gathering, you may harvest Baru pure ore, which is used to craft Mystery Metals.",
+    "Icon": "item_icons_iron_ore_03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10208,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000770,
+    "Award": 21000330,
+    "SpecialAward": [
+      [
+        21000331,
+        102012
+      ],
+      [
+        21000332,
+        102013
+      ],
+      [
+        21000333,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      72,
+      7,
+      20000103
+    ],
+    "Scene": 72,
+    "ProduceArea": "Everfall Forest",
+    "Hide": false
+  },
+  "20000104": {
+    "Id": 20000104,
+    "LifeProId": 102,
+    "Name": "Azte Ore",
+    "Sort": 5,
+    "Quality": 1,
+    "Des": "Low-grade Azte ore is commonly found near the Old Kanamia Tribe. While focused on gathering, you may harvest Azte Ore, which is used to craft Radiant Stone.",
+    "Icon": "item_icons_copper_ore_01",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10202,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000780,
+    "Award": 21000340,
+    "SpecialAward": [
+      [
+        21000341,
+        102012
+      ],
+      [
+        21000342,
+        102013
+      ],
+      [
+        21000343,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000104
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000105": {
+    "Id": 20000105,
+    "LifeProId": 102,
+    "Name": "Azte Rich Ore",
+    "Sort": 6,
+    "Quality": 2,
+    "Des": "Intermediate-grade Azte ore is commonly found on the floating isle at the center of the canyon. While focused on gathering, you may harvest Azte Rich Ore, which is used to craft Radiant Stone.",
+    "Icon": "item_icons_copper_ore_02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10205,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000790,
+    "Award": 21000350,
+    "SpecialAward": [
+      [
+        21000351,
+        102012
+      ],
+      [
+        21000352,
+        102013
+      ],
+      [
+        21000353,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000105
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000106": {
+    "Id": 20000106,
+    "LifeProId": 102,
+    "Name": "Azte Pure Ore",
+    "Sort": 7,
+    "Quality": 3,
+    "Des": "Rich Azte ore is commonly found on the north side of Rotgate Courtyard. While focused on gathering, you may harvest Azte Pure Ore, which is used to craft Radiant Stone.",
+    "Icon": "item_icons_copper_ore_03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10209,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000800,
+    "Award": 21000360,
+    "SpecialAward": [
+      [
+        21000361,
+        102012
+      ],
+      [
+        21000362,
+        102013
+      ],
+      [
+        21000363,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      72,
+      7,
+      20000106
+    ],
+    "Scene": 72,
+    "ProduceArea": "Everfall Forest",
+    "Hide": false
+  },
+  "20000107": {
+    "Id": 20000107,
+    "LifeProId": 102,
+    "Name": "Luna Ore",
+    "Sort": 8,
+    "Quality": 1,
+    "Des": "Low-grade Luna ore is commonly found near the Scout Lookout Post. While focused on gathering, you may harvest Luna Ore, which is used to craft Fine Forgestone.",
+    "Icon": "item_icons_silver_ore_01",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10203,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000810,
+    "Award": 21000370,
+    "SpecialAward": [
+      [
+        21000371,
+        102012
+      ],
+      [
+        21000372,
+        102013
+      ],
+      [
+        21000373,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000107
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000108": {
+    "Id": 20000108,
+    "LifeProId": 102,
+    "Name": "Luna Rich Ore",
+    "Sort": 9,
+    "Quality": 2,
+    "Des": "Low-grade Luna ore is also commonly found around Windwhisper Dome. While focused on gathering, you may harvest Luna Rich Ore, which is used to craft Fine Forgestone.",
+    "Icon": "item_icons_silver_ore_02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10206,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000820,
+    "Award": 21000380,
+    "SpecialAward": [
+      [
+        21000381,
+        102012
+      ],
+      [
+        21000382,
+        102013
+      ],
+      [
+        21000383,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000108
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000109": {
+    "Id": 20000109,
+    "LifeProId": 102,
+    "Name": "Luna Pure Ore",
+    "Sort": 10,
+    "Quality": 3,
+    "Des": "Rich Luna ore is commonly found on the northern edge of the forest. While focused on gathering, you may harvest Luna Pure Ore, which is used to craft Fine Forgestone.",
+    "Icon": "item_icons_silver_ore_03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10210,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000830,
+    "Award": 21000390,
+    "SpecialAward": [
+      [
+        21000391,
+        102012
+      ],
+      [
+        21000392,
+        102013
+      ],
+      [
+        21000393,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      72,
+      7,
+      20000109
+    ],
+    "Scene": 72,
+    "ProduceArea": "Everfall Forest",
+    "Hide": false
+  },
+  "20000111": {
+    "Id": 20000111,
+    "LifeProId": 102,
+    "Name": "Stokes Rich Ore",
+    "Sort": 12,
+    "Quality": 2,
+    "Des": "Intermediate-grade Stokes ore is commonly found along the Seachime Cliff Trail. While focused on gathering, you may harvest Stokes Rich Ore, which is used to craft Buri Mech Shard.",
+    "Icon": "item_icons_gold_ore_02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10207,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000840,
+    "Award": 21000410,
+    "SpecialAward": [
+      [
+        21000411,
+        102012
+      ],
+      [
+        21000412,
+        102013
+      ],
+      [
+        21000413,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000111
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000112": {
+    "Id": 20000112,
+    "LifeProId": 102,
+    "Name": "Stokes Pure Ore",
+    "Sort": 13,
+    "Quality": 3,
+    "Des": "Rich Stokes ore is commonly found in the forest caves to the south. While focused on gathering, you may harvest Stokes pure ore, which is used to craft Buri Mech Shard.",
+    "Icon": "item_icons_gold_ore_03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10211,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        102,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21000850,
+    "Award": 21000420,
+    "SpecialAward": [
+      [
+        21000421,
+        102012
+      ],
+      [
+        21000422,
+        102013
+      ],
+      [
+        21000423,
+        102014
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31011,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      72,
+      7,
+      20000112
+    ],
+    "Scene": 72,
+    "ProduceArea": "Everfall Forest",
+    "Hide": false
+  },
+  "20000201": {
+    "Id": 20000201,
+    "LifeProId": 103,
+    "Name": "Raw Ore of Sapphire",
+    "Sort": 1,
+    "Quality": 1,
+    "Des": "Commonly found along the northern shore of Pale Azure Lake, raw ore of Starlight Sapphire Lv.1 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Haste.",
+    "Icon": "item_icons_lifematerial_original_stone03",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10302,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002010,
+    "Award": 21000430,
+    "SpecialAward": [
+      [
+        21000431,
+        103013
+      ],
+      [
+        21000432,
+        103014
+      ],
+      [
+        21000433,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000201
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000202": {
+    "Id": 20000202,
+    "LifeProId": 103,
+    "Name": "Rich Ore of Sapphire",
+    "Sort": 2,
+    "Quality": 2,
+    "Des": "Commonly found along the plank road in Mistveil Gorge, raw ore of Starlight Sapphire Lv.2 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Haste.",
+    "Icon": "item_icons_lifecollection_bluestone02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10306,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002020,
+    "Award": 21000440,
+    "SpecialAward": [
+      [
+        21000441,
+        103013
+      ],
+      [
+        21000442,
+        103014
+      ],
+      [
+        21000443,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000202
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000203": {
+    "Id": 20000203,
+    "LifeProId": 103,
+    "Name": "Sapphire Cluster",
+    "Sort": 3,
+    "Quality": 3,
+    "Des": "Commonly found along the western edge of the Glade Crevice, raw ore of Starlight Sapphire Lv.3 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Haste.",
+    "Icon": "item_icons_lifecollection_bluestone03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10310,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002030,
+    "Award": 21000450,
+    "SpecialAward": [
+      [
+        21000451,
+        103013
+      ],
+      [
+        21000452,
+        103014
+      ],
+      [
+        21000453,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      71,
+      7,
+      20000203
+    ],
+    "Scene": 71,
+    "ProduceArea": "Duskdye Woods",
+    "Hide": false
+  },
+  "20000204": {
+    "Id": 20000204,
+    "LifeProId": 103,
+    "Name": "Raw Ore of Ruby",
+    "Sort": 4,
+    "Quality": 1,
+    "Des": "Commonly found inside the bomb crater at Andra Landing Battlefield, raw ore of Starlight Ruby Lv.1 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enchancing Crit.",
+    "Icon": "item_icons_lifematerial_original_stone04",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10301,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002040,
+    "Award": 21000460,
+    "SpecialAward": [
+      [
+        21000461,
+        103013
+      ],
+      [
+        21000462,
+        103014
+      ],
+      [
+        21000463,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000204
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000205": {
+    "Id": 20000205,
+    "LifeProId": 103,
+    "Name": "Rich Ore of Ruby",
+    "Sort": 5,
+    "Quality": 2,
+    "Des": "Commonly found in supply module zones, raw ore of Starlight Ruby Lv.2 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Crit.",
+    "Icon": "item_icons_lifecollection_redstone02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10305,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002050,
+    "Award": 21000470,
+    "SpecialAward": [
+      [
+        21000471,
+        103013
+      ],
+      [
+        21000472,
+        103014
+      ],
+      [
+        21000473,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      74,
+      7,
+      20000205
+    ],
+    "Scene": 74,
+    "ProduceArea": "Underground District",
+    "Hide": false
+  },
+  "20000206": {
+    "Id": 20000206,
+    "LifeProId": 103,
+    "Name": "Ruby Cluster",
+    "Sort": 6,
+    "Quality": 3,
+    "Des": "Commonly found on the western Crystal Slope, raw ore of Starlight Ruby Lv.3 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Crit.",
+    "Icon": "item_icons_lifecollection_redstone03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10309,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002060,
+    "Award": 21000480,
+    "SpecialAward": [
+      [
+        21000481,
+        103013
+      ],
+      [
+        21000482,
+        103014
+      ],
+      [
+        21000483,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      71,
+      7,
+      20000206
+    ],
+    "Scene": 71,
+    "ProduceArea": "Duskdye Woods",
+    "Hide": false
+  },
+  "20000207": {
+    "Id": 20000207,
+    "LifeProId": 103,
+    "Name": "Raw Ore of Topaz",
+    "Sort": 7,
+    "Quality": 1,
+    "Des": "Commonly found around the giant vines near the Kanamia Tribe, raw ore of Starlight Diamond Lv.1 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Luck.",
+    "Icon": "item_icons_lifematerial_original_stone05",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10304,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002070,
+    "Award": 21000490,
+    "SpecialAward": [
+      [
+        21000491,
+        103013
+      ],
+      [
+        21000492,
+        103014
+      ],
+      [
+        21000493,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000207
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000208": {
+    "Id": 20000208,
+    "LifeProId": 103,
+    "Name": "Rich Ore of Topaz",
+    "Sort": 8,
+    "Quality": 2,
+    "Des": "Commonly found in stability control module zones, raw ore of Starlight Diamond Lv.2 can be gathered when focused. Once refined, these crystals serve as gem inlays forgear, enhancing Luck.",
+    "Icon": "item_icons_lifecollection_yellowstone02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10308,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002080,
+    "Award": 21000500,
+    "SpecialAward": [
+      [
+        21000501,
+        103013
+      ],
+      [
+        21000502,
+        103014
+      ],
+      [
+        21000503,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      74,
+      7,
+      20000208
+    ],
+    "Scene": 74,
+    "ProduceArea": "Underground District",
+    "Hide": false
+  },
+  "20000209": {
+    "Id": 20000209,
+    "LifeProId": 103,
+    "Name": "Topaz Cluster",
+    "Sort": 9,
+    "Quality": 3,
+    "Des": "Commonly found on the eastern Crystal Slope, raw ore of Starlight Diamond Lv.3 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Luck .",
+    "Icon": "item_icons_lifecollection_yellowstone03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10312,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002090,
+    "Award": 21000510,
+    "SpecialAward": [
+      [
+        21000511,
+        103013
+      ],
+      [
+        21000512,
+        103014
+      ],
+      [
+        21000513,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      71,
+      7,
+      20000209
+    ],
+    "Scene": 71,
+    "ProduceArea": "Duskdye Woods",
+    "Hide": false
+  },
+  "20000210": {
+    "Id": 20000210,
+    "LifeProId": 103,
+    "Name": "Raw Ore of Emerald",
+    "Sort": 10,
+    "Quality": 1,
+    "Des": "Commonly found near the Statue of the Hero, raw ore of Starlight Emerald Lv.1 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Expertise.",
+    "Icon": "item_icons_lifematerial_original_stone06",
+    "NeedLevel": [
+      1,
+      1
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10303,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002100,
+    "Award": 21000520,
+    "SpecialAward": [
+      [
+        21000521,
+        103013
+      ],
+      [
+        21000522,
+        103014
+      ],
+      [
+        21000523,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000210
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000211": {
+    "Id": 20000211,
+    "LifeProId": 103,
+    "Name": "Rich Ore of Emerald",
+    "Sort": 11,
+    "Quality": 2,
+    "Des": "Commonly found on floating isles, raw ore of Starlight Emerald Lv.2 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Expertise.",
+    "Icon": "item_icons_lifecollection_greenstone02",
+    "NeedLevel": [
+      1,
+      10
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10307,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002110,
+    "Award": 21000530,
+    "SpecialAward": [
+      [
+        21000531,
+        103013
+      ],
+      [
+        21000532,
+        103014
+      ],
+      [
+        21000533,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000211
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000212": {
+    "Id": 20000212,
+    "LifeProId": 103,
+    "Name": "Emerald Cluster",
+    "Sort": 12,
+    "Quality": 3,
+    "Des": "Commonly found in western mine shafts, raw ore of Starlight Emerald Lv.3 can be gathered when focused. Once refined, these crystals serve as gem inlays for gear, enhancing Expertise.",
+    "Icon": "item_icons_lifecollection_greenstone03",
+    "NeedLevel": [
+      1,
+      17
+    ],
+    "UnlockCondition": [
+      [
+        59,
+        10311,
+        1
+      ]
+    ],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      20
+    ],
+    "FreeAward": 21002120,
+    "Award": 21000540,
+    "SpecialAward": [
+      [
+        21000541,
+        103013
+      ],
+      [
+        21000542,
+        103014
+      ],
+      [
+        21000543,
+        103015
+      ]
+    ],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      71,
+      7,
+      20000212
+    ],
+    "Scene": 71,
+    "ProduceArea": "Duskdye Woods",
+    "Hide": false
+  },
+  "20000100": {
+    "Id": 20000100,
+    "LifeProId": 103,
+    "Name": "Andra Enigmite",
+    "Sort": 16,
+    "Quality": 1,
+    "Des": "Mysterious black stones, often scattered across polluted corridors, hint at hidden functionality.",
+    "Icon": "item_icons_blackstone",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002130,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000100
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000216": {
+    "Id": 20000216,
+    "LifeProId": 103,
+    "Name": "Windvale Enigmite",
+    "Sort": 17,
+    "Quality": 2,
+    "Des": "item_icons_sunflower",
+    "Icon": "item_icons_lifematerial_original_stone13",
+    "NeedLevel": [
+      0,
+      10
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002140,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000116
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": true
+  },
+  "20000217": {
+    "Id": 20000217,
+    "LifeProId": 103,
+    "Name": "Cobalt Enigmite",
+    "Sort": 18,
+    "Quality": 3,
+    "Des": "item_icons_sunflower",
+    "Icon": "item_icons_lifematerial_original_stone20",
+    "NeedLevel": [
+      0,
+      17
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002150,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      75,
+      7,
+      20000117
+    ],
+    "Scene": 75,
+    "ProduceArea": "Skimmer's Lair",
+    "Hide": true
+  },
+  "20000213": {
+    "Id": 20000213,
+    "LifeProId": 103,
+    "Name": "Limestone",
+    "Sort": 13,
+    "Quality": 0,
+    "Des": "Commonly found near the Forbidden Zone of Kanamia, these weathered white stones rest in quiet stillness, with time etching mottled textures into the sedimentary rock layers.",
+    "Icon": "item_icons_lifematerial_original_stone21",
+    "NeedLevel": [],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        1
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002160,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000213
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": false
+  },
+  "20000214": {
+    "Id": 20000214,
+    "LifeProId": 103,
+    "Name": "Slate",
+    "Sort": 14,
+    "Quality": 1,
+    "Des": "Commonly seen around Canyon Camp, these weathered slab-like stones rest in quiet stillness, with time etching mottled textures into the sedimentary rock layers.",
+    "Icon": "item_icons_lifematerial_original_stone22",
+    "NeedLevel": [
+      0,
+      10
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        10
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002170,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      73,
+      7,
+      20000214
+    ],
+    "Scene": 73,
+    "ProduceArea": "Windhowl Canyon",
+    "Hide": false
+  },
+  "20000215": {
+    "Id": 20000215,
+    "LifeProId": 103,
+    "Name": "Granite",
+    "Sort": 15,
+    "Quality": 2,
+    "Des": "Born of molten lava near the southern cliff trail, these rocks now lie in solemn stillness-their sharp edges catching the sunlight, pulsing with the ancient heartbeat of the mountains.",
+    "Icon": "item_icons_lifematerial_original_stone23",
+    "NeedLevel": [
+      0,
+      17
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        17
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002180,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      72,
+      7,
+      20000215
+    ],
+    "Scene": 72,
+    "ProduceArea": "Everfall Forest",
+    "Hide": false
+  },
+  "20000218": {
+    "Id": 20000218,
+    "LifeProId": 103,
+    "Name": "Rainbow Stone",
+    "Sort": 19,
+    "Quality": 1,
+    "Des": "item_icons_sunflower",
+    "Icon": "item_icons_lifematerial_original_stone19",
+    "NeedLevel": [
+      0,
+      5
+    ],
+    "UnlockCondition": [],
+    "UnlockConditionZeroCost": [
+      [
+        58,
+        103,
+        5
+      ]
+    ],
+    "ConditionText": "item_icons_sunflower",
+    "Cost": [
+      20003,
+      0
+    ],
+    "FreeAward": 21002190,
+    "Award": 0,
+    "SpecialAward": [],
+    "ExtraAward": [],
+    "Exp": [
+      31021,
+      2
+    ],
+    "QuickJumpType": 1,
+    "QuickJump": [
+      7,
+      7,
+      20000218
+    ],
+    "Scene": 7,
+    "ProduceArea": "Asteria Plains",
+    "Hide": true
+  }
+}

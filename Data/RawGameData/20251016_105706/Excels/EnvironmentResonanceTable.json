@@ -1,0 +1,34 @@
+{
+  "50101": {
+    "Id": 50101,
+    "Name": "Hero's Herb",
+    "Desc": "A giant pale blue plant, containing immense Engram, grows in Ancient City of Vill.<br>Identified as a resonance object, resonating with it grants the Terra Resonance skills: Float.<br>Resonance is possible at Adventurer Lv.17",
+    "PivotId": 50002,
+    "Button": "Resonance",
+    "Skill": [],
+    "Position": 7353,
+    "SceneTag": 502,
+    "Time": 0,
+    "TriggerBuffIds": [
+      510701,
+      510801
+    ],
+    "SlotType": 2
+  },
+  "50102": {
+    "Id": 50102,
+    "Name": "Wind Core",
+    "Desc": "A massive energy core that generates powerful wind on its own, located atop a floating shard at the peak of the Towering Ruin. <br>It's recognized as a resonance object. Resonating with it grants a Terra Resonance skill: Phantom Dash. <br>Resonance available at Adventurer Level 17. <br><br><style=\"tipsYellow\">Reach the top of the Floating Island via the wind tunnel at the Andra Resting Post.</style>",
+    "PivotId": 50003,
+    "Button": "Resonance",
+    "Skill": [
+      1222,
+      1223
+    ],
+    "Position": 7352,
+    "SceneTag": 503,
+    "Time": 0,
+    "TriggerBuffIds": [],
+    "SlotType": 1
+  }
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package zproto;
+
+import "enum_e_error_code.proto";
+import "stru_item.proto";
+
+message ReceiveUnionActivityAwardReply {
+  repeated int32 received_point_award_ids = 1;
+  repeated zproto.Item items = 2;
+  zproto.EErrorCode err_code = 3;
+}
+

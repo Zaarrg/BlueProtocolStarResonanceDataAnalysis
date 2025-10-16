@@ -1,0 +1,62 @@
+{
+  "11034001": {
+    "Id": 11034001,
+    "Name": "Fishing Pole",
+    "ModelId": 2001,
+    "FishingTemplateId": 60001,
+    "Mount": "ap_r_weapon01_point",
+    "MountOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "MountRot": {
+      "x": 90.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FishingFailExp": 1,
+    "Durability": 100,
+    "FishingFailDurabilityCost": 2
+  },
+  "11034002": {
+    "Id": 11034002,
+    "Name": "Sturdy Fishing Pole",
+    "ModelId": 2002,
+    "FishingTemplateId": 60002,
+    "Mount": "ap_r_weapon01_point",
+    "MountOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "MountRot": {
+      "x": 90.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FishingFailExp": 1,
+    "Durability": 120,
+    "FishingFailDurabilityCost": 2
+  },
+  "11034003": {
+    "Id": 11034003,
+    "Name": "Flexible Fishing Pole",
+    "ModelId": 2003,
+    "FishingTemplateId": 60003,
+    "Mount": "ap_r_weapon01_point",
+    "MountOffset": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "MountRot": {
+      "x": 90.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "FishingFailExp": 1,
+    "Durability": 120,
+    "FishingFailDurabilityCost": 2
+  }
+}

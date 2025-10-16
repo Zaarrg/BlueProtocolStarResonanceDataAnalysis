@@ -1,0 +1,16 @@
+{
+  "1022005": {
+    "Id": 1022005,
+    "EffectType": 1,
+    "EffectParameter": 500,
+    "FitPart": [],
+    "UseMaxNum": 5
+  },
+  "1022006": {
+    "Id": 1022006,
+    "EffectType": 1,
+    "EffectParameter": 300,
+    "FitPart": [],
+    "UseMaxNum": 33
+  }
+}

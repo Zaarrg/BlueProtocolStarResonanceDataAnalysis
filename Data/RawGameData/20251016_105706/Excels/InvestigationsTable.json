@@ -1,0 +1,203 @@
+{
+  "1001": {
+    "Id": 1001,
+    "InvestigationTheme": "Find the contact person",
+    "UnlockCondition": [
+      [
+        2,
+        20043,
+        20043001
+      ]
+    ],
+    "InvestigationStep": [
+      10011,
+      10012
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Unders in Asterleeds have never ceased. Since the War of Secession, Byrnhald's spies have prowled the city by night. The first step to catching one: find their secret contact.",
+    "IockedTips": "Advance quest <style=\"emph-quest\">Purple is the color of melancholy</style> to unlock investigation",
+    "ThemePic": "ui/textures/investigation/investigation_survey_ok",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "1002": {
+    "Id": 1002,
+    "InvestigationTheme": "Sky-flying sea beasts",
+    "UnlockCondition": [
+      [
+        1,
+        99999
+      ]
+    ],
+    "InvestigationStep": [
+      10011,
+      10012
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "None",
+    "IockedTips": "Complete quest <style=\"emph-quest\">???</style> to unlock",
+    "ThemePic": "ui/textures/investigation/investigation_survey_ok",
+    "Guarantee": 5,
+    "IsHidePlayerModel": false
+  },
+  "1003": {
+    "Id": 1003,
+    "InvestigationTheme": "Tread upon the heavy land",
+    "UnlockCondition": [
+      [
+        2,
+        185210,
+        185210043
+      ]
+    ],
+    "InvestigationStep": [
+      10031
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "The artisans of Asterleeds are the main suspects in the Void Mist outbreak during the Knighting Ceremony. To identify the mastermind, we need to discover exactly how the Artisan Guild's safe was opened...",
+    "IockedTips": "Complete quest <style=\"emph-quest\">Tread upon the heavy land of no return</style> to unlock",
+    "ThemePic": "ui/textures/investigation/investigation_clue02",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "1004": {
+    "Id": 1004,
+    "InvestigationTheme": "Calamity's Herald and Dawn's Whisper",
+    "UnlockCondition": [
+      [
+        2,
+        10211,
+        10211051
+      ]
+    ],
+    "InvestigationStep": [
+      10041
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "The Dark Mist Legion's return has cast darkness over Asterleeds once more. Clues to defeating Denvel lie within the ruined documents...",
+    "IockedTips": "Complete quest <style=\"emph-quest\">The sweeping storm</style> to unlock",
+    "ThemePic": "ui/textures/investigation/investigation_clue01",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "1005": {
+    "Id": 1005,
+    "InvestigationTheme": "Lost Treasure",
+    "UnlockCondition": [
+      [
+        2,
+        30122,
+        30122012
+      ]
+    ],
+    "InvestigationStep": [
+      10051
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Miss Lucy lost her treasure. Talk to her butler, Carlis, to learn about the treasure...",
+    "IockedTips": "Complete quest <style=\"emph-quest\">Her and his treasure</style> to unlock",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "1006": {
+    "Id": 1006,
+    "InvestigationTheme": "Mystery on the Cruise Ship",
+    "UnlockCondition": [
+      [
+        2,
+        185220,
+        185220016
+      ]
+    ],
+    "InvestigationStep": [
+      10061
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Who exactly is Kakater? And who is the black-haired man? All the answers seem to lie in the clues you've gathered...",
+    "IockedTips": "Take a break aboard the Wavecrest Carnival!",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": true
+  },
+  "3001": {
+    "Id": 3001,
+    "InvestigationTheme": "The storm is coming",
+    "UnlockCondition": [
+      [
+        2,
+        30205,
+        30205005
+      ]
+    ],
+    "InvestigationStep": [
+      30011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Through Carter, we finally understood part of the truth. Roy's disappearance must not be that simple, and the most crucial key to breaking the situation must be hidden somewhere...",
+    "IockedTips": "Complete the quest <style=\"emph-quest\">Susan by the Sea (Part 3)</style> to unlock the investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "2020": {
+    "Id": 2020,
+    "InvestigationTheme": "Seabreeze Girl",
+    "UnlockCondition": [
+      [
+        2,
+        20020,
+        20020005
+      ]
+    ],
+    "InvestigationStep": [
+      20020
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Who exactly is the \"Seabreeze Girl\" mentioned by Saphir? Although we have made some discoveries, Saphir's description is still too vague. I need to organize my thoughts.",
+    "IockedTips": "Complete the quest <style=\"emph-quest\">Borrow the name from Sea breeze</style> to unlock the investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "3002": {
+    "Id": 3002,
+    "InvestigationTheme": "Testimony",
+    "UnlockCondition": [
+      [
+        2,
+        30301,
+        30301017
+      ]
+    ],
+    "InvestigationStep": [
+      30021
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "Collected eyewitness testimonies of personnel suddenly disappearing, things are not simple, there might be something overlooked.",
+    "IockedTips": "Complete the quest <style=\"emph-quest\">Seek the invisible treasure</style> to unlock the investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  },
+  "4001": {
+    "Id": 4001,
+    "InvestigationTheme": "Pursuing the Forbidden Zone",
+    "UnlockCondition": [
+      [
+        2,
+        185402,
+        185402002
+      ]
+    ],
+    "InvestigationStep": [
+      40011
+    ],
+    "CompletionConditions": [],
+    "ThemeIntroduction": "To find the mysterious Forbidden Zone of Kanamia, you put on their attire and began your secret investigation under the cover of night.",
+    "IockedTips": "Advance <style=\"emph-quest\">Infiltrate the Kanamia Tribe</style> to unlock Investigation",
+    "ThemePic": "ui/textures/investigation/investigation_common_bg",
+    "Guarantee": 3,
+    "IsHidePlayerModel": false
+  }
+}

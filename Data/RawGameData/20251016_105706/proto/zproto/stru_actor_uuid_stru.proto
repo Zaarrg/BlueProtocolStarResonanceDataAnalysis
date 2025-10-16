@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package zproto;
+
+message ActorUuidStru {
+  int32 actor_type = 1;
+  bool is_summon = 2;
+  int32 instance_id = 3;
+}
+

@@ -1,0 +1,86 @@
+{
+  "1": {
+    "Id": 1,
+    "EnchantId": 1001,
+    "EnchantType": 1,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        500
+      ]
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "EnchantId": 1002,
+    "EnchantType": 1,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        2000
+      ]
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "EnchantId": 1002,
+    "EnchantType": 2,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        10000
+      ]
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "EnchantId": 1002,
+    "EnchantType": 3,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        50000
+      ]
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "EnchantId": 1003,
+    "EnchantType": 1,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        5000
+      ]
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "EnchantId": 1003,
+    "EnchantType": 2,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        30000
+      ]
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "EnchantId": 1003,
+    "EnchantType": 3,
+    "EnchantItemList": [],
+    "EnchantConsume": [
+      [
+        10008,
+        150000
+      ]
+    ]
+  }
+}

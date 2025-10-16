@@ -1,0 +1,1067 @@
+{
+  "1": {
+    "Id": 1,
+    "ProfessionId": 1,
+    "Name": "Stormblade",
+    "Icon": "ui/atlas/profession/profession_horizontal_03",
+    "Intro": "Wields a <color=#fcbe03>Reaper Scythe</color>, excelling in <color=#fcbe03>close-range combat</color>. Switches seamlessly between scythe and longsword forms, delivering <color=#fcbe03>precise area strikes</color>.",
+    "Element": 3,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052403,
+        1052411,
+        1052419,
+        1052301,
+        1052304,
+        1052305
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020001
+      ]
+    ],
+    "NormalAttackSkill": [
+      1701
+    ],
+    "SpecialSkill": [
+      1714
+    ],
+    "UltimateSkill": [
+      1713
+    ],
+    "NormalSkill": [
+      1705,
+      1717,
+      1718,
+      1719,
+      1724,
+      1730,
+      1731,
+      1720
+    ],
+    "TalentSkill": [
+      1715,
+      1728,
+      1733,
+      1734,
+      1735,
+      1736,
+      1737,
+      1738
+    ],
+    "ShowTalentStage": [
+      101,
+      102
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 7,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_4",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_4",
+    "UnlockCondition": [
+      [
+        2,
+        170100,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise increases the DMG of Thunder Sigil-consuming skills by 2.5%"
+      ],
+      [
+        "",
+        "Each 1% Expertise grants 1.5% DMG to Thundercut, Storm Scythe, and Divine Sickle"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11030
+      ],
+      [
+        1,
+        11030
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7310002
+  },
+  "2": {
+    "Id": 2,
+    "ProfessionId": 2,
+    "Name": "Frost Mage",
+    "Icon": "ui/atlas/profession/profession_horizontal_05",
+    "Intro": "Wields a <color=#fcbe03>Frost Staff</color>, excelling in <color=#fcbe03>long-range combat</color>. Commands the power of ice to deliver <color=#fcbe03>wide-area DMG</color> and formidable <color=#fcbe03>control</color>.",
+    "Element": 2,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052402,
+        1052410,
+        1052418,
+        1052301,
+        1052307,
+        1052308
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020002
+      ]
+    ],
+    "NormalAttackSkill": [
+      1201
+    ],
+    "SpecialSkill": [
+      1242
+    ],
+    "UltimateSkill": [
+      1248
+    ],
+    "NormalSkill": [
+      1239,
+      1211,
+      1244,
+      1210,
+      1240,
+      1243,
+      1246,
+      1245
+    ],
+    "TalentSkill": [
+      1241
+    ],
+    "ShowTalentStage": [
+      104,
+      105
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 4,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_3",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_3",
+    "UnlockCondition": [
+      [
+        2,
+        170102,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise grants 0.65% Ice Element bonus"
+      ],
+      [
+        "",
+        "Each 1% Expertise increases Ice Energy gain by 1% and Ice Element bonus by 0.4%"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11340
+      ],
+      [
+        1,
+        11340
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11020
+      ],
+      [
+        1,
+        11020
+      ]
+    ],
+    "RangeType": 1,
+    "WeaponSkinId": 7320002
+  },
+  "3": {
+    "Id": 3,
+    "ProfessionId": 3,
+    "Name": "Scourgefire Axe - Battle Axe",
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Intro": "A melee weapon with outstanding offensive power.<br>Each strike can inflict <color=#fcbe03>Ignite</color>, dealing <color=#fcbe03>Special DMG</color>.<br>By stacking Energy, unleashes an <color=#fcbe03>Ultimate</color>, entering a powerful burst state. Boosting <color=#fcbe03>Attack SPD</color> greatly increases DMG during this state.",
+    "Element": 1,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052401,
+        1052409,
+        1052417,
+        1052301,
+        1052302,
+        1052303
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020003
+      ]
+    ],
+    "NormalAttackSkill": [
+      1601
+    ],
+    "SpecialSkill": [
+      1610
+    ],
+    "UltimateSkill": [
+      1614
+    ],
+    "NormalSkill": [
+      1611
+    ],
+    "TalentSkill": [],
+    "ShowTalentStage": [],
+    "Create": 0,
+    "IsOpen": false,
+    "Index": 9,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "UnlockCondition": [
+      [
+        2,
+        170100,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Adds Fire DMG"
+      ],
+      [
+        "",
+        "Adds Fire DMG"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11010
+      ],
+      [
+        1,
+        11010
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7330001
+  },
+  "4": {
+    "Id": 4,
+    "ProfessionId": 4,
+    "Name": "Wind Knight",
+    "Icon": "ui/atlas/profession/profession_horizontal_02",
+    "Intro": "Excels in <color=#fcbe03>close-range</color> combat, using a <color=#fcbe03>Lance</color> as a weapon. Agile and fast, possessing excellent <color=#fcbe03>small area attack</color> capabilities.",
+    "Element": 5,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052404,
+        1052412,
+        1052420,
+        1052301,
+        1052310,
+        1052303
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020004
+      ]
+    ],
+    "NormalAttackSkill": [
+      1401
+    ],
+    "SpecialSkill": [
+      1418
+    ],
+    "UltimateSkill": [
+      1426
+    ],
+    "NormalSkill": [
+      1420,
+      1421,
+      1422,
+      1425,
+      1424,
+      1430,
+      1431,
+      1423
+    ],
+    "TalentSkill": [
+      1409,
+      1410,
+      1411,
+      1419,
+      1433,
+      1434,
+      1435
+    ],
+    "ShowTalentStage": [
+      107,
+      108
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 6,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_2",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_2",
+    "UnlockCondition": [
+      [
+        2,
+        170101,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise grants 0.65% Wind Element bonus"
+      ],
+      [
+        "",
+        "Each 1% Expertise grants 0.65% Wind Element bonus"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11010
+      ],
+      [
+        1,
+        11010
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7340002
+  },
+  "5": {
+    "Id": 5,
+    "ProfessionId": 5,
+    "Name": "Verdant Oracle",
+    "Icon": "ui/atlas/profession/profession_horizontal_04",
+    "Intro": "Wields a <color=#fcbe03>Nature Ring</color>, excelling in <color=#fcbe03>long-range healing</color>. Channels the verdant essence of the forest to deliver exceptional <color=#fcbe03>healing</color> and <color=#fcbe03>buffs</color>.",
+    "Element": 4,
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052406,
+        1052414,
+        1052422,
+        1052301,
+        1052314,
+        1052313
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020005
+      ]
+    ],
+    "NormalAttackSkill": [
+      1501
+    ],
+    "SpecialSkill": [
+      1518
+    ],
+    "UltimateSkill": [
+      1509
+    ],
+    "NormalSkill": [
+      1519,
+      1520,
+      1522,
+      1523,
+      1521,
+      1531,
+      1529,
+      1524
+    ],
+    "TalentSkill": [
+      1507,
+      1525,
+      1527,
+      1528,
+      1541
+    ],
+    "ShowTalentStage": [
+      110,
+      111
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 1,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_5",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_5",
+    "UnlockCondition": [
+      [
+        2,
+        170104,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise grants 0.7% Forest Element bonus and 0.3% Shield strength"
+      ],
+      [
+        "",
+        "Each 1% Expertise increases healing by 1%"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11340
+      ],
+      [
+        1,
+        11340
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11020
+      ],
+      [
+        1,
+        11020
+      ]
+    ],
+    "RangeType": 1,
+    "WeaponSkinId": 7350002
+  },
+  "8": {
+    "Id": 8,
+    "ProfessionId": 8,
+    "Name": "Thunder Flash - Hand Cannon",
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Intro": "Excels in <color=#fcbe03>long-range combat</color>,<br>capable of striking wide areas with rapid fire. Boosting <color=#fcbe03>Sigil chance</color> greatly increases trigger frequency.<br>Can <color=#fcbe03>charge</color> at close range to deal massive DMG. Boosts <color=#fcbe03>critical rate</color> for dealing massive DMG.",
+    "Element": 3,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052403,
+        1052411,
+        1052419,
+        1052301,
+        1052315,
+        1052312
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020006
+      ]
+    ],
+    "NormalAttackSkill": [
+      1801
+    ],
+    "SpecialSkill": [
+      1806
+    ],
+    "UltimateSkill": [
+      1808
+    ],
+    "NormalSkill": [
+      1807
+    ],
+    "TalentSkill": [],
+    "ShowTalentStage": [],
+    "Create": 0,
+    "IsOpen": false,
+    "Index": 10,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "UnlockCondition": [
+      [
+        2,
+        170100,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Adds Thunder DMG"
+      ],
+      [
+        "",
+        "Adds Thunder DMG"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11030
+      ],
+      [
+        1,
+        11030
+      ]
+    ],
+    "RangeType": 1,
+    "WeaponSkinId": 7360001
+  },
+  "9": {
+    "Id": 9,
+    "ProfessionId": 9,
+    "Name": "Heavy Guardian",
+    "Icon": "ui/atlas/profession/profession_horizontal_06",
+    "Intro": "Wields a <color=#fcbe03>Guardblade</color>, excelling in <color=#fcbe03>close-range combat</color>. Channels the power of stone to form a protective shell, offering exceptional <color=#fcbe03>defense</color> and <color=#fcbe03>control</color>.",
+    "Element": 6,
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052405,
+        1052413,
+        1052421,
+        1052301,
+        1052302,
+        1052309
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020006
+      ]
+    ],
+    "NormalAttackSkill": [
+      1901
+    ],
+    "SpecialSkill": [
+      1922
+    ],
+    "UltimateSkill": [
+      1907
+    ],
+    "NormalSkill": [
+      1924,
+      1927,
+      1936,
+      1926,
+      1937,
+      1925,
+      1938,
+      1923
+    ],
+    "TalentSkill": [
+      1932,
+      1933,
+      1939,
+      1940,
+      1941,
+      1942,
+      1943,
+      1944
+    ],
+    "ShowTalentStage": [
+      113,
+      114
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 2,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_79",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_2",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_1",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_1",
+    "UnlockCondition": [
+      [
+        2,
+        170105,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise increases Shield strength by 2.5%"
+      ],
+      [
+        "",
+        "Each 1% Expertise grants 0.2% Block DMG Reduction and 0.2% Lucky Block DMG Reduction"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11010
+      ],
+      [
+        1,
+        11010
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7370002
+  },
+  "10": {
+    "Id": 10,
+    "ProfessionId": 10,
+    "Name": "Ritual Dance of Shadowspirits: Ceremonial Blade / Staff",
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Intro": "A mid-to-close-range weapon enabling Coordinated Attacks.",
+    "Element": 8,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052408,
+        1052416,
+        1052424,
+        1052301,
+        1052307,
+        1052303
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020006
+      ]
+    ],
+    "NormalAttackSkill": [
+      2101
+    ],
+    "SpecialSkill": [
+      2105
+    ],
+    "UltimateSkill": [
+      2108
+    ],
+    "NormalSkill": [
+      2107
+    ],
+    "TalentSkill": [],
+    "ShowTalentStage": [],
+    "Create": 0,
+    "IsOpen": false,
+    "Index": 11,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "MainTalentIcon": "ui/textures/talent_new/talent_icon",
+    "MainTalentSelectedIcon": "ui/textures/talent_new/talent_icon",
+    "UnlockCondition": [
+      [
+        2,
+        170100,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Adds Dark DMG"
+      ],
+      [
+        "",
+        "Adds Dark DMG"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11030
+      ],
+      [
+        1,
+        11030
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7380001
+  },
+  "11": {
+    "Id": 11,
+    "ProfessionId": 11,
+    "Name": "Marksman",
+    "Icon": "ui/atlas/profession/profession_horizontal_07",
+    "Intro": "Wields a <color=#fcbe03>bow</color>, excelling in <color=#fcbe03>long-range</color> combat. Partners with animal companions to unleash <color=#fcbe03>wide-area attacks</color>.",
+    "Element": 7,
+    "Talent": 1,
+    "TalentColor": "#db8787",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052407,
+        1052415,
+        1052423,
+        1052301,
+        1052314,
+        1052305
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020005
+      ]
+    ],
+    "NormalAttackSkill": [
+      2201
+    ],
+    "SpecialSkill": [
+      2220
+    ],
+    "UltimateSkill": [
+      2209
+    ],
+    "NormalSkill": [
+      2230,
+      2232,
+      2237,
+      2233,
+      2234,
+      2231,
+      2238,
+      2235
+    ],
+    "TalentSkill": [
+      2224,
+      2240
+    ],
+    "ShowTalentStage": [
+      116,
+      117
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 3,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_6",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_6",
+    "UnlockCondition": [
+      [
+        2,
+        170103,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise increases Companion's DMG by 2.75%"
+      ],
+      [
+        "",
+        "Each 1% Expertise grants 0.6% Light Element bonus"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11030
+      ],
+      [
+        1,
+        11030
+      ]
+    ],
+    "RangeType": 1,
+    "WeaponSkinId": 7390002
+  },
+  "12": {
+    "Id": 12,
+    "ProfessionId": 12,
+    "Name": "Shield Knight",
+    "Icon": "ui/atlas/profession/profession_horizontal_01",
+    "Intro": "Wields a <color=#fcbe03>Sword and Shield</color>, excelling in <color=#fcbe03>close-range combat</color>. Wears radiant lightforged armor, boasting exceptional <color=#fcbe03>defense</color> and <color=#fcbe03>self-healing</color>.",
+    "Element": 7,
+    "Talent": 3,
+    "TalentColor": "#68a6cd",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052407,
+        1052415,
+        1052423,
+        1052301,
+        1052310,
+        1052308
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020006
+      ]
+    ],
+    "NormalAttackSkill": [
+      2401
+    ],
+    "SpecialSkill": [
+      2405
+    ],
+    "UltimateSkill": [
+      2407
+    ],
+    "NormalSkill": [
+      2410,
+      2412,
+      2408,
+      2421,
+      2420,
+      2415,
+      2419,
+      2409
+    ],
+    "TalentSkill": [
+      2406,
+      2411,
+      2413,
+      2416,
+      2417,
+      2425
+    ],
+    "ShowTalentStage": [
+      122,
+      123
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 5,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_78",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_3",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_7",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_7",
+    "UnlockCondition": [
+      [
+        2,
+        170106,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise increases Radiant Shield gain by 2.5% and all Element Resistance by 0.2%"
+      ],
+      [
+        "",
+        "Each 1% Expertise increases Lightforged Barrier HP boost effect by 3% and all Element Resistance by 0.2%"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11330
+      ],
+      [
+        1,
+        11330
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11010
+      ],
+      [
+        1,
+        11010
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7400002
+  },
+  "13": {
+    "Id": 13,
+    "ProfessionId": 13,
+    "Name": "Beat Performer",
+    "Icon": "ui/atlas/profession/profession_horizontal_08",
+    "Intro": "Excels in <color=#fcbe03>long-range</color> combat, using a <color=#fcbe03>Guitar</color> as a weapon. <color=#fcbe03>Heals</color> while attacking, excels in granting Allies <color=#fcbe03>buffs</color>, and possesses excellent <color=#fcbe03>support</color> capabilities.",
+    "Element": 1,
+    "Talent": 2,
+    "TalentColor": "#83c49a",
+    "ProfessionBrokeExtraItem": [
+      [
+        1052401,
+        1052409,
+        1052417,
+        1052301,
+        1052304,
+        1052306
+      ]
+    ],
+    "ProfessionStarExtraItem": [
+      [
+        1020003
+      ]
+    ],
+    "NormalAttackSkill": [
+      2321
+    ],
+    "SpecialSkill": [
+      2306
+    ],
+    "UltimateSkill": [
+      2314
+    ],
+    "NormalSkill": [
+      2308,
+      2309,
+      2310,
+      2311,
+      2312,
+      2313,
+      2315,
+      2316
+    ],
+    "TalentSkill": [
+      2307,
+      2317,
+      2332,
+      2335,
+      2336
+    ],
+    "ShowTalentStage": [
+      119,
+      120
+    ],
+    "Create": 1,
+    "IsOpen": true,
+    "Index": 8,
+    "SchoolIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_77",
+    "PlayerSchoolIcon": "ui/atlas/talent/talent_tag_small_icon_1",
+    "MainTalentIcon": "ui/textures/weaopn/weapon_icon_8",
+    "MainTalentSelectedIcon": "ui/textures/weaopn/weapon_icon_select_8",
+    "UnlockCondition": [
+      [
+        2,
+        170107,
+        2
+      ]
+    ],
+    "MasteryDes": [
+      [
+        "",
+        "Each 1% Expertise increases Peaceful Tune conversion bonus by 1%"
+      ],
+      [
+        "",
+        "Each 1% Expertise reduces Healing Melody decay rate by 0.35%"
+      ]
+    ],
+    "AttackShow": [
+      [
+        0,
+        11340
+      ],
+      [
+        1,
+        11340
+      ]
+    ],
+    "StrOrIntOrDexShow": [
+      [
+        0,
+        11020
+      ],
+      [
+        1,
+        11020
+      ]
+    ],
+    "RangeType": 0,
+    "WeaponSkinId": 7410002
+  }
+}

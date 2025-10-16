@@ -1,0 +1,12 @@
+{
+  "1": {
+    "Id": 1,
+    "GroupName": "Friends",
+    "Sequence": 1
+  },
+  "99": {
+    "Id": 99,
+    "GroupName": "Blacklist",
+    "Sequence": 3
+  }
+}

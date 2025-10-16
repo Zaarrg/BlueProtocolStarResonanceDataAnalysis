@@ -1,0 +1,122 @@
+{
+  "1": {
+    "Id": 1,
+    "GroupName": "Floor",
+    "Sort": 1,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "2": {
+    "Id": 2,
+    "GroupName": "Partition",
+    "Sort": 3,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "3": {
+    "Id": 3,
+    "GroupName": "Partition Wallpaper",
+    "Sort": 4,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "4": {
+    "Id": 4,
+    "GroupName": "Field",
+    "Sort": 14,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "5": {
+    "Id": 5,
+    "GroupName": "Lamps",
+    "Sort": 9,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 1
+  },
+  "6": {
+    "Id": 6,
+    "GroupName": "Ornament",
+    "Sort": 8,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "7": {
+    "Id": 7,
+    "GroupName": "Wall Ornament",
+    "Sort": 7,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "8": {
+    "Id": 8,
+    "GroupName": "Furniture",
+    "Sort": 6,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "9": {
+    "Id": 9,
+    "GroupName": "Flower",
+    "Sort": 13,
+    "GroupIcon": "",
+    "BuildGroup": 0,
+    "IfRename": 0
+  },
+  "10": {
+    "Id": 10,
+    "GroupName": "Figurines",
+    "Sort": 12,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "11": {
+    "Id": 11,
+    "GroupName": "Badge",
+    "Sort": 10,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "12": {
+    "Id": 12,
+    "GroupName": "Gardening",
+    "Sort": 11,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "13": {
+    "Id": 13,
+    "GroupName": "Basic Furniture",
+    "Sort": 5,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "14": {
+    "Id": 14,
+    "GroupName": "Crafting Station",
+    "Sort": 15,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  },
+  "15": {
+    "Id": 15,
+    "GroupName": "Building Materials",
+    "Sort": 2,
+    "GroupIcon": "",
+    "BuildGroup": 1,
+    "IfRename": 0
+  }
+}

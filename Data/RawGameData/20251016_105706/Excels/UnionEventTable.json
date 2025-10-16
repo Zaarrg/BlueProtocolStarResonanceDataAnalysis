@@ -1,0 +1,50 @@
+{
+  "1": {
+    "Id": 1,
+    "Content": "{*player.name*} created the guild"
+  },
+  "2": {
+    "Id": 2,
+    "Content": "{*player.names[1]*} approved {*player.names[2]*} to join the guild"
+  },
+  "3": {
+    "Id": 3,
+    "Content": "{*player.name*} left the guild, see you again"
+  },
+  "4": {
+    "Id": 4,
+    "Content": "{*player.names[1]*} appointed {*player.names[2]*} as {*guild.rank*}"
+  },
+  "5": {
+    "Id": 5,
+    "Content": "{*player.names[1]*} transferred the Master to {*player.names[2]*}"
+  },
+  "6": {
+    "Id": 6,
+    "Content": "{*player.names[1]*} revoked {*player.names[2]*}'s position as {*guild.rank*}"
+  },
+  "7": {
+    "Id": 7,
+    "Content": "{*player.name*} resigned from the position of {*guild.rank*}"
+  },
+  "8": {
+    "Id": 8,
+    "Content": "Automatically approved {*player.name*} to join the guild"
+  },
+  "9": {
+    "Id": 9,
+    "Content": "Thanks to everyone's efforts, {*union.build*} has been upgraded to Lv.{*val*}"
+  },
+  "10": {
+    "Id": 10,
+    "Content": "{*player.name*} accelerated the construction of {*union.build*} by {*val*} minutes"
+  },
+  "11": {
+    "Id": 11,
+    "Content": "The effect of {*buff.name*} has been activated, valid for {*val*} hours"
+  },
+  "12": {
+    "Id": 12,
+    "Content": "The effect of {*buff.name*} has been deactivated"
+  }
+}

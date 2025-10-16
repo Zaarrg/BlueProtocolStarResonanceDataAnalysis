@@ -1,0 +1,994 @@
+{
+  "1": {
+    "Id": 1,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading1",
+    "TextTitle": "Achievement",
+    "TextGeneral": "Achievements will be fully updated each season. Take on the challenges and pursue new glories every time!",
+    "LoadingType": 0
+  },
+  "2": {
+    "Id": 2,
+    "LevelRange": [
+      21,
+      30
+    ],
+    "LoadingBg": "ui/textures/login/loading2",
+    "TextTitle": "Ability Score",
+    "TextGeneral": "Ability Score reflects your overall progression as an adventurer. Increasing your Adventurer Level, upgrading Talents, Skills (including Class Skills and Battle Imagines), Gear, Modules, and Emblems-all contribute to raising your Ability Score.",
+    "LoadingType": 0
+  },
+  "3": {
+    "Id": 3,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading3",
+    "TextTitle": "Class Talents",
+    "TextGeneral": "Each class comes with its own unique set of Talents. Choose your preferred combat specialization and activate your Talent Points wisely to enhance your battle performance!",
+    "LoadingType": 0
+  },
+  "4": {
+    "Id": 4,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading4",
+    "TextTitle": "Skill Training",
+    "TextGeneral": "Equip your favorite Class Skills & upgrade and advance them to significantly boost your combat potential!",
+    "LoadingType": 0
+  },
+  "5": {
+    "Id": 5,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading5",
+    "TextTitle": "Battle Imagine",
+    "TextGeneral": "Match Battle Imagine Skills to your role (Attack, Support, or Defense) for maximum efficiency in battle!",
+    "LoadingType": 0
+  },
+  "6": {
+    "Id": 6,
+    "LevelRange": [],
+    "LoadingBg": "ui/textures/login/loading6",
+    "TextTitle": "Gear Reforging",
+    "TextGeneral": "Reforging gear will reroll its attributes and increase its perfection level, enhancing both its stats and performance.",
+    "LoadingType": 0
+  },
+  "7": {
+    "Id": 7,
+    "LevelRange": [
+      21,
+      30
+    ],
+    "LoadingBg": "ui/textures/login/loading7",
+    "TextTitle": "Gear Refining",
+    "TextGeneral": "Refining significantly boosts your gear's performance. Refine may succeed or fail. Give it a try! Failure won't reduce the level!",
+    "LoadingType": 0
+  },
+  "8": {
+    "Id": 8,
+    "LevelRange": [
+      21,
+      30
+    ],
+    "LoadingBg": "ui/textures/login/loading8",
+    "TextTitle": "Gear Refining",
+    "TextGeneral": "Blessing items can increase the refining success rate. <br>When you replace gear of the same slot, refinement levels are transferred for free.",
+    "LoadingType": 0
+  },
+  "9": {
+    "Id": 9,
+    "LevelRange": [
+      31,
+      40
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Gear Embedding",
+    "TextGeneral": "Embedding a gem into gear will transfer its attributes onto the gear. Intermediate or advanced embedding grants higher-level gem effects.",
+    "LoadingType": 0
+  },
+  "10": {
+    "Id": 10,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Module Equip",
+    "TextGeneral": "Equip modules, activate Power Core level effects, and become even stronger! <br>Note: Only equipped modules take effect, and different modules may contain the same type of Power Core. The total number of successful links determines whether the Power Core's level effects are activated!",
+    "LoadingType": 0
+  },
+  "11": {
+    "Id": 11,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Potential Activation",
+    "TextGeneral": "When Adventurer Level reaches certain stages, you can freely select and configure potential builds on the Potential Activation page. <br>Some levels offer multiple potentials to choose from, but only one can be selected at the same level.",
+    "LoadingType": 0
+  },
+  "12": {
+    "Id": 12,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Terra Resonance",
+    "TextGeneral": "Drag any Resonance Skill into a slot to complete the setup. <br>Equipped Resonance Skills will appear on the main screen, with up to 2 slots available.",
+    "LoadingType": 0
+  },
+  "13": {
+    "Id": 13,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Monster Hunt: Elite",
+    "TextGeneral": "Only the first player or team to deal DMG to an Elite monster has the right to open the Loot dropped by the target. For them, the target's HP bar appears red, while it appears gray to others.",
+    "LoadingType": 0
+  },
+  "14": {
+    "Id": 14,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Monster Hunt: Boss",
+    "TextGeneral": "Track Boss monsters through the Monster Hunt interface!",
+    "LoadingType": 0
+  },
+  "15": {
+    "Id": 15,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Activity Rewards",
+    "TextGeneral": "After joining a Guild, you can increase your Guild's weekly activity merits by contributing personal activity and completing Guild quests. Reach milestones to earn corresponding rewards!",
+    "LoadingType": 0
+  },
+  "16": {
+    "Id": 16,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Guild Construction",
+    "TextGeneral": "Once you unlock the Guild Center, complete the guide quests from Receptionist Laura to learn about each staff member's role and the functions of all facilities. <br>Team up with members to build the center, earn more resources, and unlock new fun experiences!",
+    "LoadingType": 0
+  },
+  "17": {
+    "Id": 17,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Fishing Tips",
+    "TextGeneral": "After the line is cast, the bobber will float on the surface. When a fish is about to bite, it will briefly dip. <br>Once a fish bites, the bobber will sink and stay down. That's your cue to reel in and hook the fish!",
+    "LoadingType": 0
+  },
+  "18": {
+    "Id": 18,
+    "LevelRange": [
+      21,
+      30
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Fish Research",
+    "TextGeneral": "Using the same type of fish increases research progress and the fish's research level. The research results of various types of fish grant fishing bonuses.",
+    "LoadingType": 0
+  },
+  "19": {
+    "Id": 19,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Treasure Chest",
+    "TextGeneral": "Gifts granted to adventurers on your journey. Open them to receive generous rewards.<br>Explore the world actively to uncover their whereabouts.",
+    "LoadingType": 0
+  },
+  "20": {
+    "Id": 20,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "\"A Study on Unique Species of Asteria Plains\"",
+    "TextGeneral": "[Wind Barrier]: One of the unique phenomena in Asteria. Due to the Engram Cycle Collapse, sea winds sometimes converge on the plains to form a spherical barrier that isolates its interior from the outside world.",
+    "LoadingType": 0
+  },
+  "21": {
+    "Id": 21,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "\"A Study on Unique Species of Asteria Plains\"",
+    "TextGeneral": "Due to the Engram Cycle Collapse, active updrafts occasionally emerge in areas of the ocean-fed plains. The Asterians refer to these as [Wind Fields]. While within a Wind Field, use [Multi-Jump] to ascend to a certain height, then use [Float/Glide] to soar into the sky on the rising air currents.",
+    "LoadingType": 0
+  },
+  "22": {
+    "Id": 22,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "\"A Study on Unique Species of Asteria Plains\"",
+    "TextGeneral": "[Wind Loop]: Ring-shaped winds often appear high above Asteria, forming continuous loops. It is hypothesized that these are formed by high concentrations of Winds, condensed in the skies due to the region's unique hurricane climate.",
+    "LoadingType": 0
+  },
+  "23": {
+    "Id": 23,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Teleportal",
+    "TextGeneral": "These are teleportation devices left behind by the Bapharian Divines. Once activated, it allows for long-distance teleportation.",
+    "LoadingType": 0
+  },
+  "24": {
+    "Id": 24,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "\"A Study on Unique Species of Asteria Plains\"",
+    "TextGeneral": "[Wind Channel]: One of the unique phenomena in Asteria. Due to the Engram Cycle Collapse, various elemental turbulence gateways form across the plains. Interact with these small cyclones to open the Wind Channel.",
+    "LoadingType": 0
+  },
+  "25": {
+    "Id": 25,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Engram Hub",
+    "TextGeneral": "A regional convergence point of Engram Lines. Resonating with it reconnects you to the flow of Engram in the area. Once resonance is successful, the surrounding fog will lift, revealing map details. Resonated Engram Hubs can also be used as teleportation nodes.",
+    "LoadingType": 0
+  },
+  "26": {
+    "Id": 26,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Hurricane Particle",
+    "TextGeneral": "Hurricane Particles are found throughout the world. Touch them to trigger particle collection quests. Complete the quest within the time limit to earn rewards.",
+    "LoadingType": 0
+  },
+  "27": {
+    "Id": 27,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead Commission",
+    "TextGeneral": "The Traveling Merchant offers 3 daily commissions, each requiring specific items. Completing these earns Homestead EXP and Homestead Coins.",
+    "LoadingType": 0
+  },
+  "28": {
+    "Id": 28,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Furniture Crafting",
+    "TextGeneral": "Some furniture requires unlocking its crafting recipe before it can be made. Unlock recipes by achieving specific goals or submitting specific items.",
+    "LoadingType": 0
+  },
+  "29": {
+    "Id": 29,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Anchor Notes",
+    "TextGeneral": "While exploring and speaking with others, pay attention-some casually dropped hints might reveal the world's hidden truths.",
+    "LoadingType": 0
+  },
+  "30": {
+    "Id": 30,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Anchor Notes",
+    "TextGeneral": "Tap [Quick Deduction] to skip the reasoning process and instantly obtain a result.",
+    "LoadingType": 0
+  },
+  "31": {
+    "Id": 31,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Monster Hunt",
+    "TextGeneral": "The open-world map is home to various types of monsters. Explore the area and engage in battles to complete Monster Hunt objectives and earn rewards to upgrade your Monster Manual.",
+    "LoadingType": 0
+  },
+  "32": {
+    "Id": 32,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Monster Hunt",
+    "TextGeneral": "In addition to monsters, you'll encounter powerful Elite and Boss monsters in the wild. Defeating them drops Loots that can be unlocked with keys to obtain SSR.",
+    "LoadingType": 0
+  },
+  "33": {
+    "Id": 33,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Monster Hunt",
+    "TextGeneral": "Each time you defeat an Elite or Boss, you'll gain EXP, Season Points, and Luno, along with a chance to obtain rare monster materials. Bosses also have a chance to drop gear.",
+    "LoadingType": 0
+  },
+  "34": {
+    "Id": 34,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Towering Ruin",
+    "TextGeneral": "Use dimensional switch to access unreachable areas. Master this ability to gradually uncover the secrets of the tower.",
+    "LoadingType": 0
+  },
+  "35": {
+    "Id": 35,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Tina's Mindrealm: Void Reverie",
+    "TextGeneral": "Void Sigil: Void Tina applies a Void Sigil to a player. When the sigil's countdown ends, it detonates, dealing high DMG over time to the current target.",
+    "LoadingType": 0
+  },
+  "36": {
+    "Id": 36,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Perfect Dodge",
+    "TextGeneral": "Dodging an enemy attack at the right moment triggers a Perfect Dodge, allowing you to avoid incoming DMG and empower your next basic attack. Some Elite and Boss enemies use Lethal Skill, signaled by a red glow.",
+    "LoadingType": 0
+  },
+  "37": {
+    "Id": 37,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Counterattack",
+    "TextGeneral": "Trigger a Perfect Dodge the moment a Lethal Skill lands to counter it. This interrupts the attack and puts the enemy into a weakened state. <br>Note: A successful counterattack lets you completely avoid the incoming DMG.",
+    "LoadingType": 0
+  },
+  "38": {
+    "Id": 38,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Super Armor Gauge",
+    "TextGeneral": "Elite and boss enemies have a unique mechanic-successful hits reduce their Super Armor effectiveness. <br>When depleted, it triggers a Break that instantly interrupts their action and weakens them for a short time. <br>Crowd Control skills are especially effective at reducing this gauge.",
+    "LoadingType": 0
+  },
+  "39": {
+    "Id": 39,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Split Damage",
+    "TextGeneral": "Sometimes, the enemy will perform powerful attacks at a single target, but its DMG split among all Allies within the area.",
+    "LoadingType": 0
+  },
+  "40": {
+    "Id": 40,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Mechanic Timer",
+    "TextGeneral": "When a boss begins channeling a powerful sustained skill, pay attention to the countdown timer and react accordingly.",
+    "LoadingType": 0
+  },
+  "41": {
+    "Id": 41,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Focus Marker",
+    "TextGeneral": "Targets marked with a Focus Marker must be killed quickly. Failing to do so will often result in severe consequences.",
+    "LoadingType": 0
+  },
+  "42": {
+    "Id": 42,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Target Marker",
+    "TextGeneral": "When a Target Marker appears above your head, prepare to respond to the incoming enemy skill.",
+    "LoadingType": 0
+  },
+  "43": {
+    "Id": 43,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Hotkeys",
+    "TextGeneral": "Hold [{*key.getKeyDesc(101)*}]/[{*key.getKeyDesc(108)*}] to enter the Chat Interface.",
+    "LoadingType": 3
+  },
+  "44": {
+    "Id": 44,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(124)*}] to view Quick Guide.",
+    "LoadingType": 3
+  },
+  "45": {
+    "Id": 45,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(25)*}] to use Extra Skill.",
+    "LoadingType": 3
+  },
+  "46": {
+    "Id": 46,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(143)*}] to hide the current UI.",
+    "LoadingType": 3
+  },
+  "47": {
+    "Id": 47,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(34)*}] to toggle Auto-Battle.",
+    "LoadingType": 3
+  },
+  "48": {
+    "Id": 48,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(140)*}] to turn on the Camera.",
+    "LoadingType": 3
+  },
+  "49": {
+    "Id": 49,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(8)*}] to close the current interface.",
+    "LoadingType": 3
+  },
+  "50": {
+    "Id": 50,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(115)*}] to turn on the Quick Wheel.",
+    "LoadingType": 3
+  },
+  "51": {
+    "Id": 51,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(115)*}] to turn on the Quick Wheel.",
+    "LoadingType": 2
+  },
+  "52": {
+    "Id": 52,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(34)*}] to toggle Auto-Battle.",
+    "LoadingType": 2
+  },
+  "53": {
+    "Id": 53,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(143)*}] to hide the current UI.",
+    "LoadingType": 2
+  },
+  "54": {
+    "Id": 54,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(140)*}] to turn on the Camera.",
+    "LoadingType": 2
+  },
+  "55": {
+    "Id": 55,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(155)*}] to switch Chat Channels.",
+    "LoadingType": 2
+  },
+  "56": {
+    "Id": 56,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(102)*}] to enter the Chat Interface.",
+    "LoadingType": 2
+  },
+  "57": {
+    "Id": 57,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(124)*}] to view Quick Guide.",
+    "LoadingType": 2
+  },
+  "58": {
+    "Id": 58,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(25)*}] to use Extra Skill.",
+    "LoadingType": 2
+  },
+  "59": {
+    "Id": 59,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(8)*}] to close the current interface.",
+    "LoadingType": 2
+  },
+  "60": {
+    "Id": 60,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "While riding a navigable mount, hold the [{*key.getKeyDesc(154)*}] to auto-navigate to your tracked target.",
+    "LoadingType": 2
+  },
+  "61": {
+    "Id": 61,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(27)*}] to track your current quest.",
+    "LoadingType": 2
+  },
+  "62": {
+    "Id": 62,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(118)*}] to view your current quest list.",
+    "LoadingType": 2
+  },
+  "63": {
+    "Id": 63,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(27)*}] to track your current quest.",
+    "LoadingType": 3
+  },
+  "64": {
+    "Id": 64,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Keybind Tips",
+    "TextGeneral": "Press [{*key.getKeyDesc(118)*}] to view your current quest list.",
+    "LoadingType": 3
+  },
+  "65": {
+    "Id": 65,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Luno",
+    "TextGeneral": "A currency widely used on The Continent of Magna, managed and minted by the Bapharian Creed. <br>The minting material is a precious bullion containing Engram. <br>The craftsmanship of Luno coins is so superb that they are nearly impossible to counterfeit.",
+    "LoadingType": 0
+  },
+  "66": {
+    "Id": 66,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Teleportal",
+    "TextGeneral": "An ancient <style=\"emph-gn\">Bapharian Legacy</style> that can teleport a creature touching it to another Teleportal along the Engram Line. The principle is not yet clear. <br>Teleportals cannot teleport large quantities of goods, only a small number of personal supplies.",
+    "LoadingType": 0
+  },
+  "67": {
+    "Id": 67,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "The Double-Faced Coin",
+    "TextGeneral": "An old tavern located at Entertainment District in the north of the city. <br>It offers food, lodging, and specialty drinks. Due to its central location at Entertainment District, it is very well-known. <br>The owner, Wilbert, is a kind-hearted man who speaks with a Byrnhald accent.",
+    "LoadingType": 0
+  },
+  "68": {
+    "Id": 68,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Seabreeze Festival",
+    "TextGeneral": "An annual celebration held by the Council to honor independence. <br>Colorful ribbons fill the air, Sea Lilies are placed at doorsteps for peace, and the city hosts poetry gatherings, parades, and a Carnival.",
+    "LoadingType": 0
+  },
+  "69": {
+    "Id": 69,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Void Mist",
+    "TextGeneral": "A twisted form of Engram of unknown origin, appearing as black mist cloud. <br>When Void Mist appears, the Engram in the surrounding space becomes chaotic and extremely dangerous. <br>In addition, Void Mist and Engram undergo a neutralization reaction, so the only way to dispel it is to inject a large amount of Engram into the contaminated area.",
+    "LoadingType": 0
+  },
+  "70": {
+    "Id": 70,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Engram",
+    "TextGeneral": "Engram flows through invisible Engram Lines, nourishing all things. It is the source energy of this world. <br>Each race has its own understanding and use of Engram, showcasing the world's diversity.",
+    "LoadingType": 0
+  },
+  "71": {
+    "Id": 71,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Adventurer",
+    "TextGeneral": "Engram that runs within living organisms is the core energy sustaining life.",
+    "LoadingType": 0
+  },
+  "72": {
+    "Id": 72,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Bapharian Legacy",
+    "TextGeneral": "Technological relics left by the Divine after their departure. <br>Though modified and widely used by humans, their core principles remain unknown. Due to their rarity, they are collected and distributed by the Creed and Pioneer Bureau.",
+    "LoadingType": 0
+  },
+  "73": {
+    "Id": 73,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Pioneer Bureau",
+    "TextGeneral": "A global organization that supports adventurer activities, the excavation of Bapharian Ruins, and the hunting of monsters.<br>The Pioneer Bureau's stance is neutral and does not belong to any country. <br>The person in charge of the Asterleeds Branch is Miss Valeria, known as \"Miss Bright Idea.\"",
+    "LoadingType": 0
+  },
+  "74": {
+    "Id": 74,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Engram Hub",
+    "TextGeneral": "Engram flows across Planet Regnus in a network of Engram Lines.<br>The gathering points of this vein network are called Engram Hubs, where the Engram concentration and power are higher.",
+    "LoadingType": 0
+  },
+  "75": {
+    "Id": 75,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Wind Gate and Wind Field",
+    "TextGeneral": "The intense collision of Winds creates a miraculous phenomenon called a wind field. <br>Abundant Winds fill the wind field, forming invisible wind gates. If one has the ability of Engram Resonance, they can use the wind gates to glide through the air.",
+    "LoadingType": 0
+  },
+  "76": {
+    "Id": 76,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Asterleeds",
+    "TextGeneral": "A bustling port city at the southern edge of the Asteria Plains. <br>Once a Byrnhald colony, it grew into a trade hub through self-rule.\n <br>Today, Asterleeds is famed for its inclusive culture and vibrant commerce, attracting traders and adventurers worldwide.",
+    "LoadingType": 0
+  },
+  "77": {
+    "Id": 77,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Asteria Plains",
+    "TextGeneral": "A plain near the trade city of Asterleeds.<br>Its open terrain is rich in fantastical features, including grasslands and ruins, ideal for exploration. Various groups roam the plains, such as the ancient Kanamia Tribe, free-roaming scavengers, aggressive demi-humans, and Brigands.",
+    "LoadingType": 0
+  },
+  "78": {
+    "Id": 78,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Minsterhorn",
+    "TextGeneral": "A village in the central Asteria Plains.<br>Blessed with fertile land, it produces abundant grains, vegetables, and fruits that are highly popular. Located along the trade route between the Asteria Plains and the Bahamar Highlands, the village enjoys active trade with Asterleeds.",
+    "LoadingType": 0
+  },
+  "79": {
+    "Id": 79,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Kanamia Tribe",
+    "TextGeneral": "In contrast to the highly advanced civilization of modern times that heavily depends on the Bapharian Legacy,<br>the Kanamia Tribe on the plains leads simpler, kinder lives that revere nature. <br>They worship their ancestors, referring to them as <style=\"emph-gn\">Ancestral Spirits</style>...",
+    "LoadingType": 0
+  },
+  "80": {
+    "Id": 80,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Statue of the Hero",
+    "TextGeneral": "In memory of those lost in the Independence War, <br>citizens carved the names and stories of the fallen into wooden tablets and placed them on the cliffs near the Ancient City of Vill, symbolizing guardianship over their homeland. <br>The Council later transformed the site into the Hero's Memorial Grove.",
+    "LoadingType": 0
+  },
+  "81": {
+    "Id": 81,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Windhowl Canyon",
+    "TextGeneral": "On Asteria's raging coast, towering gorges split the land like massive scars. <br>The arean Echoes year-round with eerie howls like the wails of giant wolves. <br>Weathered cliffs and ancient carvings hint at the remnants of a long-lost civilization.",
+    "LoadingType": 0
+  },
+  "82": {
+    "Id": 82,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Underground District",
+    "TextGeneral": "Asterleeds is a vast city with an extensive underground drainage network. <br>Shrouded in darkness with no sunlight, this place breeds shadows. <br>The Council and Asterleeds Defense Corps rarely venture here, so it has become a haven for outlaws.",
+    "LoadingType": 0
+  },
+  "83": {
+    "Id": 83,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Evershade Waters",
+    "TextGeneral": "Evershade Waters is a dangerous maritime zone near Asterleeds, infamous for its harsh conditions and frequent shipwrecks. <br>Its defining feature is a massive whirlpool hundreds of meters wide, whose immense torque shreds ships and scatters debris across the surrounding sea.",
+    "LoadingType": 0
+  },
+  "84": {
+    "Id": 84,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "City Beneath the Ruins",
+    "TextGeneral": "The Ruins of Andra City are regarded by the Bapharian Creed as one of their sacred sites. <br>Due to the large number of monsters inhabiting the ruins, the Creed has only established perimeter outposts for containment. <br>Recent surveys indicate that the visible structures may represent only the upper levels of the city. The bulk of its architecture might lie deep underground.",
+    "LoadingType": 0
+  },
+  "85": {
+    "Id": 85,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Mount",
+    "TextGeneral": "Mounts not only come with auto tracking navigation, but each also possesses unique abilities!",
+    "LoadingType": 0
+  },
+  "86": {
+    "Id": 86,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Emotes",
+    "TextGeneral": "Hold down any emote to add it to your favorites list.",
+    "LoadingType": 0
+  },
+  "87": {
+    "Id": 87,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Emotes",
+    "TextGeneral": "You're free to move while displaying fish!",
+    "LoadingType": 0
+  },
+  "88": {
+    "Id": 88,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Take Photos",
+    "TextGeneral": "In Combat Mode, the camera can capture action shots of adventurers unleashing their skills!",
+    "LoadingType": 0
+  },
+  "89": {
+    "Id": 89,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Take Photos",
+    "TextGeneral": "If another player is performing an emote, inviting them to your group photo session allows you to manually adjust their emote progress using a slider.",
+    "LoadingType": 0
+  },
+  "90": {
+    "Id": 90,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Boon Fountain",
+    "TextGeneral": "Guild managers can select buffs for all members at the Boon Fountain.",
+    "LoadingType": 0
+  },
+  "91": {
+    "Id": 91,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Find Party",
+    "TextGeneral": "While in a team, you can see Allies' avatars on the map if they're in the same area.",
+    "LoadingType": 0
+  },
+  "92": {
+    "Id": 92,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Find Party",
+    "TextGeneral": "Switching map channels allows you to see the avatars of your Allies on different channels.",
+    "LoadingType": 0
+  },
+  "93": {
+    "Id": 93,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Matchmaking",
+    "TextGeneral": "If your party meets the recommended role composition, you can still use matchmaking! Team up with your friends and take the challenge together!",
+    "LoadingType": 0
+  },
+  "94": {
+    "Id": 94,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Flower Planting",
+    "TextGeneral": "Watering and fertilizing your plants can reduce their growth time.",
+    "LoadingType": 0
+  },
+  "95": {
+    "Id": 95,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Flower Hybridization",
+    "TextGeneral": "The color and shape of flowers depend on the hybridization result at planting.",
+    "LoadingType": 0
+  },
+  "96": {
+    "Id": 96,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Manual Pollination",
+    "TextGeneral": "During a flower's pollination period, you can manually pollinate it. <br>The resulting flower will inherit half of the genetic traits from the pollen used.",
+    "LoadingType": 0
+  },
+  "97": {
+    "Id": 97,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Auto Hybridization",
+    "TextGeneral": "If a flower isn't manually pollinated during its pollination phase, its bloom will be affected by pollen from nearby mature flowers.",
+    "LoadingType": 0
+  },
+  "98": {
+    "Id": 98,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Harvest",
+    "TextGeneral": "When your flowers mature, you can harvest blooms and seeds, while your friends can collect the pollen.",
+    "LoadingType": 0
+  },
+  "99": {
+    "Id": 99,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Homestead - Furniture Crafting",
+    "TextGeneral": "Want to improve your furniture crafting efficiency? Invite more friends to live with you! The more housemates you have, the more crafting slots your Homestead crafting station will support!",
+    "LoadingType": 0
+  },
+  "100": {
+    "Id": 100,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Daily Commission",
+    "TextGeneral": "Too busy to finish daily commissions? No problem! Your available commission attempts roll over to the next day, up to 3 attempts!",
+    "LoadingType": 0
+  },
+  "101": {
+    "Id": 101,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Daily Commission",
+    "TextGeneral": "When the captain enters a daily commission dungeon, the system will auto-accept the commission for Allies who haven't yet accepted it.",
+    "LoadingType": 0
+  },
+  "102": {
+    "Id": 102,
+    "LevelRange": [
+      11,
+      20
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Daily Commission",
+    "TextGeneral": "Players who have completed their daily commissions can still join other adventurers as Allies and help them finish theirs!",
+    "LoadingType": 0
+  },
+  "103": {
+    "Id": 103,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Missions",
+    "TextGeneral": "Prioritize the daily targets with bonus multipliers to efficiently reach your daily activity goals.",
+    "LoadingType": 0
+  },
+  "104": {
+    "Id": 104,
+    "LevelRange": [
+      21,
+      30
+    ],
+    "LoadingBg": "",
+    "TextTitle": "Fish Research",
+    "TextGeneral": "Researching a specific type of fish makes it easier to catch higher-star variants of that species.",
+    "LoadingType": 0
+  },
+  "105": {
+    "Id": 105,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Terra Resonance - Float",
+    "TextGeneral": "Resonate with the Hero's Herb at Asteria Plains to gain Float and Glide abilities! <br>Float when you are airborne, where you can switch to Glide and soar across the skies of Asteria!",
+    "LoadingType": 0
+  },
+  "106": {
+    "Id": 106,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Terra Resonance - Phantom Dash",
+    "TextGeneral": "Resonate with the Wind Source on the floating island atop the Towering Ruin in Asteria Plains to unlock Phantom Dash! <br>This allows up to two consecutive ultra-fast dashes and can break through wind barriers on the plains!",
+    "LoadingType": 0
+  },
+  "107": {
+    "Id": 107,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Leisure Activity",
+    "TextGeneral": "Various leisure activities are available throughout the day. Visit [Features] - [Leisure] to pick what interests you!",
+    "LoadingType": 0
+  },
+  "108": {
+    "Id": 108,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Potential Activation",
+    "TextGeneral": "Leveling up your Adventurer Level unlocks new potential and abilities. Check the Adventurer Level screen to activate perks like chain jump or wall running!",
+    "LoadingType": 0
+  },
+  "109": {
+    "Id": 109,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Magical Creatures",
+    "TextGeneral": "Mysterious creatures occasionally appear on the plains. Defeat them for a chance to earn rare headwear or mounts! <br>Check the Monster Hunt menu for exact spawn patterns.",
+    "LoadingType": 0
+  },
+  "110": {
+    "Id": 110,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Wild Boss",
+    "TextGeneral": "Wild Bosses appear every hour and at half past the hour. Defeat them to open Loots that may grant the boss's Will! Check the Monster Hunt menu for exact spawn patterns.<br>Tips: If the current boss has already been defeated, try switching servers!",
+    "LoadingType": 0
+  },
+  "111": {
+    "Id": 111,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Wardrobe",
+    "TextGeneral": "The \"eyes\" on the right of the wardrobe can hide the appearance of certain gears.",
+    "LoadingType": 0
+  },
+  "112": {
+    "Id": 112,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Luno",
+    "TextGeneral": "A currency widely used on The Continent of Magna, managed and minted by the Bapharian Creed. <br>The minting material is a precious bullion containing Engram. <br>The craftsmanship of Luno coins is so superb that they are nearly impossible to counterfeit.",
+    "LoadingType": 0
+  },
+  "113": {
+    "Id": 113,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Teleportal",
+    "TextGeneral": "An ancient <style=\"emph-gn\">Bapharian Legacy</style> that can teleport a creature touching it to another Teleportal along the Engram Line. The principle is not yet clear. <br>Teleportals cannot teleport large quantities of goods, only a small number of personal supplies.",
+    "LoadingType": 0
+  },
+  "114": {
+    "Id": 114,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "The Double-Faced Coin",
+    "TextGeneral": "An old tavern located at Entertainment District in the north of the city. <br>It offers food, lodging, and specialty drinks. Due to its central location at Entertainment District, it is very well-known. <br>The owner, Wilbert, is a kind-hearted man who speaks with a Byrnhald accent.",
+    "LoadingType": 0
+  },
+  "115": {
+    "Id": 115,
+    "LevelRange": [],
+    "LoadingBg": "",
+    "TextTitle": "Seabreeze Festival",
+    "TextGeneral": "An annual city-wide celebration held by the Council in commemoration of independence. <br>On the day of the celebration, a shower of brilliant colored ribbons falls over Asterleeds. Citizens will place blooming Sea Lilies by their doorsteps to express their wishes for peace. Various special celebrations, such as poetry gatherings, parades, and the Carnival, are also held in the city.",
+    "LoadingType": 0
+  }
+}

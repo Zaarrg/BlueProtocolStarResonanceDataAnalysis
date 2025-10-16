@@ -1,0 +1,808 @@
+{
+  "1": {
+    "Id": 1,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 5.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0,
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.75,
+      9.25
+    ],
+    "PrepareTime": [
+      0.0,
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0,
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0,
+      0.0
+    ],
+    "ShaderLength": [
+      0.0,
+      0.0
+    ],
+    "ShaderIsBreath": [],
+    "IsShowFootLine": false,
+    "EnergyConsume": [
+      0.0,
+      50.0
+    ],
+    "BattleEnergyConsume": [
+      50.0,
+      100.0
+    ],
+    "LowGravityHorSpeedRatio": 0.9
+  },
+  "2": {
+    "Id": 2,
+    "DefaultSpeed": 10.0,
+    "OperateSpeed": 6.0,
+    "ReOperateSpeed": 6.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.5
+    ],
+    "JumpUpSpeed": [
+      10.0
+    ],
+    "PrepareTime": [
+      0.133
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      150.0
+    ],
+    "BattleEnergyConsume": [
+      300.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "3": {
+    "Id": 3,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 2.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.5
+    ],
+    "JumpUpSpeed": [
+      12.8
+    ],
+    "PrepareTime": [
+      0.1
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "4": {
+    "Id": 4,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 10.0,
+    "ReOperateSpeed": 10.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "JumpUpSpeed": [
+      11.5,
+      11.5,
+      11.5
+    ],
+    "PrepareTime": [
+      0.1,
+      0.1,
+      0.1
+    ],
+    "JumpBreakTime": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0,
+      6.0,
+      7.0
+    ],
+    "ShaderLength": [
+      0.15,
+      0.15,
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0,
+      0,
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      260.0,
+      260.0,
+      260.0
+    ],
+    "BattleEnergyConsume": [
+      260.0,
+      260.0,
+      260.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "5": {
+    "Id": 5,
+    "DefaultSpeed": -10.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 2.0,
+    "ReOperateDefaultSpeed": 2.0,
+    "WindDragCoefficient": [
+      5.0,
+      5.0
+    ],
+    "JumpUpSpeed": [
+      14.8,
+      18.5
+    ],
+    "PrepareTime": [
+      0.2,
+      0.2
+    ],
+    "JumpBreakTime": [
+      0.8,
+      1.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0,
+      7.0
+    ],
+    "ShaderLength": [
+      0.15,
+      0.15
+    ],
+    "ShaderIsBreath": [],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      40.0,
+      40.0
+    ],
+    "BattleEnergyConsume": [
+      40.0,
+      40.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "6": {
+    "Id": 6,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 2.0,
+    "ReOperateDefaultSpeed": 6.0,
+    "WindDragCoefficient": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.75,
+      9.25,
+      10.75,
+      12.75,
+      15.75
+    ],
+    "PrepareTime": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.35,
+      0.37,
+      0.43,
+      0.51,
+      0.63
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      7.0,
+      7.0,
+      7.0,
+      7.0,
+      7.0
+    ],
+    "ShaderLength": [
+      0.15,
+      0.15,
+      0.15,
+      0.15,
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0,
+      50.0,
+      50.0,
+      100.0,
+      100.0
+    ],
+    "BattleEnergyConsume": [
+      0.0,
+      100.0,
+      100.0,
+      200.0,
+      200.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "7": {
+    "Id": 7,
+    "DefaultSpeed": -8.0,
+    "OperateSpeed": 6.0,
+    "ReOperateSpeed": 6.0,
+    "ReOperateDefaultSpeed": 2.0,
+    "WindDragCoefficient": [
+      8.0
+    ],
+    "JumpUpSpeed": [
+      11.25
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "8": {
+    "Id": 8,
+    "DefaultSpeed": -6.0,
+    "OperateSpeed": 4.0,
+    "ReOperateSpeed": 4.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      10.0
+    ],
+    "JumpUpSpeed": [
+      10.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "9": {
+    "Id": 9,
+    "DefaultSpeed": 1.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 2.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "10": {
+    "Id": 10,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 0.0,
+    "ReOperateSpeed": 0.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      0.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.8
+    ],
+    "MovePath": "curvepaths/pedalwall_jumpover.bytes",
+    "ShaderBrightness": [
+      6.0
+    ],
+    "ShaderLength": [
+      0.15
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "101": {
+    "Id": 101,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 5.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.75
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "102": {
+    "Id": 102,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 2.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.85
+    ],
+    "JumpUpSpeed": [
+      8.75
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "103": {
+    "Id": 103,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 5.5,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.75
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "104": {
+    "Id": 104,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 7.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      8.75
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "105": {
+    "Id": 105,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 2.0,
+    "ReOperateSpeed": 5.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      9.75
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "201": {
+    "Id": 201,
+    "DefaultSpeed": 2.0,
+    "OperateSpeed": 0.0,
+    "ReOperateSpeed": 0.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      3.0
+    ],
+    "JumpUpSpeed": [
+      8.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.35
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": true,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  },
+  "301": {
+    "Id": 301,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 4.0,
+    "ReOperateSpeed": 4.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      0.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.3
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": false,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 0.5
+  },
+  "302": {
+    "Id": 302,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 1.0,
+    "ReOperateSpeed": 1.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      0.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      1.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": false,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 0.5
+  },
+  "303": {
+    "Id": 303,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 1.0,
+    "ReOperateSpeed": 1.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      0.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      1.0
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": false,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 0.5
+  },
+  "401": {
+    "Id": 401,
+    "DefaultSpeed": 0.0,
+    "OperateSpeed": 4.0,
+    "ReOperateSpeed": 4.0,
+    "ReOperateDefaultSpeed": 0.0,
+    "WindDragCoefficient": [
+      0.0
+    ],
+    "JumpUpSpeed": [
+      0.0
+    ],
+    "PrepareTime": [
+      0.0
+    ],
+    "JumpBreakTime": [
+      0.35
+    ],
+    "MovePath": "",
+    "ShaderBrightness": [
+      0.0
+    ],
+    "ShaderLength": [
+      0.0
+    ],
+    "ShaderIsBreath": [
+      0
+    ],
+    "IsShowFootLine": false,
+    "EnergyConsume": [
+      0.0
+    ],
+    "BattleEnergyConsume": [
+      0.0
+    ],
+    "LowGravityHorSpeedRatio": 1.0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "101": {
+    "Id": 101,
+    "SeasonId": 1,
+    "SeasonTitle": "Season Entry",
+    "PreviewType": 2,
+    "ResourceRoute": [],
+    "Content": "Bane Lord has become a source of corruption, eroding every corner of the world with Void Corruption Power!\\n\\n\\nMonsters chosen by Bane Lord awaken as <color=#ffcd97>Void Hosts</color>, gaining three enhanced abilities and evolving over time!\\n\\nDuring battles in Chaotic Realm, the seasonal entry <color=#ffcd97>Void Corruption</color> activates rhythmically like a heartbeat. Every skill cast is a battle against the environment!\\n\\nBeware! Bane Lord may directly tear open the battlefield as a <color=#ffcd97>Dimensional Observer</color>, invading player dimensions in Chaotic Realm! \\nWill the partys facing Bane Lord survive his devastating Void Corruption Power? Let's wait and see!",
+    "Sort": 101
+  },
+  "102": {
+    "Id": 102,
+    "SeasonId": 1,
+    "SeasonTitle": "Season Title and Emblem",
+    "PreviewType": 1,
+    "ResourceRoute": [],
+    "Content": "Increase your Season Title to unlock exclusive Emblems. Enhancing emblems boosts power this season to better face all challenges!",
+    "Sort": 102
+  },
+  "103": {
+    "Id": 103,
+    "SeasonId": 1,
+    "SeasonTitle": "Void Pass I - Outfits",
+    "PreviewType": 1,
+    "ResourceRoute": [],
+    "Content": "A maid outfit infused with technology, suitable for combat and stylish enough to show off futuristic fashion. Claimable after you purchase the Void Pass I and raise it to Level 30.",
+    "Sort": 103
+  },
+  "104": {
+    "Id": 104,
+    "SeasonId": 1,
+    "SeasonTitle": "Limited Title Outfit",
+    "PreviewType": 1,
+    "ResourceRoute": [],
+    "Content": "Alloy Armor with detachable gauntlets and greaves. Cold metal surfaces shimmer with golden energy circuits. Curves redesigned with bionic spine mechanics for precise joint fit. A perfect fusion of mechanical aesthetics and ergonomics.",
+    "Sort": 105
+  },
+  "105": {
+    "Id": 105,
+    "SeasonId": 1,
+    "SeasonTitle": "Void Pass II - Outfits",
+    "PreviewType": 1,
+    "ResourceRoute": [],
+    "Content": "In the stillness of the night, they walk the edge between light and shadow. Every movement, breath, and emotion is swallowed by the darkness, only to deliver fate's verdict in silence. Claimable after you purchase the Void Pass II and raise it to Level 30.",
+    "Sort": 104
+  },
+  "201": {
+    "Id": 201,
+    "SeasonId": 2,
+    "SeasonTitle": "Season Entry S2",
+    "PreviewType": 2,
+    "ResourceRoute": [],
+    "Content": "Comming soon...",
+    "Sort": 201
+  },
+  "202": {
+    "Id": 202,
+    "SeasonId": 2,
+    "SeasonTitle": "Season Title and Emblem S2",
+    "PreviewType": 1,
+    "ResourceRoute": [],
+    "Content": "Comming soon...",
+    "Sort": 202
+  }
+}

@@ -1,0 +1,3422 @@
+{
+  "50000": {
+    "FishingTemplateId": 50000,
+    "Name": "Configuration Template",
+    "SuitType": [
+      [
+        0,
+        1094001,
+        1094002
+      ],
+      [
+        1,
+        1,
+        5
+      ]
+    ],
+    "BiteTime": [
+      5.0,
+      -2000.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increase Hook Reaction Time"
+  },
+  "50001": {
+    "FishingTemplateId": 50001,
+    "Name": "Research Lv.1 - Common Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      5.0,
+      -2000.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increase Hook Reaction Time"
+  },
+  "50002": {
+    "FishingTemplateId": 50002,
+    "Name": "Research Lv.2 - Common Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      1000.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      1000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increase Hook Speed<br>Slightly Extend Unhook Time"
+  },
+  "50003": {
+    "FishingTemplateId": 50003,
+    "Name": "Research Lv.3 - Common Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      2000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Increase Hook Speed"
+  },
+  "50004": {
+    "FishingTemplateId": 50004,
+    "Name": "Research Lv.4 - Common Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      -2000.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      1500
+    ],
+    "OffSpeed": [
+      0,
+      -2000
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Increase Hook Speed<br>Greatly Decrease Unhook Speed"
+  },
+  "50005": {
+    "FishingTemplateId": 50005,
+    "Name": "Research Lv.1 - Rare Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      5.0,
+      -2000.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increase Hook Reaction Time"
+  },
+  "50006": {
+    "FishingTemplateId": 50006,
+    "Name": "Research Lv.2 - Rare Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      1000.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      1000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increase Hook Speed<br>Slightly Extend Unhook Time"
+  },
+  "50007": {
+    "FishingTemplateId": 50007,
+    "Name": "Research Lv.3 - Rare Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      2000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Increase Hook Speed"
+  },
+  "50008": {
+    "FishingTemplateId": 50008,
+    "Name": "Research Lv.4 - Rare Fish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      -2000.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      1500
+    ],
+    "OffSpeed": [
+      0,
+      -2000
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Increase Hook Speed<br>Greatly Decrease Unhook Speed"
+  },
+  "60001": {
+    "FishingTemplateId": 60001,
+    "Name": "Regular Pole",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "No Special Bonus"
+  },
+  "60002": {
+    "FishingTemplateId": 60002,
+    "Name": "Sturdy Pole",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increases Hook Speed"
+  },
+  "60003": {
+    "FishingTemplateId": 60003,
+    "Name": "Flexible Fishing Pole",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      -2000
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      -2000
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      -2000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      -2000
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Reduces Fishing Line Tension Accumulation Speed"
+  },
+  "40001": {
+    "FishingTemplateId": 40001,
+    "Name": "Research Lv.1 - Asterscad",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the Probability of Catching 3-Star Asterscad"
+  },
+  "40002": {
+    "FishingTemplateId": 40002,
+    "Name": "Research Lv.2 - Asterscad",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.2,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the Probability of Catching 3-Star and 4-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+  },
+  "40003": {
+    "FishingTemplateId": 40003,
+    "Name": "Research Lv.3 - Asterscad",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.3,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly Increases the Probability of Catching 5-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+  },
+  "40004": {
+    "FishingTemplateId": 40004,
+    "Name": "Research Lv.4 - Asterscad",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.4,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly Increases the Probability of Catching 5-Star Asterscad<br>Slightly Increases the Time from Bite to Escape"
+  },
+  "40005": {
+    "FishingTemplateId": 40005,
+    "Name": "Research Lv.1 - Continental Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the Probability of Catching 3-Star Continental Puffer"
+  },
+  "40006": {
+    "FishingTemplateId": 40006,
+    "Name": "Research Lv.2 - Continental Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.2,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star and 4-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+  },
+  "40007": {
+    "FishingTemplateId": 40007,
+    "Name": "Research Lv.2 - Continental Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.3,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+  },
+  "40008": {
+    "FishingTemplateId": 40008,
+    "Name": "Research Lv.4 - Continental Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.4,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increase the probability of catching a 5-star Continental Puffer<br>Slightly increase the duration of fish escaping during reeling"
+  },
+  "40009": {
+    "FishingTemplateId": 40009,
+    "Name": "Research Lv.1 - Rockpea",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star Rockpea"
+  },
+  "40010": {
+    "FishingTemplateId": 40010,
+    "Name": "Research Lv.2 - Rockpea",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.1,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star and 4-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40011": {
+    "FishingTemplateId": 40011,
+    "Name": "Research Lv.2 - Rockpea",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.2,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40012": {
+    "FishingTemplateId": 40012,
+    "Name": "Research Lv.4 - Rockpea",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.3,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increase the probability of catching a 5-star Rockpea<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40013": {
+    "FishingTemplateId": 40013,
+    "Name": "Research Lv.1 - Azure Damsel",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star Azure Damsel"
+  },
+  "40014": {
+    "FishingTemplateId": 40014,
+    "Name": "Research Lv.2 - Azure Damsel",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      2000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      2000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star and 4-star Azure Damsel<br>Slightly increase the speed of reeling in fish, while also slightly increasing the growth rate of line tension"
+  },
+  "40015": {
+    "FishingTemplateId": 40015,
+    "Name": "Research Lv.2 - Azure Damsel",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      3500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      3500
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Azure Damsel<br>Increase the speed of reeling in fish, while also increasing the growth rate of line tension"
+  },
+  "40016": {
+    "FishingTemplateId": 40016,
+    "Name": "Research Lv.4 - Azure Damsel",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      5000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      5000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increase the probability of catching a 5-star Azure Damsel<br>Greatly increase the speed of reeling in fish, while also greatly increasing the growth rate of line tension"
+  },
+  "40017": {
+    "FishingTemplateId": 40017,
+    "Name": "Research Lv.1 - Astermackere",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star Astermackere"
+  },
+  "40018": {
+    "FishingTemplateId": 40018,
+    "Name": "Research Lv.2 - Astermackere",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -1,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star and 4-star Astermackere<br>Slightly reduce the speed of fish returning"
+  },
+  "40019": {
+    "FishingTemplateId": 40019,
+    "Name": "Research Lv.2 - Astermackere",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching 5-star Astermackere<br>Slightly reduce the speed of fish returning"
+  },
+  "40020": {
+    "FishingTemplateId": 40020,
+    "Name": "Research Lv.4 - Astermackere",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Significantly increase the probability of catching 5-star Astermackere<br>Reduce the speed of fish returning"
+  },
+  "40021": {
+    "FishingTemplateId": 40021,
+    "Name": "Research Lv.1 - Regnus Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star Regnus Bighead"
+  },
+  "40022": {
+    "FishingTemplateId": 40022,
+    "Name": "Research Lv.2 - Regnus Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -2,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star and 4-star Regnus Bighead<br>Slightly reduce the rate of line tension increase when not pulling fish"
+  },
+  "40023": {
+    "FishingTemplateId": 40023,
+    "Name": "Research Lv.2 - Regnus Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -3,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching 5-star Regnus Bighead<br>Slightly reduce the rate of line tension increase when not pulling fish"
+  },
+  "40024": {
+    "FishingTemplateId": 40024,
+    "Name": "Research Lv.4 - Regnus Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      -5,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      -5,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Significantly increase the probability of catching 5-star Regnus Bighead<br>Reduce the rate of line tension increase when not pulling fish"
+  },
+  "40025": {
+    "FishingTemplateId": 40025,
+    "Name": "Research Lv.1 - Stellar Squirrelfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the probability of catching a 3-star Stellar Squirrelfish"
+  },
+  "40026": {
+    "FishingTemplateId": 40026,
+    "Name": "Research Lv.2 - Stellar Squirrelfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -2,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -2,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the probability of catching 3-star and 4-star Stellar Squirrelfish<br>Slightly reduces the rate of tension increase on the fishing line when pulling the fish"
+  },
+  "40027": {
+    "FishingTemplateId": 40027,
+    "Name": "Research Lv.2 - Stellar Squirrelfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -3,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -3,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increases the probability of catching a 5-star Stellar Squirrelfish<br>Reduces the rate of tension increase on the fishing line when pulling the fish"
+  },
+  "40028": {
+    "FishingTemplateId": 40028,
+    "Name": "Research Lv.4 - Stellar Squirrelfish",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      -5,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      -5,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Significantly increases the probability of catching a 5-star Stellar Squirrelfish<br>Significantly reduces the rate of tension increase on the fishing line when pulling the fish"
+  },
+  "40029": {
+    "FishingTemplateId": 40029,
+    "Name": "Research Lv.1 - Lantern Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increases the probability of catching a 3-star Lantern Puffer"
+  },
+  "40030": {
+    "FishingTemplateId": 40030,
+    "Name": "Research Lv.2 - Lantern Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -1000.0
+    ],
+    "Describe": "Increases the probability of catching 3-star and 4-star Lantern Puffer<br>Slightly reduces the swimming speed of the fish in water"
+  },
+  "40031": {
+    "FishingTemplateId": 40031,
+    "Name": "Research Lv.2 - Lantern Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -1750.0
+    ],
+    "Describe": "Slightly increases the probability of catching a 5-star Lantern Puffer<br>Slightly reduces the swimming speed of the fish in water"
+  },
+  "40032": {
+    "FishingTemplateId": 40032,
+    "Name": "Research Lv.4 - Lantern Puffer",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      -2500.0
+    ],
+    "Describe": "Significantly increases the probability of catching a 5-star Lantern Puffer<br>Significantly reduces the swimming speed of the fish in water"
+  },
+  "40033": {
+    "FishingTemplateId": 40033,
+    "Name": "Research Lv.1 - Flaming Grouper",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star Flaming Grouper"
+  },
+  "40034": {
+    "FishingTemplateId": 40034,
+    "Name": "Research Lv.2 - Flaming Grouper",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -1,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star and 4-star Flaming Grouper<br>Slightly reduce the fish's return speed"
+  },
+  "40035": {
+    "FishingTemplateId": 40035,
+    "Name": "Research Lv.2 - Flaming Grouper",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -2,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Flaming Grouper<br>Slightly reduce the fish's return speed"
+  },
+  "40036": {
+    "FishingTemplateId": 40036,
+    "Name": "Research Lv.4 - Flaming Grouper",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      -3,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Significantly increase the probability of catching a 5-star Flaming Grouper<br>Reduce the fish's return speed"
+  },
+  "40037": {
+    "FishingTemplateId": 40037,
+    "Name": "Research Lv.1 - Snowy Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star Snowy Bighead"
+  },
+  "40038": {
+    "FishingTemplateId": 40038,
+    "Name": "Research Lv.2 - Snowy Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.1,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star and 4-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40039": {
+    "FishingTemplateId": 40039,
+    "Name": "Research Lv.2 - Snowy Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.2,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40040": {
+    "FishingTemplateId": 40040,
+    "Name": "Research Lv.4 - Snowy Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.3,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Significantly increase the probability of catching a 5-star Snowy Bighead<br>Slightly increase the interval of fish escaping backward during reeling"
+  },
+  "40041": {
+    "FishingTemplateId": 40041,
+    "Name": "Research Lv.1 - Hanikon Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      0
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching a 3-star Hanikon Bighead"
+  },
+  "40042": {
+    "FishingTemplateId": 40042,
+    "Name": "Research Lv.2 - Hanikon Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      2000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      2000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Increase the probability of catching 3-star and 4-star Hanikon Bighead<br>Slightly increase the reeling speed, while also slightly increasing the growth rate of line tension"
+  },
+  "40043": {
+    "FishingTemplateId": 40043,
+    "Name": "Research Lv.2 - Hanikon Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      3500
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      3500
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Slightly increase the probability of catching a 5-star Hanikon Bighead<br>Increase the reeling speed, while also increasing the growth rate of line tension"
+  },
+  "40044": {
+    "FishingTemplateId": 40044,
+    "Name": "Research Lv.4 - Hanikon Bighead",
+    "SuitType": [
+      [
+        1,
+        1,
+        2,
+        5
+      ]
+    ],
+    "BiteTime": [
+      0.0,
+      0.0
+    ],
+    "OffHookTime": [
+      0.0,
+      0.0
+    ],
+    "OffTime": [
+      0.0,
+      0.0
+    ],
+    "DrawSpeed": [
+      0,
+      5000
+    ],
+    "OffSpeed": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "DiffDirectionSpeedWithDraw": [
+      0,
+      0
+    ],
+    "SameDirectionSpeedWithDraw": [
+      0,
+      5000
+    ],
+    "SameDirectionSpeedWithoutDraw": [
+      0,
+      0
+    ],
+    "FishPathInterval": [
+      0.0,
+      0.0
+    ],
+    "FishStayInterval": [
+      0.0,
+      0.0
+    ],
+    "FishSpeed": [
+      0.0,
+      0.0
+    ],
+    "Describe": "Greatly increase the probability of catching a 5-star Hanikon Bighead<br>Greatly increase the speed of reeling in the fish while also significantly increasing the growth rate of the fishing line tension"
+  }
+}

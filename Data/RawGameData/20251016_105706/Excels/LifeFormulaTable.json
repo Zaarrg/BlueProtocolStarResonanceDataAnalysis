@@ -1,0 +1,2928 @@
+{
+  "101001": {
+    "Id": 101001,
+    "ProId": 101,
+    "GroupId": 1001,
+    "Level": 1,
+    "Name": "Mushroom Novice",
+    "Des": "Gather common mushrooms.",
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      101007
+    ]
+  },
+  "101002": {
+    "Id": 101002,
+    "ProId": 101,
+    "GroupId": 1002,
+    "Level": 1,
+    "Name": "Fruit Novice",
+    "Des": "Gather common fruits and vegetables.",
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      101008
+    ]
+  },
+  "101003": {
+    "Id": 101003,
+    "ProId": 101,
+    "GroupId": 1003,
+    "Level": 1,
+    "Name": "Herb Novice",
+    "Des": "Gather common herbs.",
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      101009
+    ]
+  },
+  "101004": {
+    "Id": 101004,
+    "ProId": 101,
+    "GroupId": 1004,
+    "Level": 1,
+    "Name": "Spare Pouch Lv.1",
+    "Des": "10% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_collect/backup_gathering_basket_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      101005,
+      101013
+    ]
+  },
+  "101005": {
+    "Id": 101005,
+    "ProId": 101,
+    "GroupId": 1005,
+    "Level": 1,
+    "Name": "Spare Pouch Lv.2",
+    "Des": "20% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_collect/backup_gathering_basket_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        1004,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      101006
+    ]
+  },
+  "101006": {
+    "Id": 101006,
+    "ProId": 101,
+    "GroupId": 1006,
+    "Level": 1,
+    "Name": "Spare Pouch Lv.3",
+    "Des": "30% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_collect/backup_gathering_basket_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        1005,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "101007": {
+    "Id": 101007,
+    "ProId": 101,
+    "GroupId": 1007,
+    "Level": 1,
+    "Name": "Mushroom Pro",
+    "Des": "Gather uncommon mushrooms.",
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      101010
+    ]
+  },
+  "101008": {
+    "Id": 101008,
+    "ProId": 101,
+    "GroupId": 1008,
+    "Level": 1,
+    "Name": "Fruit Pro",
+    "Des": "Gather uncommon fruits and vegetables.",
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1002,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      101011
+    ]
+  },
+  "101009": {
+    "Id": 101009,
+    "ProId": 101,
+    "GroupId": 1009,
+    "Level": 1,
+    "Name": "Herb Pro",
+    "Des": "Gather uncommon herbs.",
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1003,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      101012
+    ]
+  },
+  "101010": {
+    "Id": 101010,
+    "ProId": 101,
+    "GroupId": 1010,
+    "Level": 1,
+    "Name": "Mushroom Master",
+    "Des": "Gather rare mushrooms.",
+    "Icon": "ui/atlas/life_formula/life_collect/mushroom_gathering_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1007,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "101011": {
+    "Id": 101011,
+    "ProId": 101,
+    "GroupId": 1011,
+    "Level": 1,
+    "Name": "Fruit Master",
+    "Des": "Gather rare fruits and vegetables.",
+    "Icon": "ui/atlas/life_formula/life_collect/fruit_gathering_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1008,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "101012": {
+    "Id": 101012,
+    "ProId": 101,
+    "GroupId": 1012,
+    "Level": 1,
+    "Name": "Herb Master",
+    "Des": "Gather rare herbs.",
+    "Icon": "ui/atlas/life_formula/life_collect/herb_gathering_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1009,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "101013": {
+    "Id": 101013,
+    "ProId": 101,
+    "GroupId": 1013,
+    "Level": 1,
+    "Name": "Fast Gathering Lv.1",
+    "Des": "Reduces gathering time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1004,
+        1
+      ],
+      [
+        58,
+        101,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99014,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      101014
+    ]
+  },
+  "101014": {
+    "Id": 101014,
+    "ProId": 101,
+    "GroupId": 1014,
+    "Level": 1,
+    "Name": "Fast Gathering Lv.2",
+    "Des": "Reduces gathering time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        1013,
+        1
+      ],
+      [
+        58,
+        101,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99014,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "102001": {
+    "Id": 102001,
+    "ProId": 102,
+    "GroupId": 10201,
+    "Level": 1,
+    "Name": "Baru Ore Novice",
+    "Des": "Gather Baru Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      102004
+    ]
+  },
+  "102002": {
+    "Id": 102002,
+    "ProId": 102,
+    "GroupId": 10202,
+    "Level": 1,
+    "Name": "Azte Ore Novice",
+    "Des": "Gather Azte Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/pepper_talent_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      102005
+    ]
+  },
+  "102003": {
+    "Id": 102003,
+    "ProId": 102,
+    "GroupId": 10203,
+    "Level": 1,
+    "Name": "Luna Ore Novice",
+    "Des": "Gather Luna Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/silver_talent_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      102006
+    ]
+  },
+  "102004": {
+    "Id": 102004,
+    "ProId": 102,
+    "GroupId": 10204,
+    "Level": 1,
+    "Name": "Baru Ore Pro",
+    "Des": "Gather Baru Rich Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10201,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      102008
+    ]
+  },
+  "102005": {
+    "Id": 102005,
+    "ProId": 102,
+    "GroupId": 10205,
+    "Level": 1,
+    "Name": "Azte Ore Pro",
+    "Des": "Gather Azte Rich Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/pepper_talent_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10202,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      102009
+    ]
+  },
+  "102006": {
+    "Id": 102006,
+    "ProId": 102,
+    "GroupId": 10206,
+    "Level": 1,
+    "Name": "Luna Ore Pro",
+    "Des": "Gather Luna Rich Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/silver_talent_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10203,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      102010
+    ]
+  },
+  "102007": {
+    "Id": 102007,
+    "ProId": 102,
+    "GroupId": 10207,
+    "Level": 1,
+    "Name": "Stokes Ore Pro",
+    "Des": "Gather Stokes Rich Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/gold_talent_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      102011
+    ]
+  },
+  "102008": {
+    "Id": 102008,
+    "ProId": 102,
+    "GroupId": 10208,
+    "Level": 1,
+    "Name": "Baru Ore Master",
+    "Des": "Gather Baru Pure Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/iron_talent_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10204,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "102009": {
+    "Id": 102009,
+    "ProId": 102,
+    "GroupId": 10209,
+    "Level": 1,
+    "Name": "Azte Ore Master",
+    "Des": "Gather Azte Pure Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/pepper_talent_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10205,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "102010": {
+    "Id": 102010,
+    "ProId": 102,
+    "GroupId": 10210,
+    "Level": 1,
+    "Name": "Luna Ore Master",
+    "Des": "Gather Luna Pure Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/silver_talent_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10206,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "102011": {
+    "Id": 102011,
+    "ProId": 102,
+    "GroupId": 10211,
+    "Level": 1,
+    "Name": "Stokes Ore Master",
+    "Des": "Gather Stokes Pure Ore.",
+    "Icon": "ui/atlas/life_formula/life_mining/gold_talent_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10207,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "102012": {
+    "Id": 102012,
+    "ProId": 102,
+    "GroupId": 10212,
+    "Level": 1,
+    "Name": "Mining Yielding Novice",
+    "Des": "10% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_mining/mine_master_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      102013,
+      102015
+    ]
+  },
+  "102013": {
+    "Id": 102013,
+    "ProId": 102,
+    "GroupId": 10213,
+    "Level": 1,
+    "Name": "Mining Yielding Pro",
+    "Des": "20% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_mining/mine_master_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        10212,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      102014
+    ]
+  },
+  "102014": {
+    "Id": 102014,
+    "ProId": 102,
+    "GroupId": 10214,
+    "Level": 1,
+    "Name": "Mining Yielding Master",
+    "Des": "30% chance to gain 1 extra item when gathering with focus.",
+    "Icon": "ui/atlas/life_formula/life_mining/mine_master_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        10213,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "102015": {
+    "Id": 102015,
+    "ProId": 102,
+    "GroupId": 10215,
+    "Level": 1,
+    "Name": "Fast Mining",
+    "Des": "Reduces gathering time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_stone/extreme_digging",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10212,
+        1
+      ],
+      [
+        58,
+        102,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99020,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      102016
+    ]
+  },
+  "102016": {
+    "Id": 102016,
+    "ProId": 102,
+    "GroupId": 10216,
+    "Level": 1,
+    "Name": "Ultra-fast Mining",
+    "Des": "Reduces gathering time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_stone/extreme_digging",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10215,
+        1
+      ],
+      [
+        58,
+        102,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99020,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "103001": {
+    "Id": 103001,
+    "ProId": 103,
+    "GroupId": 10301,
+    "Level": 1,
+    "Name": "Ruby Novice",
+    "Des": "Gather raw Ruby to obtain Starlight Ruby Lv.1",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_introduction",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      103005
+    ]
+  },
+  "103002": {
+    "Id": 103002,
+    "ProId": 103,
+    "GroupId": 10302,
+    "Level": 1,
+    "Name": "Sapphire Novice",
+    "Des": "Gather raw Sapphire to obtain Starlight Sapphire Lv.1",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_introduction",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      103006
+    ]
+  },
+  "103003": {
+    "Id": 103003,
+    "ProId": 103,
+    "GroupId": 10303,
+    "Level": 1,
+    "Name": "Emerald Novice",
+    "Des": "Gather raw Emerald to obtain Starlight Emerald Lv.1",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_introduction",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      103007
+    ]
+  },
+  "103004": {
+    "Id": 103004,
+    "ProId": 103,
+    "GroupId": 10304,
+    "Level": 1,
+    "Name": "Topaz Novice",
+    "Des": "Gather raw Topazs to obtain Starlight Diamond Lv.1",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_introduction",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      103008
+    ]
+  },
+  "103005": {
+    "Id": 103005,
+    "ProId": 103,
+    "GroupId": 10305,
+    "Level": 1,
+    "Name": "Ruby Pro",
+    "Des": "Gather rich Ruby to obtain Starlight Ruby Lv.2",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10301,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      103009
+    ]
+  },
+  "103006": {
+    "Id": 103006,
+    "ProId": 103,
+    "GroupId": 10306,
+    "Level": 1,
+    "Name": "Sapphire Pro",
+    "Des": "Gather rich Sapphire to obtain Starlight Sapphire Lv.2",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10302,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      103010
+    ]
+  },
+  "103007": {
+    "Id": 103007,
+    "ProId": 103,
+    "GroupId": 10307,
+    "Level": 1,
+    "Name": "Emerald Pro",
+    "Des": "Gather rich Emerald to obtain Starlight Emerald Lv.2",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10303,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      103011
+    ]
+  },
+  "103008": {
+    "Id": 103008,
+    "ProId": 103,
+    "GroupId": 10308,
+    "Level": 1,
+    "Name": "Topaz Pro",
+    "Des": "Gather rich Topaz to obtain Starlight Diamond Lv.2",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_familiarity",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10304,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      103012
+    ]
+  },
+  "103009": {
+    "Id": 103009,
+    "ProId": 103,
+    "GroupId": 10309,
+    "Level": 1,
+    "Name": "Ruby Master",
+    "Des": "Gather Ruby Clusters to obtain Starlight Ruby Lv.3",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/ruby_mastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10305,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103010": {
+    "Id": 103010,
+    "ProId": 103,
+    "GroupId": 10310,
+    "Level": 1,
+    "Name": "Sapphire Master",
+    "Des": "Gather Sapphire Clusters to obtain Starlight Sapphire Lv.3",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/sapphire_mastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10306,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103011": {
+    "Id": 103011,
+    "ProId": 103,
+    "GroupId": 10311,
+    "Level": 1,
+    "Name": "Emerald Master",
+    "Des": "Gather Emerald Clusters to obtain Starlight Emerald Lv.3",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/emerald_mastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10307,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103012": {
+    "Id": 103012,
+    "ProId": 103,
+    "GroupId": 10312,
+    "Level": 1,
+    "Name": "Topaz Master",
+    "Des": "Gather Topaz Clusters to obtain Starlight Diamond Lv.3",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/white_sapphire_mastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10308,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103013": {
+    "Id": 103013,
+    "ProId": 103,
+    "GroupId": 10313,
+    "Level": 1,
+    "Name": "Gem Yielding Novice",
+    "Des": "10% chance to gain 1 extra gem when gathering gemstones with focus.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/extra_output_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      103014,
+      103016
+    ]
+  },
+  "103014": {
+    "Id": 103014,
+    "ProId": 103,
+    "GroupId": 10314,
+    "Level": 1,
+    "Name": "Gem Yielding Pro",
+    "Des": "20% chance to gain 1 extra gem when gathering gemstones with focus.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/extra_output_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        10313,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      103015
+    ]
+  },
+  "103015": {
+    "Id": 103015,
+    "ProId": 103,
+    "GroupId": 10315,
+    "Level": 1,
+    "Name": "Gem Yielding Master",
+    "Des": "30% chance to gain 1 extra gem when gathering gemstones with focus.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/extra_output_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        10314,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "103016": {
+    "Id": 103016,
+    "ProId": 103,
+    "GroupId": 10316,
+    "Level": 1,
+    "Name": "Fast Mining",
+    "Des": "Reduces gathering time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_stone/all_treasuresmastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10313,
+        1
+      ],
+      [
+        58,
+        103,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99021,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      103017
+    ]
+  },
+  "103017": {
+    "Id": 103017,
+    "ProId": 103,
+    "GroupId": 10317,
+    "Level": 1,
+    "Name": "Ultra-fast Mining",
+    "Des": "Reduces gathering time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_stone/all_treasuresmastery",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        10316,
+        1
+      ],
+      [
+        58,
+        103,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99021,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "201001": {
+    "Id": 201001,
+    "ProId": 201,
+    "GroupId": 2001,
+    "Level": 1,
+    "Name": "Fish Novice",
+    "Des": "Learn to process fish and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201005
+    ]
+  },
+  "201002": {
+    "Id": 201002,
+    "ProId": 201,
+    "GroupId": 2002,
+    "Level": 1,
+    "Name": "Meat Novice",
+    "Des": "Learn to process fresh meat and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/meat_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201006
+    ]
+  },
+  "201003": {
+    "Id": 201003,
+    "ProId": 201,
+    "GroupId": 2003,
+    "Level": 1,
+    "Name": "Mushroom Novice",
+    "Des": "Learn to cook using Meadow Mushroom.",
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201007
+    ]
+  },
+  "201004": {
+    "Id": 201004,
+    "ProId": 201,
+    "GroupId": 2004,
+    "Level": 1,
+    "Name": "Fruit Novice",
+    "Des": "Learn to cook using Sweet Berries.",
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201008
+    ]
+  },
+  "201005": {
+    "Id": 201005,
+    "ProId": 201,
+    "GroupId": 2005,
+    "Level": 1,
+    "Name": "Fish Pro",
+    "Des": "Learn to process Premium Fish Meat and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      201009
+    ]
+  },
+  "201006": {
+    "Id": 201006,
+    "ProId": 201,
+    "GroupId": 2006,
+    "Level": 1,
+    "Name": "Meat Pro",
+    "Des": "Learn to process Premium Raw Meat and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/meat_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2002,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      201010
+    ]
+  },
+  "201007": {
+    "Id": 201007,
+    "ProId": 201,
+    "GroupId": 2007,
+    "Level": 1,
+    "Name": "Mushroom Pro",
+    "Des": "Learn to cook using Glowshroom.",
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2003,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      201011
+    ]
+  },
+  "201008": {
+    "Id": 201008,
+    "ProId": 201,
+    "GroupId": 2008,
+    "Level": 1,
+    "Name": "Fruit Pro",
+    "Des": "Learn to cook using Umu Fruit.",
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2004,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      201012
+    ]
+  },
+  "201009": {
+    "Id": 201009,
+    "ProId": 201,
+    "GroupId": 2009,
+    "Level": 1,
+    "Name": "Fish Master",
+    "Des": "Learn to process Premium Fish Meat and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/fish_dishes_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2005,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201010": {
+    "Id": 201010,
+    "ProId": 201,
+    "GroupId": 2010,
+    "Level": 1,
+    "Name": "Meat Master",
+    "Des": "Learn to process Exquisite Raw Meat and cook with it.",
+    "Icon": "ui/atlas/life_formula/life_cook/meat_dishes_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2006,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201011": {
+    "Id": 201011,
+    "ProId": 201,
+    "GroupId": 2011,
+    "Level": 1,
+    "Name": "Mushroom Master",
+    "Des": "Learn to cook using Granny Pine.",
+    "Icon": "ui/atlas/life_formula/life_cook/mushroom_dishes_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2007,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201012": {
+    "Id": 201012,
+    "ProId": 201,
+    "GroupId": 2012,
+    "Level": 1,
+    "Name": "Fruit Master",
+    "Des": "Learn to cook using Azure Fruit.",
+    "Icon": "ui/atlas/life_formula/life_cook/fruit_dishes_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2008,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201013": {
+    "Id": 201013,
+    "ProId": 201,
+    "GroupId": 2013,
+    "Level": 1,
+    "Name": "Cheer-Up Treat Pro",
+    "Des": "Learn to make Cheer-Up Treat.",
+    "Icon": "ui/atlas/life_formula/life_cook/lifeformula_dessert_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201014": {
+    "Id": 201014,
+    "ProId": 201,
+    "GroupId": 2014,
+    "Level": 1,
+    "Name": "Make Tempting Bait",
+    "Des": "Learn to make Tempting Bait.",
+    "Icon": "ui/atlas/life_formula/life_cook/lifeformula_fishbait_dishes_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201015": {
+    "Id": 201015,
+    "ProId": 201,
+    "GroupId": 2015,
+    "Level": 1,
+    "Name": "Lucky Cooking Lv.1",
+    "Des": "10% chance to gain 1 extra item when cooking or processing (Does not apply to Cheer-Up Treat).",
+    "Icon": "ui/atlas/life_formula/life_cook/lucky_cooking_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      201016,
+      201018
+    ]
+  },
+  "201016": {
+    "Id": 201016,
+    "ProId": 201,
+    "GroupId": 2016,
+    "Level": 1,
+    "Name": "Lucky Cooking Lv.2",
+    "Des": "20% chance to gain 1 extra item when cooking or processing (Does not apply to Cheer-Up Treat).",
+    "Icon": "ui/atlas/life_formula/life_cook/lucky_cooking_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        2015,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      201017
+    ]
+  },
+  "201017": {
+    "Id": 201017,
+    "ProId": 201,
+    "GroupId": 2017,
+    "Level": 1,
+    "Name": "Lucky Cooking Lv.3",
+    "Des": "30% chance to gain 1 extra item when cooking or processing (Does not apply to Cheer-Up Treat).",
+    "Icon": "ui/atlas/life_formula/life_cook/lucky_cooking_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        2016,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "201018": {
+    "Id": 201018,
+    "ProId": 201,
+    "GroupId": 2018,
+    "Level": 1,
+    "Name": "Fast Cooking",
+    "Des": "Reduces cooking/processing time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2015,
+        1
+      ],
+      [
+        58,
+        201,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99024,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      201019
+    ]
+  },
+  "201019": {
+    "Id": 201019,
+    "ProId": 201,
+    "GroupId": 2019,
+    "Level": 1,
+    "Name": "Ultra-fast Cooking",
+    "Des": "Reduces cooking/processing time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        2018,
+        1
+      ],
+      [
+        58,
+        201,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99024,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "202001": {
+    "Id": 202001,
+    "ProId": 202,
+    "GroupId": 3001,
+    "Level": 1,
+    "Name": "Herbal Lv.1",
+    "Des": "Learn to craft Healing Aromatic using Snowflake Parsley.",
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202002
+    ]
+  },
+  "202002": {
+    "Id": 202002,
+    "ProId": 202,
+    "GroupId": 3002,
+    "Level": 1,
+    "Name": "Herbal Lv.2",
+    "Des": "Learn to craft Healing Aromatic using Pink Musk. Recovery effect may improve.",
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202003
+    ]
+  },
+  "202003": {
+    "Id": 202003,
+    "ProId": 202,
+    "GroupId": 3003,
+    "Level": 1,
+    "Name": "Herbal Lv.3",
+    "Des": "Learn to craft Healing Aromatic using Whispering Orchid. Recovery effect may greatly improve.",
+    "Icon": "ui/atlas/life_formula/life_refine/herb_lore_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3002,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202004": {
+    "Id": 202004,
+    "ProId": 202,
+    "GroupId": 3004,
+    "Level": 1,
+    "Name": "Ice & Fire Lv.1",
+    "Des": "Learn to process Ice Particle Lv.1 and Fire Particle Lv.1, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202005
+    ]
+  },
+  "202005": {
+    "Id": 202005,
+    "ProId": 202,
+    "GroupId": 3005,
+    "Level": 1,
+    "Name": "Ice & Fire Lv.2",
+    "Des": "Learn to process Ice Particle Lv.2 and Fire Particle Lv.2, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3004,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202006
+    ]
+  },
+  "202006": {
+    "Id": 202006,
+    "ProId": 202,
+    "GroupId": 3006,
+    "Level": 1,
+    "Name": "Ice & Fire Lv.3",
+    "Des": "Learn to process Ice Particle Lv.3 and Fire Particle Lv.3, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/ice_and_fire_lore_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3005,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202007": {
+    "Id": 202007,
+    "ProId": 202,
+    "GroupId": 3007,
+    "Level": 1,
+    "Name": "Nature Lv.1",
+    "Des": "Learn to process Forest Particle Lv.1 and Earth Particle Lv.1, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202008
+    ]
+  },
+  "202008": {
+    "Id": 202008,
+    "ProId": 202,
+    "GroupId": 3008,
+    "Level": 1,
+    "Name": "Nature Lv.2",
+    "Des": "Learn to process Forest Particle Lv.2 and Earth Particle Lv.2, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3007,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202009
+    ]
+  },
+  "202009": {
+    "Id": 202009,
+    "ProId": 202,
+    "GroupId": 3009,
+    "Level": 1,
+    "Name": "Nature Lv.3",
+    "Des": "Learn to process Forest Particle Lv.3 and Earth Particle Lv.3, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/nature_lore_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3008,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202010": {
+    "Id": 202010,
+    "ProId": 202,
+    "GroupId": 3010,
+    "Level": 1,
+    "Name": "Wind & Thunder Lv.1",
+    "Des": "Learn to process Wind Particle Lv.1 and Thunder Particle Lv.1, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202011
+    ]
+  },
+  "202011": {
+    "Id": 202011,
+    "ProId": 202,
+    "GroupId": 3011,
+    "Level": 1,
+    "Name": "Wind & Thunder Lv.2",
+    "Des": "Learn to process Wind Particle Lv.2 and Thunder Particle Lv.2, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3010,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202012
+    ]
+  },
+  "202012": {
+    "Id": 202012,
+    "ProId": 202,
+    "GroupId": 3012,
+    "Level": 1,
+    "Name": "Wind & Thunder Lv.3",
+    "Des": "Learn to process Wind Particle Lv.3 and Thunder Particle Lv.3, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/wind_and_thunder_lore_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3011,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202013": {
+    "Id": 202013,
+    "ProId": 202,
+    "GroupId": 3013,
+    "Level": 1,
+    "Name": "Light & Dark Lv.1",
+    "Des": "Learn to process Light Particle Lv.1 and Dark Particle Lv.1, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202014
+    ]
+  },
+  "202014": {
+    "Id": 202014,
+    "ProId": 202,
+    "GroupId": 3014,
+    "Level": 1,
+    "Name": "Light & Dark Lv.2",
+    "Des": "Learn to process Light Particle Lv.2 and Dark Particle Lv.2, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3013,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202015
+    ]
+  },
+  "202015": {
+    "Id": 202015,
+    "ProId": 202,
+    "GroupId": 3015,
+    "Level": 1,
+    "Name": "Light & Dark Lv.3",
+    "Des": "Learn to process Light Particle Lv.3 and Dark Particle Lv.3, and use them to craft potions.",
+    "Icon": "ui/atlas/life_formula/life_refine/light_and_dark_lore_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3014,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202016": {
+    "Id": 202016,
+    "ProId": 202,
+    "GroupId": 3016,
+    "Level": 1,
+    "Name": "Spray Crafting",
+    "Des": "Learn to craft furniture dye sprays.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_color_spray_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202017
+    ]
+  },
+  "202017": {
+    "Id": 202017,
+    "ProId": 202,
+    "GroupId": 3017,
+    "Level": 1,
+    "Name": "Spray Yielding Lv.1",
+    "Des": "20% chance to gain 1 extra item when crafting furniture dye sprays.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_color_spray_increase_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        3016,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202018
+    ]
+  },
+  "202018": {
+    "Id": 202018,
+    "ProId": 202,
+    "GroupId": 3018,
+    "Level": 1,
+    "Name": "Spray Yielding Lv.2",
+    "Des": "30% chance to gain 1 extra item when crafting furniture dye sprays.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_color_spray_increase_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        3017,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202019": {
+    "Id": 202019,
+    "ProId": 202,
+    "GroupId": 3019,
+    "Level": 1,
+    "Name": "Alchemy Refine Lv.1",
+    "Des": "10% chance to gain 1 extra item when brewing potions or processing elemental particles (Does not apply to Arcane & Knowledge Conversion Potions).",
+    "Icon": "ui/atlas/life_formula/life_refine/equipment_improvement_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      202020,
+      202022
+    ]
+  },
+  "202020": {
+    "Id": 202020,
+    "ProId": 202,
+    "GroupId": 3020,
+    "Level": 1,
+    "Name": "Alchemy Refine Lv.2",
+    "Des": "20% chance to gain 1 extra item when brewing potions or processing elemental particles.",
+    "Icon": "ui/atlas/life_formula/life_refine/equipment_improvement_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        3019,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      202021
+    ]
+  },
+  "202021": {
+    "Id": 202021,
+    "ProId": 202,
+    "GroupId": 3021,
+    "Level": 1,
+    "Name": "Alchemy Refine Lv.3",
+    "Des": "30% chance to gain 1 extra item when brewing potions or processing elemental particles.",
+    "Icon": "ui/atlas/life_formula/life_refine/equipment_improvement_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        3020,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "202022": {
+    "Id": 202022,
+    "ProId": 202,
+    "GroupId": 3022,
+    "Level": 1,
+    "Name": "Fast Alchemy",
+    "Des": "Reduces brewing time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_quick_alchemy_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3019,
+        1
+      ],
+      [
+        58,
+        202,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99025,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      202023
+    ]
+  },
+  "202023": {
+    "Id": 202023,
+    "ProId": 202,
+    "GroupId": 3023,
+    "Level": 1,
+    "Name": "Ultra-fast Alchemy",
+    "Des": "Reduces brewing time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_quick_alchemy_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        3022,
+        1
+      ],
+      [
+        58,
+        202,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99025,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "202024": {
+    "Id": 202024,
+    "ProId": 202,
+    "GroupId": 3024,
+    "Level": 1,
+    "Name": "Potion Crafting",
+    "Des": "Learn to craft Arcane and Insight Conversion Potions using Tokiwa Grass.",
+    "Icon": "ui/atlas/life_formula/life_refine/lifeformula_transform_agent_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203001": {
+    "Id": 203001,
+    "ProId": 203,
+    "GroupId": 4001,
+    "Level": 1,
+    "Name": "Metal Producing Lv.1",
+    "Des": "Use Baru Ore to produce Mystery Metal",
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      203002
+    ]
+  },
+  "203002": {
+    "Id": 203002,
+    "ProId": 203,
+    "GroupId": 4002,
+    "Level": 1,
+    "Name": "Metal Producing Lv.2",
+    "Des": "Use Baru Rich Ore to produce Mystery Metal",
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      203003
+    ]
+  },
+  "203003": {
+    "Id": 203003,
+    "ProId": 203,
+    "GroupId": 4003,
+    "Level": 1,
+    "Name": "Metal Producing Lv.3",
+    "Des": "Use Baru Pure Ore to produce Mystery Metal",
+    "Icon": "ui/atlas/life_formula/life_foundry/holy_metal_expertise_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4002,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203004": {
+    "Id": 203004,
+    "ProId": 203,
+    "GroupId": 4004,
+    "Level": 1,
+    "Name": "Stone Producing Lv.1",
+    "Des": "Use Azte Ore to produce Radiant Stone",
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      203005
+    ]
+  },
+  "203005": {
+    "Id": 203005,
+    "ProId": 203,
+    "GroupId": 4005,
+    "Level": 1,
+    "Name": "Stone Producing Lv.2",
+    "Des": "Use Azte Rich Ore to produce Radiant Stone",
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4004,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      203006
+    ]
+  },
+  "203006": {
+    "Id": 203006,
+    "ProId": 203,
+    "GroupId": 4006,
+    "Level": 1,
+    "Name": "Stone Producing Lv.3",
+    "Des": "Use Azte Pure Ore to produce Radiant Stone",
+    "Icon": "ui/atlas/life_formula/life_foundry/radiant_stone_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4005,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203007": {
+    "Id": 203007,
+    "ProId": 203,
+    "GroupId": 4007,
+    "Level": 1,
+    "Name": "Stone Forging Lv.1",
+    "Des": "Use Luna Ore to produce Fine Forgestone",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      203008
+    ]
+  },
+  "203008": {
+    "Id": 203008,
+    "ProId": 203,
+    "GroupId": 4008,
+    "Level": 1,
+    "Name": "Stone Forging Lv.2",
+    "Des": "Use Luna Rich Ore to produce Fine Forgestone",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4007,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      203009
+    ]
+  },
+  "203009": {
+    "Id": 203009,
+    "ProId": 203,
+    "GroupId": 4009,
+    "Level": 1,
+    "Name": "Stone Forging Lv.3",
+    "Des": "Use Luna Pure Ore to produce Fine Forgestone",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_god_metal_02_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4008,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203010": {
+    "Id": 203010,
+    "ProId": 203,
+    "GroupId": 4010,
+    "Level": 1,
+    "Name": "Machining Lv.1",
+    "Des": "Use Stokes Rich Ore to produce Buri Mech Shard",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_equipment_gems_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      203011
+    ]
+  },
+  "203011": {
+    "Id": 203011,
+    "ProId": 203,
+    "GroupId": 4011,
+    "Level": 1,
+    "Name": "Machining Lv.2",
+    "Des": "Use Stokes Pure Ore to produce Buri Mech Shard",
+    "Icon": "ui/atlas/life_formula/life_foundry/lifeformula_equipment_gems_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4010,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203012": {
+    "Id": 203012,
+    "ProId": 203,
+    "GroupId": 4012,
+    "Level": 1,
+    "Name": "Lucky Smelting Lv.1",
+    "Des": "5% chance to gain an extra item when producing Mystery Metal, Radiant Stone, and Fine Forgestone.",
+    "Icon": "ui/atlas/life_formula/life_foundry/casting_refining_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      203013,
+      203015
+    ]
+  },
+  "203013": {
+    "Id": 203013,
+    "ProId": 203,
+    "GroupId": 4013,
+    "Level": 1,
+    "Name": "Lucky Smelting Lv.2",
+    "Des": "10% chance to gain an extra item when producing Mystery Metal, Radiant Stone, and Fine Forgestone.",
+    "Icon": "ui/atlas/life_formula/life_foundry/casting_refining_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        4012,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      203014
+    ]
+  },
+  "203014": {
+    "Id": 203014,
+    "ProId": 203,
+    "GroupId": 4014,
+    "Level": 1,
+    "Name": "Lucky Smelting Lv.3",
+    "Des": "15% chance to gain an extra item when producing Mystery Metal, Radiant Stone, and Fine Forgestone.",
+    "Icon": "ui/atlas/life_formula/life_foundry/casting_refining_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        4013,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "203015": {
+    "Id": 203015,
+    "ProId": 203,
+    "GroupId": 4015,
+    "Level": 1,
+    "Name": "Fast Smithing",
+    "Des": "Reduces smithing time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4012,
+        1
+      ],
+      [
+        58,
+        203,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99026,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      203016
+    ]
+  },
+  "203016": {
+    "Id": 203016,
+    "ProId": 203,
+    "GroupId": 4016,
+    "Level": 1,
+    "Name": "Ultra-fast Smithing",
+    "Des": "Reduces smelting time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        4015,
+        1
+      ],
+      [
+        58,
+        203,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99026,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "204001": {
+    "Id": 204001,
+    "ProId": 204,
+    "GroupId": 5001,
+    "Level": 1,
+    "Name": "Gemstone Processing",
+    "Des": "Learn to craft basic socketable gems from various raw stones.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/gemstone_production_increase_technique_03",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      204003,
+      204002,
+      204004,
+      204005
+    ]
+  },
+  "204002": {
+    "Id": 204002,
+    "ProId": 204,
+    "GroupId": 5002,
+    "Level": 1,
+    "Name": "Triangular Cut Lv.1",
+    "Des": "Learn to cut Lv.2 raw stones into Lv.3 triangular gems that grant Strength.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      204006
+    ]
+  },
+  "204003": {
+    "Id": 204003,
+    "ProId": 204,
+    "GroupId": 5003,
+    "Level": 1,
+    "Name": "Square Cut Lv.1",
+    "Des": "Learn to cut Lv.2 raw stones into Lv.3 square gems that grant Endurance.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      204007
+    ]
+  },
+  "204004": {
+    "Id": 204004,
+    "ProId": 204,
+    "GroupId": 5004,
+    "Level": 1,
+    "Name": "Fancy Cut Lv.1",
+    "Des": "Learn to cut Lv.2 raw stones into Lv.3 fancy gems that grant Agility.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      204008
+    ]
+  },
+  "204005": {
+    "Id": 204005,
+    "ProId": 204,
+    "GroupId": 5005,
+    "Level": 1,
+    "Name": "Pear Cut Lv.1",
+    "Des": "Learn to cut Lv.2 raw stones into Lv.3 pear-shaped gems that grant Intellect.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      204009
+    ]
+  },
+  "204006": {
+    "Id": 204006,
+    "ProId": 204,
+    "GroupId": 5006,
+    "Level": 1,
+    "Name": "Triangular Cut Lv.2",
+    "Des": "Learn to cut Lv.3 raw stones into Lv.5 triangular gems that grant Strength.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/triangle_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5002,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204007": {
+    "Id": 204007,
+    "ProId": 204,
+    "GroupId": 5007,
+    "Level": 1,
+    "Name": "Square Cut Lv.2",
+    "Des": "Learn to cut Lv.3 raw stones into Lv.5 square gems that grant Endurance.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/square_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5003,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204008": {
+    "Id": 204008,
+    "ProId": 204,
+    "GroupId": 5008,
+    "Level": 1,
+    "Name": "Fancy Cut Lv.2",
+    "Des": "Learn to cut Lv.3 raw stones into Lv.5 fancy gems that grant Agility.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/special_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5004,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204009": {
+    "Id": 204009,
+    "ProId": 204,
+    "GroupId": 5009,
+    "Level": 1,
+    "Name": "Pear Cut Lv.2",
+    "Des": "Learn to cut Lv.3 raw stones into Lv.5 pear-shaped gems that grant Intellect.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/pear_cutting_technology_02",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5005,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204010": {
+    "Id": 204010,
+    "ProId": 204,
+    "GroupId": 5010,
+    "Level": 1,
+    "Name": "Gem Yielding Novice",
+    "Des": "5% chance to gain 1 extra gem when crafting gems.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/gemstone_production_increase_technique_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      204011,
+      204013
+    ]
+  },
+  "204011": {
+    "Id": 204011,
+    "ProId": 204,
+    "GroupId": 5011,
+    "Level": 1,
+    "Name": "Gem Yielding Pro",
+    "Des": "10% chance to gain 1 extra gem when crafting gems.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/gemstone_production_increase_technique_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        5010,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      204012
+    ]
+  },
+  "204012": {
+    "Id": 204012,
+    "ProId": 204,
+    "GroupId": 5012,
+    "Level": 1,
+    "Name": "Gem Yielding Master",
+    "Des": "15% chance to gain 1 extra gem when crafting gems.",
+    "Icon": "ui/atlas/life_formula/life_gemcraft/gemstone_production_increase_technique_03",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        5011,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "204013": {
+    "Id": 204013,
+    "ProId": 204,
+    "GroupId": 5013,
+    "Level": 1,
+    "Name": "Fast Processing",
+    "Des": "Processing time reduced to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5010,
+        1
+      ],
+      [
+        58,
+        204,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99027,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      204014
+    ]
+  },
+  "204014": {
+    "Id": 204014,
+    "ProId": 204,
+    "GroupId": 5014,
+    "Level": 1,
+    "Name": "Ultra-fast Processing",
+    "Des": "Processing time reduced to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        5013,
+        1
+      ],
+      [
+        58,
+        204,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99027,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "205001": {
+    "Id": 205001,
+    "ProId": 205,
+    "GroupId": 6001,
+    "Level": 1,
+    "Name": "Burning Powder",
+    "Des": "Learn to craft Burning Powder.",
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_carbon_powder_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      205003
+    ]
+  },
+  "205002": {
+    "Id": 205002,
+    "ProId": 205,
+    "GroupId": 6002,
+    "Level": 1,
+    "Name": "Gem Wax Crafting",
+    "Des": "Learn to craft Gem Wax.",
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_gem_wax_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "205003": {
+    "Id": 205003,
+    "ProId": 205,
+    "GroupId": 6003,
+    "Level": 1,
+    "Name": "Fast-Burning Powder",
+    "Des": "Learn to craft Fast-Burning Powder Crafting.",
+    "Icon": "ui/atlas/life_formula/life_foundry/atomic_processing",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        6001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      205004
+    ]
+  },
+  "205004": {
+    "Id": 205004,
+    "ProId": 205,
+    "GroupId": 6004,
+    "Level": 1,
+    "Name": "Artisanry Lv.1",
+    "Des": "Gain 2 extra items when crafting Burning Powder or Gem Wax.",
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        6003,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      205005
+    ]
+  },
+  "205005": {
+    "Id": 205005,
+    "ProId": 205,
+    "GroupId": 6005,
+    "Level": 1,
+    "Name": "Artisanry Lv.2",
+    "Des": "Gain 5 extra items when crafting Burning Powder or Gem Wax. Gain 1 extra item when crafting Fast-Burning Powder.",
+    "Icon": "ui/atlas/life_formula/life_formula/lifeformula_woodwork_ability_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        6004,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "205006": {
+    "Id": 205006,
+    "ProId": 205,
+    "GroupId": 6006,
+    "Level": 1,
+    "Name": "Fast Crafting",
+    "Des": "Reduces crafting time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        58,
+        205,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99028,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      205007
+    ]
+  },
+  "205007": {
+    "Id": 205007,
+    "ProId": 205,
+    "GroupId": 6007,
+    "Level": 1,
+    "Name": "Ultra-fast Crafting",
+    "Des": "Reduces crafting time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        6006,
+        1
+      ],
+      [
+        58,
+        205,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99028,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  },
+  "206001": {
+    "Id": 206001,
+    "ProId": 206,
+    "GroupId": 7001,
+    "Level": 1,
+    "Name": "Dye Crafting",
+    "Des": "Learn to craft various dye colors.",
+    "Icon": "ui/atlas/life_formula/life_weave/lifeformula_color_dye_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [],
+    "Attribute": [],
+    "NextNodes": [
+      206002
+    ]
+  },
+  "206002": {
+    "Id": 206002,
+    "ProId": 206,
+    "GroupId": 7002,
+    "Level": 1,
+    "Name": "Dye Yielding Lv.1",
+    "Des": "20% chance to gain 1 extra item when crafting dyes.",
+    "Icon": "ui/atlas/life_formula/life_weave/lifeformula_color_dye_increase_01",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        7001,
+        1
+      ],
+      [
+        45,
+        6
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": [
+      206003
+    ]
+  },
+  "206003": {
+    "Id": 206003,
+    "ProId": 206,
+    "GroupId": 7003,
+    "Level": 1,
+    "Name": "Dye Yielding Lv.2",
+    "Des": "30% chance to gain 1 extra item when crafting dyes.",
+    "Icon": "ui/atlas/life_formula/life_weave/lifeformula_color_dye_increase_02",
+    "NeedPoint": 2,
+    "UnlockCondition": [
+      [
+        59,
+        7002,
+        1
+      ],
+      [
+        45,
+        25
+      ]
+    ],
+    "Attribute": [],
+    "NextNodes": []
+  },
+  "206004": {
+    "Id": 206004,
+    "ProId": 206,
+    "GroupId": 7004,
+    "Level": 1,
+    "Name": "Fast Weaving",
+    "Des": "Reduces weaving time to 3s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        58,
+        206,
+        5
+      ]
+    ],
+    "Attribute": [
+      [
+        99029,
+        4000
+      ]
+    ],
+    "NextNodes": [
+      206005
+    ]
+  },
+  "206005": {
+    "Id": 206005,
+    "ProId": 206,
+    "GroupId": 7005,
+    "Level": 1,
+    "Name": "Ultra-fast Weaving",
+    "Des": "Reduces weaving time to 2s.",
+    "Icon": "ui/atlas/life_formula/life_common/gathering_efficiency_improvement_01",
+    "NeedPoint": 1,
+    "UnlockCondition": [
+      [
+        59,
+        7004,
+        1
+      ],
+      [
+        58,
+        206,
+        15
+      ]
+    ],
+    "Attribute": [
+      [
+        99029,
+        2000
+      ]
+    ],
+    "NextNodes": []
+  }
+}

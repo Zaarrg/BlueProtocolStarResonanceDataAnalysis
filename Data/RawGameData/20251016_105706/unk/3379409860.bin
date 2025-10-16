@@ -1,0 +1,253 @@
+{
+  "description": {
+    "delimiterDescription": "分隔符 按顺序分割 ;,|:&",
+    "cmd": "GM命令",
+    "isCanNull": "是否可不传 通过分隔符传输的字段需要加上分割符 内容可填空",
+    "name": "GM命令",
+    "type": {
+      "uint8-64": "无符号整数",
+      "int8-64": "整数",
+      "string": "字符串",
+      "float double": "浮点型 float 和 double相同都作为 double处理",
+      "array": [
+        "基础类型后面添加使用 如 int8 array ",
+        "支持限定长度 如 int8 array 3 则代表 需要一个长度为 3 的 int8 数组",
+        "支持多维数组最多5维 如 int8 array2 则代表 int8 的2维数组 同时可通过 int8 array2 2;3 这种写法来做长度限制",
+        "如长度限制数量合维度不匹配则 按顺序匹配 比如 int8 array3 2;3 则代表 有一个 int8[2][3][n]的数组"
+      ],
+      "struct": [
+        "暂时不支持",
+        "结构类型 需要在parameter字段内填充 parameter字段",
+        "支持 struct array"
+      ]
+    },
+    "description": "描述字段",
+    "example": "参数格式示例",
+    "jsonExample": "json参数格式示例"
+  },
+  "1001": {
+    "target": "self",
+    "cmd": "reload_gm",
+    "description": "重新加载gm.json"
+  },
+  "10001": {
+    "target": "World",
+    "cmd": "create_npc",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "npcId",
+        "type": "uint32",
+        "description": "npcId"
+      },
+      {
+        "isCanNull": true,
+        "name": "npcPosition",
+        "type": "float array 3",
+        "description": "npc 创建位置 默认为角色当前所在位置"
+      }
+    ],
+    "description": "在角色所在场景创建一个npc",
+    "example": "10001;10;10.0,10.0,10.0",
+    "jsonExample": "{\"npcId\":1243,\"npcPosition\":[10.0,2.0,3.0]}"
+  },
+  "10002": {
+    "target": "World",
+    "cmd": "change_scene",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "sceneUuid",
+        "type": "uint64",
+        "description": "需要切换的场景的唯一id，mapId不为零时，该值可以为0"
+      },
+      {
+        "isCanNull": false,
+        "name": "mapId",
+        "type": "uint32",
+        "description": "需要切换的地图id，sceneUuid不为零时，该值可以为0"
+      }
+    ],
+    "description": "切换到指定场景",
+    "example": "10002;0;3",
+    "jsonExample": "{\"sceneUuid\":1243, \"mapId\":3}"
+  },
+  "10003": {
+    "target": "World",
+    "cmd": "change_pos",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "targetId",
+        "type": "uint64",
+        "description": "移动目标的uuid，targetId=0移动自己"
+      },
+      {
+        "isCanNull": false,
+        "name": "position",
+        "type": "float array 3",
+        "description": "移动到指定位置"
+      }
+    ],
+    "description": "移动到当前场景的指定位置",
+    "example": "10003;1233;10.0,10.0,10.0",
+    "jsonExample": "{\"targetId\":1233,\"position\":[10.0,2.0,3.0]}"
+  },
+  "10004": {
+    "target": "World",
+    "cmd": "goto_actor_pos",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "targetId",
+        "type": "uint64",
+        "description": "移动目标的uuid，targetId=0移动自己"
+      },
+      {
+        "isCanNull": false,
+        "name": "actorId",
+        "type": "uint64",
+        "description": "当前场景actor uuid"
+      }
+    ],
+    "description": "移动到当前场景的怪物附近",
+    "example": "10004;1234;5678",
+    "jsonExample": "{\"targetId\":1234,\"actorId\":5678}"
+  },
+  "20001": {
+    "target": "World",
+    "cmd": "enter_dungeon",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "sceneId",
+        "type": "uint32",
+        "description": "需要切换的场景Id"
+      }
+    ],
+    "description": "切换到指定场景",
+    "example": "20001;215",
+    "jsonExample": "{\"sceneId\":1243}"
+  },
+  "30001": {
+    "target": "World",
+    "cmd": "add_buff",
+    "description": "添加buff",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "targetId",
+        "type": "uint32",
+        "description": "目标者id 0为自己"
+      },
+      {
+        "isCanNull": false,
+        "name": "id",
+        "type": "uint32",
+        "description": "添加的的buffid"
+      },
+      {
+        "isCanNull": false,
+        "name": "level",
+        "type": "uint32",
+        "description": "添加的的buffid"
+      },
+      {
+        "isCanNull": false,
+        "name": "layer",
+        "type": "uint32",
+        "description": "buff层数"
+      },
+      {
+        "isCanNull": false,
+        "name": "duration",
+        "type": "uint32",
+        "description": "持续时间 0为无限"
+      }
+    ],
+    "example": "30001;0;1001;1;1;0",
+    "jsonExample": "{\"id\":1001, \"level\":1, \"targetId\":0,\"layer\":1, \"duration\":0 }"
+  },
+  "30002": {
+    "target": "World",
+    "cmd": "use_skill",
+    "description": "使用技能",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "skillId",
+        "type": "uint32",
+        "description": "技能id"
+      }
+    ],
+    "example": "30002;10001",
+    "jsonExample": "{\"skillId\":10001}"
+  },
+  "50001": {
+    "target": "World",
+    "cmd": "lua_cmd",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "cmd",
+        "type": "string",
+        "description": "gm cmd"
+      },
+      {
+        "isCanNull": true,
+        "name": "charid",
+        "type": "uint32",
+        "description": "charid cmd"
+      },
+      {
+        "isCanNull": false,
+        "name": "data",
+        "type": "string",
+        "description": "发送的字符串数据,分割 如10,10,10"
+      }
+    ],
+    "description": "在角色所在场景发送一个lua内触发的gm命令",
+    "example": "50001;48;1,1,1",
+    "jsonExample": "{\"cmd\":500101;48;1,1,1}"
+  },
+  "50002": {
+    "target": "World",
+    "cmd": "reloadall",
+    "description": "在角色所在场景发送一个lua内触发的gm命令",
+    "example": "50002",
+    "jsonExample": "{}"
+  },
+  "50003": {
+    "target": "World",
+    "cmd": "stiff",
+    "parameter": [
+      {
+        "isCanNull": false,
+        "name": "type",
+        "type": "uint32",
+        "description": "击退类型"
+      },
+      {
+        "isCanNull": false,
+        "name": "time",
+        "type": "uint32",
+        "description": "持续时间"
+      },
+      {
+        "isCanNull": false,
+        "name": "speed",
+        "type": "float array 3",
+        "description": "速度"
+      },
+      {
+        "isCanNull": false,
+        "name": "dir",
+        "type": "float",
+        "description": "方向"
+      }
+    ],
+    "description": "触发角色硬直",
+    "example": "50003;1;1000;0,1,1;0.6",
+    "jsonExample": "{\"type\":1,\"time\":1000,\"speed\":[0,1,1],\"dir\":0.6,}"
+  }
+}

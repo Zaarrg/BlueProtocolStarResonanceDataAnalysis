@@ -1,0 +1,192 @@
+{
+  "1001": {
+    "Id": 1001,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [
+      [
+        11782.0,
+        30.0
+      ]
+    ],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1002": {
+    "Id": 1002,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [
+      [
+        12512.0,
+        20.0
+      ]
+    ],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1003": {
+    "Id": 1003,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [
+      [
+        11722.0,
+        10.0
+      ]
+    ],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1004": {
+    "Id": 1004,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "2001": {
+    "Id": 2001,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "2002": {
+    "Id": 2002,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "2003": {
+    "Id": 2003,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [
+      [
+        11722.0,
+        10.0
+      ]
+    ],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "3001": {
+    "Id": 3001,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "3002": {
+    "Id": 3002,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [
+      [
+        11832.0,
+        20.0
+      ]
+    ],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "3003": {
+    "Id": 3003,
+    "AttrStrengthTable": [],
+    "AttrStrengthMax": 0,
+    "AttrVitalityTable": [],
+    "AttrVitalityMax": 0,
+    "AttrDexterityTable": [],
+    "AttrDexterityMax": 0,
+    "AttrIntelligenceTable": [],
+    "AttrIntelligenceMax": 0,
+    "AttrMindTable": [],
+    "AttrMindMax": 0,
+    "AttrObserveTable": [
+      [
+        11772.0,
+        0.5
+      ]
+    ],
+    "AttrObserveMax": 0,
+    "AttrIntroduction": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  }
+}

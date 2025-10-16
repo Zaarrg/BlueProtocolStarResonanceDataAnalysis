@@ -1,0 +1,200 @@
+{
+  "101": {
+    "ProId": 101,
+    "Name": "Botany",
+    "Des": "[Skill Build] <br><style=\"accent-gn\">Focused</style> Creates products that primarily support <style=\"accent-gn\">Alchemy and Culinary</style> classes in crafting potions and cuisines that enhance combat performance. <br><style=\"accent-gn\">Regular</style> Creates products that are primarily refined through <style=\"accent-gn\">Artisanry, Weaving, Alchemy, and Culinary</style> classes. Their processed forms become essential resources for <style=\"accent-gn\">crafting gem inlays, gear, clothing dyes, furniture, bait</style>, and other items.",
+    "Type": 1,
+    "Sort": 1,
+    "Weight": 2,
+    "FormulaResetCost": [],
+    "FunctionId": 501001,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_5",
+    "Icon": "ui/atlas/life_profession/life_profession_collect",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_collect",
+    "MapIcon": "ui/atlas/life_profession/life_icon_collect",
+    "LevelAward": [
+      2000101,
+      2000102,
+      2000103,
+      2000104,
+      2000105
+    ],
+    "HelpId": 2105
+  },
+  "102": {
+    "ProId": 102,
+    "Name": "Mineralogy",
+    "Des": "[Skill Build] <br><style=\"accent-gn\">Focused</style> Products primarily used by the <style=\"accent-gn\">Smelting</style> class to craft consumables for gear refinement. <br><style=\"accent-gn\">Regular</style> Products are primarily refined through <style=\"accent-gn\">Smelting, Alchemy, and Culinary</style> classes. Their processed forms become essential resources for crafting <style=\"accent-gn\">gear, furniture, cuisine</style>, and other items.",
+    "Type": 1,
+    "Sort": 2,
+    "Weight": 2,
+    "FormulaResetCost": [],
+    "FunctionId": 501002,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_8",
+    "Icon": "ui/atlas/life_profession/life_profession_mining",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_mining",
+    "MapIcon": "ui/atlas/life_profession/life_icon_mining",
+    "LevelAward": [
+      2000701,
+      2000702,
+      2000703,
+      2000704,
+      2000705
+    ],
+    "HelpId": 2106
+  },
+  "103": {
+    "ProId": 103,
+    "Name": "Gemology",
+    "Des": "[Skill Build] <br><style=\"accent-gn\">Focused</style> Products primarily used by the <style=\"accent-gn\">Gemcrafting</style> class to craft gem inlays for gear. <br><style=\"accent-gn\">Regular</style> Products are primarily refined through <style=\"accent-gn\">Gemcrafting, Alchemy, and Culinary</style> classes. Their processed forms become essential resources for crafting <style=\"accent-gn\">gear, dye sprays, furniture, cuisine, toys</style>, and other items.",
+    "Type": 1,
+    "Sort": 3,
+    "Weight": 2,
+    "FormulaResetCost": [],
+    "FunctionId": 501003,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_4",
+    "Icon": "ui/atlas/life_profession/life_profession_stone",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_stone",
+    "MapIcon": "ui/atlas/life_profession/life_icon_stone",
+    "LevelAward": [
+      2000801,
+      2000802,
+      2000803,
+      2000804,
+      2000805
+    ],
+    "HelpId": 2107
+  },
+  "201": {
+    "ProId": 201,
+    "Name": "Culinary",
+    "Des": "[Skill Build]<br><style=\"accent-gn\">Focused</style> Creates recipes that include attribute-enhancing cuisine and Cheer-Up Treats. The materials required for crafting these items are primarily sourced from <style=\"accent-gn\">Botany and Fishing</style> classes. <br><style=\"accent-gn\">Regular</style> Creates recipes that can be used to craft bait, fertilizer, and other items. The materials required for crafting these items are primarily gathered through the <style=\"accent-gn\">Botany and Fishing</style> classes, or further precesssed via the <style=\"accent-gn\">Culinary</style> class.",
+    "Type": 3,
+    "Sort": 4,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501004,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_3",
+    "Icon": "ui/atlas/life_profession/life_profession_cook",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_cook",
+    "MapIcon": "ui/atlas/life_profession/life_icon_cook",
+    "LevelAward": [
+      2000201,
+      2000202,
+      2000203,
+      2000204,
+      2000205
+    ],
+    "HelpId": 5050
+  },
+  "202": {
+    "ProId": 202,
+    "Name": "Alchemy",
+    "Des": "[Skill Build]<br><style=\"accent-gn\"> Focused</style> Creates recipes that are primarily used for crafting Healing Aromatics, transformation potions, and dye sprays. The materials required for crafting these items are primarily sourced from <style=\"accent-gn\">Botany and Gemology</style> classes. <br><style=\"accent-gn\">Regular</style> Creates recipes that are primarily used for crafting homestead construction materials, Plants, pottery furniture, glass furniture, toys, and other items intended for non-trading purposes. The required materials are primarily gathered through the <style=\"accent-gn\">Botany and Gemology</style> classes, or further processed via the <style=\"accent-gn\">Alchemy</style> class.",
+    "Type": 2,
+    "Sort": 6,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501005,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_2",
+    "Icon": "ui/atlas/life_profession/life_profession_refine",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_refine",
+    "MapIcon": "ui/atlas/life_profession/life_icon_refine",
+    "LevelAward": [
+      2000301,
+      2000302,
+      2000303,
+      2000304,
+      2000305
+    ],
+    "HelpId": 2103
+  },
+  "203": {
+    "ProId": 203,
+    "Name": "Smelting",
+    "Des": "[Skill Build]<br>The <style=\"accent-gn\">Focused</style> is primarily used for crafting Mystery Metals and Radiant Stones. The materials required for crafting these items are primarily sourced from <style=\"accent-gn\">Mineralogy and Artisanry</style> classes. <br><style=\"accent-gn\">Basic Recipe</style> is primarily used for crafting certain weapons, heavy armor, homestead construction materials, and metal furniture, and other items. The materials required for crafting these items are primarily gathered through the <style=\"accent-gn\">Mineralogy</style> class, or further processed via the <style=\"accent-gn\">Smelting, Gemcrafting, Alchemy</style>, and other classes.",
+    "Type": 2,
+    "Sort": 7,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501006,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_6",
+    "Icon": "ui/atlas/life_profession/life_profession_foundry",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_foundry",
+    "MapIcon": "ui/atlas/life_profession/life_icon_foundry",
+    "LevelAward": [
+      2000401,
+      2000402,
+      2000403,
+      2000404,
+      2000405
+    ],
+    "HelpId": 2110
+  },
+  "204": {
+    "ProId": 204,
+    "Name": "Gemcrafting",
+    "Des": "[Skill Build]<br>The <style=\"accent-gn\">Focused</style> is primarily used for crafting Ruby and Sapphire. The materials required for crafting these items are primarily sourced from <style=\"accent-gn\">Gemology and Artisanry</style> classes. <br><style=\"accent-gn\">Basic Recipe</style> is primarily used for crafting accessory-type gear, homestead construction materials, stone furniture, decorative gems, etc. The materials required for crafting these items are primarily gathered through the <style=\"accent-gn\">Gemology</style> class, or further processed via the <style=\"accent-gn\">Gemcrafting, Smelting, Alchemy</style>, and other classes.",
+    "Type": 2,
+    "Sort": 8,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501007,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_1",
+    "Icon": "ui/atlas/life_profession/life_profession_magiccraft",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_magiccraft",
+    "MapIcon": "ui/atlas/life_profession/life_icon_magiccraft",
+    "LevelAward": [
+      2000501,
+      2000502,
+      2000503,
+      2000504,
+      2000505
+    ],
+    "HelpId": 2111
+  },
+  "205": {
+    "ProId": 205,
+    "Name": "Artisanry",
+    "Des": "[Skill Build]<br>The <style=\"accent-gn\">Focused</style> is mainly used to craft key materials like Burning Powder for foundry refinement and gem wax for gem processing. The materials required for crafting these items are primarily sourced from <style=\"accent-gn\">Botany and Artisanry</style> classes. <br>The <style=\"accent-gn\">Basic Recipe</style> is primarily used for crafting certain weapons, homestead construction materials, wooden furniture, and other items. Crafting materials are primarily acquired through exchanges with <style=\"accent-gn\">Artisanry tutors, harvested via Botany class</style>, and further refined through <style=\"accent-gn\">Artisanry, Alchemy, Smelting</style>, and other classes.",
+    "Type": 2,
+    "Sort": 5,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501008,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_10",
+    "Icon": "ui/atlas/life_profession/life_profession_woodwork",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_woodwork",
+    "MapIcon": "ui/atlas/life_profession/life_icon_woodwork",
+    "LevelAward": [
+      2000601,
+      2000602,
+      2000603,
+      2000604,
+      2000605
+    ],
+    "HelpId": 2112
+  },
+  "206": {
+    "ProId": 206,
+    "Name": "Weaving",
+    "Des": "[Skill Build]<br><style=\"accent-gn\"> The Focused</style> is primarily used to craft vibrant Dyes that infuse garments with rich color. The materials required for crafting are primarily sourced from <style=\"accent-gn\">Botany and Alchemy</style> classes. <br><style=\"accent-gn\">Basic Recipe</style> is primarily used for crafting medium armor, light armor, charm, homestead construction materials, cloth/leather furniture, etc. The materials required for crafting are primarily sourced from <style=\"accent-gn\">Botany</style>, gathering, and <style=\"accent-gn\">hunting</style> classes, or further processed via the <style=\"accent-gn\">Weaving, Culinary, and Smelting</style> classes.",
+    "Type": 2,
+    "Sort": 9,
+    "Weight": 1,
+    "FormulaResetCost": [],
+    "FunctionId": 501009,
+    "BgPic": "ui/textures/collection_profession/collection_profession_pic_9",
+    "Icon": "ui/atlas/life_profession/life_profession_tailor",
+    "LevelUpIcon": "ui/atlas/level_up_icon/rolelevel_upgrade_tailor",
+    "MapIcon": "ui/atlas/life_profession/life_icon_tailor",
+    "LevelAward": [
+      2000901,
+      2000902,
+      2000903,
+      2000904,
+      2000905
+    ],
+    "HelpId": 2115
+  }
+}

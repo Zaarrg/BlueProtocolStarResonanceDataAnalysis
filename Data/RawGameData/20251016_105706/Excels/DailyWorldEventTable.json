@@ -1,0 +1,291 @@
+{
+  "7050": {
+    "EventId": 7050,
+    "Name": "Purify the Void",
+    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Target": [],
+    "Scene": 7,
+    "Entity": [
+      3,
+      7885
+    ],
+    "DungeonId": 7050,
+    "Type": 1,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_1"
+  },
+  "7051": {
+    "EventId": 7051,
+    "Name": "Purify the Void",
+    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Target": [
+      1,
+      1,
+      0,
+      7051
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      19504
+    ],
+    "DungeonId": 7051,
+    "Type": 1,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_1"
+  },
+  "7052": {
+    "EventId": 7052,
+    "Name": "Purify the Void",
+    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Target": [
+      1,
+      1,
+      0,
+      7052
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      19507
+    ],
+    "DungeonId": 7052,
+    "Type": 1,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_1"
+  },
+  "7053": {
+    "EventId": 7053,
+    "Name": "Purify the Void",
+    "Desc": "Void Corruption Rifts appeared on the plains, and local monsters were corrupted. The Bureau Commissioned adventurers to investigate and clear out the Void Monsters.",
+    "Target": [
+      1,
+      1,
+      0,
+      7053
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      19510
+    ],
+    "DungeonId": 7053,
+    "Type": 1,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_1"
+  },
+  "7055": {
+    "EventId": 7055,
+    "Name": "Void Mage Hunt",
+    "Desc": "Void Corruption Rift appeared on the plains, and Goblin Magees were corrupted. The Pioneering Bureau commissioned adventurers to eliminate the eroded goblin liches.",
+    "Target": [
+      1,
+      1,
+      0,
+      7055
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      7886
+    ],
+    "DungeonId": 7055,
+    "Type": 2,
+    "TimerId": 683,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_2"
+  },
+  "7065": {
+    "EventId": 7065,
+    "Name": "Urgent Delivery",
+    "Desc": "A courier heading to Andra Resting Post encountered some trouble on the way. The Pioneer Bureau has commissioned adventurers to assist the courier in delivering the goods to the Andra Resting Post.",
+    "Target": [
+      1,
+      1,
+      0,
+      7065
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      15042
+    ],
+    "DungeonId": 7065,
+    "Type": 2,
+    "TimerId": 683,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_4"
+  },
+  "7070": {
+    "EventId": 7070,
+    "Name": "Light Bridge",
+    "Desc": "Ancient ruin platforms have appeared near Minsterhorn. The Pioneer Bureau has commissioned adventurers to investigate the platforms.",
+    "Target": [
+      1,
+      1,
+      0,
+      7070
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      18147
+    ],
+    "DungeonId": 7070,
+    "Type": 2,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_5"
+  },
+  "7072": {
+    "EventId": 7072,
+    "Name": "Light Bridge",
+    "Desc": "Ancient ruin platforms have appeared near Minsterhorn. The Pioneer Bureau has commissioned adventurers to investigate the platforms.",
+    "Target": [
+      1,
+      1,
+      0,
+      7072
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      21000
+    ],
+    "DungeonId": 7072,
+    "Type": 2,
+    "TimerId": 683,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_10"
+  },
+  "7075": {
+    "EventId": 7075,
+    "Name": "Demi-Human Q&A",
+    "Desc": "A demi-human ecology researcher has commissioned adventurers to travel to a southern island on Asteria Plains to complete a Q&A challenge with the demi-human leader.",
+    "Target": [
+      1,
+      1,
+      0,
+      7075
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      17247
+    ],
+    "DungeonId": 7075,
+    "Type": 3,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_6"
+  },
+  "7076": {
+    "EventId": 7076,
+    "Name": "Demi-Human Q&A",
+    "Desc": "A demi-human ecology researcher has commissioned adventurers to travel to a southern island on Asteria Plains to complete a Q&A challenge with the demi-human leader.",
+    "Target": [
+      1,
+      1,
+      0,
+      7076
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      21108
+    ],
+    "DungeonId": 7076,
+    "Type": 3,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_6"
+  },
+  "7077": {
+    "EventId": 7077,
+    "Name": "Demi-Human Q&A",
+    "Desc": "A demi-human ecology researcher has commissioned adventurers to travel to a southern island on Asteria Plains to complete a Q&A challenge with the demi-human leader.",
+    "Target": [
+      1,
+      1,
+      0,
+      7077
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      21111
+    ],
+    "DungeonId": 7077,
+    "Type": 3,
+    "TimerId": 681,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_6"
+  },
+  "7085": {
+    "EventId": 7085,
+    "Name": "Boars Run",
+    "Desc": "At the cult's base, a Boarlet owner has commissioned adventurers to help catch Boarlets in the pen.",
+    "Target": [
+      1,
+      1,
+      0,
+      7085
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      18504
+    ],
+    "DungeonId": 7085,
+    "Type": 3,
+    "TimerId": 682,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_7"
+  },
+  "7090": {
+    "EventId": 7090,
+    "Name": "Suppress the Eruption",
+    "Desc": "Assist in suppressing the robots to contain the erupting Void Corruption Rifts in the Andra Passage.",
+    "Target": [
+      1,
+      1,
+      0,
+      7090
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      18734
+    ],
+    "DungeonId": 7090,
+    "Type": 2,
+    "TimerId": 682,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_8"
+  },
+  "7095": {
+    "EventId": 7095,
+    "Name": "Spider Dodge",
+    "Desc": "An Guild Artisan has created explosive mini-robots and issued a challenge to adventurers: they must avoid the robots in the rift and survive until the end.",
+    "Target": [
+      1,
+      1,
+      0,
+      7095
+    ],
+    "Scene": 7,
+    "Entity": [
+      3,
+      18728
+    ],
+    "DungeonId": 7095,
+    "Type": 3,
+    "TimerId": 682,
+    "Award": 11000010,
+    "EventBanner": "ui/textures/worldquest/dungeon_worldevent_picture_9"
+  }
+}

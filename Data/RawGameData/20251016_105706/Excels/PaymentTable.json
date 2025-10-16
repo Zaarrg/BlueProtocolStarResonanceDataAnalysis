@@ -1,0 +1,2402 @@
+{
+  "10001": {
+    "Id": 10001,
+    "Desc": "unity·蔷薇宝石礼包1（60）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10001,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        60
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500800,
+    "ExtraAwardID": 20500900,
+    "IsSale": 1,
+    "PaymentId": 10001
+  },
+  "10002": {
+    "Id": 10002,
+    "Desc": "unity·蔷薇宝石礼包2（300）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        300
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500810,
+    "ExtraAwardID": 20500910,
+    "IsSale": 1,
+    "PaymentId": 10002
+  },
+  "10003": {
+    "Id": 10003,
+    "Desc": "unity·蔷薇宝石礼包3（980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10003,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 98,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500820,
+    "ExtraAwardID": 20500920,
+    "IsSale": 1,
+    "PaymentId": 10003
+  },
+  "10004": {
+    "Id": 10004,
+    "Desc": "unity·蔷薇宝石礼包4（1980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10004,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 198,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        1980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500830,
+    "ExtraAwardID": 20500930,
+    "IsSale": 1,
+    "PaymentId": 10004
+  },
+  "10005": {
+    "Id": 10005,
+    "Desc": "unity·蔷薇宝石礼包5（3280）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10005,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 328,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        3280
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500840,
+    "ExtraAwardID": 20500940,
+    "IsSale": 1,
+    "PaymentId": 10005
+  },
+  "10006": {
+    "Id": 10006,
+    "Desc": "unity·蔷薇宝石礼包6（6480）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 1,
+    "ProductId": 10006,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 648,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        6480
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500850,
+    "ExtraAwardID": 20500950,
+    "IsSale": 1,
+    "PaymentId": 10006
+  },
+  "20001": {
+    "Id": 20001,
+    "Desc": "unity·典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20001,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20001
+  },
+  "20002": {
+    "Id": 20002,
+    "Desc": "unity·高级典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20002
+  },
+  "20003": {
+    "Id": 20003,
+    "Desc": "unity·典藏通行证升级（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20003,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20003
+  },
+  "20004": {
+    "Id": 20004,
+    "Desc": "unity·典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20004,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20004
+  },
+  "20005": {
+    "Id": 20005,
+    "Desc": "unity·高级典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20005,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20005
+  },
+  "20006": {
+    "Id": 20006,
+    "Desc": "unity·典藏通行证升级（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20006,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20006
+  },
+  "20007": {
+    "Id": 20007,
+    "Desc": "unity·第三个普通通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20007,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20007
+  },
+  "20008": {
+    "Id": 20008,
+    "Desc": "unity·第三个豪华通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20008,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20008
+  },
+  "20009": {
+    "Id": 20009,
+    "Desc": "unity·第三个通行证补票（买了普通再买豪华）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20009,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20009
+  },
+  "20010": {
+    "Id": 20010,
+    "Desc": "unity·第四个普通通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20010,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20010
+  },
+  "20011": {
+    "Id": 20011,
+    "Desc": "unity·第四个豪华通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20011,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20011
+  },
+  "20012": {
+    "Id": 20012,
+    "Desc": "unity·第四个通行证补票（买了普通再买豪华）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 3,
+    "ProductId": 20012,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20012
+  },
+  "30001": {
+    "Id": 30001,
+    "Desc": "unity·特权月卡",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 2,
+    "ProductId": 30001,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30001
+  },
+  "40001": {
+    "Id": 40001,
+    "Desc": "unity·直购礼包A1—扭蛋券大礼包（未用到）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 4,
+    "ProductId": 40001,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 90,
+    "AwardId": 40000800,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40001
+  },
+  "40002": {
+    "Id": 40002,
+    "Desc": "unity·直购礼包—艾露娜纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 4,
+    "ProductId": 40002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000810,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40002
+  },
+  "40003": {
+    "Id": 40003,
+    "Desc": "unity·直购礼包—街头滑手纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 4,
+    "ProductId": 40003,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40003
+  },
+  "40004": {
+    "Id": 40004,
+    "Desc": "unity·直购礼包二期测试",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 4,
+    "ProductId": 40004,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40004
+  },
+  "99901": {
+    "Id": 99901,
+    "Desc": "unity·钻石兑换卢诺",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 999,
+    "ProductId": 10002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 90,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99901
+  },
+  "99902": {
+    "Id": 99902,
+    "Desc": "unity·蔷薇宝石兑换蔷薇宝石（绑定）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [],
+    "ProductType": 999,
+    "ProductId": 10005,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99902
+  },
+  "10010001": {
+    "Id": 10010001,
+    "Desc": "腾讯平台·蔷薇宝石礼包1（60）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010001,
+    "ProductName": "PRO-G8BJ015UJRTE",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        60
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500800,
+    "ExtraAwardID": 20500900,
+    "IsSale": 1,
+    "PaymentId": 10001
+  },
+  "10010002": {
+    "Id": 10010002,
+    "Desc": "腾讯平台·蔷薇宝石礼包2（300）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010002,
+    "ProductName": "PRO-KQ1JKELEMDCO",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        300
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500810,
+    "ExtraAwardID": 20500910,
+    "IsSale": 1,
+    "PaymentId": 10002
+  },
+  "10010003": {
+    "Id": 10010003,
+    "Desc": "腾讯平台·蔷薇宝石礼包3（980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010003,
+    "ProductName": "PRO-MF4PAI4UKBVD",
+    "Currency": "CNY",
+    "Price": 98,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500820,
+    "ExtraAwardID": 20500920,
+    "IsSale": 1,
+    "PaymentId": 10003
+  },
+  "10010004": {
+    "Id": 10010004,
+    "Desc": "腾讯平台·蔷薇宝石礼包4（1980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010004,
+    "ProductName": "PRO-87P1HUEFFQGG",
+    "Currency": "CNY",
+    "Price": 198,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        1980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500830,
+    "ExtraAwardID": 20500930,
+    "IsSale": 1,
+    "PaymentId": 10004
+  },
+  "10010005": {
+    "Id": 10010005,
+    "Desc": "腾讯平台·蔷薇宝石礼包5（3280）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010005,
+    "ProductName": "PRO-7LDTP2UUCRMS",
+    "Currency": "CNY",
+    "Price": 328,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        3280
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500840,
+    "ExtraAwardID": 20500940,
+    "IsSale": 1,
+    "PaymentId": 10005
+  },
+  "10010006": {
+    "Id": 10010006,
+    "Desc": "腾讯平台·蔷薇宝石礼包6（6480）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 1,
+    "ProductId": 10010006,
+    "ProductName": "PRO-5ROA4DVSTVTT",
+    "Currency": "CNY",
+    "Price": 648,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        6480
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500850,
+    "ExtraAwardID": 20500950,
+    "IsSale": 1,
+    "PaymentId": 10006
+  },
+  "10011001": {
+    "Id": 10011001,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠1（6）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-KHD1G2V8OJTF",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11001
+  },
+  "10011002": {
+    "Id": 10011002,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠2（30）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-JUUJJK9QPHDD",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11002
+  },
+  "10011003": {
+    "Id": 10011003,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠3（120）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-G1S6JFQMGSIQ",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11003
+  },
+  "10011004": {
+    "Id": 10011004,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠4（288）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-QMJJ482QCTFL",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11004
+  },
+  "10011005": {
+    "Id": 10011005,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠5（528）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-3B2DHK4KUHND",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11005
+  },
+  "10011006": {
+    "Id": 10011006,
+    "Desc": "腾讯平台·蔷薇宝石礼包加赠6（1296）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 997,
+    "ProductId": 10003,
+    "ProductName": "PRO-G1HCOIIUGVVU",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 11006
+  },
+  "10011996": {
+    "Id": 10011996,
+    "Desc": "腾讯平台·月卡轮巡检测商品",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 996,
+    "ProductId": 10011996,
+    "ProductName": "PRO-QPQ7JSPQNOOC",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 10011996
+  },
+  "100010003": {
+    "Id": 100010003,
+    "Desc": "腾讯平台·蔷薇宝石兑换蔷薇宝石",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 999,
+    "ProductId": 10003,
+    "ProductName": "PRO-GHN6JO2SIJRC",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 99903
+  },
+  "100010005": {
+    "Id": 100010005,
+    "Desc": "腾讯平台·蔷薇宝石兑换蔷薇宝石（绑定）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 999,
+    "ProductId": 10005,
+    "ProductName": "PRO-6B58BB4ITDLK",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 99905
+  },
+  "10020001": {
+    "Id": 10020001,
+    "Desc": "腾讯平台·第一赛季普通通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020001,
+    "ProductName": "PRO-9EAHNP4SFPKI",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20001
+  },
+  "10020002": {
+    "Id": 10020002,
+    "Desc": "腾讯平台·第一赛季豪华通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020002,
+    "ProductName": "PRO-HV9OOOU0HDFP",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20002
+  },
+  "10020003": {
+    "Id": 10020003,
+    "Desc": "腾讯平台·第一赛季通行证补票（买了普通再买豪华）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020003,
+    "ProductName": "PRO-042S00I9CHMD",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20003
+  },
+  "10020004": {
+    "Id": 10020004,
+    "Desc": "腾讯平台·典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020004,
+    "ProductName": "PRO-0T7J7L5RCPGU",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20004
+  },
+  "10020005": {
+    "Id": 10020005,
+    "Desc": "腾讯平台·高级典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020005,
+    "ProductName": "PRO-ABDQLN9RFEGN",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20005
+  },
+  "10020006": {
+    "Id": 10020006,
+    "Desc": "腾讯平台·典藏通行证升级（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 3,
+    "ProductId": 10020006,
+    "ProductName": "PRO-FIPVQGQ3LUNP",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20006
+  },
+  "10020995": {
+    "Id": 10020995,
+    "Desc": "腾讯平台·通行证等级购买",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 995,
+    "ProductId": 0,
+    "ProductName": "10995",
+    "Currency": "",
+    "Price": 0,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 10020995
+  },
+  "10030001": {
+    "Id": 10030001,
+    "Desc": "腾讯平台·特权月卡",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 998,
+    "ProductId": 10030001,
+    "ProductName": "PRO-4RTMAA5JEPRT",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30001
+  },
+  "10040001": {
+    "Id": 10040001,
+    "Desc": "腾讯平台·直购礼包—扭蛋券大礼包（未用到）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 4,
+    "ProductId": 10040001,
+    "ProductName": "10040001",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000800,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40001
+  },
+  "10040002": {
+    "Id": 10040002,
+    "Desc": "腾讯平台·直购礼包—艾露娜纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 4,
+    "ProductId": 10040002,
+    "ProductName": "50000220",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000810,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40002
+  },
+  "10040003": {
+    "Id": 10040003,
+    "Desc": "腾讯平台·直购礼包—街头滑手纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 4,
+    "ProductId": 10040003,
+    "ProductName": "40000930",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40003
+  },
+  "10040004": {
+    "Id": 10040004,
+    "Desc": "腾讯平台·直购礼包二期测试",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      1
+    ],
+    "ProductType": 4,
+    "ProductId": 10040004,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40004
+  },
+  "20010011": {
+    "Id": 20010011,
+    "Desc": "iNtl平台·蔷薇宝石礼包1（60）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 33,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        60
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500800,
+    "ExtraAwardID": 20500900,
+    "IsSale": 1,
+    "PaymentId": 10001
+  },
+  "20010012": {
+    "Id": 20010012,
+    "Desc": "iNtl平台·蔷薇宝石礼包2（300）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 170,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        300
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500810,
+    "ExtraAwardID": 20500910,
+    "IsSale": 1,
+    "PaymentId": 10002
+  },
+  "20010013": {
+    "Id": 20010013,
+    "Desc": "iNtl平台·蔷薇宝石礼包3（980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 490,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500820,
+    "ExtraAwardID": 20500920,
+    "IsSale": 1,
+    "PaymentId": 10003
+  },
+  "20010014": {
+    "Id": 20010014,
+    "Desc": "iNtl平台·蔷薇宝石礼包4（1980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 990,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        1980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500830,
+    "ExtraAwardID": 20500930,
+    "IsSale": 1,
+    "PaymentId": 10004
+  },
+  "20010015": {
+    "Id": 20010015,
+    "Desc": "iNtl平台·蔷薇宝石礼包5（3280）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 1690,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        3280
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500840,
+    "ExtraAwardID": 20500940,
+    "IsSale": 1,
+    "PaymentId": 10005
+  },
+  "20010016": {
+    "Id": 20010016,
+    "Desc": "iNtl平台·蔷薇宝石礼包6（6480）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 3290,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        6480
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500850,
+    "ExtraAwardID": 20500950,
+    "IsSale": 1,
+    "PaymentId": 10006
+  },
+  "20020001": {
+    "Id": 20020001,
+    "Desc": "iNtl平台·典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20001
+  },
+  "20020002": {
+    "Id": 20020002,
+    "Desc": "iNtl平台·高级典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20002
+  },
+  "20020003": {
+    "Id": 20020003,
+    "Desc": "iNtl平台·典藏通行证升级（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20003
+  },
+  "20020004": {
+    "Id": 20020004,
+    "Desc": "iNtl平台·典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20004
+  },
+  "20020005": {
+    "Id": 20020005,
+    "Desc": "iNtl平台·高级典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20005
+  },
+  "20020006": {
+    "Id": 20020006,
+    "Desc": "iNtl平台·典藏通行证升级（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20006
+  },
+  "20030002": {
+    "Id": 20030002,
+    "Desc": "iNtl平台·特权月卡",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30001
+  },
+  "20040001": {
+    "Id": 20040001,
+    "Desc": "iNtl平台·直购礼包—扭蛋券大礼包（未用到）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000800,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40001
+  },
+  "20040002": {
+    "Id": 20040002,
+    "Desc": "iNtl平台·直购礼包—艾露娜纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000810,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40002
+  },
+  "20040003": {
+    "Id": 20040003,
+    "Desc": "iNtl平台·直购礼包—街头滑手纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40003
+  },
+  "20040004": {
+    "Id": 20040004,
+    "Desc": "iNtl平台·直购礼包二期测试",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40004
+  },
+  "20099901": {
+    "Id": 20099901,
+    "Desc": "iNtl平台·钻石兑换卢诺",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 999,
+    "ProductId": 10002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 90,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99901
+  },
+  "20099902": {
+    "Id": 20099902,
+    "Desc": "iNtl平台·蔷薇宝石兑换蔷薇宝石（绑定）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      2
+    ],
+    "ProductType": 999,
+    "ProductId": 10005,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99902
+  },
+  "30010011": {
+    "Id": 30010011,
+    "Desc": "好玩平台·蔷薇宝石礼包1（60）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond1",
+    "Currency": "TWD",
+    "Price": 33,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        60
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500800,
+    "ExtraAwardID": 20500900,
+    "IsSale": 1,
+    "PaymentId": 10001
+  },
+  "30010012": {
+    "Id": 30010012,
+    "Desc": "好玩平台·蔷薇宝石礼包2（300）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond2",
+    "Currency": "TWD",
+    "Price": 170,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        300
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500810,
+    "ExtraAwardID": 20500910,
+    "IsSale": 1,
+    "PaymentId": 10002
+  },
+  "30010013": {
+    "Id": 30010013,
+    "Desc": "好玩平台·蔷薇宝石礼包3（980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond3",
+    "Currency": "TWD",
+    "Price": 490,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500820,
+    "ExtraAwardID": 20500920,
+    "IsSale": 1,
+    "PaymentId": 10003
+  },
+  "30010014": {
+    "Id": 30010014,
+    "Desc": "好玩平台·蔷薇宝石礼包4（1980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond4",
+    "Currency": "TWD",
+    "Price": 990,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        1980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500830,
+    "ExtraAwardID": 20500930,
+    "IsSale": 1,
+    "PaymentId": 10004
+  },
+  "30010015": {
+    "Id": 30010015,
+    "Desc": "好玩平台·蔷薇宝石礼包5（3280）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond5",
+    "Currency": "TWD",
+    "Price": 1690,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        3280
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500840,
+    "ExtraAwardID": 20500940,
+    "IsSale": 1,
+    "PaymentId": 10005
+  },
+  "30010016": {
+    "Id": 30010016,
+    "Desc": "好玩平台·蔷薇宝石礼包6（6480）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "xhgm_diamond6",
+    "Currency": "TWD",
+    "Price": 3290,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        6480
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500850,
+    "ExtraAwardID": 20500950,
+    "IsSale": 1,
+    "PaymentId": 10006
+  },
+  "30020001": {
+    "Id": 30020001,
+    "Desc": "好玩平台·典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp1_1",
+    "Currency": "TWD",
+    "Price": 330,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20001
+  },
+  "30020002": {
+    "Id": 30020002,
+    "Desc": "好玩平台·高级典藏通行证（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp1_2",
+    "Currency": "TWD",
+    "Price": 660,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20002
+  },
+  "30020003": {
+    "Id": 30020003,
+    "Desc": "好玩平台·典藏通行证升级（虚蚀赛季·上）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp1_3",
+    "Currency": "TWD",
+    "Price": 330,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20003
+  },
+  "30020004": {
+    "Id": 30020004,
+    "Desc": "好玩平台·典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp2_1",
+    "Currency": "TWD",
+    "Price": 330,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20004
+  },
+  "30020005": {
+    "Id": 30020005,
+    "Desc": "好玩平台·高级典藏通行证（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp2_2",
+    "Currency": "TWD",
+    "Price": 660,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20005
+  },
+  "30020006": {
+    "Id": 30020006,
+    "Desc": "好玩平台·典藏通行证升级（虚蚀赛季·下）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "xhgm_bp2_3",
+    "Currency": "TWD",
+    "Price": 330,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20006
+  },
+  "30030002": {
+    "Id": 30030002,
+    "Desc": "好玩平台·特权月卡",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "xhgm_mcard",
+    "Currency": "TWD",
+    "Price": 170,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30001
+  },
+  "30040001": {
+    "Id": 30040001,
+    "Desc": "好玩平台·直购礼包—扭蛋券大礼包（未用到）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "xhgm_toy",
+    "Currency": "TWD",
+    "Price": 33,
+    "AwardId": 40000800,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40001
+  },
+  "30040002": {
+    "Id": 30040002,
+    "Desc": "好玩平台·直购礼包—艾露娜纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "xhgm_airona",
+    "Currency": "TWD",
+    "Price": 100,
+    "AwardId": 40000810,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40002
+  },
+  "30040003": {
+    "Id": 30040003,
+    "Desc": "好玩平台·直购礼包—街头滑手纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "xhgm_jt",
+    "Currency": "TWD",
+    "Price": 33,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40003
+  },
+  "30040004": {
+    "Id": 30040004,
+    "Desc": "好玩平台·直购礼包二期测试",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 33,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40004
+  },
+  "30099901": {
+    "Id": 30099901,
+    "Desc": "好玩平台·钻石兑换卢诺",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 999,
+    "ProductId": 10002,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 0,
+    "AwardId": 90,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99901
+  },
+  "30099902": {
+    "Id": 30099902,
+    "Desc": "好玩平台·蔷薇宝石兑换蔷薇宝石（绑定）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      3
+    ],
+    "ProductType": 999,
+    "ProductId": 10005,
+    "ProductName": "",
+    "Currency": "TWD",
+    "Price": 0,
+    "AwardId": 18,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99902
+  },
+  "40010011": {
+    "Id": 40010011,
+    "Desc": "APJ平台·蔷薇宝石礼包1（60）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.1",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        60
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500800,
+    "ExtraAwardID": 20500900,
+    "IsSale": 1,
+    "PaymentId": 10001
+  },
+  "40010012": {
+    "Id": 40010012,
+    "Desc": "APJ平台·蔷薇宝石礼包2（300）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.2",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        300
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500810,
+    "ExtraAwardID": 20500910,
+    "IsSale": 1,
+    "PaymentId": 10002
+  },
+  "40010013": {
+    "Id": 40010013,
+    "Desc": "APJ平台·蔷薇宝石礼包3（980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.3",
+    "Currency": "CNY",
+    "Price": 98,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500820,
+    "ExtraAwardID": 20500920,
+    "IsSale": 1,
+    "PaymentId": 10003
+  },
+  "40010014": {
+    "Id": 40010014,
+    "Desc": "APJ平台·蔷薇宝石礼包4（1980）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.4",
+    "Currency": "CNY",
+    "Price": 198,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        1980
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500830,
+    "ExtraAwardID": 20500930,
+    "IsSale": 1,
+    "PaymentId": 10004
+  },
+  "40010015": {
+    "Id": 40010015,
+    "Desc": "APJ平台·蔷薇宝石礼包5（3280）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.5",
+    "Currency": "CNY",
+    "Price": 328,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        3280
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500840,
+    "ExtraAwardID": 20500940,
+    "IsSale": 1,
+    "PaymentId": 10005
+  },
+  "40010016": {
+    "Id": 40010016,
+    "Desc": "APJ平台·蔷薇宝石礼包6（6480）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 1,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.6",
+    "Currency": "CNY",
+    "Price": 648,
+    "AwardId": 0,
+    "Items": [
+      [
+        10003,
+        6480
+      ]
+    ],
+    "MailId": 0,
+    "FirstChargeAwardID": 20500850,
+    "ExtraAwardID": 20500950,
+    "IsSale": 1,
+    "PaymentId": 10006
+  },
+  "40020001": {
+    "Id": 40020001,
+    "Desc": "APJ平台·第一赛季普通通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.7",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20001
+  },
+  "40020002": {
+    "Id": 40020002,
+    "Desc": "APJ平台·第一赛季豪华通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.8",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20002
+  },
+  "40020003": {
+    "Id": 40020003,
+    "Desc": "APJ平台·第一赛季通行证补票（买了普通再买豪华）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.9",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 20003
+  },
+  "40020004": {
+    "Id": 40020004,
+    "Desc": "APJ平台·第二赛季普通通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.10",
+    "Currency": "CNY",
+    "Price": 68,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20004
+  },
+  "40020005": {
+    "Id": 40020005,
+    "Desc": "APJ平台·第二赛季豪华通行证",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.11",
+    "Currency": "CNY",
+    "Price": 128,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20005
+  },
+  "40020006": {
+    "Id": 40020006,
+    "Desc": "APJ平台·第二赛季通行证补票（买了普通再买豪华）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 3,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.12",
+    "Currency": "CNY",
+    "Price": 60,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 0,
+    "PaymentId": 20006
+  },
+  "40030002": {
+    "Id": 40030002,
+    "Desc": "APJ平台·特权月卡2025年10月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.13",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30001
+  },
+  "40030003": {
+    "Id": 40030003,
+    "Desc": "APJ平台·特权月卡2025年11月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.17",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30003
+  },
+  "40030004": {
+    "Id": 40030004,
+    "Desc": "APJ平台·特权月卡2025年12月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.18",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30004
+  },
+  "40030005": {
+    "Id": 40030005,
+    "Desc": "APJ平台·特权月卡2026年1月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.19",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30005
+  },
+  "40030006": {
+    "Id": 40030006,
+    "Desc": "APJ平台·特权月卡2026年2月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.20",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30006
+  },
+  "40030007": {
+    "Id": 40030007,
+    "Desc": "APJ平台·特权月卡2026年3月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.21",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30007
+  },
+  "40030008": {
+    "Id": 40030008,
+    "Desc": "APJ平台·特权月卡2026年4月",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 2,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.22",
+    "Currency": "CNY",
+    "Price": 30,
+    "AwardId": 0,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 30008
+  },
+  "40040001": {
+    "Id": 40040001,
+    "Desc": "APJ平台·直购礼包—扭蛋券大礼包（未用到）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.14",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000800,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40001
+  },
+  "40040002": {
+    "Id": 40040002,
+    "Desc": "APJ平台·直购礼包—艾露娜纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.15",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000810,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40002
+  },
+  "40040003": {
+    "Id": 40040003,
+    "Desc": "APJ平台·直购礼包—街头滑手纪念套",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "com.bpsrweb.16",
+    "Currency": "CNY",
+    "Price": 6,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40003
+  },
+  "40040004": {
+    "Id": 40040004,
+    "Desc": "APJ平台·直购礼包二期测试",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 4,
+    "ProductId": 0,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 18,
+    "AwardId": 40000930,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 40004
+  },
+  "40099901": {
+    "Id": 40099901,
+    "Desc": "APJ平台·钻石兑换卢诺",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 999,
+    "ProductId": 10002,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 0,
+    "AwardId": 90,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99901
+  },
+  "40099902": {
+    "Id": 40099902,
+    "Desc": "APJ平台·蔷薇宝石兑换蔷薇宝石（绑定）",
+    "Description": "unity·蔷薇宝石礼包1（60）",
+    "Platform": [
+      4
+    ],
+    "ProductType": 999,
+    "ProductId": 10005,
+    "ProductName": "",
+    "Currency": "CNY",
+    "Price": 0,
+    "AwardId": 18,
+    "Items": [],
+    "MailId": 0,
+    "FirstChargeAwardID": 0,
+    "ExtraAwardID": 0,
+    "IsSale": 1,
+    "PaymentId": 99902
+  }
+}

@@ -1,0 +1,5421 @@
+{
+  "12010001": {
+    "Id": 12010001,
+    "Name": "Boarlet",
+    "Quality": 2,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75001,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.2,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.9,
+        -0.06
+      ]
+    ],
+    "SeatIKConfig": [
+      100101
+    ],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4502,
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 15000,
+    "DashSpeedRate": 15000,
+    "High": 1.3,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_pig_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 20001,
+    "Score": 20,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_pig.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_pig_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010002": {
+    "Id": 12010002,
+    "Name": "Eaglefeather Steed",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75002,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_horse_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10031,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010003": {
+    "Id": 12010003,
+    "Name": "Recon Oculoid",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75003,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.25,
+        -0.05
+      ]
+    ],
+    "SeatIKConfig": [
+      100301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4522
+      ],
+      [
+        3,
+        4528
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_floatingeye_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10001,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_floatingeye.bytes",
+    "MagneticType": 2,
+    "MagneticShowBuff": [
+      9603,
+      9604,
+      9605
+    ],
+    "MagneticInterval": 1.5,
+    "MagneticInterruptHeight": 1.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010004": {
+    "Id": 12010004,
+    "Name": "Royal Horse: Platinum",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75004,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4544
+      ],
+      [
+        3,
+        4542
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_horse_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 1,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010005": {
+    "Id": 12010005,
+    "Name": "Byrnhald Golem",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 2,
+    "ModelID": 75005,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000123,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "RideUpJumpType": 2,
+    "RideUpJumpHeight": 3.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        -0.5,
+        1.6,
+        0.0
+      ],
+      [
+        1.0,
+        0.5,
+        1.6,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100501,
+      100502
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4551
+      ],
+      [
+        3,
+        4552
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      2,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 4.0,
+    "ForceStopInWaterDepth": 0.5,
+    "HudOffset": -0.8,
+    "MaxStepHeight": 1.1,
+    "JumpId": 102,
+    "MoveShowBuffId": [
+      0,
+      683123,
+      683130
+    ],
+    "JumpEffectBuffs": [
+      683131,
+      0,
+      683131
+    ],
+    "Icon": "item_icons_vehicle_robot_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 11,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dng001robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dng001robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010006": {
+    "Id": 12010006,
+    "Name": "Loyal Boarlet",
+    "Quality": 4,
+    "ParentId": 12010001,
+    "UnlockCondition": [
+      5,
+      12010001,
+      1
+    ],
+    "UnlockCostItem": [
+      1075012,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75006,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.2,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.9,
+        -0.06
+      ]
+    ],
+    "SeatIKConfig": [
+      100101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4501
+      ]
+    ],
+    "PassiveSkillId": [
+      4502,
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 20000,
+    "High": 1.3,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_pig_04",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_08",
+    "UnrealSceneBg": "",
+    "SortId": 20004,
+    "Score": 100,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_pig.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_pig_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010007": {
+    "Id": 12010007,
+    "Name": "Lovely Boarlet",
+    "Quality": 3,
+    "ParentId": 12010001,
+    "UnlockCondition": [
+      5,
+      12010001,
+      1
+    ],
+    "UnlockCostItem": [
+      1075013,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75007,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.2,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.9,
+        -0.06
+      ]
+    ],
+    "SeatIKConfig": [
+      100101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4501
+      ]
+    ],
+    "PassiveSkillId": [
+      4502,
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.3,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_pig_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 20003,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_pig.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_pig_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010008": {
+    "Id": 12010008,
+    "Name": "Breezy Boarlet",
+    "Quality": 3,
+    "ParentId": 12010001,
+    "UnlockCondition": [
+      5,
+      12010001,
+      1
+    ],
+    "UnlockCostItem": [
+      1075014,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75008,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.2,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.9,
+        -0.06
+      ]
+    ],
+    "SeatIKConfig": [
+      100101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4501
+      ]
+    ],
+    "PassiveSkillId": [
+      4502,
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.3,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_pig_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 20002,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_pig.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_pig_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010009": {
+    "Id": 12010009,
+    "Name": "Golem Foxen",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75009,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4513
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683172
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dihu_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 61,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80202
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010010": {
+    "Id": 12010010,
+    "Name": "Voyager",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 2,
+    "ModelID": 75010,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [],
+    "RideUpShowTimes": 0.0,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.0,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 0.0,
+    "JumpId": 0,
+    "MoveShowBuffId": [],
+    "JumpEffectBuffs": [],
+    "Icon": "",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 100000,
+    "Score": 40,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/common.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_def_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010011": {
+    "Id": 12010011,
+    "Name": "Cuddly Ranger Rabbit",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75011,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.35,
+        -0.085
+      ]
+    ],
+    "SeatIKConfig": [
+      100701
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4508
+      ],
+      [
+        3,
+        4509
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_rabbit_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10021,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_rabbit.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_rabbit_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010012": {
+    "Id": 12010012,
+    "Name": "Twilight Stage",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75012,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100901
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4613
+      ],
+      [
+        3,
+        4612
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 2.5,
+    "ForceStopInWaterDepth": 0.4,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dancestage_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 71,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80203
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010013": {
+    "Id": 12010013,
+    "Name": "Air Rider Type α",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75013,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.5,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.6,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100601
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4531
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_skateboard_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10041,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010014": {
+    "Id": 12010014,
+    "Name": "Swift Sweeper",
+    "Quality": 2,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75014,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100801
+    ],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_broom_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 100000,
+    "Score": 20,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/common.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_def_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010015": {
+    "Id": 12010015,
+    "Name": "Inferno Doombane",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75015,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100402
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ],
+      [
+        3,
+        4545
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 20000,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_kylin_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 41,
+    "Score": 100,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010016": {
+    "Id": 12010016,
+    "Name": "Loyal Pickup Pup",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75016,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dog_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10051,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010017": {
+    "Id": 12010017,
+    "Name": "Lionmane Steed",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75017,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100403
+    ],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.9,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_camel01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 100000,
+    "Score": 40,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010018": {
+    "Id": 12010018,
+    "Name": "Hyper Impulse",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75018,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101001
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4601
+      ],
+      [
+        3,
+        4602
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      683162,
+      683167,
+      683165
+    ],
+    "JumpEffectBuffs": [
+      683162,
+      683162,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_yacht_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 51,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80202
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010019": {
+    "Id": 12010019,
+    "Name": "Anti-Gravity Bubble",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75019,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.25,
+        -0.05
+      ]
+    ],
+    "SeatIKConfig": [
+      100301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4529
+      ],
+      [
+        3,
+        4521
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_bubble01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10011,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_floatingeye.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010020": {
+    "Id": 12010020,
+    "Name": "Mini Golem",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75020,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.3,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.76,
+        -0.55
+      ]
+    ],
+    "SeatIKConfig": [
+      101101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4553
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 105,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_robot01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 21,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010021": {
+    "Id": 12010021,
+    "Name": "Melon Oculoid",
+    "Quality": 3,
+    "ParentId": 12010003,
+    "UnlockCondition": [
+      5,
+      12010003,
+      1
+    ],
+    "UnlockCostItem": [
+      1075001,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75021,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.25,
+        -0.05
+      ]
+    ],
+    "SeatIKConfig": [
+      100301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4522
+      ],
+      [
+        3,
+        4528
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_floatingeye_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_09",
+    "UnrealSceneBg": "",
+    "SortId": 10002,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_floatingeye.bytes",
+    "MagneticType": 2,
+    "MagneticShowBuff": [
+      9603,
+      9604,
+      9605
+    ],
+    "MagneticInterval": 1.5,
+    "MagneticInterruptHeight": 1.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010022": {
+    "Id": 12010022,
+    "Name": "Tropical Oculoid",
+    "Quality": 3,
+    "ParentId": 12010003,
+    "UnlockCondition": [
+      5,
+      12010003,
+      1
+    ],
+    "UnlockCostItem": [
+      1075002,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75022,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.25,
+        -0.05
+      ]
+    ],
+    "SeatIKConfig": [
+      100301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4522
+      ],
+      [
+        3,
+        4528
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_floatingeye_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_10",
+    "UnrealSceneBg": "",
+    "SortId": 10003,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_floatingeye.bytes",
+    "MagneticType": 2,
+    "MagneticShowBuff": [
+      9603,
+      9604,
+      9605
+    ],
+    "MagneticInterval": 1.5,
+    "MagneticInterruptHeight": 1.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010023": {
+    "Id": 12010023,
+    "Name": "Midnight Sweeper",
+    "Quality": 2,
+    "ParentId": 12010014,
+    "UnlockCondition": [
+      5,
+      12010014,
+      1
+    ],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75023,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100801
+    ],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_broom_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 100000,
+    "Score": 20,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/common.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_def_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010024": {
+    "Id": 12010024,
+    "Name": "Cosmic Sweeper",
+    "Quality": 2,
+    "ParentId": 12010014,
+    "UnlockCondition": [
+      5,
+      12010014,
+      1
+    ],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75024,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100801
+    ],
+    "VehSkillIds": [],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 11000,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_broom_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 100000,
+    "Score": 20,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/common.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_def_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010025": {
+    "Id": 12010025,
+    "Name": "Wave Steed",
+    "Quality": 3,
+    "ParentId": 12010002,
+    "UnlockCondition": [
+      5,
+      12010002,
+      1
+    ],
+    "UnlockCostItem": [
+      1075024,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75025,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_horse_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10032,
+    "Score": 40,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010026": {
+    "Id": 12010026,
+    "Name": "Shiny Steed",
+    "Quality": 4,
+    "ParentId": 12010002,
+    "UnlockCondition": [
+      5,
+      12010002,
+      1
+    ],
+    "UnlockCostItem": [
+      1075025,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75026,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 20000,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_horse02_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_08",
+    "UnrealSceneBg": "",
+    "SortId": 10033,
+    "Score": 100,
+    "IsHide": 0,
+    "HideWhenNotHave": true,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010027": {
+    "Id": 12010027,
+    "Name": "Air Rider Type β",
+    "Quality": 3,
+    "ParentId": 12010013,
+    "UnlockCondition": [
+      5,
+      12010013,
+      1
+    ],
+    "UnlockCostItem": [
+      1075006,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75027,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.5,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.6,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100601
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4531
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_skateboard_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10042,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010028": {
+    "Id": 12010028,
+    "Name": "Air Rider Type γ",
+    "Quality": 3,
+    "ParentId": 12010013,
+    "UnlockCondition": [
+      5,
+      12010013,
+      1
+    ],
+    "UnlockCostItem": [
+      1075007,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75028,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.5,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.6,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100601
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4531
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 0.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683138
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_skateboard_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10043,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010029": {
+    "Id": 12010029,
+    "Name": "Shadow Doombane",
+    "Quality": 4,
+    "ParentId": 12010015,
+    "UnlockCondition": [
+      5,
+      12010015,
+      1
+    ],
+    "UnlockCostItem": [
+      1075004,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75029,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100402
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ],
+      [
+        3,
+        4545
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 20000,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_kylin_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_12",
+    "UnrealSceneBg": "",
+    "SortId": 42,
+    "Score": 100,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010030": {
+    "Id": 12010030,
+    "Name": "Joyous Doombane",
+    "Quality": 4,
+    "ParentId": 12010015,
+    "UnlockCondition": [
+      5,
+      12010015,
+      1
+    ],
+    "UnlockCostItem": [
+      1075005,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75030,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100402
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ],
+      [
+        3,
+        4545
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 20000,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_kylin_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_13",
+    "UnrealSceneBg": "",
+    "SortId": 43,
+    "Score": 100,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010031": {
+    "Id": 12010031,
+    "Name": "Pearl Golem",
+    "Quality": 4,
+    "ParentId": 12010005,
+    "UnlockCondition": [
+      5,
+      12010005,
+      1
+    ],
+    "UnlockCostItem": [
+      1075011,
+      1
+    ],
+    "Type": 2,
+    "ModelID": 75031,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000123,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "RideUpJumpType": 2,
+    "RideUpJumpHeight": 3.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        -1.0,
+        2.1,
+        -0.3
+      ],
+      [
+        1.0,
+        1.0,
+        2.1,
+        -0.3
+      ]
+    ],
+    "SeatIKConfig": [
+      100501,
+      100502
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4551
+      ],
+      [
+        3,
+        4552
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      2,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 4.0,
+    "ForceStopInWaterDepth": 0.5,
+    "HudOffset": -0.8,
+    "MaxStepHeight": 1.1,
+    "JumpId": 102,
+    "MoveShowBuffId": [
+      0,
+      683123,
+      683130
+    ],
+    "JumpEffectBuffs": [
+      683131,
+      0,
+      683131
+    ],
+    "Icon": "item_icons_vehicle_dng001robot_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_02",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_02",
+    "SortId": 13,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dng001robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dng001robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010032": {
+    "Id": 12010032,
+    "Name": "Cyan Golem",
+    "Quality": 4,
+    "ParentId": 12010005,
+    "UnlockCondition": [
+      5,
+      12010005,
+      1
+    ],
+    "UnlockCostItem": [
+      1075010,
+      1
+    ],
+    "Type": 2,
+    "ModelID": 75032,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000123,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 0.0
+      }
+    ],
+    "RideUpJumpType": 2,
+    "RideUpJumpHeight": 3.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        -1.0,
+        2.1,
+        -0.3
+      ],
+      [
+        1.0,
+        1.0,
+        2.1,
+        -0.3
+      ]
+    ],
+    "SeatIKConfig": [
+      100501,
+      100502
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4551
+      ],
+      [
+        3,
+        4552
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      2,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 4.0,
+    "ForceStopInWaterDepth": 0.5,
+    "HudOffset": -0.8,
+    "MaxStepHeight": 1.1,
+    "JumpId": 102,
+    "MoveShowBuffId": [
+      0,
+      683123,
+      683130
+    ],
+    "JumpEffectBuffs": [
+      683131,
+      0,
+      683131
+    ],
+    "Icon": "item_icons_vehicle_dng001robot_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_05",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_05",
+    "SortId": 12,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dng001robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dng001robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010033": {
+    "Id": 12010033,
+    "Name": "Scarlet Golem",
+    "Quality": 4,
+    "ParentId": 12010020,
+    "UnlockCondition": [
+      5,
+      12010020,
+      1
+    ],
+    "UnlockCostItem": [
+      1075009,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75033,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.3,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.76,
+        -0.55
+      ]
+    ],
+    "SeatIKConfig": [
+      101101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4553
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 105,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_robot01_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_06",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_06",
+    "SortId": 22,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010034": {
+    "Id": 12010034,
+    "Name": "Blade Oculoid",
+    "Quality": 3,
+    "ParentId": 12010003,
+    "UnlockCondition": [
+      5,
+      12010003,
+      1
+    ],
+    "UnlockCostItem": [
+      1075003,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75034,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.25,
+        -0.05
+      ]
+    ],
+    "SeatIKConfig": [
+      100301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4522
+      ],
+      [
+        3,
+        4528
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_floatingeye_04",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_11",
+    "UnrealSceneBg": "",
+    "SortId": 10004,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_floatingeye.bytes",
+    "MagneticType": 2,
+    "MagneticShowBuff": [
+      9603,
+      9604,
+      9605
+    ],
+    "MagneticInterval": 1.5,
+    "MagneticInterruptHeight": 1.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010035": {
+    "Id": 12010035,
+    "Name": "Fuzzy Ranger Rabbit",
+    "Quality": 3,
+    "ParentId": 12010011,
+    "UnlockCondition": [
+      5,
+      12010011,
+      1
+    ],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75035,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.35,
+        -0.085
+      ]
+    ],
+    "SeatIKConfig": [
+      100701
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4508
+      ],
+      [
+        3,
+        4509
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.6,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_rabbit_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10023,
+    "Score": 40,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_rabbit.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_rabbit_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010036": {
+    "Id": 12010036,
+    "Name": "Fluffy Ranger Rabbit",
+    "Quality": 3,
+    "ParentId": 12010011,
+    "UnlockCondition": [
+      5,
+      12010011,
+      1
+    ],
+    "UnlockCostItem": [
+      1075015,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75036,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.35,
+        -0.085
+      ]
+    ],
+    "SeatIKConfig": [
+      100701
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4508
+      ],
+      [
+        3,
+        4509
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.6,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_rabbit_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_14",
+    "UnrealSceneBg": "",
+    "SortId": 10022,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_rabbit.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_rabbit_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010037": {
+    "Id": 12010037,
+    "Name": "Royal Horse - Golden Black",
+    "Quality": 4,
+    "ParentId": 12010004,
+    "UnlockCondition": [
+      5,
+      12010004,
+      1
+    ],
+    "UnlockCostItem": [
+      1075008,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75037,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.4,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.75,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4544
+      ],
+      [
+        3,
+        4546
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_horse03_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_07",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_07",
+    "SortId": 2,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_horse.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010038": {
+    "Id": 12010038,
+    "Name": "Astral Delivery",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75038,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.83,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4581
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.1,
+    "HudOffset": -1.0,
+    "MaxStepHeight": 1.1,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_airdrop01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10061,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": true,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010039": {
+    "Id": 12010039,
+    "Name": "Shimmering Beautifish",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75039,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.15,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683159,
+      683164
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_koi_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 31,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_koi.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_koi_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010040": {
+    "Id": 12010040,
+    "Name": "Lustrous Beautifish",
+    "Quality": 4,
+    "ParentId": 12010039,
+    "UnlockCondition": [
+      5,
+      12010039,
+      1
+    ],
+    "UnlockCostItem": [
+      1075016,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75040,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.15,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683159,
+      683164
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_koi_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_20",
+    "UnrealSceneBg": "",
+    "SortId": 32,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_koi.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_koi_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010041": {
+    "Id": 12010041,
+    "Name": "Radiant Beautifish",
+    "Quality": 4,
+    "ParentId": 12010039,
+    "UnlockCondition": [
+      5,
+      12010039,
+      1
+    ],
+    "UnlockCostItem": [
+      1075017,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75041,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.15,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683159,
+      683164
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_koi_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_21",
+    "UnrealSceneBg": "",
+    "SortId": 33,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_koi.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_koi_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010042": {
+    "Id": 12010042,
+    "Name": "Turtle",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75042,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.2,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.8,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101401
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4591
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.0,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.8,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_seaturtle01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10071,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_seaturtle.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_horse_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010043": {
+    "Id": 12010043,
+    "Name": "Dawnlight Stage",
+    "Quality": 4,
+    "ParentId": 12010012,
+    "UnlockCondition": [
+      5,
+      12010012,
+      1
+    ],
+    "UnlockCostItem": [
+      1075018,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75043,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100901
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4613
+      ],
+      [
+        3,
+        4612
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 2.5,
+    "ForceStopInWaterDepth": 0.4,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dancestage02_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_29",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_12",
+    "SortId": 74,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80203
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010044": {
+    "Id": 12010044,
+    "Name": "Solstic Beautifish",
+    "Quality": 4,
+    "ParentId": 12010039,
+    "UnlockCondition": [
+      5,
+      12010039,
+      1
+    ],
+    "UnlockCostItem": [
+      1075019,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75044,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.15,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683159,
+      683164
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_koi02_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_23",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_08",
+    "SortId": 34,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_koi.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_koi_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010045": {
+    "Id": 12010045,
+    "Name": "Mirage Beautifish",
+    "Quality": 4,
+    "ParentId": 12010039,
+    "UnlockCondition": [
+      5,
+      12010039,
+      1
+    ],
+    "UnlockCostItem": [
+      1075020,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75045,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.15,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101301
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4571
+      ],
+      [
+        3,
+        4572
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 104,
+    "MoveShowBuffId": [
+      0,
+      683159,
+      683164
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_koi02_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_21",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_09",
+    "SortId": 35,
+    "Score": 400,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_koi.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_koi_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010046": {
+    "Id": 12010046,
+    "Name": "Lovely Pickup Pup",
+    "Quality": 3,
+    "ParentId": 12010016,
+    "UnlockCondition": [
+      5,
+      12010016,
+      1
+    ],
+    "UnlockCostItem": [
+      1075021,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75046,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dog_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10052,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": true,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010047": {
+    "Id": 12010047,
+    "Name": "Wild Pickup Pup",
+    "Quality": 3,
+    "ParentId": 12010016,
+    "UnlockCondition": [
+      5,
+      12010016,
+      1
+    ],
+    "UnlockCostItem": [
+      1075022,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75047,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4543
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683129
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dog_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10053,
+    "Score": 40,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010048": {
+    "Id": 12010048,
+    "Name": "Electro Golem",
+    "Quality": 4,
+    "ParentId": 12010020,
+    "UnlockCondition": [
+      5,
+      12010020,
+      1
+    ],
+    "UnlockCostItem": [
+      1075023,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75048,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.3,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.76,
+        -0.55
+      ]
+    ],
+    "SeatIKConfig": [
+      101101
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4553
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.8,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 105,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683120
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_robot01_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_22",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_18",
+    "SortId": 23,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_robot.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_robot_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010049": {
+    "Id": 12010049,
+    "Name": "Starlight Stage",
+    "Quality": 4,
+    "ParentId": 12010012,
+    "UnlockCondition": [
+      5,
+      12010012,
+      1
+    ],
+    "UnlockCostItem": [
+      1075026,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75049,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100901
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4613
+      ],
+      [
+        3,
+        4612
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 2.5,
+    "ForceStopInWaterDepth": 0.4,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dancestage_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 72,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010050": {
+    "Id": 12010050,
+    "Name": "Moonlight Stage",
+    "Quality": 4,
+    "ParentId": 12010012,
+    "UnlockCondition": [
+      5,
+      12010012,
+      1
+    ],
+    "UnlockCostItem": [
+      1075027,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75050,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.9,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100901
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4613
+      ],
+      [
+        3,
+        4612
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 2.5,
+    "ForceStopInWaterDepth": 0.4,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dancestage_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 73,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010051": {
+    "Id": 12010051,
+    "Name": "Crimson Foxen",
+    "Quality": 4,
+    "ParentId": 12010009,
+    "UnlockCondition": [
+      5,
+      12010009,
+      1
+    ],
+    "UnlockCostItem": [
+      1075028,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75051,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4513
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683172
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dihu_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 62,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010052": {
+    "Id": 12010052,
+    "Name": "Night Foxen",
+    "Quality": 4,
+    "ParentId": 12010009,
+    "UnlockCondition": [
+      5,
+      12010009,
+      1
+    ],
+    "UnlockCostItem": [
+      1075029,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75052,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4513
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683172
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dihu_03",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 63,
+    "Score": 200,
+    "IsHide": 1,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010053": {
+    "Id": 12010053,
+    "Name": "Abyss Foxen",
+    "Quality": 4,
+    "ParentId": 12010009,
+    "UnlockCondition": [
+      5,
+      12010009,
+      1
+    ],
+    "UnlockCostItem": [
+      1075030,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75053,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.8,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.5,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      100201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4512
+      ],
+      [
+        3,
+        4514
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 0.9,
+    "JumpId": 103,
+    "MoveShowBuffId": [
+      0,
+      683122,
+      683172
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_dihu_04",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_25",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_10",
+    "SortId": 64,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80202
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_dihu.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_dihu_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010054": {
+    "Id": 12010054,
+    "Name": "Firestorm Impulse",
+    "Quality": 4,
+    "ParentId": 12010018,
+    "UnlockCondition": [
+      5,
+      12010018,
+      1
+    ],
+    "UnlockCostItem": [
+      1075031,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75054,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        1.2,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101001
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4601
+      ],
+      [
+        3,
+        4603
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.6,
+    "HudOffset": -0.6,
+    "MaxStepHeight": 1.0,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      683162,
+      683166,
+      683161
+    ],
+    "JumpEffectBuffs": [
+      683162,
+      683162,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_yacht02_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_26",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_11",
+    "SortId": 52,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80202
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_skateboard.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_skateboard_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010055": {
+    "Id": 12010055,
+    "Name": "Devilray",
+    "Quality": 4,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75055,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.8,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101501
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4621
+      ],
+      [
+        3,
+        4622
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 106,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_monsterfish01_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 81,
+    "Score": 200,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80203
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_monsterfish.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_monsterfish_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010056": {
+    "Id": 12010056,
+    "Name": "Fleeting Devilray",
+    "Quality": 4,
+    "ParentId": 12010055,
+    "UnlockCondition": [
+      5,
+      12010055,
+      1
+    ],
+    "UnlockCostItem": [
+      1075032,
+      1
+    ],
+    "Type": 1,
+    "ModelID": 75056,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 2.0,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.8,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101501
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4621
+      ],
+      [
+        3,
+        4622
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 15000,
+    "RunSpeedRate": 20000,
+    "DashSpeedRate": 22500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.8,
+    "HudOffset": 0.0,
+    "MaxStepHeight": 1.0,
+    "JumpId": 106,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_monsterfish02_01",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_30",
+    "UnrealSceneBg": "ui/textures/virtual_scene/bg_vehicle_skin_13",
+    "SortId": 82,
+    "Score": 400,
+    "IsHide": 0,
+    "HideWhenNotHave": false,
+    "ShowLimitType": [
+      [
+        9,
+        80203
+      ]
+    ],
+    "MoveCurve": "curve/vehicle/ch_vehicle_monsterfish.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_monsterfish_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  },
+  "12010058": {
+    "Id": 12010058,
+    "Name": "Zephyr Delivery",
+    "Quality": 3,
+    "ParentId": 0,
+    "UnlockCondition": [],
+    "UnlockCostItem": [],
+    "Type": 1,
+    "ModelID": 75058,
+    "RideAnimTemplate": [],
+    "RideUpDownBuff": [
+      7000121,
+      7000122
+    ],
+    "RideUpShowTimes": 0.7,
+    "DissolutionCfg": [
+      {
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "x": 0.0,
+        "y": 1.2
+      }
+    ],
+    "RideUpJumpType": 0,
+    "RideUpJumpHeight": 1.9,
+    "RideUpMountDelay": 0.0,
+    "SeatInfo": [
+      [
+        0.0,
+        0.0,
+        0.83,
+        0.0
+      ]
+    ],
+    "SeatIKConfig": [
+      101201
+    ],
+    "VehSkillIds": [
+      [
+        2,
+        4581
+      ]
+    ],
+    "PassiveSkillId": [
+      4599
+    ],
+    "PropertyId": [
+      1,
+      11
+    ],
+    "WalkSpeedRate": 12500,
+    "RunSpeedRate": 17500,
+    "DashSpeedRate": 17500,
+    "High": 1.5,
+    "ForceStopInWaterDepth": 0.1,
+    "HudOffset": -1.0,
+    "MaxStepHeight": 1.1,
+    "JumpId": 101,
+    "MoveShowBuffId": [
+      0,
+      0,
+      683132
+    ],
+    "JumpEffectBuffs": [
+      683121,
+      0,
+      683121
+    ],
+    "Icon": "item_icons_vehicle_airdrop01_02",
+    "SkinBottomPicture": "ui/textures/vehicle/vehicle_skin_01",
+    "UnrealSceneBg": "",
+    "SortId": 10062,
+    "Score": 40,
+    "IsHide": 0,
+    "HideWhenNotHave": true,
+    "ShowLimitType": [],
+    "MoveCurve": "curve/vehicle/ch_vehicle_airdrop.bytes",
+    "MagneticType": 0,
+    "MagneticShowBuff": [],
+    "MagneticInterval": 0.0,
+    "MagneticInterruptHeight": 0.0,
+    "AudioSwitch": [],
+    "JumpEndMoveCurve": "curve/as_vehicle_floatingeye_jumpendf.bytes",
+    "RideAnimFadeTemplate": [],
+    "IsPathfinding": true
+  }
+}

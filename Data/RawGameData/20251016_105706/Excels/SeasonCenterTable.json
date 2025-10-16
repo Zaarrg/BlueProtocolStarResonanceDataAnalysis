@@ -1,0 +1,30 @@
+{
+  "800505": {
+    "FunctionId": 800505,
+    "NameRemark": "赛季通行证/赛季目标",
+    "Sort": 1,
+    "HelpId": 30028,
+    "ViewPath": ""
+  },
+  "800601": {
+    "FunctionId": 800601,
+    "NameRemark": "积分商店",
+    "Sort": 4,
+    "HelpId": 30025,
+    "ViewPath": ""
+  },
+  "800504": {
+    "FunctionId": 800504,
+    "NameRemark": "赛季成就",
+    "Sort": 3,
+    "HelpId": 400005,
+    "ViewPath": ""
+  },
+  "800510": {
+    "FunctionId": 800510,
+    "NameRemark": "赛季头衔",
+    "Sort": 2,
+    "HelpId": 400004,
+    "ViewPath": ""
+  }
+}

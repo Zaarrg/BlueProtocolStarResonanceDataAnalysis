@@ -1,0 +1,19 @@
+{
+  "1": {
+    "Id": 1,
+    "SuitId": 100,
+    "SuitName": "2-Piece Set",
+    "LimitNum": 2,
+    "SuitAttrLibId": []
+  },
+  "2": {
+    "Id": 2,
+    "SuitId": 100,
+    "SuitName": "4-Piece Set",
+    "LimitNum": 4,
+    "SuitAttrLibId": [
+      2,
+      5000
+    ]
+  }
+}

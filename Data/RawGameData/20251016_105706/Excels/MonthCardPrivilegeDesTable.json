@@ -1,0 +1,17 @@
+{
+  "4": {
+    "Id": 4,
+    "PrivilegeDes": "Trading Center: slots <color=#e65f29>+2</color>, fee <color=#e65f29>-20%</color>, <color=#e65f29>no deposit required</color>.",
+    "IsHide": false
+  },
+  "5": {
+    "Id": 5,
+    "PrivilegeDes": "Shared Warehouse: Normal Item Deposit Quantity <color=#e65f29>+250</color>, Withdrawal Quantity <color=#e65f29>+50</color>. Advanced Item Deposit Quantity <color=#e65f29>+100</color>, Withdrawal Quantity <color=#e65f29>+15</color>",
+    "IsHide": true
+  },
+  "6": {
+    "Id": 6,
+    "PrivilegeDes": "Homestead Shared Storage Regular Item deposit limit <style=\"accent-gn\"> +250</color>. Homestead Shared Storage Regular Item withdrawal limit <style=\"accent-gn\"> +50</color>. Homestead Shared Storage Advanced Item deposit limit <style=\"accent-gn\"> +100</color>. Homestead Shared Storage Advanced Item withdrawal limit <style=\"accent-gn\"> +15</color>.",
+    "IsHide": false
+  }
+}

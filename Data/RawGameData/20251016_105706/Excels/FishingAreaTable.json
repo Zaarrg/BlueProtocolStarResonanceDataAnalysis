@@ -1,0 +1,78 @@
+{
+  "2200": {
+    "SceneObjectId": 2200,
+    "AreaName": "City Harbor",
+    "FishGroup": [],
+    "WaitTime": [
+      7.0,
+      10.0
+    ],
+    "AreaSize": [
+      9.0,
+      12.0
+    ],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2201": {
+    "SceneObjectId": 2201,
+    "AreaName": "Freshwater",
+    "FishGroup": [
+      1094002,
+      1094003,
+      1094004,
+      1094005,
+      1095002,
+      1096006,
+      1096007,
+      1096008,
+      1096009,
+      1096010
+    ],
+    "WaitTime": [
+      7.0,
+      10.0
+    ],
+    "AreaSize": [
+      9.0,
+      12.0
+    ],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  },
+  "2202": {
+    "SceneObjectId": 2202,
+    "AreaName": "Sea Water",
+    "FishGroup": [
+      1094009,
+      1094010,
+      1094011,
+      1095003,
+      1096011,
+      1096012,
+      1096013,
+      1096014,
+      1096015,
+      1096016
+    ],
+    "WaitTime": [
+      7.0,
+      10.0
+    ],
+    "AreaSize": [
+      9.0,
+      12.0
+    ],
+    "ShiftDistance": 15.0,
+    "InitialPos": [
+      0.0,
+      0.0
+    ]
+  }
+}

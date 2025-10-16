@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Id": 1,
+    "CategoryID": 1,
+    "FitterID": "Quality",
+    "FitterName": "Rarity",
+    "ChoiceID": "0=1=2=3=4=5",
+    "ChoiceName": "Raw=Common=Rare=Epic=Legendary=Mythic",
+    "Sort": 1,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "2": {
+    "Id": 2,
+    "CategoryID": 2,
+    "FitterID": "Equippart",
+    "FitterName": "Armor Slot",
+    "ChoiceID": "0=1=2=3",
+    "ChoiceName": "Helmet=Armor=Gauntlets=Shoes",
+    "Sort": 2,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "3": {
+    "Id": 3,
+    "CategoryID": 3,
+    "FitterID": "Jewelrypart",
+    "FitterName": "Jewelry Slot",
+    "ChoiceID": "0=1=2",
+    "ChoiceName": "Earring=Necklace=Ring",
+    "Sort": 3,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "4": {
+    "Id": 4,
+    "CategoryID": 4,
+    "FitterID": "Specialpart",
+    "FitterName": "Special Gear Slot",
+    "ChoiceID": "0=1=2",
+    "ChoiceName": "Bracelet (L)=Bracelet (R)=Charm",
+    "Sort": 4,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "5": {
+    "Id": 5,
+    "CategoryID": 5,
+    "FitterID": "Entry",
+    "FitterName": "Advanced Attributes",
+    "ChoiceID": "181=182=183=184=185=186=187",
+    "ChoiceName": "Agility=Endurance=Crit=Haste=Luck=Mastery=Versatility",
+    "Sort": 5,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "6": {
+    "Id": 6,
+    "CategoryID": 6,
+    "FitterID": "Perfectline",
+    "FitterName": "Perfection",
+    "ChoiceID": "0=1=2",
+    "ChoiceName": "",
+    "Sort": 6,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "7": {
+    "Id": 7,
+    "CategoryID": 7,
+    "FitterID": "Entry",
+    "FitterName": "Advanced Attributes",
+    "ChoiceID": "195=196=197=198=199=200=201",
+    "ChoiceName": "Intellect=Endurance=Crit=Haste=Luck=Mastery=Versatility",
+    "Sort": 7,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "8": {
+    "Id": 8,
+    "CategoryID": 8,
+    "FitterID": "Entry",
+    "FitterName": "Advanced Attributes",
+    "ChoiceID": "552=553=554=555=556=557=558=559",
+    "ChoiceName": "Elemental Strength=Strength=Crit=Luck=Haste=Versatility=Mastery=Precision",
+    "Sort": 8,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "9": {
+    "Id": 9,
+    "CategoryID": 9,
+    "FitterID": "Entry",
+    "FitterName": "Advanced Attributes",
+    "ChoiceID": "560=561=562=563=564=565=566=567",
+    "ChoiceName": "Elemental Strength=Intellect=Crit=Luck=Haste=Versatility=Mastery=Precision",
+    "Sort": 9,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  },
+  "10": {
+    "Id": 10,
+    "CategoryID": 10,
+    "FitterID": "Entry",
+    "FitterName": "Advanced Attributes",
+    "ChoiceID": "568=569=570=571=572=573=574=575",
+    "ChoiceName": "Elemental Strength=Agility=Crit=Luck=Haste=Versatility=Mastery=Precision",
+    "Sort": 10,
+    "MutiplyChoice": 0,
+    "MutiplyNumber": 0
+  }
+}

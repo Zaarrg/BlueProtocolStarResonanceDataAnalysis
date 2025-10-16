@@ -1,0 +1,297 @@
+{
+  "10011": {
+    "Id": 10011,
+    "Clue": [],
+    "InferenceStep": [
+      100111,
+      100112
+    ],
+    "Conclusion": "The contact isn't local-bright hair, sturdy build (not as sturdy as me). They'll likely use a Sea Lily as a token and exchange an \"important item\" at the meeting.",
+    "ConclusionTips": "Head to Entertainment District to gather information",
+    "ConclusionBubble": "Let's proceed with a more in-depth investigation next.",
+    "ConclusionAction": 9026,
+    "IockedBubble": [
+      "With just these clues... there's no clear lead."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Jerrad gradually confirmed the characteristics of the contact person in his notes..."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": false
+  },
+  "10012": {
+    "Id": 10012,
+    "Clue": [
+      100121,
+      100122,
+      100123
+    ],
+    "InferenceStep": [
+      100121,
+      100122,
+      100123
+    ],
+    "Conclusion": "A well-built young man, neatly dressed, with multicolored hair and a faint floral scent.",
+    "ConclusionTips": "Go to Entertainment District to find the potential contact person",
+    "ConclusionBubble": "The suspect is identified, no time to lose!",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Let's ask the eyewitnesses again."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the contact person."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "10031": {
+    "Id": 10031,
+    "Clue": [
+      100311,
+      100312,
+      100313
+    ],
+    "InferenceStep": [
+      100311,
+      100312,
+      100313
+    ],
+    "Conclusion": "All three items are suspicious, but the most suspicious one is indeed...",
+    "ConclusionTips": "Find the most suspicious item",
+    "ConclusionBubble": "The suspicious item is identified, no time to lose!",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Let's ask Olvera again."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the suspicious item."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "10041": {
+    "Id": 10041,
+    "Clue": [
+      100411,
+      100412,
+      100413
+    ],
+    "InferenceStep": [
+      100411,
+      100412,
+      100413
+    ],
+    "Conclusion": "As a high-ranking Dark Mist Legion member, Jayden led a recon team to infiltrate Asterleeds. After failing, he fled to the Towering Ruin, went missing, and was presumed dead.",
+    "ConclusionTips": "Make the next move!",
+    "ConclusionBubble": "Locked on the clue, no time to lose!",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "With just these clues... there's no clear lead."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the clue."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "10051": {
+    "Id": 10051,
+    "Clue": [
+      100511,
+      100512,
+      100513
+    ],
+    "InferenceStep": [
+      100511,
+      100512,
+      100513
+    ],
+    "Conclusion": "Treasure is a special cat-unbound by material things, it follows its own path.",
+    "ConclusionTips": "Based on the inference, think about the next step.",
+    "ConclusionBubble": "The place Treasure wants to go... it could only be Minsterhorn.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Think again about Butler Carlis's words."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the clue."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "10061": {
+    "Id": 10061,
+    "Clue": [
+      100611,
+      100612,
+      100613
+    ],
+    "InferenceStep": [
+      100611,
+      100612,
+      100613
+    ],
+    "Conclusion": "Kakater's identity as a rich guy is questionable, and the black-haired man aboard may be involved. To uncover the truth, the file in Kakater's hands could be the key.",
+    "ConclusionTips": "Based on the inference, think about the next step.",
+    "ConclusionBubble": "Now it's clear what needs to be done.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Kakater is definitely hiding something... Think harder..."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "With the help of people aboard the ship, Airona has found a breakthrough."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "30011": {
+    "Id": 30011,
+    "Clue": [
+      300111,
+      300112,
+      300113
+    ],
+    "InferenceStep": [
+      300111,
+      300112,
+      300113
+    ],
+    "Conclusion": "Conclusion reached.",
+    "ConclusionTips": "Based on the inference, think about the next step.",
+    "ConclusionBubble": "Conclusion reached.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "The most important key to breaking the situation must be hidden somewhere..."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the clue."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "20020": {
+    "Id": 20020,
+    "Clue": [
+      200201,
+      200202,
+      200203
+    ],
+    "InferenceStep": [
+      200201,
+      200202,
+      200203
+    ],
+    "Conclusion": "The mysterious girl has the power of wind and saved Saphir when she was blinded. The environment they were in was likely a fire scene.",
+    "ConclusionTips": "Based on the inference, think about the next step.",
+    "ConclusionBubble": "The thought process is already clear.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "Think carefully again about what Saphir said..."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Clues were summarized from Saphir's words."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "30021": {
+    "Id": 30021,
+    "Clue": [
+      300211,
+      300212,
+      300213
+    ],
+    "InferenceStep": [
+      300211,
+      300212,
+      300213
+    ],
+    "Conclusion": "The disappearance of three personnel all occurred near the cliff, accompanied by strong winds. There were obvious drag marks at the scene. It's related to the ancient curse of Kanamia and the damaged machine image.",
+    "ConclusionTips": "Very likely man-made and tried to cover it up.",
+    "ConclusionBubble": "This is the final conclusion.",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "The most important key to breaking the situation must be hidden somewhere..."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Thanks to my cleverness, I found the clue."
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  },
+  "40011": {
+    "Id": 40011,
+    "Clue": [
+      400111,
+      400112,
+      400113
+    ],
+    "InferenceStep": [
+      400111,
+      400112,
+      400113
+    ],
+    "Conclusion": "The Forbidden Zone is where the blessing ritual is held. It's been closed for a long time, and it might be located below the eastern cliff.",
+    "ConclusionTips": "Go to the eastern cliff",
+    "ConclusionBubble": "It's time to uncover the truth!",
+    "ConclusionAction": 9033,
+    "IockedBubble": [
+      "No, it's still too early to reach a conclusion."
+    ],
+    "IockedBubbleAction": [
+      9019
+    ],
+    "ReviewBubble": [
+      "Maybe I really do have a talent for detective work!"
+    ],
+    "ReviewBubbleAction": [
+      9047
+    ],
+    "QuickReasoning": true
+  }
+}

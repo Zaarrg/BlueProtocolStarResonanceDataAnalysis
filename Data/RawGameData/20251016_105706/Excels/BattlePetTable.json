@@ -1,0 +1,248 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Little Wolf",
+    "ModelID": 80000002,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [
+      2203041
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": true
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Little Eagle",
+    "ModelID": 80000001,
+    "FollowType": 1,
+    "IsFlying": true,
+    "AttributeId": 1002,
+    "RunSpeed": 0.0,
+    "FollowConfigId": 10002,
+    "SkillIds": [
+      101110,
+      101111
+    ],
+    "InitBuffs": [
+      2203291
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": true
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Big Wolf",
+    "ModelID": 80000003,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [
+      2203041
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": true
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Summon Wolf",
+    "ModelID": 80000005,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [
+      1700820,
+      1700824,
+      1700826,
+      1700827
+    ],
+    "InitBuffs": [
+      2203041,
+      55292
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Summon Eagle",
+    "ModelID": 80000004,
+    "FollowType": 1,
+    "IsFlying": true,
+    "AttributeId": 1002,
+    "RunSpeed": 0.0,
+    "FollowConfigId": 10002,
+    "SkillIds": [
+      101110,
+      101111,
+      101112
+    ],
+    "InitBuffs": [
+      2203291,
+      55291
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Resonance Skill Summon Wolf",
+    "ModelID": 80000006,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [
+      1700820,
+      1700824,
+      1700826,
+      1700827,
+      1700828
+    ],
+    "InitBuffs": [
+      2110080
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55298.0,
+        "y": 0.4
+      },
+      {
+        "x": 55297.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Little Wolf - Talent",
+    "ModelID": 80000002,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [
+      2203041,
+      2203111
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Big Wolf - Talent",
+    "ModelID": 80000003,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 1001,
+    "RunSpeed": 6.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [
+      2203041,
+      2203111
+    ],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 55296.0,
+        "y": 0.4
+      },
+      {
+        "x": 55294.0,
+        "y": 0.7
+      }
+    ],
+    "DissolutionCfg": [],
+    "IsResident": false
+  }
+}

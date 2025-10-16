@@ -1,0 +1,29 @@
+{
+  "9030001": {
+    "Id": 9030001,
+    "Name": "Background 1 (Temporary)",
+    "UnlockDes": "Default Acquisition",
+    "Image1": "ui/textures/personalzone_bg/personalzone_bg_info_1",
+    "Image2": "ui/textures/personalzone_bg/personalzone_bg_1",
+    "ImagePlayer": "ui/textures/personalzone_bg/personalzone_player_bg_1",
+    "Unlock": 1
+  },
+  "9030002": {
+    "Id": 9030002,
+    "Name": "Background 2 (Temporary)",
+    "UnlockDes": "Main Story Completion Reward 2",
+    "Image1": "ui/textures/personalzone_bg/personalzone_bg_info_2",
+    "Image2": "ui/textures/personalzone_bg/personalzone_bg_2",
+    "ImagePlayer": "ui/textures/personalzone_bg/personalzone_player_bg_2",
+    "Unlock": 1
+  },
+  "9030003": {
+    "Id": 9030003,
+    "Name": "Background 3 (Temporary)",
+    "UnlockDes": "Main Story 3",
+    "Image1": "ui/textures/personalzone_bg/personalzone_bg_info_3",
+    "Image2": "ui/textures/personalzone_bg/personalzone_bg_3",
+    "ImagePlayer": "ui/textures/personalzone_bg/personalzone_player_bg_3",
+    "Unlock": 1
+  }
+}

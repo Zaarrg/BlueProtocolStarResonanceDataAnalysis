@@ -1,0 +1,209 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "Growth Items",
+    "CategoryLevel": 0,
+    "Sort": 1,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "101": {
+    "ID": 101,
+    "Name": "Ability",
+    "CategoryLevel": 1,
+    "Sort": 101,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 0
+  },
+  "102": {
+    "ID": 102,
+    "Name": "Gear",
+    "CategoryLevel": 1,
+    "Sort": 102,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "103": {
+    "ID": 103,
+    "Name": "Will",
+    "CategoryLevel": 1,
+    "Sort": 103,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 1
+  },
+  "104": {
+    "ID": 104,
+    "Name": "Imagine",
+    "CategoryLevel": 1,
+    "Sort": 104,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 1
+  },
+  "2": {
+    "ID": 2,
+    "Name": "Life Skills",
+    "CategoryLevel": 0,
+    "Sort": 2,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 0
+  },
+  "201": {
+    "ID": 201,
+    "Name": "Botany",
+    "CategoryLevel": 2,
+    "Sort": 201,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "202": {
+    "ID": 202,
+    "Name": "Mineralogy",
+    "CategoryLevel": 2,
+    "Sort": 202,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "203": {
+    "ID": 203,
+    "Name": "Gemology",
+    "CategoryLevel": 2,
+    "Sort": 203,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "204": {
+    "ID": 204,
+    "Name": "Culinary",
+    "CategoryLevel": 2,
+    "Sort": 204,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "205": {
+    "ID": 205,
+    "Name": "Alchemy",
+    "CategoryLevel": 2,
+    "Sort": 205,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "206": {
+    "ID": 206,
+    "Name": "Smelting",
+    "CategoryLevel": 2,
+    "Sort": 206,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "207": {
+    "ID": 207,
+    "Name": "Gemcrafting",
+    "CategoryLevel": 2,
+    "Sort": 207,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "208": {
+    "ID": 208,
+    "Name": "Artisanry",
+    "CategoryLevel": 2,
+    "Sort": 208,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "209": {
+    "ID": 209,
+    "Name": "Weaving",
+    "CategoryLevel": 2,
+    "Sort": 209,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "3": {
+    "ID": 3,
+    "Name": "Modules",
+    "CategoryLevel": 0,
+    "Sort": 3,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 0
+  },
+  "301": {
+    "ID": 301,
+    "Name": "Modules",
+    "CategoryLevel": 3,
+    "Sort": 301,
+    "IsOver": 0,
+    "FiiterGroupID": 1,
+    "IsAnnounce": 0
+  },
+  "4": {
+    "ID": 4,
+    "Name": "Appearance",
+    "CategoryLevel": 0,
+    "Sort": 4,
+    "IsOver": 0,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "401": {
+    "ID": 401,
+    "Name": "Meow Merchant",
+    "CategoryLevel": 4,
+    "Sort": 401,
+    "IsOver": 1,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "402": {
+    "ID": 402,
+    "Name": "Outfit",
+    "CategoryLevel": 4,
+    "Sort": 402,
+    "IsOver": 1,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "403": {
+    "ID": 403,
+    "Name": "Mount",
+    "CategoryLevel": 4,
+    "Sort": 403,
+    "IsOver": 1,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "404": {
+    "ID": 404,
+    "Name": "Headwear",
+    "CategoryLevel": 4,
+    "Sort": 404,
+    "IsOver": 1,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  },
+  "405": {
+    "ID": 405,
+    "Name": "Backwear",
+    "CategoryLevel": 4,
+    "Sort": 405,
+    "IsOver": 1,
+    "FiiterGroupID": 0,
+    "IsAnnounce": 1
+  }
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package zproto;
+
+message CommunityAuthorityInfo {
+  map<int32, bool> authority = 1;
+}
+

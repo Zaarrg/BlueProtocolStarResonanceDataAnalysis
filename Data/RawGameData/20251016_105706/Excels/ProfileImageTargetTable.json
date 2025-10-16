@@ -1,0 +1,68 @@
+{
+  "1": {
+    "Id": 1,
+    "TargetType": 165,
+    "Num": 2,
+    "SceneId": 0,
+    "Param": [],
+    "Describe": "Cumulatively unlocked {*val*} wardrobe outfits",
+    "JumpType": 2,
+    "JumpParam": [
+      101101
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "TargetType": 107,
+    "Num": 2,
+    "SceneId": 0,
+    "Param": [
+      20000013,
+      20000014
+    ],
+    "Describe": "Slacked off {*val*} times",
+    "JumpType": 0,
+    "JumpParam": []
+  },
+  "3": {
+    "Id": 3,
+    "TargetType": 157,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      0
+    ],
+    "Describe": "Unlocked {*val*} recipes",
+    "JumpType": 1,
+    "JumpParam": [
+      8,
+      5,
+      1079
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "TargetType": 155,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Describe": "(Test) Activated {*val*} Engram Hubs",
+    "JumpType": 2,
+    "JumpParam": [
+      801001,
+      7
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "TargetType": 343,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      3
+    ],
+    "Describe": "(Test) Take a selfie once",
+    "JumpType": 0,
+    "JumpParam": []
+  }
+}

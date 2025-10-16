@@ -1,0 +1,1031 @@
+{
+  "3622": {
+    "Id": 3622,
+    "Type": 1,
+    "Content": "You've spent 300 Focus and gained 1 Life Skill Mastery",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "3623": {
+    "Id": 3623,
+    "Type": 1,
+    "Content": "Life skills unlocked for the first time! {*val*} Life Skill Mastery obtained",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "11675": {
+    "Id": 11675,
+    "Type": 1,
+    "Content": "Life skills unlocked for the first time! {*val*} Life Skill Mastery obtained",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "11676": {
+    "Id": 11676,
+    "Type": 1,
+    "Content": "You've spent 300 Focus and gained 1 Life Skill Mastery",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "11677": {
+    "Id": 11677,
+    "Type": 1,
+    "Content": "Mastery of Life Skills has been reset-{*val*} points refunded.",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004013": {
+    "Id": 1004013,
+    "Type": 2,
+    "Content": "The goddess of luck has arrived, {*player.name*} actively participated in the hunting event and surprisingly received a reward of {*item.name*}",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004014": {
+    "Id": 1004014,
+    "Type": 2,
+    "Content": "The goddess of luck has arrived, {*player.name*} opened the hunting reward chest and surprisingly received a reward of {*item.name*}",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004015": {
+    "Id": 1004015,
+    "Type": 2,
+    "Content": "The goddess of luck has arrived, {*player.name*} opened the Boss crusade chest and surprisingly received a reward of {*item.name*}",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004020": {
+    "Id": 1004020,
+    "Type": 2,
+    "Content": "",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 11,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004081": {
+    "Id": 1004081,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone successfully completed the hunting quest, thank you for your efforts, and special thanks to {*player.name*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004082": {
+    "Id": 1004082,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone successfully completed the hunting quest, thank you for your efforts, and special thanks to {*player.names[1]*}, {*player.names[2]*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004083": {
+    "Id": 1004083,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone successfully completed the hunting quest, thank you for your efforts, and special thanks to {*player.names[1]*}, {*player.names[2]*}, {*player.names[3]*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004084": {
+    "Id": 1004084,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone successfully completed the hunting quest, thank you for your efforts, and special thanks to {*player.names[1]*}, {*player.names[2]*}, {*player.names[3]*}, {*player.names[4]*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004085": {
+    "Id": 1004085,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone successfully completed the hunting quest, thank you for your efforts, and special thanks to {*player.names[1]*}, {*player.names[2]*}, {*player.names[3]*}, {*player.names[4]*}, {*player.names[5]*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004091": {
+    "Id": 1004091,
+    "Type": 2,
+    "Content": "This Guild Hunt has ended, everyone did not successfully complete the Guild progress reward, more effort is needed next time, still thank you to {*player.name*} for their active performance in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004092": {
+    "Id": 1004092,
+    "Type": 2,
+    "Content": "The Guild Hunt has ended. We did not successfully complete the Guild progress reward this time. We need to work harder next time. Still, we want to thank {*player.names[1]*} and {*player.names[2]*} for their active participation in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004093": {
+    "Id": 1004093,
+    "Type": 2,
+    "Content": "The Guild Hunt has ended. We did not successfully complete the Guild progress reward this time. We need to work harder next time. Still, we want to thank {*player.names[1]*}, {*player.names[2]*}, and {*player.names[3]*} for their active participation in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004094": {
+    "Id": 1004094,
+    "Type": 2,
+    "Content": "The Guild Hunt has ended. We did not successfully complete the Guild progress reward this time. We need to work harder next time. Still, we want to thank {*player.names[1]*}, {*player.names[2]*}, {*player.names[3]*}, and {*player.names[4]*} for their active participation in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004095": {
+    "Id": 1004095,
+    "Type": 2,
+    "Content": "The Guild Hunt has ended. We did not successfully complete the Guild progress reward this time. We need to work harder next time. Still, we want to thank {*player.names[1]*}, {*player.names[2]*}, {*player.names[3]*}, {*player.names[4]*}, and {*player.names[5]*} for their active participation in this event!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004101": {
+    "Id": 1004101,
+    "Type": 2,
+    "Content": "{*player.name*} had incredible luck and obtained {*item.name*}, what a pleasant surprise!",
+    "ChannelId": [
+      1,
+      99
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004102": {
+    "Id": 1004102,
+    "Type": 2,
+    "Content": "{*player.name*} had incredible luck and obtained {*item.name*} from the Miracle Star Chest, what a pleasant surprise!",
+    "ChannelId": [
+      1,
+      99
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004103": {
+    "Id": 1004103,
+    "Type": 2,
+    "Content": "{*player.name*} had incredible luck and obtained {*item.name*} from the Wish event, what a pleasant surprise!",
+    "ChannelId": [
+      1,
+      99
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1004104": {
+    "Id": 1004104,
+    "Type": 2,
+    "Content": "{*player.name*} had incredible luck and obtained {*item.name*} from the Basic Star Chest, what a pleasant surprise!",
+    "ChannelId": [
+      1,
+      99
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1005001": {
+    "Id": 1005001,
+    "Type": 2,
+    "Content": "Guild Dance starts at 19:30. Enter Guild? <u><link=1>Enter</link><u>",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 8,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "Guild Dance starts at 19:30. You can enter the Guild to participate.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1005002": {
+    "Id": 1005002,
+    "Type": 2,
+    "Content": "The Guild Dance has started, go now?",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 8,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "Guild Dance has begun. You can enter the Guild to participate.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1005003": {
+    "Id": 1005003,
+    "Type": 2,
+    "Content": "Ee-chan has brought rewards to the Guild, come and find Ee-chan to claim your rewards~",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1005004": {
+    "Id": 1005004,
+    "Type": 2,
+    "Content": "The Guild Dance event has ended, please continue to participate next time~",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1006001": {
+    "Id": 1006001,
+    "Type": 2,
+    "Content": "{*player.name*} has received the reward for this floor",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1006002": {
+    "Id": 1006002,
+    "Type": 2,
+    "Content": "{*player.name*} has received the surprise reward for this floor",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1043001": {
+    "Id": 1043001,
+    "Type": 2,
+    "Content": "{*player.name*} gave up the reward",
+    "ChannelId": [
+      3
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1043005": {
+    "Id": 1043005,
+    "Type": 2,
+    "Content": "{*player.name*} obtained the reward {*item.name*} by inserting the key",
+    "ChannelId": [
+      3
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1043010": {
+    "Id": 1043010,
+    "Type": 2,
+    "Content": "<style=\"player_name\">{*player.name*}</style> rolled {*val*} points and obtained {*item.name*}",
+    "ChannelId": [
+      3
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1043011": {
+    "Id": 1043011,
+    "Type": 2,
+    "Content": "{*player.name*} rolled the highest points and obtained {*item.name*}",
+    "ChannelId": [
+      3
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1043013": {
+    "Id": 1043013,
+    "Type": 2,
+    "Content": "{*player.name*} rolled {*val*} points",
+    "ChannelId": [
+      3
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "1050001": {
+    "Id": 1050001,
+    "Type": 0,
+    "Content": "{*string[1]*}[ <u><link=1><style=chat_fishing_share_profile>{*player.names*}'s Master Seal</style></link></u> ]{*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "2000001": {
+    "Id": 2000001,
+    "Type": 2,
+    "Content": "{*item.name*} pre-order successful, please check your mail",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "2000002": {
+    "Id": 2000002,
+    "Type": 2,
+    "Content": "{*item.name*} pre-order failed, please check your mail",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "3000001": {
+    "Id": 3000001,
+    "Type": 0,
+    "Content": "",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 6,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "3000002": {
+    "Id": 3000002,
+    "Type": 0,
+    "Content": "{*string[1]*}[ <u><link=1>{*scence.name*} Line {*val1*} ({*val2*}, {*val3*}, {*val4*})</link></u> ]{*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 12,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": "{*string[1]*} [{*scence.name*} Line {*val1*} ({*val2*}, {*val3*}, {*val4*}) ]{*string[2]*}"
+  },
+  "3001001": {
+    "Id": 3001001,
+    "Type": 0,
+    "Content": "{*string[1]*} [ <u><link=1><style=chat_fishing_share_profile>{*player.names*}'s personal space</style></link></u> ] {*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 9,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": "{*string[1]*}[{*player.names*}'s Personalized Space]{*string[2]*}"
+  },
+  "5001001": {
+    "Id": 5001001,
+    "Type": 4,
+    "Content": "{*union.build*} is upgrading to Lv. {*arrVal[2]*}, go to accelerate the upgrade.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001002": {
+    "Id": 5001002,
+    "Type": 2,
+    "Content": "Thanks to everyone's efforts, {*union.build*} has been upgraded to Lv.{*val*}",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001003": {
+    "Id": 5001003,
+    "Type": 2,
+    "Content": "The {*buff.name*} has been successfully activated, valid for {*val*} hours",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001004": {
+    "Id": 5001004,
+    "Type": 2,
+    "Content": "The {*buff.name*} has been deactivated",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001005": {
+    "Id": 5001005,
+    "Type": 3,
+    "Content": "The Guild merchant has returned, please proceed to the Guild Center",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001006": {
+    "Id": 5001006,
+    "Type": 2,
+    "Content": "The Guild crowdfunding is expected to start at {*timestamp*}, stay tuned!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001007": {
+    "Id": 5001007,
+    "Type": 2,
+    "Content": "The crowdfunding has started, go now?",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 2,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "Guild Crowd-Funding Task is now live. Enter your guild to contribute.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001008": {
+    "Id": 5001008,
+    "Type": 5,
+    "Content": "{*player.name*} has made the Guild crowdfunding",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001009": {
+    "Id": 5001009,
+    "Type": 2,
+    "Content": "Thanks to everyone's efforts, the Guild crowdfunding has been completed! The Guild Center is under construction, expected to be completed by {*timestamp*}!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001010": {
+    "Id": 5001010,
+    "Type": 2,
+    "Content": "The construction of the Guild Center is complete, everyone can go to there through the \"Guild Center\" on the Guild homepage! Go find the Guild administrator Laura to complete the Guild tour quest!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5001011": {
+    "Id": 5001011,
+    "Type": 3,
+    "Content": "{*player.name*} uploaded a photo to the Guild's temporary album.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 3,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001012": {
+    "Id": 5001012,
+    "Type": 3,
+    "Content": "Welcome {*player.name*} to the Guild!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001013": {
+    "Id": 5001013,
+    "Type": 3,
+    "Content": "Guild is not enabled, please check the preview.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 2,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "Guild features are not yet available. Check the Handbook for info.",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001014": {
+    "Id": 5001014,
+    "Type": 3,
+    "Content": "The Guild is now open, come and see what it has to offer!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 2,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "The Guild is now open, come and see what it has to offer!",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001015": {
+    "Id": 5001015,
+    "Type": 5,
+    "Content": "{*player.name*} completed the Guild crowdfunding, completed.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5001016": {
+    "Id": 5001016,
+    "Type": 5,
+    "Content": "{*player.name*} shared the Guild crowdfunding.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5010001": {
+    "Id": 5010001,
+    "Type": 2,
+    "Content": "Guild Hunt event starts in {*val*}s. <u><link=1>Join</link><u>",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 1,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "Guild Hunt Event will begin soon. Please be prepared in time.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5010002": {
+    "Id": 5010002,
+    "Type": 2,
+    "Content": "Guild Hunt event has started. <u><link=1>Join</link><u>",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 1,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "Guild Hunt Event has begun. Enter your guild to participate.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5010003": {
+    "Id": 5010003,
+    "Type": 2,
+    "Content": "With everyone's active participation, the hunting progress has reached {*val*}%, you can open the event interface to receive additional rewards provided by the Pioneer Bureau.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5010004": {
+    "Id": 5010004,
+    "Type": 2,
+    "Content": "The hunting progress has reached {*val*}%, not yet completed, everyone needs to keep working hard!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5010005": {
+    "Id": 5010005,
+    "Type": 2,
+    "Content": "With everyone's efforts, this hunting target has been completed, members who have not hunted can continue to enter the Teleportal for hunting.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "5010006": {
+    "Id": 5010006,
+    "Type": 3,
+    "Content": "Guild unlocked, come and see what the Guild has to offer!",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 5,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "Guild unlocked, come and see what the Guild has to offer!",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "5010007": {
+    "Id": 5010007,
+    "Type": 3,
+    "Content": "Guild is locked, let's see the preview.",
+    "ChannelId": [
+      4
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 4,
+    "ResourceRoute": "ui/atlas/avatar/head_photo_npc",
+    "FunctionButtonEscape": "Guild features are not yet available. Check the Handbook for info.",
+    "NpcHeadEscape": "Guild Administrator",
+    "HudEscape": ""
+  },
+  "8009001": {
+    "Id": 8009001,
+    "Type": 2,
+    "Content": "The World Boss Crudade will start in {*val*} minutes, please arrange your time accordingly.",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "8009002": {
+    "Id": 8009002,
+    "Type": 2,
+    "Content": "The World Boss Crudade has started. <u><link=1>Join</link><u>",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 7,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "The World Boss Crudade has started, you can participate through the Features.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "8009003": {
+    "Id": 8009003,
+    "Type": 0,
+    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_tujian><link=1>{*fishing.playerName*}'s record of {*fishing.fishName*}</link></style></u> ] {*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": "{*string[1]*}[{*fishing.playerName*}'s Fishing Records]{*string[2]*}"
+  },
+  "8009004": {
+    "Id": 8009004,
+    "Type": 0,
+    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_rank><link=1>{*fishing.playerName*}'s ranking of {*fishing.fishName*}: {*fishing.rank*}</link></style></u> ] {*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": "{*string[1]*}[{*fishing.playerName*}'s Fishing Rankings]{*string[2]*}"
+  },
+  "8009005": {
+    "Id": 8009005,
+    "Type": 0,
+    "Content": "{*string[1]*} [ <u><style=chat_fishing_share_profile><link=1>{*fishing.playerName*}'s fishing profile</link></style></u> ] {*string[2]*}",
+    "ChannelId": [],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": "{*string[1]*}[{*fishing.playerName*}'s Fishing Profile]{*string[2]*}"
+  },
+  "8009006": {
+    "Id": 8009006,
+    "Type": 2,
+    "Content": "The World Boss Crudade has started, you can participate through the Features.",
+    "ChannelId": [
+      7
+    ],
+    "IsShowInsystem": false,
+    "MessageTableId": 0,
+    "FuncType": 7,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "The World Boss Crudade has started, you can participate through the Features.",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "8009007": {
+    "Id": 8009007,
+    "Type": 1,
+    "Content": "Matchmaking canceled due to inactivity",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  },
+  "10000001": {
+    "Id": 10000001,
+    "Type": 1,
+    "Content": "",
+    "ChannelId": [],
+    "IsShowInsystem": true,
+    "MessageTableId": 0,
+    "FuncType": 0,
+    "ResourceRoute": "",
+    "FunctionButtonEscape": "",
+    "NpcHeadEscape": "",
+    "HudEscape": ""
+  }
+}

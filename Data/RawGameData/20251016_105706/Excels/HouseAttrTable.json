@@ -1,0 +1,36 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Homestead Interior",
+    "ModelID": 80011,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 0,
+    "RunSpeed": 0.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsResident": false
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Homestead Exterior",
+    "ModelID": 80011,
+    "FollowType": 0,
+    "IsFlying": false,
+    "AttributeId": 0,
+    "RunSpeed": 0.0,
+    "FollowConfigId": 0,
+    "SkillIds": [],
+    "InitBuffs": [],
+    "IsPetCanBeHit": 0,
+    "Tags": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsResident": false
+  }
+}

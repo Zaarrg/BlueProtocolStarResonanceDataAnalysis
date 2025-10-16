@@ -1,0 +1,62 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Comment": "这是特效1",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_1.prefab",
+    "PlayTime": 1.0
+  },
+  "1002": {
+    "Id": 1002,
+    "Comment": "这是特效2",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_2.prefab",
+    "PlayTime": 2.0
+  },
+  "1003": {
+    "Id": 1003,
+    "Comment": "这是特效3",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_3.prefab",
+    "PlayTime": 3.0
+  },
+  "1004": {
+    "Id": 1004,
+    "Comment": "这是特效4",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_4.prefab",
+    "PlayTime": 4.0
+  },
+  "1005": {
+    "Id": 1005,
+    "Comment": "这是特效5",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_5.prefab",
+    "PlayTime": 5.0
+  },
+  "1006": {
+    "Id": 1006,
+    "Comment": "这是特效6",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_6.prefab",
+    "PlayTime": 6.0
+  },
+  "1007": {
+    "Id": 1007,
+    "Comment": "这是特效7",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_7.prefab",
+    "PlayTime": 7.0
+  },
+  "1008": {
+    "Id": 1008,
+    "Comment": "这是特效8",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_8.prefab",
+    "PlayTime": 8.0
+  },
+  "1009": {
+    "Id": 1009,
+    "Comment": "这是特效9",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_9.prefab",
+    "PlayTime": 9.0
+  },
+  "1010": {
+    "Id": 1010,
+    "Comment": "这是特效10",
+    "Path": "Assets/Art/prefabs/skilleffect/effect_10.prefab",
+    "PlayTime": 10.0
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "1": {
+    "Id": 1,
+    "Content": "Hey! Have you eaten?",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "3061001": {
+    "Id": 3061001,
+    "Content": "With a crisp snap, the chest opens. But inside is no treasure-just a note: <br>What isn't yours will eventually vanish.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "3061101": {
+    "Id": 3061101,
+    "Content": "Not long after, Pell finished checking the gear in her backpack and explained how to use it to Phyllis. Phyllis taught Pell the secrets of fishing.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 8.0,
+    "Interrupt": 0
+  },
+  "10010401": {
+    "Id": 10010401,
+    "Content": "The Man in Black disappeared into the Void Engram.<br>By the time I regained consciousness, I was already back in reality.",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10080301": {
+    "Id": 10080301,
+    "Content": "Bury this miner with Darya.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "10080402": {
+    "Id": 10080402,
+    "Content": "Another agonizing wait...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30015301": {
+    "Id": 30015301,
+    "Content": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 6.0,
+    "Interrupt": 0
+  },
+  "30070801": {
+    "Id": 30070801,
+    "Content": "Moved the heavy Golem elsewhere with the other scavengers in the camp...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30070802": {
+    "Id": 30070802,
+    "Content": "Some time later, 6 people in black appeared in sight...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "30070803": {
+    "Id": 30070803,
+    "Content": "Huskstar's right hand lifted instantly, and a miniature Legacy flew from his hand.<br>The Legacy arced gracefully through the air and landed near the place where the Golem was hidden. <br>But aside from a noticeable arc of electricity, nothing else happened...",
+    "Type": 140,
+    "FadeInTime": 0,
+    "DurationTime": 12.0,
+    "Interrupt": 0
+  },
+  "17100106": {
+    "Id": 17100106,
+    "Content": "The engine rumbled as the ship slowly departed the Port of Asterleeds. <br>Along the way, stars twinkled in the night sky, jellyfish glowed faintly in the Abyssal, and seagulls circled and cried above the stern. <br><br>As the sky began to lighten, an island came into view. <br>Connor gave the order to halt. We lowered the lifeboats and rowed toward the misty island.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 15.0,
+    "Interrupt": 0
+  },
+  "17100112": {
+    "Id": 17100112,
+    "Content": "On the return journey, the sea mist still hadn't cleared. <br><br>The island slowly faded into the thick fog behind us as if it had never existed. <br><br>In the distance, the Port of Asterleeds appeared in the morning light.<br><br>Figures moved on the dock, and as the ropes were thrown ashore, I looked back at the sea. <br>The mist still hung low, and that island had long since vanished into the deep blue.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 15.0,
+    "Interrupt": 0
+  },
+  "17100114": {
+    "Id": 17100114,
+    "Content": "Some time later, Connor sent word through someone: <br>\"The island construction is roughly completed. You may visit for inspection when available.<br>Just show your Ocean Platinum Card to the staff at the dock. \"",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 10.0,
+    "Interrupt": 0
+  },
+  "17100301": {
+    "Id": 17100301,
+    "Content": "Some time later, the architectural artisans arrived on the island with various tools and swiftly began work.<br>Under Connor's supervision, the house expansion was completed in a very short time.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  },
+  "17100401": {
+    "Id": 17100401,
+    "Content": "The architectural artisans once again modified the house...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "17100501": {
+    "Id": 17100501,
+    "Content": "Under Connor's supervision,<br>the artisans efficiently completed the first phase of island expansion...",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "17100601": {
+    "Id": 17100601,
+    "Content": "The artisans worked with great ease...<br>The second phase of construction was also smoothly completed.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 4.0,
+    "Interrupt": 0
+  },
+  "17100701": {
+    "Id": 17100701,
+    "Content": "Having fully grasped the process, the artisans completed the final expansion just as smoothly. <br>Connor high-fived each artisan who helped build the island...<br>Now, every part of the island is fully accessible.",
+    "Type": 140,
+    "FadeInTime": 1,
+    "DurationTime": 9.0,
+    "Interrupt": 0
+  }
+}

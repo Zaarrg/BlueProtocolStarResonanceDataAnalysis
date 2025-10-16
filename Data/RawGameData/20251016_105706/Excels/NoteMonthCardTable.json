@@ -1,0 +1,281 @@
+{
+  "9070001": {
+    "Id": 9070001,
+    "Name": "Sep. 2025 Collection Card",
+    "DictionaryDes": "A new story might be unfolding in the September breeze, page by page.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_02",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_02",
+    "Episode": 9070001,
+    "IsHide": false
+  },
+  "9070002": {
+    "Id": 9070002,
+    "Name": "Oct. 2025 Collection Card",
+    "DictionaryDes": "October's leaves fall like whispered prayers, each one carrying a hope for the future.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_03",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_03",
+    "Episode": 9070002,
+    "IsHide": false
+  },
+  "9070003": {
+    "Id": 9070003,
+    "Name": "Nov. 2025 Collection Card",
+    "DictionaryDes": "November brings the whisper of early winter. We stand in time's depths, searching for love and light, finding existence in stillness and warmth.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_04",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_04",
+    "Episode": 9070003,
+    "IsHide": false
+  },
+  "9070004": {
+    "Id": 9070004,
+    "Name": "Dec. 2025 Collection Card",
+    "DictionaryDes": "The gentle winter sun casts its rays like strokes of time's brush, painting peaceful moments within the silence.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_05",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_05",
+    "Episode": 9070004,
+    "IsHide": false
+  },
+  "9070005": {
+    "Id": 9070005,
+    "Name": "Jan 2025 Collection Card",
+    "DictionaryDes": "In the lingering cold of January lies endless anticipation and longing for the spring to come...",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_06",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_06",
+    "Episode": 9070005,
+    "IsHide": false
+  },
+  "9070006": {
+    "Id": 9070006,
+    "Name": "Feb 2025 Collection Card",
+    "DictionaryDes": "February brings brilliant blossoms, with pearl curtains and ornate windows gleaming in crystalline beauty...",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070006,
+    "IsHide": false
+  },
+  "9070007": {
+    "Id": 9070007,
+    "Name": "Mar. 2026 Collection Card",
+    "DictionaryDes": "March, adorned with blossoms, unfolds like poetry and painting.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070007,
+    "IsHide": true
+  },
+  "9070008": {
+    "Id": 9070008,
+    "Name": "Apr. 2026 Collection Card",
+    "DictionaryDes": "As spring deepens, it feels like a summer canvas slowly coming to life.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070008,
+    "IsHide": true
+  },
+  "9070009": {
+    "Id": 9070009,
+    "Name": "May 2026 Collection Card",
+    "DictionaryDes": "May arrives in a symphony of cicadas, their fervent chorus heralding the sun-drenched days to come. Across the mist-kissed fields, the cuckoo's cry pierces the air—a clear, lonely note woven through the whisper of silk-thread rain.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070009,
+    "IsHide": true
+  },
+  "9070010": {
+    "Id": 9070010,
+    "Name": "Jun. 2025 Collection Card",
+    "DictionaryDes": "June unfolds as the prologue to a tender summer — the sky painted a conviction so blue, it forgets all doubt.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070010,
+    "IsHide": true
+  },
+  "9070011": {
+    "Id": 9070011,
+    "Name": "Jul. 2025 Collection Card",
+    "DictionaryDes": "Lotus blooms stretch across three hundred miles amidst vibrant greenery. In July, we reunite with beauty once more.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070011,
+    "IsHide": true
+  },
+  "9070012": {
+    "Id": 9070012,
+    "Name": "Aug. 2025 Collection Card",
+    "DictionaryDes": "In August, the stars bow low, and the moon tumbles into love’s embrace. It’s when the winds fall silent and the horizon opens wide, inviting us to taste the full spectrum of life’s earthly delights.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070012,
+    "IsHide": true
+  },
+  "9070013": {
+    "Id": 9070013,
+    "Name": "Sep. 2025 Collection Card",
+    "DictionaryDes": "A new story might be unfolding in the September breeze, page by page.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070013,
+    "IsHide": true
+  },
+  "9070014": {
+    "Id": 9070014,
+    "Name": "Oct. 2025 Collection Card",
+    "DictionaryDes": "October's leaves fall like whispered prayers, each one carrying a hope for the future.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070014,
+    "IsHide": true
+  },
+  "9070015": {
+    "Id": 9070015,
+    "Name": "Nov. 2025 Collection Card",
+    "DictionaryDes": "November brings the whisper of early winter. We stand in time's depths, searching for love and light, finding existence in stillness and warmth.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070015,
+    "IsHide": true
+  },
+  "9070016": {
+    "Id": 9070016,
+    "Name": "Dec. 2025 Collection Card",
+    "DictionaryDes": "The gentle winter sun casts its rays like strokes of time's brush, painting peaceful moments within the silence.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070016,
+    "IsHide": true
+  },
+  "9070017": {
+    "Id": 9070017,
+    "Name": "Jan. 2027 Collection Card",
+    "DictionaryDes": "In the lingering cold of January lies endless anticipation and longing for the spring to come...",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070017,
+    "IsHide": true
+  },
+  "9070018": {
+    "Id": 9070018,
+    "Name": "Nov. 2025 Collection Card",
+    "DictionaryDes": "November brings the whisper of early winter. We stand in time's depths, searching for love and light, finding existence in stillness and warmth.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070018,
+    "IsHide": false
+  },
+  "9070019": {
+    "Id": 9070019,
+    "Name": "Dec. 2025 Collection Card",
+    "DictionaryDes": "The gentle winter sun casts its rays like strokes of time's brush, painting peaceful moments within the silence.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070019,
+    "IsHide": true
+  },
+  "9070020": {
+    "Id": 9070020,
+    "Name": "Jan 2026 Collection Card",
+    "DictionaryDes": "In the lingering cold of January lies endless anticipation and longing for the spring to come...",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070020,
+    "IsHide": true
+  },
+  "9070021": {
+    "Id": 9070021,
+    "Name": "Feb 2026 Collection Card",
+    "DictionaryDes": "February brings brilliant blossoms, with pearl curtains and ornate windows gleaming in crystalline beauty...",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070021,
+    "IsHide": true
+  },
+  "9070022": {
+    "Id": 9070022,
+    "Name": "Mar. 2026 Collection Card",
+    "DictionaryDes": "March, adorned with blossoms, unfolds like poetry and painting.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070022,
+    "IsHide": true
+  },
+  "9070023": {
+    "Id": 9070023,
+    "Name": "Apr. 2026 Collection Card",
+    "DictionaryDes": "As spring deepens, it feels like a summer canvas slowly coming to life.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070023,
+    "IsHide": true
+  },
+  "9070024": {
+    "Id": 9070024,
+    "Name": "May 2026 Collection Card",
+    "DictionaryDes": "May arrives in a symphony of cicadas, their fervent chorus heralding the sun-drenched days to come. Across the mist-kissed fields, the cuckoo's cry pierces the air—a clear, lonely note woven through the whisper of silk-thread rain.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070024,
+    "IsHide": true
+  },
+  "9070025": {
+    "Id": 9070025,
+    "Name": "Jun. 2026 Collection Card",
+    "DictionaryDes": "June unfolds as the prologue to a tender summer — the sky painted a conviction so blue, it forgets all doubt.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070025,
+    "IsHide": true
+  },
+  "9070026": {
+    "Id": 9070026,
+    "Name": "Jul. 2026 Collection Card",
+    "DictionaryDes": "Lotus blooms stretch across three hundred miles amidst vibrant greenery. In July, we reunite with beauty once more.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070026,
+    "IsHide": true
+  },
+  "9070027": {
+    "Id": 9070027,
+    "Name": "Aug. 2026 Collection Card",
+    "DictionaryDes": "In August, the stars bow low, and the moon tumbles into love’s embrace. It’s when the winds fall silent and the horizon opens wide, inviting us to taste the full spectrum of life’s earthly delights.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070027,
+    "IsHide": true
+  },
+  "9070028": {
+    "Id": 9070028,
+    "Name": "Sep. 2026 Collection Card",
+    "DictionaryDes": "A new story might be unfolding in the September breeze, page by page.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070028,
+    "IsHide": true
+  },
+  "9070029": {
+    "Id": 9070029,
+    "Name": "Oct. 2026 Collection Card",
+    "DictionaryDes": "October's leaves fall like whispered prayers, each one carrying a hope for the future.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070029,
+    "IsHide": true
+  },
+  "9070030": {
+    "Id": 9070030,
+    "Name": "Sep. 2026 Collection Card",
+    "DictionaryDes": "November brings the whisper of early winter. We stand in time's depths, searching for love and light, finding existence in stillness and warmth.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070030,
+    "IsHide": true
+  },
+  "9070031": {
+    "Id": 9070031,
+    "Name": "Oct. 2026 Collection Card",
+    "DictionaryDes": "The gentle winter sun casts its rays like strokes of time's brush, painting peaceful moments within the silence.",
+    "ListResources": "ui/textures/handbook_month_card/monthly_reward_card_main_card_01",
+    "Resources": "ui/textures/handbook_month_card/monthly_reward_card_01",
+    "Episode": 9070031,
+    "IsHide": true
+  }
+}

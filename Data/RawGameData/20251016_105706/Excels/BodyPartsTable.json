@@ -1,0 +1,1366 @@
+{
+  "100": {
+    "Id": 100,
+    "ModelID": 1110,
+    "BodyPartsDesc": "核心",
+    "Type": 1,
+    "Radius": [
+      0.7
+    ],
+    "Height": [
+      1.5
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 156.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -0.4,
+        "y": 0.3,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 4,
+    "BeHitAnimMaskIndex": 0,
+    "MaxHp": 30000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 4.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "101": {
+    "Id": 101,
+    "ModelID": 1110,
+    "BodyPartsDesc": "左肩炮",
+    "Type": 2,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 270.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.3,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 5,
+    "BeHitAnimMaskIndex": 1,
+    "MaxHp": 80000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "102": {
+    "Id": 102,
+    "ModelID": 1110,
+    "BodyPartsDesc": "左爪子",
+    "Type": 1,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.7
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 90.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -0.27,
+        "y": 0.22,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 6,
+    "BeHitAnimMaskIndex": 3,
+    "MaxHp": 999999,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 2.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "103": {
+    "Id": 103,
+    "ModelID": 1110,
+    "BodyPartsDesc": "右肩炮",
+    "Type": 2,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 90.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.1,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 2,
+    "BeHitAnimMaskIndex": 2,
+    "MaxHp": 80000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "104": {
+    "Id": 104,
+    "ModelID": 1110,
+    "BodyPartsDesc": "右爪子",
+    "Type": 1,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.7
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 90.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -0.27,
+        "y": 0.22,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": 4,
+    "MaxHp": 999999,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 2.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "105": {
+    "Id": 105,
+    "ModelID": 1110,
+    "BodyPartsDesc": "大包围盒",
+    "Type": 0,
+    "Radius": [
+      1.34
+    ],
+    "Height": [
+      4.45
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 270.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.92
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 8,
+    "BeHitAnimMaskIndex": -1,
+    "MaxHp": 400,
+    "NotHit": false,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 1.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "106": {
+    "Id": 106,
+    "ModelID": 1110,
+    "BodyPartsDesc": "脊柱",
+    "Type": 0,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 8.53
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 8,
+    "BeHitAnimMaskIndex": 5,
+    "MaxHp": 30000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 1.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "107": {
+    "Id": 107,
+    "ModelID": 1110,
+    "BodyPartsDesc": "尾巴06",
+    "Type": 0,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 90.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 3,
+    "BeHitAnimMaskIndex": 5,
+    "MaxHp": 30000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 1.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "108": {
+    "Id": 108,
+    "ModelID": 1110,
+    "BodyPartsDesc": "尾巴03",
+    "Type": 0,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 90.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 8,
+    "BeHitAnimMaskIndex": 5,
+    "MaxHp": 30000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 1.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 3,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "1": {
+    "Id": 1,
+    "ModelID": 1013,
+    "BodyPartsDesc": "左后腿",
+    "Type": 0,
+    "Radius": [
+      0.27
+    ],
+    "Height": [
+      1.12
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 135.84
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 6,
+    "BeHitAnimMaskIndex": 3,
+    "MaxHp": 9000,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "2": {
+    "Id": 2,
+    "ModelID": 1013,
+    "BodyPartsDesc": "右后腿",
+    "Type": 0,
+    "Radius": [
+      0.27
+    ],
+    "Height": [
+      1.12
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 135.84
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": 4,
+    "MaxHp": 1000,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "3": {
+    "Id": 3,
+    "ModelID": 1013,
+    "BodyPartsDesc": "左前臂",
+    "Type": 0,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.19
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 62.06
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 7,
+    "BeHitAnimMaskIndex": 1,
+    "MaxHp": 1000,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "22": {
+    "Id": 22,
+    "ModelID": 1013,
+    "BodyPartsDesc": "龙光核",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 270.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 5,
+    "BeHitAnimMaskIndex": 0,
+    "MaxHp": 3000,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 4.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "5": {
+    "Id": 5,
+    "ModelID": 1013,
+    "BodyPartsDesc": "右前臂",
+    "Type": 0,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.19
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 62.06
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 1,
+    "BeHitAnimMaskIndex": 2,
+    "MaxHp": 1000,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "6": {
+    "Id": 6,
+    "ModelID": 1013,
+    "BodyPartsDesc": "尾巴",
+    "Type": 0,
+    "Radius": [
+      0.75
+    ],
+    "Height": [
+      6.04
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 180.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 3,
+    "BeHitAnimMaskIndex": 5,
+    "MaxHp": 1000,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "19": {
+    "Id": 19,
+    "ModelID": 1013,
+    "BodyPartsDesc": "左后爪",
+    "Type": 1,
+    "Radius": [
+      0.63
+    ],
+    "Height": [
+      1.4
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 6,
+    "BeHitAnimMaskIndex": 3,
+    "MaxHp": 700,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "20": {
+    "Id": 20,
+    "ModelID": 1013,
+    "BodyPartsDesc": "右后爪",
+    "Type": 1,
+    "Radius": [
+      0.63
+    ],
+    "Height": [
+      1.4
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": 4,
+    "MaxHp": 700,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "21": {
+    "Id": 21,
+    "ModelID": 1013,
+    "BodyPartsDesc": "左前爪",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      2.2
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 25.56,
+        "y": 180.0,
+        "z": 116.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 7,
+    "BeHitAnimMaskIndex": 1,
+    "MaxHp": 700,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "23": {
+    "Id": 23,
+    "ModelID": 1013,
+    "BodyPartsDesc": "右前爪",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      2.2
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 334.44,
+        "y": 0.0,
+        "z": 116.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 1,
+    "BeHitAnimMaskIndex": 2,
+    "MaxHp": 700,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "11": {
+    "Id": 11,
+    "ModelID": 1013,
+    "BodyPartsDesc": "躯干",
+    "Type": 0,
+    "Radius": [
+      3.0
+    ],
+    "Height": [
+      7.0
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": -1,
+    "MaxHp": 400,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "400": {
+    "Id": 400,
+    "ModelID": 1401,
+    "BodyPartsDesc": "左后爪",
+    "Type": 1,
+    "Radius": [
+      0.63
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 6,
+    "BeHitAnimMaskIndex": 3,
+    "MaxHp": 1,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "401": {
+    "Id": 401,
+    "ModelID": 1401,
+    "BodyPartsDesc": "左后腿",
+    "Type": 0,
+    "Radius": [
+      0.27
+    ],
+    "Height": [
+      1.12
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 135.84
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 6,
+    "BeHitAnimMaskIndex": 3,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "402": {
+    "Id": 402,
+    "ModelID": 1401,
+    "BodyPartsDesc": "右后爪",
+    "Type": 1,
+    "Radius": [
+      0.5
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": 4,
+    "MaxHp": 1,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "403": {
+    "Id": 403,
+    "ModelID": 1401,
+    "BodyPartsDesc": "右后腿",
+    "Type": 0,
+    "Radius": [
+      0.27
+    ],
+    "Height": [
+      1.12
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 135.84
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": 4,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "404": {
+    "Id": 404,
+    "ModelID": 1401,
+    "BodyPartsDesc": "左前爪",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 25.56,
+        "y": 180.0,
+        "z": 116.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -0.39,
+        "y": 0.1,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 7,
+    "BeHitAnimMaskIndex": 1,
+    "MaxHp": 1,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "406": {
+    "Id": 406,
+    "ModelID": 1401,
+    "BodyPartsDesc": "左大臂",
+    "Type": 0,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.19
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 62.06
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 7,
+    "BeHitAnimMaskIndex": 1,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "407": {
+    "Id": 407,
+    "ModelID": 1401,
+    "BodyPartsDesc": "头",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 270.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 5,
+    "BeHitAnimMaskIndex": 0,
+    "MaxHp": 1,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 2.0,
+    "OnNoHitTargetWeight": 1.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "408": {
+    "Id": 408,
+    "ModelID": 1401,
+    "BodyPartsDesc": "右前爪",
+    "Type": 1,
+    "Radius": [
+      1.0
+    ],
+    "Height": [
+      1.0
+    ],
+    "Direction": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 334.44,
+        "y": 0.0,
+        "z": 116.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -0.39,
+        "y": 0.1,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 1,
+    "BeHitAnimMaskIndex": 2,
+    "MaxHp": 1,
+    "NotHit": false,
+    "NotChoose": false,
+    "OnCanHitTargetWeight": 3.0,
+    "OnNoHitTargetWeight": 2.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "410": {
+    "Id": 410,
+    "ModelID": 1401,
+    "BodyPartsDesc": "右大臂",
+    "Type": 0,
+    "Radius": [
+      0.6
+    ],
+    "Height": [
+      2.19
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 62.06
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 1,
+    "BeHitAnimMaskIndex": 2,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "411": {
+    "Id": 411,
+    "ModelID": 1401,
+    "BodyPartsDesc": "躯干",
+    "Type": 0,
+    "Radius": [
+      1.2
+    ],
+    "Height": [
+      5.4
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": 0.0,
+        "y": -0.48,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 0,
+    "BeHitAnimMaskIndex": -1,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  },
+  "412": {
+    "Id": 412,
+    "ModelID": 1401,
+    "BodyPartsDesc": "尾巴",
+    "Type": 0,
+    "Radius": [
+      0.75
+    ],
+    "Height": [
+      6.04
+    ],
+    "Direction": [
+      {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Rotate": [
+      {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 180.0
+      }
+    ],
+    "Offset": [
+      {
+        "x": -1.65,
+        "y": 0.0,
+        "z": 0.0
+      }
+    ],
+    "Bone": [],
+    "ShaderIndex": 3,
+    "BeHitAnimMaskIndex": 5,
+    "MaxHp": 1,
+    "NotHit": true,
+    "NotChoose": true,
+    "OnCanHitTargetWeight": 0.0,
+    "OnNoHitTargetWeight": 0.0,
+    "BasicFleshyType": 0,
+    "IsLockColliderIdx": 0,
+    "Tags": []
+  }
+}

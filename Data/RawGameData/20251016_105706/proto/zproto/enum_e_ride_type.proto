@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+enum ERideType {
+  RideTypeNormal = 0;
+  RideTypeRider = 1;
+  RideTypeVehicle = 2;
+  RideTypePlatform = 3;
+}
+

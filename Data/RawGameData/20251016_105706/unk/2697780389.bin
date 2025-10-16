@@ -1,0 +1,6615 @@
+
+µ
+table_basic.proto"
+mlstring
+id (Rid"1
+mlstring_array
+array (2	.mlstringRarray"7
+mlstring_table%
+array (2.mlstring_arrayRarray"$
+string_array
+array (	Rarray"3
+string_table#
+array (2.string_arrayRarray"%
+	int_array
+array (BRarray"'
+int64_array
+array (BRarray"-
+	int_table 
+array (2
+.int_arrayRarray"1
+int64_table"
+array (2.int64_arrayRarray"(
+number_array
+array (BRarray"3
+number_table#
+array (2.number_arrayRarray"x
+string_index.
+index (2.string_index.IndexEntryRindex8
+
+IndexEntry
+key (Rkey
+value (	Rvalue:8"%
+vector2
+X (RX
+Y (RY"3
+vector3
+X (RX
+Y (RY
+Z (RZ"/
+vector2_array
+array (2.vector2Rarray"/
+vector3_array
+array (2.vector3Rarray"5
+vector2_table$
+array (2.vector2_arrayRarray"5
+vector3_table$
+array (2.vector3_arrayRarraybproto3
+Æ
+AchievementDateTable.protobokuratable_basic.proto"≤
+AchievementDateTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName'
+TargetIdò (2
+.int_arrayRTargetId)
+	Condition‚ (2
+.int_tableR	Condition'
+PreAchievement« (RPreAchievement
+RewardID‘ (RRewardID
+Desä (	RDes
+TypeIconº (	RTypeIcon
+SeasonIdÖ (RSeasonId"∑
+AchievementDateTableMgr@
+datas (2*.bokura.AchievementDateTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.AchievementDateTableBaseRvalue:8bproto3
+‚
+AchievementEntryTable.protobokuratable_basic.proto"c
+AchievementEntryTableBase
+Id∑ (RId5
+AchievementListÖ (2
+.int_arrayRAchievementList"∫
+AchievementEntryTableMgrA
+datas (2+.bokura.AchievementEntryTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.AchievementEntryTableBaseRvalue:8bproto3
+Ä
+!AchievementSeasonClassTable.protobokuratable_basic.proto"Ë
+AchievementSeasonClassTableBase
+Id∑ (RId(
+	ClassNameÜ
+ (2	.mlstringR	ClassName)
+ClassBackgroundÂ (	RClassBackground
+ClassDesÂ (	RClassDes)
+	EntryList◊ (2
+.int_arrayR	EntryList
+SortID¯ (RSortID"Ã
+AchievementSeasonClassTableMgrG
+datas (21.bokura.AchievementSeasonClassTableMgr.DatasEntryRdatasa
+
+DatasEntry
+key (Rkey=
+value (2'.bokura.AchievementSeasonClassTableBaseRvalue:8bproto3
+‰
+AchievementTable.protobokuratable_basic.proto"¯
+AchievementTableBase
+Id∑ (RId
+name∞ (	Rname
+	main_type∫ (RmainType
+sub_typeµ (RsubType
+desc„ (	Rdesc
+showŸ (Rshow
+
+time_limitÕ (R	timeLimit!
+awardï (2
+.int_tableRaward
+icon∫	 (	Ricon"´
+AchievementTableMgr<
+datas (2&.bokura.AchievementTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.AchievementTableBaseRvalue:8bproto3
+¸
+ActionSampleTable.protobokuratable_basic.proto"å
+ActionSampleTableBase
+Id∑ (RId
+Name∑ (	RName.
+
+MotionInfoà (2.number_tableR
+MotionInfo
+	HasMotion≈ (R	HasMotion"Æ
+ActionSampleTableMgr=
+datas (2'.bokura.ActionSampleTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ActionSampleTableBaseRvalue:8bproto3
+Ê
+ActionShowDataTable.protobokura"Å
+ActionShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId
+
+ActionNameº
+ (	R
+ActionName
+ResPath§ (	RResPath
+
+ActionTypeæ (R
+ActionType
+IsLoopm (RIsLoop
+IsUpendÓ (RIsUpend'
+EnhanceDamping⁄ (REnhanceDamping"¥
+ActionShowDataTableMgr?
+datas (2).bokura.ActionShowDataTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.ActionShowDataTableBaseRvalue:8bproto3
+≠
+ActionTable.protobokura"Ë
+ActionTableBase
+Id∑ (RId#
+ActionEffectõ (	RActionEffect
+IsBlend≠ (RIsBlend
+IsUpperÇ (RIsUpper+
+LookAtBodyWeightè (RLookAtBodyWeight
+
+UnlockItemæ (R
+UnlockItem
+IsFollowÃ (RIsFollow"ú
+ActionTableMgr7
+datas (2!.bokura.ActionTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.ActionTableBaseRvalue:8bproto3
+∏
+ActivationTable.protobokuratable_basic.proto"–
+ActivationTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType
+SceneId‚ (RSceneId!
+Param∑	 (2
+.int_arrayRParam
+
+Activation© (R
+Activation(
+	TargetDesˇ	 (2	.mlstringR	TargetDes"®
+ActivationTableMgr;
+datas (2%.bokura.ActivationTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ActivationTableBaseRvalue:8bproto3
+¯
+AffixPoolTable.protobokuratable_basic.proto"î
+AffixPoolTableBase
+Id∑ (RId
+Name∑ (	RName 
+DescriptionK (	RDescription!
+Affixú (2
+.int_tableRAffix%
+AffixQuantityΩ (RAffixQuantity5
+EffectTypeLimit¸ (2
+.int_tableREffectTypeLimit5
+TargetTypeLimit˜ (2
+.int_tableRTargetTypeLimit"•
+AffixPoolTableMgr:
+datas (2$.bokura.AffixPoolTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.AffixPoolTableBaseRvalue:8bproto3
+ﬁ
+AffixTable.protobokuratable_basic.proto"ä
+AffixTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName+
+DescriptionK (2	.mlstringRDescription
+RemarkÔ
+ (	RRemark
+IconÅ	 (	RIcon
+
+EffectTypeè (R
+EffectType
+
+TargetType‡ (R
+TargetType
+Level‡ (RLevel!
+Mutexú (2
+.int_arrayRMutex#
+Effect⁄ (2
+.int_tableREffect.
+
+EffectTimeÄ (2.number_tableR
+EffectTime
+GsChangeñ (RGsChange"ô
+AffixTableMgr6
+datas (2 .bokura.AffixTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.AffixTableBaseRvalue:8bproto3
+™
+AITable.protobokuratable_basic.proto"‚
+AITableBase
+Id∑ (RId
+Remarks£ (	RRemarks%
+NormalSubTree§ (	RNormalSubTree)
+IsRecoverNormal÷ (RIsRecoverNormal
+IsPatrolÉ (RIsPatrol#
+IsPlayAction„ (RIsPlayAction5
+PlayActionProbabilityç (RPlayActionProbability'
+PlayActionModeÒ (RPlayActionMode/
+PlayActionId≥ (2
+.int_arrayRPlayActionId#
+IsRandomMoveñ (RIsRandomMove5
+RandomMoveProbability⁄ (RRandomMoveProbability+
+RandomMoveRadius˘ (RRandomMoveRadius1
+IsAlertNormalPatrolÎ (RIsAlertNormalPatrol)
+IsWalkingAroundœ (RIsWalkingAround#
+WayPointNameÏ (	RWayPointName5
+AlertNormalPatrolPath‚ (	RAlertNormalPatrolPath%
+IsAlertActionè (RIsAlertAction5
+AlertActionList‚ (2
+.int_arrayRAlertActionList-
+NormalPlaySubTreeû (	RNormalPlaySubTree@
+BattleActionIdArray¡ (2.string_arrayRBattleActionIdArrayG
+BattleActionReleaseProbability˚ (RBattleActionReleaseProbability?
+IsPlayActionWhenIntoBattle≠ (RIsPlayActionWhenIntoBattleK
+ IsPlayActionOnlyNormalIntoBattle  (R IsPlayActionOnlyNormalIntoBattle+
+InBattleActionId°	 (RInBattleActionId5
+AlertInBattleActionId (RAlertInBattleActionId.
+IsHaveBattleAction (RIsHaveBattleActionE
+BattleSkillReleaseProbability»	 (RBattleSkillReleaseProbability%
+BattleSkillId∆ (RBattleSkillId1
+NormalBattleSubTreeÙ (	RNormalBattleSubTree9
+SkillReleaseProbability⁄ (RSkillReleaseProbability
+	IsNotMoveÓ (R	IsNotMove1
+IsSkillReleaseClose∂ (RIsSkillReleaseCloseC
+IsReleaseSkillWhenIntoBattle§ (RIsReleaseSkillWhenIntoBattle9
+NormalIntoBattleSkillId– (RNormalIntoBattleSkillId/
+BattleAlertSubTreeÜ (	RBattleAlertSubTree/
+IsAlertMoveRequireﬂ (RIsAlertMoveRequireC
+ChaseAndAlertMoveProbability˙	 (RChaseAndAlertMoveProbability'
+IsChaseMonsterü (RIsChaseMonster)
+IsHaveBackSkill“ (RIsHaveBackSkill!
+BackSkillIdÈ (RBackSkillId?
+IsNeedTranslationAlertMoveé (RIsNeedTranslationAlertMove3
+AlertMoveProbability” (RAlertMoveProbability
+
+AlertSpeedá	 (R
+AlertSpeed!
+MinAlertDisﬂ (RMinAlertDis!
+MaxAlertDisÙ (RMaxAlertDis+
+MinAlertMoveTimeÆ (RMinAlertMoveTime+
+MaxAlertMoveTime‡ (RMaxAlertMoveTime+
+MinAlertBackTimeÌ	 (RMinAlertBackTime+
+MaxAlertBackTimeﬁ (RMaxAlertBackTime6
+ToBattleActionJsonNamej (	RToBattleActionJsonName5
+IsPlayVigilanceActionï (RIsPlayVigilanceAction9
+VigilanceActionJsonNameç (	RVigilanceActionJsonName"ê
+
+AITableMgr3
+datas (2.bokura.AITableMgr.DatasEntryRdatasM
+
+DatasEntry
+key (Rkey)
+value (2.bokura.AITableBaseRvalue:8bproto3
+—
+AnimShortNameTable.protobokura"q
+AnimShortNameTableBase
+Id∑ (RId
+
+NameDesignÒ (	R
+NameDesign%
+AnimShortName• (	RAnimShortName"±
+AnimShortNameTableMgr>
+datas (2(.bokura.AnimShortNameTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.AnimShortNameTableBaseRvalue:8bproto3
+∫
+AttrDescription.protobokuratable_basic.proto"S
+AttrDescriptionBase
+Id∑ (RId+
+DescriptionK (2	.mlstringRDescription"®
+AttrDescriptionMgr;
+datas (2%.bokura.AttrDescriptionMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.AttrDescriptionBaseRvalue:8bproto3
+‹
+AudioShowDataTable.protobokura"˚
+AudioShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId
+Loopâ (RLoop
+	EventNameÔ	 (	R	EventName"±
+AudioShowDataTableMgr>
+datas (2(.bokura.AudioShowDataTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.AudioShowDataTableBaseRvalue:8bproto3
+©
+AwardAttrFixRatioTable.protobokuratable_basic.proto"•
+AwardAttrFixRatioTableBase
+Id∑ (RId
+AttrIdõ
+ (RAttrId
+Type° (RType
+ItemType© (RItemType+
+
+ItemParams° (2
+.int_tableR
+ItemParams"Ω
+AwardAttrFixRatioTableMgrB
+datas (2,.bokura.AwardAttrFixRatioTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.AwardAttrFixRatioTableBaseRvalue:8bproto3
+§	
+AwardTable.protobokuratable_basic.proto"–
+AwardTableBase
+AwardID‰ (RAwardID
+	AwardTypeû (R	AwardType/
+GroupContentò
+ (2
+.int_tableRGroupContent'
+GroupNumú	 (2
+.int_tableRGroupNum.
+
+GroupRates√ (2.number_arrayR
+GroupRates-
+GroupWeightù (2
+.int_arrayRGroupWeight
+	AwardTimeπ (R	AwardTime'
+BindInfo‚ (2
+.int_arrayRBindInfo%
+ProItem˝ (2
+.int_tableRProItem(
+ProRuleê (2.number_tableRProRule-
+LevelUpConditions∫	 (RLevelUpConditions1
+LevelUpConfig√ (2
+.int_tableRLevelUpConfig3
+LevelUpPackageË (2
+.int_arrayRLevelUpPackage-
+PreviewItem˜ (2
+.int_tableRPreviewItem5
+PreviewItemInfoÚ (2
+.int_tableRPreviewItemInfo(
+	LimitType\ (2
+.int_arrayR	LimitType0
+LimitParams≤ (2.string_tableRLimitParams/
+EquipLvLimitÿ (2
+.int_arrayREquipLvLimit/
+AttrFixRatioù (2
+.int_arrayRAttrFixRatio+
+PreviewUseLimiteÆ (RPreviewUseLimite'
+SignPara˝ (2
+.int_arrayRSignPara!
+HidePreview„ (RHidePreview"ô
+AwardTableMgr6
+datas (2 .bokura.AwardTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.AwardTableBaseRvalue:8bproto3
+™
+BackgroundTable.protobokura"V
+BackgroundTableBase
+Id∑ (RId
+Sequenceø (RSequence
+Res˚	 (	RRes"®
+BackgroundTableMgr;
+datas (2%.bokura.BackgroundTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.BackgroundTableBaseRvalue:8bproto3
+’
+BasicAttrEffectTable.protobokuratable_basic.proto"Ÿ
+BasicAttrEffectTableBase
+Id∑ (RId<
+AttrStrengthTableê (2.number_tableRAttrStrengthTable)
+AttrStrengthMaxﬁ (RAttrStrengthMax<
+AttrVitalityTableœ (2.number_tableRAttrVitalityTable)
+AttrVitalityMaxñ (RAttrVitalityMax>
+AttrDexterityTableÃ (2.number_tableRAttrDexterityTable+
+AttrDexterityMax≈ (RAttrDexterityMaxD
+AttrIntelligenceTable∞ (2.number_tableRAttrIntelligenceTable1
+AttrIntelligenceMaxÂ (RAttrIntelligenceMax4
+AttrMindTable˝ (2.number_tableRAttrMindTable!
+AttrMindMax≥ (RAttrMindMax:
+AttrObserveTableÅ (2.number_tableRAttrObserveTable'
+AttrObserveMaxö (RAttrObserveMax6
+AttrIntroductionâ (2	.mlstringRAttrIntroduction"∑
+BasicAttrEffectTableMgr@
+datas (2*.bokura.BasicAttrEffectTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.BasicAttrEffectTableBaseRvalue:8bproto3
+œ
+BasicAttrGrowTable.protobokuratable_basic.proto"\
+BasicAttrGrowTableBase
+Id∑ (RId1
+AttrGrowRangeﬁ (2
+.int_tableRAttrGrowRange"±
+BasicAttrGrowTableMgr>
+datas (2(.bokura.BasicAttrGrowTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.BasicAttrGrowTableBaseRvalue:8bproto3
+ƒ
+BasicAttrTable.protobokuratable_basic.proto"‡
+BasicAttrTableBase
+Id∑ (RId
+Basic0∫ (RBasic0'
+GrowMin0É (2
+.int_tableRGrowMin0+
+
+GrowTimes0÷ (2
+.int_arrayR
+GrowTimes0
+Basic28 (RBasic2'
+GrowMin2  (2
+.int_tableRGrowMin2+
+
+GrowTimes2£
+ (2
+.int_arrayR
+GrowTimes2
+Basic3Ë (RBasic3'
+GrowMin3¬ (2
+.int_tableRGrowMin3+
+
+GrowTimes3∑ (2
+.int_arrayR
+GrowTimes3
+Basic4Æ (RBasic4'
+GrowMin4‰ (2
+.int_tableRGrowMin4+
+
+GrowTimes4ß (2
+.int_arrayR
+GrowTimes4"•
+BasicAttrTableMgr:
+datas (2$.bokura.BasicAttrTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.BasicAttrTableBaseRvalue:8bproto3
+Ñ
+BattlePassCardTable.protobokuratable_basic.proto"å
+BattlePassCardTableBase
+Id∑ (RId+
+BattlePassCardId˚ (RBattlePassCardId!
+SeasonLevelœ (RSeasonLevel
+	SeasonExpŒ	 (R	SeasonExp)
+	FreeAwardﬂ
+ (2
+.int_arrayR	FreeAward)
+	PaidAwardÃ (2
+.int_arrayR	PaidAward
+KeyAward√	 (RKeyAward"¥
+BattlePassCardTableMgr?
+datas (2).bokura.BattlePassCardTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.BattlePassCardTableBaseRvalue:8bproto3
+Â
+BattlePassGlobalTable.protobokuratable_basic.proto"Â
+BattlePassGlobalTableBase
+Id∑ (RId'
+WeeklyExpLimitú
+ (RWeeklyExpLimit2
+NormalPassName˙ (2	.mlstringRNormalPassName0
+PrimePassName£ (2	.mlstringRPrimePassName%
+FashionÌ (2
+.int_tableRFashion#
+FashionLevelè (RFashionLevel/
+AwardPreviewâ	 (2
+.int_arrayRAwardPreview-
+PrimePassAddLevelí (RPrimePassAddLevel5
+PrimeExtraAward∏ (2
+.int_arrayRPrimeExtraAward)
+	LevelCostÛ (2
+.int_arrayR	LevelCost0
+NormalPassPaymentID{ (RNormalPassPaymentID/
+PrimePassPaymentID¥ (RPrimePassPaymentID7
+PassPriceDiffPaymentIDä (RPassPriceDiffPaymentID"∫
+BattlePassGlobalTableMgrA
+datas (2+.bokura.BattlePassGlobalTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.BattlePassGlobalTableBaseRvalue:8bproto3
+†
+BDTAGLinkTable.protobokuratable_basic.proto"º
+BDTAGLinkTableBase
+Id∑ (RId
+Note≈ (	RNote
+NoteTypeÄ (RNoteType
+FindTypeæ (RFindType
+FindBodyí (	RFindBody6
+FindConditions‰ (2.string_tableRFindConditions
+
+TargetPara˜ (	R
+TargetPara'
+SkillLevelType¸ (RSkillLevelType'
+TargetNodeType• (RTargetNodeType"•
+BDTAGLinkTableMgr:
+datas (2$.bokura.BDTAGLinkTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.BDTAGLinkTableBaseRvalue:8bproto3
+ß
+BDTAGRootTable.protobokuratable_basic.proto"√
+BDTAGRootTableBase
+Id∑ (RId
+Name∑ (	RName
+RootTypeá (RRootType
+
+RootTypeId£ (R
+RootTypeId
+
+SkillLevelÉ (R
+SkillLevel(
+TagPathË (2.string_arrayRTagPath"•
+BDTAGRootTableMgr:
+datas (2$.bokura.BDTAGRootTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.BDTAGRootTableBaseRvalue:8bproto3
+≤
+BDTAGSpecialLinkTable.protobokura"≈
+BDTAGSpecialLinkTableBase
+Id∑ (RId
+Note≈ (	RNote
+NoteTypeÄ (RNoteType
+NodeIdµ	 (RNodeId'
+TargetNodeType• (RTargetNodeType#
+TargetNodeID≥ (RTargetNodeID"∫
+BDTAGSpecialLinkTableMgrA
+datas (2+.bokura.BDTAGSpecialLinkTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.BDTAGSpecialLinkTableBaseRvalue:8bproto3
+˝
+BdTagTable.protobokuratable_basic.proto"©
+BdTagTableBase
+Id∑ (RId$
+TagName˛ (2	.mlstringRTagName'
+	TagStringk (2	.mlstringR	TagString
+TagTypeœ (RTagType
+	ParentTag& (R	ParentTag"ô
+BdTagTableMgr6
+datas (2 .bokura.BdTagTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.BdTagTableBaseRvalue:8bproto3
+Æ
+BeHitEffectTable.protobokuratable_basic.proto"¬
+BeHitEffectTableBase
+Id∑ (RId%
+WeaponHitTypeπ
+ (RWeaponHitType
+
+FleshyTypeã (R
+FleshyType0
+EffectArrayâ (2.string_arrayREffectArray
+
+FrameRatioı (R
+FrameRatio"´
+BeHitEffectTableMgr<
+datas (2&.bokura.BeHitEffectTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.BeHitEffectTableBaseRvalue:8bproto3
+—
+BodyPartsTable.protobokuratable_basic.proto"Ì
+BodyPartsTableBase
+Id∑ (RId
+ModelID€ (RModelID%
+BodyPartsDescﬁ (	RBodyPartsDesc
+Type° (RType&
+RadiusØ (2.number_arrayRRadius&
+Heightí (2.number_arrayRHeight-
+	DirectionÇ (2.vector3_arrayR	Direction'
+Rotateç (2.vector3_arrayRRotate'
+Offsetﬂ (2.vector3_arrayROffset"
+Bone© (2.string_arrayRBone!
+ShaderIndex° (RShaderIndex%
+BeHitAnimMask∫ (	RBeHitAnimMask
+MaxHp∑ (RMaxHp
+NotHitœ (RNotHit
+	NotChoose¢ (R	NotChoose3
+OnCanHitTargetWeight”
+ (ROnCanHitTargetWeight1
+OnNoHitTargetWeightµ (ROnNoHitTargetWeight)
+BasicFleshyType˘ (RBasicFleshyType-
+IsLockColliderIdx—
+ (RIsLockColliderIdx
+TagsË (2
+.int_arrayRTags"•
+BodyPartsTableMgr:
+datas (2$.bokura.BodyPartsTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.BodyPartsTableBaseRvalue:8bproto3
+“
+BuffDataTable.protobokuratable_basic.proto"Ú
+BuffDataTableBase
+BuffId¢ (RBuffId/
+ActionArrayæ (2.int64_arrayRActionArray/
+EffectArrayâ (2.int64_arrayREffectArray3
+MaterialArrayö (2.int64_arrayRMaterialArray-
+
+WWiseArrayô (2.int64_arrayR
+WWiseArray"¢
+BuffDataTableMgr9
+datas (2#.bokura.BuffDataTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.BuffDataTableBaseRvalue:8bproto3
+√
+BuffTable.protobokuratable_basic.proto"Û
+BuffTableBase
+Id∑ (RId
+Level‡ (RLevel
+
+NameDesignÒ (	R
+NameDesign
+Note≈ (	RNote
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon
+Desc° (2	.mlstringRDesc
+BuffTypeâ (RBuffType#
+BuffPriority‘ (RBuffPriority)
+TipsDescriptionÑ (RTipsDescription
+Visibleî (RVisible1
+RepeatAddRule» (2
+.int_arrayRRepeatAddRule2
+DestroyParam¸ (2.number_tableRDestroyParam
+
+DeleteDeadB (R
+DeleteDead%
+DeleteOfflineê (RDeleteOffline-
+DeleteChangeScene‹ (RDeleteChangeScene9
+DeleteChangeVisualLayerŸ (RDeleteChangeVisualLayer/
+DeleteWeaponChangeô (RDeleteWeaponChange
+TagsË (2
+.int_arrayRTags-
+SpecialAttrâ (2
+.int_arrayRSpecialAttr)
+BuffAbilityTypeØ (RBuffAbilityType#
+IsClientBuff± (RIsClientBuff 
+ShowHUDIcon} (	RShowHUDIcon
+	HudSwitch\ (R	HudSwitch"ñ
+BuffTableMgr5
+datas (2.bokura.BuffTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.BuffTableBaseRvalue:8bproto3
+•
+BugReportConfigTable.protobokura"º
+BugReportConfigTableBase
+Id∑ (RId
+DataType™ (RDataType
+	DataIndex›
+ (R	DataIndex
+	DataValueπ (	R	DataValue
+
+DataValue2Û (	R
+DataValue2
+Desc° (	RDesc"∑
+BugReportConfigTableMgr@
+datas (2*.bokura.BugReportConfigTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.BugReportConfigTableBaseRvalue:8bproto3
+‰
+BugReportFilterTable.protobokura"|
+BugReportFilterTableBase
+Id∑ (RId
+	FilterSträ
+ (	R	FilterStr
+MatchStrª (	RMatchStr
+Desc° (	RDesc"∑
+BugReportFilterTableMgr@
+datas (2*.bokura.BugReportFilterTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.BugReportFilterTableBaseRvalue:8bproto3
+õ
+
+BulletRunTable.protobokuratable_basic.proto"∑
+BulletRunTableBase
+Id∑ (RId
+
+MotionTypeƒ (R
+MotionType
+
+StartSpeed€ (R
+StartSpeed+
+AcceleratedSpeedœ (RAcceleratedSpeed
+MaxSpeed≤ (RMaxSpeed%
+DirectionTypeº (RDirectionType'
+IsFollowTargetô (RIsFollowTarget'
+MaxFollowAngle› (RMaxFollowAngle#
+ExStartSpeedﬁ
+ (RExStartSpeed/
+ExAcceleratedSpeedÆ (RExAcceleratedSpeed
+
+ExMaxSpeedÒ (R
+ExMaxSpeed
+	CurvePath# (	R	CurvePath
+CurveIdØ (RCurveId'
+IsRandomRadian∫ (RIsRandomRadian#
+RandomPosTopπ (RRandomPosTop)
+RandomPosBottom° (RRandomPosBottom%
+RandomPosLeftÉ (RRandomPosLeft'
+RandomPosRightœ (RRandomPosRight
+
+FollowType†	 (R
+FollowType'
+	OffsetPos° (2.vector3R	OffsetPos!
+OriginalDirƒ (ROriginalDir
+MinZoomπ	 (RMinZoom
+MaxZoomÉ (RMaxZoom
+	ZoomSpeed« (R	ZoomSpeed
+
+ZoomIsLoop¿ (R
+ZoomIsLoop'
+FollowConfigId¨ (RFollowConfigId%
+CheckObstacle¶ (RCheckObstacle
+IsStandÔ
+ (RIsStand#
+IsLockTarget§ (RIsLockTarget
+
+IsCanDodgeä (R
+IsCanDodge"•
+BulletRunTableMgr:
+datas (2$.bokura.BulletRunTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.BulletRunTableBaseRvalue:8bproto3
+Ã
+BulletShapeTable.protobokuratable_basic.proto"‡
+BulletShapeTableBase
+Id∑ (RId
+	ShapeTypeÒ (R	ShapeType,
+	ShapeDataÌ (2.number_arrayR	ShapeData.
+
+ScaleCurveÛ (2.number_tableR
+ScaleCurve:
+ScaleCurveSample˛ (2.number_tableRScaleCurveSample"´
+BulletShapeTableMgr<
+datas (2&.bokura.BulletShapeTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.BulletShapeTableBaseRvalue:8bproto3
+‹
+BulletTable.protobokuratable_basic.proto"Ñ
+BulletTableBase
+Id∑ (RId
+Name∑ (	RName
+Start¶ (RStart
+Duration† (RDuration
+ModelID€ (RModelID
+	BoomCount‘	 (R	BoomCount#
+BoomInterval⁄ (RBoomInterval'
+DamageInterval‡ (RDamageInterval#
+BulletAttrId˙ (RBulletAttrId
+TagsË (2
+.int_arrayRTags)
+DeadShowStageId¸ (RDeadShowStageId!
+BulletCount£
+ (RBulletCount-
+DamageWeightœ (2.vector2RDamageWeight+
+DamageWeightType∆
+ (RDamageWeightType
+
+FakeBulletû (R
+FakeBullet"ú
+BulletTableMgr7
+datas (2!.bokura.BulletTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.BulletTableBaseRvalue:8bproto3
+‚
+CameraShowDataTable.protobokuratable_basic.proto"Í
+CameraShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId+
+CameraEffectType∂ (RCameraEffectType
+	Frequency¸ (R	Frequency'
+	AmplitudeÙ (2.vector3R	Amplitude6
+FrequencyCurveû (2.number_tableRFrequencyCurve6
+AmplitudeCurveË (2.number_tableRAmplitudeCurve
+
+OnlyCasterÏ (R
+OnlyCaster!
+MaxDistance⁄ (RMaxDistance4
+DistanceCurve“ (2.number_tableRDistanceCurve
+	IntensityÒ (R	Intensity6
+IntensityCurveô (2.number_tableRIntensityCurve
+	Threshold™ (R	Threshold
+IsRandom• (RIsRandom.
+
+ExtraParms  (2.number_arrayR
+ExtraParms"¥
+CameraShowDataTableMgr?
+datas (2).bokura.CameraShowDataTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.CameraShowDataTableBaseRvalue:8bproto3
+Ê
+CampRelationshipTable.protobokuratable_basic.proto"g
+CampRelationshipTableBase
+MapId∆ (RMapId3
+RelationshipIDÃ (2
+.int_tableRRelationshipID"∫
+CampRelationshipTableMgrA
+datas (2+.bokura.CampRelationshipTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.CampRelationshipTableBaseRvalue:8bproto3
+Ü
+CGTable.protobokura"R
+CGTableBase
+Id∑ (RId
+CGName	 (	RCGName
+ResPath§ (	RResPath"ê
+
+CGTableMgr3
+datas (2.bokura.CGTableMgr.DatasEntryRdatasM
+
+DatasEntry
+key (Rkey)
+value (2.bokura.CGTableBaseRvalue:8bproto3
+ 
+ChallengeHeroDungeonTable.protobokuratable_basic.proto"∫
+ChallengeHeroDungeonTableBase
+	DungeonIdØ (R	DungeonId#
+DungeonGroupŸ (RDungeonGroup
+	StarLevel	 (R	StarLevel
+LabelPicÈ (	RLabelPic
+
+Background◊ (	R
+Background
+ModelId´ (RModelId
+EffectIdì (	REffectId-
+ExtraTarget±
+ (2
+.int_arrayRExtraTarget
+	BaseRatio¸ (R	BaseRatio!
+Affixú (2
+.int_tableRAffix-
+SelectAffix€	 (2
+.int_tableRSelectAffix)
+	ScoreRankÂ (2
+.int_tableR	ScoreRank
+	LimitTime‹ (R	LimitTime+
+
+ScoreAwardí (2
+.int_tableR
+ScoreAward)
+	KeyRewardˇ (2
+.int_arrayR	KeyReward"∆
+ChallengeHeroDungeonTableMgrE
+datas (2/.bokura.ChallengeHeroDungeonTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.ChallengeHeroDungeonTableBaseRvalue:8bproto3
+©
+ChangeQueueTable.protobokuratable_basic.proto"Ω
+ChangeQueueTableBase
+Id∑ (RId
+SortÎ (RSort+
+
+Consumable™ (2
+.int_tableR
+Consumable'
+ConsumableNameï (	RConsumableName1
+ExchangeGoodsÕ (2
+.int_tableRExchangeGoods#
+ExchangeNameæ (	RExchangeName)
+	Condition‚ (2
+.int_tableR	Condition&
+WaitTimej (2
+.int_arrayRWaitTime"´
+ChangeQueueTableMgr<
+datas (2&.bokura.ChangeQueueTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.ChangeQueueTableBaseRvalue:8bproto3
+Ç
+ChannelTable.protobokuratable_basic.proto"¶
+ChannelTableBase
+Id∑ (RId
+Type° (RType,
+ChannelNameõ (2	.mlstringRChannelName#
+ChannelStyleÙ (	RChannelStyle
+
+FunctionIdï (R
+FunctionId1
+SubFunctionId† (2
+.int_arrayRSubFunctionId
+SortÎ (RSort0
+ChannelFuncö (2.string_arrayRChannelFunc"ü
+ChannelTableMgr8
+datas (2".bokura.ChannelTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.ChannelTableBaseRvalue:8bproto3
+«
+ChatBubble.protobokuratable_basic.proto"t
+ChatBubbleBase
+Id∑ (RId$
+Contentè (2	.mlstringRContent+
+PlotCharactersIdÇ
+ (RPlotCharactersId"ô
+ChatBubbleMgr6
+datas (2 .bokura.ChatBubbleMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.ChatBubbleBaseRvalue:8bproto3
+˜
+ChatContactsGroupTable.protobokuratable_basic.proto"t
+ChatContactsGroupTableBase
+Id∑ (RId(
+	GroupName≈ (2	.mlstringR	GroupName
+Sequenceø (RSequence"Ω
+ChatContactsGroupTableMgrB
+datas (2,.bokura.ChatContactsGroupTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.ChatContactsGroupTableBaseRvalue:8bproto3
+ñ
+ChatPersonalizedTag.protobokuratable_basic.proto"û
+ChatPersonalizedTagBase
+Id∑ (RId$
+TagName˛ (2	.mlstringRTagName
+TagBGŒ (	RTagBG
+TagIcon (	RTagIcon
+Sequenceø (RSequence"¥
+ChatPersonalizedTagMgr?
+datas (2).bokura.ChatPersonalizedTagMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.ChatPersonalizedTagBaseRvalue:8bproto3
+¨
+ChatStatusTable.protobokuratable_basic.proto"ƒ
+ChatStatusTableBase
+Id∑ (RId*
+
+StatusName± (2	.mlstringR
+StatusName
+Res˚	 (	RRes#
+StatusSwitchÒ (RStatusSwitch
+Sequenceø (RSequence
+Priority∞ (RPriority"®
+ChatStatusTableMgr;
+datas (2%.bokura.ChatStatusTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ChatStatusTableBaseRvalue:8bproto3
+È
+ChatStickersTable.protobokura"å
+ChatStickersTableBase
+Id∑ (RId
+Type° (RType
+GroupIdƒ (RGroupId
+Res˚	 (	RRes
+
+UnlockItemæ (R
+UnlockItem"Æ
+ChatStickersTableMgr=
+datas (2'.bokura.ChatStickersTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ChatStickersTableBaseRvalue:8bproto3
+Å
+CocktailRecipeTable.protobokuratable_basic.proto"â
+CocktailRecipeTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName*
+
+RecipeText§ (2	.mlstringR
+RecipeText6
+IntroductionTextÅ (2	.mlstringRIntroductionText#
+RecipeÆ (2
+.int_tableRRecipe
+Model• (	RModel
+	IsVisibleî (R	IsVisible"¥
+CocktailRecipeTableMgr?
+datas (2).bokura.CocktailRecipeTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.CocktailRecipeTableBaseRvalue:8bproto3
+Ê
+CollectionEntityTable.protobokuratable_basic.proto"Ê
+
+CollectionEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation
+	RotationXî (R	RotationX
+	RotationZ (R	RotationZ!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+DataType™ (RDataType)
+SpaceLayerIndexè (RSpaceLayerIndex%
+OverrideScaleï
+ (ROverrideScale
+EntMask… (REntMask
+
+AlertRangeµ (R
+AlertRange7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition'
+InsightVisible± (RInsightVisible!
+IsNotGround— (RIsNotGround
+IsStatic˝ (RIsStatic%
+VisualLayerIdÛ (RVisualLayerId
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent3
+ShowStatusInfo¡ (2
+.int_tableRShowStatusInfo?
+ShowStatusTransitionÎ (2
+.int_tableRShowStatusTransition"∫
+CollectionEntityTableMgrA
+datas (2+.bokura.CollectionEntityTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.CollectionEntityTableBaseRvalue:8bproto3
+Á
+CollectionTable.protobokuratable_basic.proto"ˇ	
+CollectionTableBase
+Id∑ (RId2
+CollectionName¬ (2	.mlstringRCollectionName!
+ShowHudName∂ (RShowHudName
+RemarkÔ
+ (	RRemark
+Type° (RType
+ModelId´ (RModelId
+MapIcon' (RMapIcon!
+IsHighLightå (RIsHighLight7
+VisibleCondition…
+ (2
+.int_tableRVisibleCondition
+	DropModel‹ (R	DropModel-
+EntityAttributeIDÊ (REntityAttributeID9
+InteractCondition† (2
+.int_arrayRInteractCondition
+	PickRange¿	 (R	PickRange#
+PickActionIDù
+ (RPickActionID
+	PickSoundç (	R	PickSound
+PickTimeè (RPickTime'
+BuffInPickTimeÄ (RBuffInPickTime%
+BuffAfterPickæ (RBuffAfterPick
+	IsRefresh∏ (R	IsRefresh#
+AIConfigPathü	 (	RAIConfigPath
+	RunAwayAI◊ (	R	RunAwayAI
+
+AlertRangeµ (R
+AlertRange!
+RunAwayTimeÑ (RRunAwayTime
+	DieAction± (	R	DieAction'
+FeedbackAction› (	RFeedbackAction=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent+
+
+StatusInfoª (2
+.int_tableR
+StatusInfo6
+StatusTransitionm (2
+.int_tableRStatusTransition#
+DefaultState¯ (RDefaultState3
+ShowStatusInfo¡ (2
+.int_tableRShowStatusInfo?
+ShowStatusTransitionÎ (2
+.int_tableRShowStatusTransition"®
+CollectionTableMgr;
+datas (2%.bokura.CollectionTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.CollectionTableBaseRvalue:8bproto3
+Ÿ
+ColorGroupTable.protobokuratable_basic.proto"Ò
+ColorGroupTableBase
+Id∑ (RId
+Type° (RType
+ColorÀ (	RColor
+Hue˚ (2
+.int_tableRHue#
+IfSaturationÀ (RIfSaturation+
+
+Saturation“	 (2
+.int_tableR
+Saturation
+IfValueπ
+ (RIfValue!
+ValueË (2
+.int_tableRValue$
+UiColor (2
+.int_tableRUiColor'
+ConsumeHÈ (2
+.int_tableRConsumeH
+Zone≥ (2
+.int_tableRZone*
+
+ConsumeLowI (2
+.int_tableR
+ConsumeLow-
+ConsumeHigh· (2
+.int_tableRConsumeHigh#
+UnlockÇ (2
+.int_tableRUnlock"®
+ColorGroupTableMgr;
+datas (2%.bokura.ColorGroupTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ColorGroupTableBaseRvalue:8bproto3
+§
+ColorTagTable.protobokura"X
+ColorTagTableBase
+Id∑ (RId
+ColorTag˜ (	RColorTag
+ColorÀ (	RColor"¢
+ColorTagTableMgr9
+datas (2#.bokura.ColorTagTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.ColorTagTableBaseRvalue:8bproto3
+
+ComposeTable.protobokura"ß
+ComposeTableBase
+Id∑ (RId
+SystemIdÜ (RSystemId
+Numsä (RNums
+Name∑ (	RName5
+SuccessfulProbabilityÃ	 (RSuccessfulProbability
+ObtainIDØ (RObtainID
+	ObtainNumâ (R	ObtainNum
+
+ObtainName€ (	R
+ObtainName'
+ConsumableTipsÖ (RConsumableTips"ü
+ComposeTableMgr8
+datas (2".bokura.ComposeTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.ComposeTableBaseRvalue:8bproto3
+‰
+ConditionTable.protobokura"ì
+ConditionTableBase
+Type° (RType
+Param∑	 (	RParam
+IsLuaü (RIsLua
+Exampleä (	RExample
+
+RefreshNum‡
+ (	R
+RefreshNum"•
+ConditionTableMgr:
+datas (2$.bokura.ConditionTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.ConditionTableBaseRvalue:8bproto3
+Ó
+ConsumeTypeTable.protobokura"ï
+ConsumeTypeTableBase
+Id∑ (RId
+Note≈ (	RNote
+Invalidµ	 (RInvalid
+	TimeLimit∫ (R	TimeLimit
+	ExclusiveÆ
+ (R	Exclusive"´
+ConsumeTypeTableMgr<
+datas (2&.bokura.ConsumeTypeTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.ConsumeTypeTableBaseRvalue:8bproto3
+ê
+CookRecipeTable.protobokuratable_basic.proto"®
+CookRecipeTableBase
+Id∑ (RId*
+
+RecipeNameÍ (2	.mlstringR
+RecipeName/
+ConsumableId≤ (2
+.int_tableRConsumableId
+	BadDishIdƒ (R	BadDishId,
+BadDishName◊ (2	.mlstringRBadDishName+
+BadDishConditionÊ (RBadDishCondition)
+UnlockConditionˆ (RUnlockCondition"®
+CookRecipeTableMgr;
+datas (2%.bokura.CookRecipeTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.CookRecipeTableBaseRvalue:8bproto3
+€
+CounterTable.protobokura"í
+CounterTableBase
+Id∑ (RId
+Name∑ (	RName 
+TimeTableId8 (RTimeTableId
+
+RefreshNum‡
+ (R
+RefreshNum
+LimitÄ (RLimit"ü
+CounterTableMgr8
+datas (2".bokura.CounterTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.CounterTableBaseRvalue:8bproto3
+Ô
+CutsceneTable.protobokuratable_basic.proto"è
+CutsceneTableBase
+Id∑ (RId
+
+NameDesignÒ (	R
+NameDesign
+ResPath§ (	RResPath%
+ContentHidingÇ	 (RContentHiding+
+IsCutsceneEditor˜ (RIsCutsceneEditor
+CanSkipª (RCanSkip#
+ValidateSkip¥	 (RValidateSkip)
+	BlackMaskè (2
+.int_arrayR	BlackMask+
+
+AllowInputÄ (2
+.int_arrayR
+AllowInput)
+IsSavePlayStateÖ (RIsSavePlayState-
+CheckPlayKeyIndexµ (RCheckPlayKeyIndex7
+EndSyncActorType⁄	 (2
+.int_arrayREndSyncActorType3
+EndSyncActorIdÁ (2
+.int_arrayREndSyncActorId9
+EndSyncActorPos» (2.vector3_arrayREndSyncActorPosB
+EndSyncActorRotationÚ (2.number_arrayREndSyncActorRotation%
+CheckPlayType˛ (RCheckPlayType
+
+AudioStateÔ (	R
+AudioState#
+BindingSceneœ	 (RBindingScene&
+PlayerSyncType (RPlayerSyncType4
+PlayerSyncPos· (2.number_arrayRPlayerSyncPos/
+PlayerSyncRotationº (RPlayerSyncRotation"¢
+CutsceneTableMgr9
+datas (2#.bokura.CutsceneTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.CutsceneTableBaseRvalue:8bproto3
+˘
+CutsceneTextTable.protobokuratable_basic.proto"â
+CutsceneTextTableBase
+Id∑ (RId,
+SpeakerNameº (2	.mlstringRSpeakerName,
+TextContent‡ (2	.mlstringRTextContent+
+PlotCharactersIdÇ
+ (RPlotCharactersId'
+VoiceEventName⁄ (	RVoiceEventName-
+VoiceControlEvent˜	 (	RVoiceControlEvent"Æ
+CutsceneTextTableMgr=
+datas (2'.bokura.CutsceneTextTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.CutsceneTextTableBaseRvalue:8bproto3
+‹
+DamageAttrTable.protobokuratable_basic.proto"Ù
+DamageAttrTableBase
+Id∑ (RId
+Level‡ (RLevel
+Name∑ (	RName
+
+DamageType∆ (R
+DamageType
+TypeEnumΩ (RTypeEnum#
+DamageScripté (	RDamageScript3
+PVEDamageRadio‰ (2
+.int_arrayRPVEDamageRadio9
+PVEFixedParameter∂ (2
+.int_arrayRPVEFixedParameter!
+PVELoopTimeò (RPVELoopTime7
+PVEStunnedDamage¯ (2
+.int_arrayRPVEStunnedDamage1
+PVEExtinctionDamage∂ (RPVEExtinctionDamage5
+PartDamageRadioí (2
+.int_arrayRPartDamageRadio3
+AbnormalDamageí (2
+.int_tableRAbnormalDamage'
+DamageProperty˛	 (RDamageProperty'
+PartDamageType≈ (RPartDamageType2
+DamageWeightœ (2.number_arrayRDamageWeight
+TagsË (2
+.int_arrayRTags+
+BehitLightIsOpenÙ (RBehitLightIsOpen"®
+DamageAttrTableMgr;
+datas (2%.bokura.DamageAttrTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.DamageAttrTableBaseRvalue:8bproto3
+ÿ
+DayAndNightTable.protobokuratable_basic.proto"m
+DayAndNightTableBase
+Id∑ (RId
+	CycleTime˛ (R	CycleTime%
+Stage‰ (2.vector2_arrayRStage"´
+DayAndNightTableMgr<
+datas (2&.bokura.DayAndNightTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.DayAndNightTableBaseRvalue:8bproto3
+∫
+DialogueCameraTable.protobokuratable_basic.proto"¬
+DialogueCameraTableBase
+Id∑ (RId
+commentÜ (	Rcomment-
+TemplateIdsã (2
+.int_arrayRTemplateIds/
+AimTargetCharacterÓ (RAimTargetCharacter
+AimPoint∂ (	RAimPoint"¥
+DialogueCameraTableMgr?
+datas (2).bokura.DialogueCameraTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.DialogueCameraTableBaseRvalue:8bproto3
+®
+DummyEntityTable.protobokuratable_basic.proto"º	
+DummyEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+Shapeà	 (RShape,
+	ZoneParamº (2.number_arrayR	ZoneParam
+DataType™ (RDataType!
+ExportVoxel» (RExportVoxel
+	VoxelPath≤ (	R	VoxelPath)
+SpaceLayerIndexè (RSpaceLayerIndex
+
+OptionData’ (	R
+OptionData!
+ScaleEffect® (RScaleEffect
+EntMask… (REntMask'
+InsightVisible± (RInsightVisible%
+IsSoftAirWallﬂ (RIsSoftAirWall-
+IgnoreVisualLayer« (RIgnoreVisualLayer'
+LifeInfoú (2
+.int_arrayRLifeInfo%
+VisualLayerIdÛ (RVisualLayerId
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState"´
+DummyEntityTableMgr<
+datas (2&.bokura.DummyEntityTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.DummyEntityTableBaseRvalue:8bproto3
+ù
+DummyTable.protobokuratable_basic.proto"…
+DummyTableBase
+Id∑ (RId
+Name∑ (	RName
+SkillIdø (RSkillId
+	WalkSpeedŸ (R	WalkSpeed
+RunSpeedR (RRunSpeed'
+SkillIdsÿ (2
+.int_arrayRSkillIds+
+AITableReference„ (RAITableReference#
+IsInitiativeÎ (RIsInitiative
+IsFlying’ (RIsFlying!
+BirthEffect	 (	RBirthEffect
+
+DeadEffect⁄ (	R
+DeadEffect
+
+BirthAudio“ (	R
+BirthAudio
+	DeadAudioó (	R	DeadAudio
+TagsË (2
+.int_arrayRTags"ô
+DummyTableMgr6
+datas (2 .bokura.DummyTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.DummyTableBaseRvalue:8bproto3
+±
+DungeonsTable.protobokuratable_basic.proto"—
+
+DungeonsTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName$
+Contentè (2	.mlstringRContent
+
+FunctionID“ (R
+FunctionID
+PlayType« (RPlayType
+SceneIDÔ (RSceneID)
+	Condition‚ (2
+.int_tableR	Condition+
+
+LimitedNum¿ (2
+.int_arrayR
+LimitedNum-
+ItemConsumeµ (2
+.int_arrayRItemConsume1
+DungeonsLimitµ (2
+.int_arrayRDungeonsLimit
+KickTimeœ (RKickTime
+EndTime≠ (REndTime
+	MonsterGSô (R	MonsterGS-
+ShowResultHudTypeö (RShowResultHudType7
+ResultCurscenePos– (2.vector3RResultCurscenePos1
+ExploreConfigΩ (2
+.int_arrayRExploreConfig/
+ExploreAward˙
+ (2
+.int_tableRExploreAward
+	HideQuestõ (R	HideQuest1
+DungeonTargetÊ (2
+.int_tableRDungeonTarget3
+FirstPassAward˙ (2
+.int_arrayRFirstPassAward)
+	PassAwardó	 (2
+.int_arrayR	PassAward
+
+CountLimit∆	 (R
+CountLimit&
+FailText∫ (2	.mlstringRFailText+
+DisableTransportˆ (RDisableTransport)
+ActiveStateTime≠ (RActiveStateTime'
+ReadyStateTimeÒ (RReadyStateTime+
+PlayingStateTime¶ (RPlayingStateTime1
+SettlementStateTime· (RSettlementStateTime+
+ExitTransferType∏ (RExitTransferType!
+Affixú (2
+.int_arrayRAffix
+	AffixPoolÊ (R	AffixPool-
+AttrGrowRangeBuff´ (RAttrGrowRangeBuff5
+DungeonsAttrGrowRangeä (RDungeonsAttrGrowRange"¢
+DungeonsTableMgr9
+datas (2#.bokura.DungeonsTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.DungeonsTableBaseRvalue:8bproto3
+˜
+DungeonTitleTable.protobokuratable_basic.proto"á
+DungeonTitleTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName$
+Contentè (2	.mlstringRContent
+Weightå (RWeight"Æ
+DungeonTitleTableMgr=
+datas (2'.bokura.DungeonTitleTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.DungeonTitleTableBaseRvalue:8bproto3
+ä
+EffectLibraryTable.protobokuratable_basic.proto"ñ
+EffectLibraryTableBase
+Id∑ (RId
+Name∑ (	RName
+Path¨ (	RPath"
+TagsË (2.string_arrayRTags
+	thumbnailÎ (	R	thumbnail"±
+EffectLibraryTableMgr>
+datas (2(.bokura.EffectLibraryTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.EffectLibraryTableBaseRvalue:8bproto3
+Ÿ
+EffectShowDataTable.protobokuratable_basic.proto"·
+EffectShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId
+FxPathÙ (	RFxPath
+FxNameË
+ (	RFxName
+Attachè	 (	RAttach
+	EndAttachë
+ (	R	EndAttach 
+FadeoutTime, (RFadeoutTime
+ScaleÖ (2.vector3RScale!
+Rotateç (2.vector3RRotate!
+Offsetﬂ (2.vector3ROffset
+BindBoneá (RBindBone"
+BindPositionp (RBindPosition
+
+BreakClearÊ (R
+BreakClear!
+IsTargetPos£ (RIsTargetPos
+
+BindTarget  (R
+BindTarget"¥
+EffectShowDataTableMgr?
+datas (2).bokura.EffectShowDataTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.EffectShowDataTableBaseRvalue:8bproto3
+≤
+EffectTable.protobokura"n
+EffectTableBase
+Id∑ (RId
+Comment (	RComment
+Path¨ (	RPath
+PlayTime´
+ (RPlayTime"ú
+EffectTableMgr7
+datas (2!.bokura.EffectTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.EffectTableBaseRvalue:8bproto3
+ñ
+ElementalRestraintTable.protobokura"°
+ElementalRestraintTableBase
+Id∑ (RId
+
+PropertyID> (R
+PropertyID'
+DefenseGeneral© (RDefenseGeneral!
+DefenseFire¬ (RDefenseFire#
+DefenseWater˚ (RDefenseWater/
+DefenseElectricity’ (RDefenseElectricity!
+DefenseWood•
+ (RDefenseWood!
+DefenseWindÜ (RDefenseWind!
+DefenseRockÄ (RDefenseRock#
+DefenseLight“ (RDefenseLight!
+DefenseDark© (RDefenseDark"¿
+ElementalRestraintTableMgrC
+datas (2-.bokura.ElementalRestraintTableMgr.DatasEntryRdatas]
+
+DatasEntry
+key (Rkey9
+value (2#.bokura.ElementalRestraintTableBaseRvalue:8bproto3
+ø
+EmoClipsTable.protobokura"s
+EmoClipsTableBase
+Id∑ (RId
+SoureKey£ (	RSoureKey
+layerã (Rlayer
+Address› (	RAddress"¢
+EmoClipsTableMgr9
+datas (2#.bokura.EmoClipsTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.EmoClipsTableBaseRvalue:8bproto3
+¬
+EmoteTable.protobokuratable_basic.proto"Ó
+EmoteTableBase
+Id∑ (RId+
+
+FaceDataId« (2
+.int_arrayR
+FaceDataId
+	EmoteTypeú (R	EmoteType
+Type° (RType
+IsLoopm (RIsLoop
+IconÅ	 (	RIcon
+IsShow∂ (	RIsShow$
+EmoteÀ (2.string_arrayREmote"ô
+EmoteTableMgr6
+datas (2 .bokura.EmoteTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.EmoteTableBaseRvalue:8bproto3
+â
+EntityAttributeTable.protobokuratable_basic.proto"ç
+EntityAttributeTableBase
+Id∑ (RId
+Comment (	RComment
+SeasonÏ (RSeason
+
+EquipLevelÔ (R
+EquipLevel-
+EquipLevelVariateò (REquipLevelVariate
+MaxHp∑ (RMaxHp
+Attack§
+ (RAttack
+Defenseµ (RDefense%
+IgnoreDefense‰ (RIgnoreDefense+
+IgnoreDefensePCT‹ (RIgnoreDefensePCT!
+FireDefenseÜ (RFireDefense#
+WaterDefense’ (RWaterDefense!
+WoodDefense˚
+ (RWoodDefense/
+ElectricityDefense‹ (RElectricityDefense!
+WindDefense†	 (RWindDefense!
+RockDefenseÙ (RRockDefense#
+LightDefenseâ (RLightDefense!
+DarkDefenseÑ (RDarkDefense
+
+MaxStunnedÈ (R
+MaxStunned%
+MaxExtinctionç	 (RMaxExtinction
+
+CritResist…	 (R
+CritResist+
+
+MeterValueæ (2
+.int_tableR
+MeterValue"∑
+EntityAttributeTableMgr@
+datas (2*.bokura.EntityAttributeTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.EntityAttributeTableBaseRvalue:8bproto3
+ò
+EntityDynAttrCoeTable.protobokura",
+EntityDynAttrCoeTableBase
+Id∑ (RId"∫
+EntityDynAttrCoeTableMgrA
+datas (2+.bokura.EntityDynAttrCoeTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.EntityDynAttrCoeTableBaseRvalue:8bproto3
+∂
+!EntityDynAttrPeopleNumTable.protobokura"2
+EntityDynAttrPeopleNumTableBase
+Id∑ (RId"Ã
+EntityDynAttrPeopleNumTableMgrG
+datas (21.bokura.EntityDynAttrPeopleNumTableMgr.DatasEntryRdatasa
+
+DatasEntry
+key (Rkey=
+value (2'.bokura.EntityDynAttrPeopleNumTableBaseRvalue:8bproto3
+æ
+EntityObjectLimitTable.protobokura"Õ
+EntityObjectLimitTableBase
+Id∑ (RId)
+BaseObjectLimit“ (RBaseObjectLimit-
+SummonObjectLimitê (RSummonObjectLimit
+
+TimerLimit≤ (R
+TimerLimit#
+SaveVarLimit§ (RSaveVarLimit"Ω
+EntityObjectLimitTableMgrB
+datas (2,.bokura.EntityObjectLimitTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.EntityObjectLimitTableBaseRvalue:8bproto3
+ﬂ
+EntityStandardAttrTable.protobokuratable_basic.proto"◊
+EntityStandardAttrTableBase
+Id∑ (RId
+SeasonÏ (RSeason
+
+EquipLevelÔ (R
+EquipLevel!
+MaxHp∑ (2
+.int_tableRMaxHp#
+Attack§
+ (2
+.int_tableRAttack%
+BodyPartMaxHp‚ (RBodyPartMaxHp"¿
+EntityStandardAttrTableMgrC
+datas (2-.bokura.EntityStandardAttrTableMgr.DatasEntryRdatas]
+
+DatasEntry
+key (Rkey9
+value (2#.bokura.EntityStandardAttrTableBaseRvalue:8bproto3
+É
+EnvironmentResonanceTable.protobokuratable_basic.proto"Û
+EnvironmentResonanceTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Desc° (2	.mlstringRDesc
+PivotIdî
+ (RPivotId"
+Buttoná (2	.mlstringRButton!
+skillè (2
+.int_arrayRskill
+position« (Rposition
+SceneTagÉ (RSceneTag
+TimeŸ (RTime3
+TriggerBuffIdsı
+ (2
+.int_arrayRTriggerBuffIds
+SlotTypeÖ (RSlotType"∆
+EnvironmentResonanceTableMgrE
+datas (2/.bokura.EnvironmentResonanceTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.EnvironmentResonanceTableBaseRvalue:8bproto3
+Ê
+EquipAttrLibTable.protobokuratable_basic.proto"ˆ
+EquipAttrLibTableBase
+Id∑ (RId
+	AttrLibID≥ (R	AttrLibID5
+EquipLevelRange≤ (2
+.int_arrayREquipLevelRange)
+	EquipPartÃ (2
+.int_arrayR	EquipPart
+Attr˘ (2
+.int_arrayRAttr*
+ValueCal› (2.number_tableRValueCal"Æ
+EquipAttrLibTableMgr=
+datas (2'.bokura.EquipAttrLibTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.EquipAttrLibTableBaseRvalue:8bproto3
+î
+EquipEffectCostTable.protobokuratable_basic.proto"ò
+EquipEffectCostTableBase
+
+EffectTypeè (R
+EffectType2
+EffectTypeNameè (2	.mlstringREffectTypeName'
+ItemCostƒ (2
+.int_tableRItemCost"∑
+EquipEffectCostTableMgr@
+datas (2*.bokura.EquipEffectCostTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.EquipEffectCostTableBaseRvalue:8bproto3
+ª
+EquipEffectDetileTable.protobokuratable_basic.proto"∑
+EquipEffectDetileTableBase
+Id∑ (RId!
+EffectLibID† (REffectLibID
+LibTypeå (RLibType)
+	EquipPartÃ (2
+.int_arrayR	EquipPart
+
+EffectTypeè (R
+EffectType"
+EffectConfign (REffectConfig+
+
+ValueRangeŸ (2
+.int_tableR
+ValueRange-
+RandomRange‘	 (2
+.int_tableRRandomRange"Ω
+EquipEffectDetileTableMgrB
+datas (2,.bokura.EquipEffectDetileTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.EquipEffectDetileTableBaseRvalue:8bproto3
+ô
+EquipEffectLibTable.protobokuratable_basic.proto"°
+EquipEffectLibTableBase
+Id∑ (RId!
+EffectLibID† (REffectLibID+
+
+EffectTypeè (2
+.int_arrayR
+EffectType%
+Element£ (2
+.int_arrayRElement"¥
+EquipEffectLibTableMgr?
+datas (2).bokura.EquipEffectLibTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.EquipEffectLibTableBaseRvalue:8bproto3
+’
+EquipTable.protobokuratable_basic.proto"Å
+EquipTableBase
+Id∑ (RId
+Model• (	RModel
+SuitIDÅ (RSuitID
+
+SuitPartIDõ (R
+SuitPartID
+	EquipPartÃ (R	EquipPart
+	EquipType≤ (R	EquipType%
+TypeAttrLibID∑ (RTypeAttrLibID+
+StyleEffectLibIDø (RStyleEffectLibID$
+MaxDurability) (RMaxDurability5
+DurabilityInvalidType≤	 (RDurabilityInvalidType
+
+FashionMIdõ (R
+FashionMId
+
+FashionFIdØ (R
+FashionFId3
+BonusGrowTimesÛ (2
+.int_tableRBonusGrowTimes'
+BasicGrowRangeö
+ (RBasicGrowRange"ô
+EquipTableMgr6
+datas (2 .bokura.EquipTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.EquipTableBaseRvalue:8bproto3
+ﬂ
+ErrcodeTable.protobokuratable_basic.proto"É
+ErrcodeTableBase
+Id∑ (RId
+Errcodeﬂ (	RErrcode$
+Contentè (2	.mlstringRContent
+	MessageIdà (R	MessageId"ü
+ErrcodeTableMgr8
+datas (2".bokura.ErrcodeTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.ErrcodeTableBaseRvalue:8bproto3
+à
+EventShowDataTable.protobokuratable_basic.proto"î
+EventShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId
+	EventTypeÀ
+ (R	EventType,
+	ParamListû
+ (2.string_tableR	ParamList"±
+EventShowDataTableMgr>
+datas (2(.bokura.EventShowDataTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.EventShowDataTableBaseRvalue:8bproto3
+⁄
+ExchangeItemTable.protobokuratable_basic.proto"Í
+ExchangeItemTableBase
+Id∑ (RId
+
+ExchangeID¬ (R
+ExchangeID
+	GetItemId€ (R	GetItemId
+GetNumô (RGetNum
+Name∑ (	RName/
+ConsumableIDò (2
+.int_tableRConsumableID+
+UnlockConditionsÂ (	RUnlockConditions!
+RefreshType’ (RRefreshType
+
+RefreshNum‡
+ (R
+RefreshNum
+SexLimitö (RSexLimit
+SortÎ (RSort"Æ
+ExchangeItemTableMgr=
+datas (2'.bokura.ExchangeItemTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ExchangeItemTableBaseRvalue:8bproto3
+§
+ExchangeTable.protobokuratable_basic.proto"ƒ
+ExchangeTableBase
+Id∑ (RId&
+ShopName„
+ (2	.mlstringRShopName
+SystemIdÜ (RSystemId
+Npc÷ (	RNpc
+ShowTypeÎ (RShowType)
+CurrencyDisplay˛ (	RCurrencyDisplay"¢
+ExchangeTableMgr9
+datas (2#.bokura.ExchangeTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.ExchangeTableBaseRvalue:8bproto3
+ˆ
+ExploreTable.protobokuratable_basic.proto"ö
+ExploreTableBase
+Id∑ (RId
+Type° (RType
+TargetIDÿ (RTargetID!
+ExplorationÂ (RExploration 
+Param∑	 (2	.mlstringRParam"ü
+ExploreTableMgr8
+datas (2".bokura.ExploreTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.ExploreTableBaseRvalue:8bproto3
+†
+FaceOptionTable.protobokuratable_basic.proto"∏
+FaceOptionTableBase
+Id∑ (RId
+OptionÖ (ROption
+
+ColorGroupD (R
+ColorGroup
+Random‰ (RRandom+
+
+RandomTypeø (2
+.int_tableR
+RandomType
+Tab‹ (RTab"®
+FaceOptionTableMgr;
+datas (2%.bokura.FaceOptionTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.FaceOptionTableBaseRvalue:8bproto3
+ƒ
+FaceStickerTable.protobokuratable_basic.proto"ÿ
+FaceStickerTableBase
+Id∑ (RId/
+DefaultColorã (2
+.int_arrayRDefaultColor
+ColorIdÒ (RColorId
+Back˚ (RBack
+Moveï	 (RMove
+Rotateç (RRotate
+ScaleÖ (RScale-
+DefaultScaleô (2.vector3RDefaultScale3
+DefaultPosition´ (2.vector2RDefaultPosition%
+DefaultRotateÜ (RDefaultRotate"´
+FaceStickerTableMgr<
+datas (2&.bokura.FaceStickerTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.FaceStickerTableBaseRvalue:8bproto3
+≤
+FaceTable.protobokuratable_basic.proto"‚
+FaceTableBase
+Id∑ (RId
+Type° (RType
+Sex¶ (RSex!
+Model• (2
+.int_arrayRModel
+SortId≤ (RSortId
+IconÅ	 (	RIcon
+Resource¬ (	RResource#
+UnlockÇ (2
+.int_tableRUnlock
+CreateË (RCreate
+IsHideª (RIsHide
+Weightå (RWeight!
+FaceShapeIdŸ (RFaceShapeId
+Number≤ (RNumber"ñ
+FaceTableMgr5
+datas (2.bokura.FaceTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.FaceTableBaseRvalue:8bproto3
+Á
+FacialExpressionTable.protobokura"{
+FacialExpressionTableBase
+Id∑ (RId
+
+FacialName° (	R
+FacialName
+RemarkÔ
+ (	RRemark
+Path¨ (	RPath"∫
+FacialExpressionTableMgrA
+datas (2+.bokura.FacialExpressionTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.FacialExpressionTableBaseRvalue:8bproto3
+ø
+FacialLibraryTable.protobokura"ﬁ
+FacialLibraryTableBase
+Id∑ (RId
+
+FacialName° (	R
+FacialName
+RemarkÔ
+ (	RRemark
+FaceClipå (	RFaceClip
+	MouthClip« (	R	MouthClip
+EyeClipº (	REyeClip
+BrowClip˜ (	RBrowClip
+NoseClip¶ (	RNoseClip
+DFM_Brow« (	RDFMBrow
+DFM_Eye„ (	RDFMEye
+ADJ_Brow( (	RADJBrow
+ADJ_Eyeï (	RADJEye
+ADJ_Nose◊ (	RADJNose
+	ADJ_Mouth› (	RADJMouth
+ADJ_Faceû (	RADJFace'
+PreviewPicture’ (	RPreviewPicture"±
+FacialLibraryTableMgr>
+datas (2(.bokura.FacialLibraryTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.FacialLibraryTableBaseRvalue:8bproto3
+Ω
+FantasyHoleTable.protobokuratable_basic.proto"—
+FantasyHoleTableBase
+Id∑ (RId
+desé (	Rdes
+HoleIconò (	RHoleIcon#
+UnlockÇ (2
+.int_tableRUnlock1
+UnlockConsumeÌ (2
+.int_tableRUnlockConsume 
+Fantasytype$ (RFantasytype"´
+FantasyHoleTableMgr<
+datas (2&.bokura.FantasyHoleTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.FantasyHoleTableBaseRvalue:8bproto3
+—
+FantasySolutionTable.protobokuratable_basic.proto"’
+FantasySolutionTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Desä (2	.mlstringRDes)
+RecommendedType‹	 (RRecommendedType?
+RecommendFantasyListÖ (2
+.int_arrayRRecommendFantasyList"∑
+FantasySolutionTableMgr@
+datas (2*.bokura.FantasySolutionTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.FantasySolutionTableBaseRvalue:8bproto3
+≠
+FantasyTable.protobokuratable_basic.proto"—
+FantasyTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName!
+FantasyType˝ (RFantasyType
+
+FantasyArt‰ (	R
+FantasyArt!
+FantasyTips¥ (	RFantasyTips1
+ResTemplateId¯
+ (2
+.int_tableRResTemplateId2
+BuffValueKeyú (2.string_tableRBuffValueKey%
+BuffParò (2
+.int_tableRBuffPar
+IsOnlyØ (RIsOnly"ü
+FantasyTableMgr8
+datas (2".bokura.FantasyTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.FantasyTableBaseRvalue:8bproto3
+ˇ
+FantasyTypeTable.protobokuratable_basic.proto"ì
+FantasyTypeTableBase
+Id∑ (RId
+Desä (	RDes
+Name∑ (2	.mlstringRName
+TypeTips— (	RTypeTips
+TypeShow4 (	RTypeShow"´
+FantasyTypeTableMgr<
+datas (2&.bokura.FantasyTypeTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.FantasyTypeTableBaseRvalue:8bproto3
+î
+FashionTable.protobokuratable_basic.proto"∏
+FashionTableBase
+Id∑ (RId
+Type° (RType
+SortID¯ (RSortID
+Model• (	RModel&
+Model2è (2.string_tableRModel2
+ModelId´ (	RModelId!
+FashionTypeç (RFashionType'
+HidePart◊ (2
+.int_arrayRHidePart#
+HairIdä (2
+.int_arrayRHairId/
+DefaultColorã (2
+.int_tableRDefaultColor)
+	ColorPartõ (2
+.int_arrayR	ColorPart#
+ColorGroupId√ (RColorGroupId
+IsHideª (RIsHide
+	ArmLengthó (R	ArmLength
+ArmWidthÔ	 (RArmWidth!
+WaistLengthù (RWaistLength
+
+WaistWidth» (R
+WaistWidth
+	LegLengthö (R	LegLength
+LegWidth∆ (RLegWidth
+
+SwitchName„ (	R
+SwitchName#
+HeadwearTypeê (RHeadwearType"ü
+FashionTableMgr8
+datas (2".bokura.FashionTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.FashionTableBaseRvalue:8bproto3
+¶
+FieldTable.protobokuratable_basic.proto"“
+FieldTableBase
+Id∑ (RId
+Name∑ (	RName
+SkillIdø (RSkillId
+SizeÔ (2.vector2RSize
+ModelId´ (RModelId
+MinBodyù (RMinBody!
+AttributeId° (RAttributeId 
+BeHitEffect (	RBeHitEffect!
+BirthEffect	 (	RBirthEffect!
+DeathEffectﬂ (	RDeathEffect
+TagsË (2
+.int_arrayRTags"ô
+FieldTableMgr6
+datas (2 .bokura.FieldTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.FieldTableBaseRvalue:8bproto3
+æ
+FightAttrTable.protobokuratable_basic.proto"⁄
+FightAttrTableBase
+Id∑ (RId
+EnumNameπ (	REnumName
+Name∑ (	RName
+Type° (	RType
+IsClassö (RIsClass
+IsSyncMe® (RIsSyncMe
+	IsSyncAoip (R	IsSyncAoi'
+AttrLowerLimitº (RAttrLowerLimit'
+AttrUpperLimitˆ
+ (RAttrUpperLimit
+Level‡ (RLevel
+	AttrFinalÉ (R	AttrFinal
+	AttrTotalô (R	AttrTotal
+AttrAdd◊ (RAttrAdd
+	AttrExAddñ (R	AttrExAdd
+AttrPer€ (RAttrPer
+	AttrExPerë (R	AttrExPer 
+AttrNumTypei (RAttrNumType.
+OfficialNameü (2	.mlstringROfficialName,
+TipTemplateÁ (2	.mlstringRTipTemplate$
+AttrDesá
+ (2	.mlstringRAttrDes)
+BuffShowAttrHUD≠ (RBuffShowAttrHUD*
+AttrIconã
+ (2.string_arrayRAttrIcon"•
+FightAttrTableMgr:
+datas (2$.bokura.FightAttrTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.FightAttrTableBaseRvalue:8bproto3
+–
+FightResAttrBaseTable.protobokuratable_basic.proto"Q
+FightResAttrBaseTableBase
+Id∑ (RId#
+ResIDsú (2
+.int_arrayRResIDs"∫
+FightResAttrBaseTableMgrA
+datas (2+.bokura.FightResAttrBaseTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.FightResAttrBaseTableBaseRvalue:8bproto3
+¥
+FightResAttrTable.protobokura"X
+FightResAttrTableBase
+Id∑ (RId
+Name∑ (	RName
+CanCost≤ (RCanCost"Æ
+FightResAttrTableMgr=
+datas (2'.bokura.FightResAttrTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.FightResAttrTableBaseRvalue:8bproto3
+Ï
+FightResAttrTemplateTable.protobokuratable_basic.proto"‹
+FightResAttrTemplateTableBase
+Id∑ (RId#
+ResIDsú (2
+.int_arrayRResIDs
+desc„ (	Rdesc)
+	IntParams· (2
+.int_arrayR	IntParams+
+
+IntParams1— (2
+.int_tableR
+IntParams1*
+
+IntParams2l (2
+.int_tableR
+IntParams2
+UIName’ (	RUIName%
+BindElementalì (RBindElemental-
+BindSkillId‹ (2
+.int_arrayRBindSkillId)
+InnerRingFactorÌ (RInnerRingFactor%
+BattleResIconÙ (	RBattleResIcon+
+
+InnerColor˜ (2
+.int_arrayR
+InnerColor"∆
+FightResAttrTemplateTableMgrE
+datas (2/.bokura.FightResAttrTemplateTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.FightResAttrTemplateTableBaseRvalue:8bproto3
+å
+FollowTable.protobokuratable_basic.proto"¥
+FollowTableBase
+Id∑ (RId-
+
+ParaOffsetR (2.number_arrayR
+ParaOffset4
+ParaScaDoubleÇ (2.number_arrayRParaScaDouble0
+ParaScaBaseˇ (2.number_arrayRParaScaBase.
+
+ParaPreDisˇ (2.number_arrayR
+ParaPreDis3
+ParaPreDoubleb (2.number_arrayRParaPreDouble1
+ParaSPreBasei (2.number_arrayRParaSPreBase-
+
+ParaTimeTop (2.number_arrayR
+ParaTimeTo2
+ParaTimeBackÔ (2.number_arrayRParaTimeBack"ú
+FollowTableMgr7
+datas (2!.bokura.FollowTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.FollowTableBaseRvalue:8bproto3
+ﬂ
+FriendshipLevel.protobokuratable_basic.proto"˜
+FriendshipLevelBase
+Level‡ (RLevel
+Exp  (RExp#
+IsAwardLevelì	 (RIsAwardLevel$
+Contentè (2	.mlstringRContent'
+FunctionUnlock∞
+ (	RFunctionUnlock'
+RewardID‘ (2
+.int_tableRRewardID
+AwardID‰ (RAwardID"®
+FriendshipLevelMgr;
+datas (2%.bokura.FriendshipLevelMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.FriendshipLevelBaseRvalue:8bproto3
+©
+FriendshipTotalValue.protobokuratable_basic.proto"≠
+FriendshipTotalValueBase
+Level‡ (RLevel
+Exp  (RExp#
+IsAwardLevelì	 (RIsAwardLevel'
+RewardID‘ (2
+.int_tableRRewardID
+AwardID‰ (RAwardID"∑
+FriendshipTotalValueMgr@
+datas (2*.bokura.FriendshipTotalValueMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.FriendshipTotalValueBaseRvalue:8bproto3
+≤
+FriendshipValueGetEvents.protobokuratable_basic.proto"¶
+FriendshipValueGetEventsBase
+Id∑ (RId3
+EventParameterª (2
+.int_tableREventParameter
+	OnceValue˙ (R	OnceValue!
+DayMaxValue” (RDayMaxValue"√
+FriendshipValueGetEventsMgrD
+datas (2..bokura.FriendshipValueGetEventsMgr.DatasEntryRdatas^
+
+DatasEntry
+key (Rkey:
+value (2$.bokura.FriendshipValueGetEventsBaseRvalue:8bproto3
+¨
+FunctionSearchTable.protobokuratable_basic.proto"¥
+FunctionSearchTableBase
+Id∑ (RId
+SortÎ (RSort%
+QuickJumpType˙ (RQuickJumpType3
+QuickJumpParam— (2
+.int_arrayRQuickJumpParam
+IsHideª (RIsHide"¥
+FunctionSearchTableMgr?
+datas (2).bokura.FunctionSearchTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.FunctionSearchTableBaseRvalue:8bproto3
+Ò
+FunctionTable.protobokuratable_basic.proto"ë
+FunctionTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Note≈ (	RNote
+Atlas¶ (	RAtlas
+
+DialogIconó (	R
+DialogIcon
+IconÅ	 (	RIcon4
+FunctionOrderª (2.string_arrayRFunctionOrder
+ParentId—
+ (RParentId
+Level‡ (RLevel
+	RoleLevel∑ (R	RoleLevel
+QuestIdÍ (RQuestId-
+QuestStepId· (2
+.int_arrayRQuestStepId
+TimerIdæ (RTimerId
+OnOff¥ (ROnOff
+Previewœ (RPreview,
+PreviewText∫ (2	.mlstringRPreviewText
+OpenTipsˇ (ROpenTips"¢
+FunctionTableMgr9
+datas (2#.bokura.FunctionTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.FunctionTableBaseRvalue:8bproto3
+’
+GlobalParkourTable.protobokuratable_basic.proto"b
+GlobalParkourTableBase
+Index¯
+ (RIndex
+Id∑ (	RId 
+ValueË (2	.mlstringRValue"±
+GlobalParkourTableMgr>
+datas (2(.bokura.GlobalParkourTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.GlobalParkourTableBaseRvalue:8bproto3
+≤
+GlobalTable.protobokuratable_basic.proto"[
+GlobalTableBase
+Index¯
+ (RIndex
+Id∑ (	RId 
+ValueË (2	.mlstringRValue"ú
+GlobalTableMgr7
+datas (2!.bokura.GlobalTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.GlobalTableBaseRvalue:8bproto3
+Â
+GlobalWorldEventTable.protobokuratable_basic.proto"f
+GlobalWorldEventTableBase
+Index¯
+ (RIndex
+Id∑ (	RId!
+ValueË (2
+.int_arrayRValue"∫
+GlobalWorldEventTableMgrA
+datas (2+.bokura.GlobalWorldEventTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.GlobalWorldEventTableBaseRvalue:8bproto3
+Ä
+GMTable.protobokuratable_basic.proto"∏
+GMTableBase
+Id∑ (RId
+GMGroup⁄ (RGMGroup
+Type° (RType
+CommandÓ (	RCommand>
+ParameterOrContentú (2.string_arrayRParameterOrContent<
+OptionalParameter©
+ (2.string_arrayROptionalParameter6
+ParameterCheckÿ (2.string_arrayRParameterCheck*
+
+ButtonShowÆ (2	.mlstringR
+ButtonShowL
+CommandOrParameterRemark†	 (2.mlstring_arrayRCommandOrParameterRemark
+	AuToCloseÇ (R	AuToClose"ê
+
+GMTableMgr3
+datas (2.bokura.GMTableMgr.DatasEntryRdatasM
+
+DatasEntry
+key (Rkey)
+value (2.bokura.GMTableBaseRvalue:8bproto3
+“
+GuideTable.protobokuratable_basic.proto"˛
+GuideTableBase
+Id∑ (RId
+Priority∞ (RPriority
+
+GuideGroupÍ (R
+GuideGroup9
+ShowConditionType’ (2
+.int_arrayRShowConditionType/
+ShowConditionValueÌ
+ (	RShowConditionValue)
+CheckCompletion˝ (RCheckCompletion2
+TriggerConditionType (	RTriggerConditionType5
+TriggerConditionValueØ (	RTriggerConditionValue9
+CompletionConditionType≥ (	RCompletionConditionType;
+CompletionConditionValueﬁ (	RCompletionConditionValue+
+AutoCompleteTimeù (RAutoCompleteTime%
+IsShowUIFrameè	 (RIsShowUIFrame*
+
+TextAroundì (2	.mlstringR
+TextAround9
+TextShowDirectionÙ (2
+.int_arrayRTextShowDirection*
+
+TextMiddleé (2	.mlstringR
+TextMiddle+
+
+KeyboardIdˆ (2
+.int_arrayR
+KeyboardId
+UIView˛ (	RUIView
+IsBlack≈ (RIsBlack-
+ShowHelplibraryId– (RShowHelplibraryId,
+	DynamicUI‰ (2.string_arrayR	DynamicUI"ô
+GuideTableMgr6
+datas (2 .bokura.GuideTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.GuideTableBaseRvalue:8bproto3
+Ä
+HelpLibraryTable.protobokuratable_basic.proto"î
+HelpLibraryTableBase
+sortId¥ (RsortId
+Id∑ (RId
+Type° (RType
+	TypeGroup˜ (R	TypeGroup(
+	MainTitleÑ (2	.mlstringR	MainTitle
+	HelpGroup¨ (R	HelpGroup(
+	GroupName≈ (2	.mlstringR	GroupName 
+Title∑ (2	.mlstringRTitle*
+Contentè (2.mlstring_arrayRContent 
+Res˚	 (2.string_arrayRRes
+Sequenceø (RSequence#
+DurationTime» (RDurationTime
+	EventTypeÀ
+ (R	EventType
+Param∑	 (	RParam"
+Buttoná (2	.mlstringRButton
+
+FunctionIdï (R
+FunctionId"´
+HelpLibraryTableMgr<
+datas (2&.bokura.HelpLibraryTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.HelpLibraryTableBaseRvalue:8bproto3
+ê
+HousingItems.protobokuratable_basic.proto"¥
+HousingItemsBase
+Id∑ (RId
+SortId≤ (RSortId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon
+Type° (RType
+Quality© (RQuality
+Res˚	 (	RRes"ü
+HousingItemsMgr8
+datas (2".bokura.HousingItemsMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.HousingItemsBaseRvalue:8bproto3
+∑
+HousingItemsType.protobokura"_
+HousingItemsTypeBase
+Id∑ (RId
+TypeName· (RTypeName
+GroupIdƒ (RGroupId"´
+HousingItemsTypeMgr<
+datas (2&.bokura.HousingItemsTypeMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.HousingItemsTypeBaseRvalue:8bproto3
+∑
+HousingItemsTypeGroup.protobokura"K
+HousingItemsTypeGroupBase
+Id∑ (RId
+	GroupName≈ (R	GroupName"∫
+HousingItemsTypeGroupMgrA
+datas (2+.bokura.HousingItemsTypeGroupMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.HousingItemsTypeGroupBaseRvalue:8bproto3
+ß
+IgnoreTable.protobokuratable_basic.proto"P
+IgnoreTableBase
+Id∑ (RId,
+FunctionIds (2
+.int_arrayRFunctionIds"ú
+IgnoreTableMgr7
+datas (2!.bokura.IgnoreTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.IgnoreTableBaseRvalue:8bproto3
+¬
+InferenceStepTable.protobokuratable_basic.proto"Œ
+InferenceStepTableBase
+Id∑ (RId&
+Question© (2	.mlstringRQuestion#
+Answer∑ (2
+.int_arrayRAnswer2
+QuestionBubble± (2	.mlstringRQuestionBubble3
+QuestionBubbleAction◊ (RQuestionBubbleAction2
+WrongBubbleÄ (2.mlstring_arrayRWrongBubble9
+WrongBubbleActionÍ (2
+.int_arrayRWrongBubbleAction"±
+InferenceStepTableMgr>
+datas (2(.bokura.InferenceStepTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.InferenceStepTableBaseRvalue:8bproto3
+Ü
+InteractBtnTable.protobokuratable_basic.proto"ö
+InteractBtnTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconPathı (	RIconPath4
+FunctionOrderª (2.string_arrayRFunctionOrder"´
+InteractBtnTableMgr<
+datas (2&.bokura.InteractBtnTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.InteractBtnTableBaseRvalue:8bproto3
+…
+InteractiveTable.protobokuratable_basic.proto"›
+InteractiveTableBase
+Id∑ (RId!
+TriggerMode⁄ (RTriggerMode#
+TriggerBtnId‚ (RTriggerBtnId!
+TriggerTypeÊ (RTriggerType2
+TriggerRangeË (2.number_arrayRTriggerRange#
+TriggerAngle‰ (RTriggerAngle7
+TriggerCondition≠ (2
+.int_tableRTriggerCondition
+IsMoreÍ	 (RIsMore!
+TriggerTime€ (RTriggerTime$
+InsightusableG (RInsightusable'
+ModelInvisibleá (RModelInvisible)
+	Condition‚ (2
+.int_tableR	Condition
+ActionÄ
+ (	RAction0
+ActionParam˝ (2.string_arrayRActionParam
+SortId≤ (RSortId
+	TipsGroupÌ (R	TipsGroup"´
+InteractiveTableMgr<
+datas (2&.bokura.InteractiveTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.InteractiveTableBaseRvalue:8bproto3
+∑
+InvestigationClueTable.protobokuratable_basic.proto"≥
+InvestigationClueTableBase
+Id∑ (RId
+sort∂ (Rsort5
+UnlockConditionˆ (2
+.int_tableRUnlockCondition
+Clue˚ (2	.mlstringRClue(
+Answer∑ (2.mlstring_arrayRAnswer
+Tips†	 (2	.mlstringRTips.
+	TapBubbleë (2.mlstring_arrayR	TapBubble5
+TapBubbleActionπ (2
+.int_arrayRTapBubbleAction2
+UnlockedBubbleÉ (2	.mlstringRUnlockedBubble3
+UnlockedBubbleActionÇ (RUnlockedBubbleAction"Ω
+InvestigationClueTableMgrB
+datas (2,.bokura.InvestigationClueTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.InvestigationClueTableBaseRvalue:8bproto3
+≥
+InvestigationsTable.protobokuratable_basic.proto"ª
+InvestigationsTableBase
+Id∑ (RId:
+InvestigationThemeä (2	.mlstringRInvestigationTheme5
+UnlockConditionˆ (2
+.int_tableRUnlockCondition9
+InvestigationStepÁ
+ (2
+.int_arrayRInvestigationStep?
+CompletionConditions≤ (2
+.int_tableRCompletionConditions8
+ThemeIntroductionç (2	.mlstringRThemeIntroduction*
+
+IockedTips¿ (2	.mlstringR
+IockedTips
+ThemePicó
+ (	RThemePic
+	GuaranteeÉ	 (R	Guarantee"¥
+InvestigationsTableMgr?
+datas (2).bokura.InvestigationsTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.InvestigationsTableBaseRvalue:8bproto3
+Ÿ
+InvestigationStepTable.protobokuratable_basic.proto"’
+InvestigationStepTableBase
+Id∑ (RId
+Clue˚ (2
+.int_arrayRClue1
+InferenceStepÕ (2
+.int_arrayRInferenceStep*
+
+ConclusionÔ (2	.mlstringR
+Conclusion2
+ConclusionTipsü (2	.mlstringRConclusionTips6
+ConclusionBubbleπ (2	.mlstringRConclusionBubble+
+ConclusionActionÙ (RConclusionAction4
+IockedBubble¸ (2.mlstring_arrayRIockedBubble;
+IockedBubbleAction˙ (2
+.int_arrayRIockedBubbleAction4
+ReviewBubbleÏ (2.mlstring_arrayRReviewBubble;
+ReviewBubbleActionõ (2
+.int_arrayRReviewBubbleAction'
+QuickReasoning˙ (RQuickReasoning"Ω
+InvestigationStepTableMgrB
+datas (2,.bokura.InvestigationStepTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.InvestigationStepTableBaseRvalue:8bproto3
+œ
+ItemFunctionTable.protobokuratable_basic.proto"ﬂ
+ItemFunctionTableBase
+Id∑ (RId
+Name∑ (	RName
+Type° (RType,
+	Parameter˝ (2.string_arrayR	Parameter"
+Buttoná (2	.mlstringRButton*
+UseLimitâ (2.string_arrayRUseLimit
+	Reconfirm” (R	Reconfirm
+Targetº
+ (RTarget
+	AutoApplyˇ (R	AutoApply
+UseCDÇ
+ (RUseCD'
+PublicCD—	 (2
+.int_arrayRPublicCD
+Effect⁄ (	REffect!
+SoundEffect˘ (	RSoundEffect
+CanQuickÈ (RCanQuick
+	ItemBatch˙ (R	ItemBatch"Æ
+ItemFunctionTableMgr=
+datas (2'.bokura.ItemFunctionTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ItemFunctionTableBaseRvalue:8bproto3
+Í
+ItemPackageTable.protobokuratable_basic.proto"˛
+ItemPackageTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon
+Capacity≈ (RCapacity
+Show∑ (RShow,
+ClassifyÍ (2.mlstring_tableRClassify
+ConsumeÆ (	RConsume%
+CapacityExtraÊ (RCapacityExtra"´
+ItemPackageTableMgr<
+datas (2&.bokura.ItemPackageTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.ItemPackageTableBaseRvalue:8bproto3
+
+ItemSearchTable.protobokuratable_basic.proto"à
+ItemSearchTableBase
+Id∑ (RId+
+
+FunctionIdï (2
+.int_tableR
+FunctionId3
+HideFunctionIdÖ (2
+.int_tableRHideFunctionId"®
+ItemSearchTableMgr;
+datas (2%.bokura.ItemSearchTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ItemSearchTableBaseRvalue:8bproto3
+Î
+ItemTable.protobokuratable_basic.proto"õ
+ItemTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon
+Type° (RType
+GroupIdƒ (RGroupId
+Quality© (RQuality
+SortID¯ (RSortID+
+DescriptionK (2	.mlstringRDescription
+SexLimitö (RSexLimit
+Overlap£ (ROverlap
+TimeType•
+ (RTimeType
+	TimeLimit∫ (	R	TimeLimit
+	DropModel‹ (R	DropModel%
+CorrelationIdç (RCorrelationId+
+IsSpecialDisplay§ (RIsSpecialDisplay/
+SpecialDisplayType∑	 (RSpecialDisplayType
+QuickUse’ (RQuickUse"ñ
+ItemTableMgr5
+datas (2.bokura.ItemTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.ItemTableBaseRvalue:8bproto3
+Ñ
+ItemTypeSearchTable.protobokuratable_basic.proto"å
+ItemTypeSearchTableBase
+Id∑ (RId+
+
+FunctionIdï (2
+.int_tableR
+FunctionId3
+HideFunctionIdÖ (2
+.int_tableRHideFunctionId"¥
+ItemTypeSearchTableMgr?
+datas (2).bokura.ItemTypeSearchTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.ItemTypeSearchTableBaseRvalue:8bproto3
+î
+ItemTypeTable.protobokuratable_basic.proto"¥
+ItemTypeTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Package‡ (RPackage
+ClassifyÍ (RClassify
+SortId≤ (RSortId
+	PreviewId∂ (R	PreviewId"¢
+ItemTypeTableMgr9
+datas (2#.bokura.ItemTypeTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.ItemTypeTableBaseRvalue:8bproto3
+Ë
+JumpTable.protobokuratable_basic.proto"ò
+JumpTableBase
+Id∑ (RId#
+DefaultSpeedù (RDefaultSpeed#
+OperateSpeed‚ (ROperateSpeed5
+ReOperateDefaultSpeed© (RReOperateDefaultSpeed@
+WindDragCoefficient∆ (2.number_arrayRWindDragCoefficient'
+AmendedGravityê (RAmendedGravity*
+JumpTimeÀ (2.number_arrayRJumpTime0
+PrepareTime≤ (2.number_arrayRPrepareTime4
+JumpBreakTimeÒ (2.number_arrayRJumpBreakTime
+MovePathä (	RMovePath:
+ShaderBrightness∆ (2.number_arrayRShaderBrightness2
+ShaderLengthµ (2.number_arrayRShaderLength3
+ShaderIsBreath¨ (2
+.int_arrayRShaderIsBreath4
+EnergyConsume· (2.number_arrayREnergyConsume"ñ
+JumpTableMgr5
+datas (2.bokura.JumpTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.JumpTableBaseRvalue:8bproto3
+ú
+LipAnimationTable.protobokura"ø
+LipAnimationTableBase
+Id∑ (RId
+Comment (	RComment
+VowelAì (	RVowelA
+VowelOœ (	RVowelO
+VowelE∂ (	RVowelE
+VowelIπ (	RVowelI
+VowelUÀ (	RVowelU"Æ
+LipAnimationTableMgr=
+datas (2'.bokura.LipAnimationTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.LipAnimationTableBaseRvalue:8bproto3
+å
+LocalShowRule.protobokura"ø
+LocalShowRuleBase
+Id∑ (RId
+LangAreaˇ (	RLangArea
+YMD•
+ (	RYMD
+YMDToYMD© (	RYMDToYMD
+MD˝ (	RMD
+MDToMDÇ (	RMDToMD
+HMS⁄ (	RHMS
+HM∂ (	RHM"¢
+LocalShowRuleMgr9
+datas (2#.bokura.LocalShowRuleMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.LocalShowRuleBaseRvalue:8bproto3
+õ
+MagicConfigTable.protobokura"¬
+MagicConfigTableBase
+Id∑ (RId
+Name∑ (	RName
+Type° (RType
+RoleIDd (RRoleID
+WeaponIDû (RWeaponID
+	ModelTypeä (R	ModelType
+BeHitActí (	RBeHitAct"´
+MagicConfigTableMgr<
+datas (2&.bokura.MagicConfigTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.MagicConfigTableBaseRvalue:8bproto3
+⁄
+MagicTypeConfigTable.protobokuratable_basic.proto"ﬁ
+MagicTypeConfigTableBase
+Id∑ (RId
+Name∑ (	RName#
+EnumTypeNameû (	REnumTypeName,
+	EnumNamesÎ (2.string_arrayR	EnumNames#
+IndexsÖ (2
+.int_arrayRIndexs$
+DescsΩ (2.string_arrayRDescs"∑
+MagicTypeConfigTableMgr@
+datas (2*.bokura.MagicTypeConfigTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.MagicTypeConfigTableBaseRvalue:8bproto3
+∑
+MailTable.protobokuratable_basic.proto"Á
+MailTableBase
+Id∑ (RId 
+Title∑ (2	.mlstringRTitle
+NpcId∂ (RNpcId$
+NpcName¢	 (2	.mlstringRNpcName$
+Contentè (2	.mlstringRContent
+AwardId≠	 (RAwardId+
+MailGroupContent§ (	RMailGroupContent
+
+ExpireTime¢ (R
+ExpireTime
+MailType8 (RMailType
+	Importantˆ (R	Important
+	LimitType\ (R	LimitType"ñ
+MailTableMgr5
+datas (2.bokura.MailTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.MailTableBaseRvalue:8bproto3
+£
+MainIconTable.protobokuratable_basic.proto"√
+MainIconTableBase
+Id∑ (RId 
+Title∑ (2	.mlstringRTitle!
+SystemPlaceÉ (RSystemPlace
+SortId≤ (RSortId
+Atlas¶ (	RAtlas
+IconÅ	 (	RIcon
+Path¨ (	RPath"¢
+MainIconTableMgr9
+datas (2#.bokura.MainIconTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.MainIconTableBaseRvalue:8bproto3
+Â
+MainPlotDungeonTable.protobokura"}
+MainPlotDungeonTableBase
+	DungeonIdØ (R	DungeonId
+
+Background◊ (	R
+Background!
+RedDotIndexÛ (RRedDotIndex"∑
+MainPlotDungeonTableMgr@
+datas (2*.bokura.MainPlotDungeonTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.MainPlotDungeonTableBaseRvalue:8bproto3
+º
+MainUiTable.protobokuratable_basic.proto"e
+MainUiTableBase
+Id∑ (RId
+Comment (	RComment'
+MainIconÉ
+ (2
+.int_arrayRMainIcon"ú
+MainUiTableMgr7
+datas (2!.bokura.MainUiTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.MainUiTableBaseRvalue:8bproto3
+ô
+MallItemTable.protobokuratable_basic.proto"π
+MallItemTableBase
+Id∑ (RId
+ItemId¯ (RItemId
+QuantityÈ (RQuantity
+ItemName≈ (	RItemName
+SortÎ (RSort
+
+FunctionIdï (R
+FunctionId
+LimitSex√ (RLimitSex
+
+LimitLevelŒ (R
+LimitLevel
+	LimitTime‹ (R	LimitTime1
+ShowLimitType± (2
+.int_tableRShowLimitType1
+OriginalPriceù (2
+.int_arrayROriginalPrice8
+Cost† (2#.bokura.MallItemTableBase.CostEntryRCost-
+RefreshType’ (2
+.int_tableRRefreshType
+Bindã (RBind+
+
+DeliverWay∑ (2
+.int_tableR
+DeliverWay$
+Label∞ (2.string_arrayRLabel4
+ShowCountDown®	 (2.string_arrayRShowCountDown=
+WeightPoolParameterÃ (2
+.int_tableRWeightPoolParameter#
+Weightå (2
+.int_tableRWeight#
+CheckDisplay’ (RCheckDisplay7
+	CostEntry
+key (Rkey
+value (Rvalue:8"¢
+MallItemTableMgr9
+datas (2#.bokura.MallItemTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.MallItemTableBaseRvalue:8bproto3
+á
+MallTable.protobokuratable_basic.proto"∑
+MallTableBase
+Id∑ (RId
+
+FunctionIdï (R
+FunctionId
+Name∑ (2	.mlstringRName
+
+NameRemarkˇ (	R
+NameRemark%
+HasFatherType–
+ (RHasFatherType
+MallTypeò (RMallType=
+RefreshIntervalTypeƒ (2
+.int_tableRRefreshIntervalType'
+WeightId◊ (2
+.int_tableRWeightId
+TimerIdæ (RTimerId
+SortÎ (RSort%
+ShowCountDown®	 (RShowCountDown-
+MallManualRefreshº
+ (RMallManualRefresh5
+RefreshCostItemÂ (2
+.int_tableRRefreshCostItem
+IconÅ	 (	RIcon5
+CurrencyDisplay˛ (2
+.int_arrayRCurrencyDisplay"ñ
+MallTableMgr5
+datas (2.bokura.MallTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.MallTableBaseRvalue:8bproto3
+©
+MapActivityTable.protobokuratable_basic.proto"Ω
+MapActivityTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName!
+Sceneû (2
+.int_arrayRScene
+IconÅ	 (	RIcon
+
+FunctionIdï (R
+FunctionId
+RedDotIdÚ (RRedDotId"´
+MapActivityTableMgr<
+datas (2&.bokura.MapActivityTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.MapActivityTableBaseRvalue:8bproto3
+ê
+MapBookTable.protobokuratable_basic.proto"¥
+MapBookTableBase
+Id∑ (RId
+SceneId‚ (RSceneId
+SortId≤ (RSortId
+Model• (	RModel
+AwardId≠	 (RAwardId)
+	StickerId˚	 (2
+.int_arrayR	StickerId"ü
+MapBookTableMgr8
+datas (2".bokura.MapBookTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.MapBookTableBaseRvalue:8bproto3
+∑
+MapEntityIconTable.protobokura"W
+MapEntityIconTableBase
+Id∑ (RId
+typeß (Rtype
+sprite» (	Rsprite"±
+MapEntityIconTableMgr>
+datas (2(.bokura.MapEntityIconTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.MapEntityIconTableBaseRvalue:8bproto3
+“
+MapStickerTable.protobokuratable_basic.proto"Í
+MapStickerTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon
+Number≤ (RNumber
+SortId≤ (RSortId
+Desä (2	.mlstringRDes"
+TaskIdG (2
+.int_arrayRTaskId
+AwardId≠	 (RAwardId"®
+MapStickerTableMgr;
+datas (2%.bokura.MapStickerTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.MapStickerTableBaseRvalue:8bproto3
+±
+MapStickerTargetTable.protobokuratable_basic.proto"±
+MapStickerTargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType!
+Param∑	 (2
+.int_arrayRParam
+Num≥ (RNum
+SceneId‚ (RSceneId
+Desä (	RDes"∫
+MapStickerTargetTableMgrA
+datas (2+.bokura.MapStickerTargetTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.MapStickerTargetTableBaseRvalue:8bproto3
+™
+MapStickerTaskTable.protobokuratable_basic.proto"≤
+MapStickerTaskTableBase
+Id∑ (RId'
+TargetIdò (2
+.int_arrayRTargetId 
+Title∑ (2	.mlstringRTitle
+Desä (2	.mlstringRDes
+	TargetNum÷ (R	TargetNum"¥
+MapStickerTaskTableMgr?
+datas (2).bokura.MapStickerTaskTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.MapStickerTaskTableBaseRvalue:8bproto3
+œ
+MaterialPriorityTable.protobokuratable_basic.proto"œ
+MaterialPriorityTableBase
+Id∑ (RId
+Name∑ (	RName:
+MaterialFilePath‰
+ (2.string_arrayRMaterialFilePath+
+MaterialPriorityü	 (RMaterialPriority#
+MaterialTypeî (RMaterialType"∫
+MaterialPriorityTableMgrA
+datas (2+.bokura.MaterialPriorityTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.MaterialPriorityTableBaseRvalue:8bproto3
+ƒ
+MaterialShowDataTable.protobokuratable_basic.proto"ƒ
+MaterialShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId#
+MaterialTypeî (RMaterialType&
+Colourﬂ (2.number_arrayRColour
+Power# (RPower0
+ColourCurve°
+ (2.number_tableRColourCurve-
+
+PowerCurve7 (2.number_tableR
+PowerCurve(
+Colour2Á (2.number_arrayRColour2
+Power2≤ (RPower2
+IsBody÷ (RIsBody)
+IsPrimaryWeaponÀ	 (RIsPrimaryWeapon-
+IsSecondaryWeapon£ (RIsSecondaryWeapon"∫
+MaterialShowDataTableMgrA
+datas (2+.bokura.MaterialShowDataTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.MaterialShowDataTableBaseRvalue:8bproto3
+Î
+MedalTable.protobokuratable_basic.proto"ó
+MedalTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Type° (RType(
+	UnlockDes« (2	.mlstringR	UnlockDes
+Imageæ (	RImage"ô
+MedalTableMgr6
+datas (2 .bokura.MedalTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.MedalTableBaseRvalue:8bproto3
+£
+MessageTable.protobokuratable_basic.proto"«
+MessageTableBase
+Id∑ (RId$
+Contentè (2	.mlstringRContent
+Type° (RType#
+DurationTime» (RDurationTime&
+ChatNameΩ
+ (2	.mlstringRChatName
+Delayè (RDelay+
+
+RepeatPlayç (2
+.int_arrayR
+RepeatPlay-
+ShowChannelÎ (2
+.int_arrayRShowChannel
+
+FilterRuleü (R
+FilterRule#
+IsShowInChatÔ (RIsShowInChat+
+TypewriterEffectõ (RTypewriterEffect
+	Interrupt‰ (R	Interrupt
+Audio≤ (	RAudio"ü
+MessageTableMgr8
+datas (2".bokura.MessageTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.MessageTableBaseRvalue:8bproto3
+∞
+ModDecomposeTable.protobokuratable_basic.proto"¿
+ModDecomposeTableBase
+Id∑ (RId
+ModLvlã (RModLvl
+ModType" (RModType1
+ModDecomposeAâ (2
+.int_tableRModDecomposeA0
+ModDecomposeBQ (2
+.int_tableRModDecomposeB"Æ
+ModDecomposeTableMgr=
+datas (2'.bokura.ModDecomposeTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ModDecomposeTableBaseRvalue:8bproto3
+Ü
+ModelHumanTable.protobokuratable_basic.proto"û
+ModelHumanTableBase$
+ModelPrefabID (RModelPrefabID)
+ModelPrefabDescÄ	 (	RModelPrefabDesc
+SkeletonÍ (	RSkeleton#
+AnimTemplate‹	 (	RAnimTemplate
+Headò (	RHead
+	EmoPrefixŸ (	R	EmoPrefix
+Sex¶ (RSex
+Model• (RModel
+
+HeightParmÖ
+ (R
+HeightParm
+ArmParm˚ (RArmParm
+	ChestParmù (R	ChestParm
+	WaistParmQ (R	WaistParm
+
+CrotchParmñ (R
+CrotchParm
+	ThighParm- (R	ThighParm
+CalfParm° (RCalfParm
+
+FemaleParmà (R
+FemaleParm
+Skinì (2.vector3RSkin"
+Faceä (2.string_arrayRFace
+Chin§ (RChin'
+Eyebrow+ (2.string_arrayREyebrow#
+EyebrowAngle¥ (REyebrowAngle-
+EyebrowColorπ (2.vector3REyebrowColor 
+EyeÆ (2.string_arrayREye
+	EyeUpDown⁄ (R	EyeUpDown
+EyeAngle∏ (REyeAngle&
+EyeTex¸ (2.string_arrayREyeTex(
+LashTexï (2.string_arrayRLashTex&
+	LashColorE (2.vector3R	LashColor#
+EyeColorDiffõ (REyeColorDiff'
+	LEyeColorÒ (2.vector3R	LEyeColor'
+	REyeColor¥ (2.vector3R	REyeColor
+	ColorZoneœ (R	ColorZone3
+LEyeColorArr– (2.vector3_arrayRLEyeColorArr3
+REyeColorArr∞ (2.vector3_arrayRREyeColorArr"
+Noseƒ (2.string_arrayRNose
+
+NoseUpDown¢ (R
+NoseUpDown$
+Mouth” (2.string_arrayRMouth,
+	EyeShadowÆ (2.string_arrayR	EyeShadow1
+EyeShadowColor¨ (2.vector3REyeShadowColor 
+Lip• (2.string_arrayRLip%
+LipColorÉ (2.vector3RLipColor(
+Featureﬂ (2.string_arrayRFeature-
+FeatureColorÉ (2.vector3RFeatureColor*
+DecalTex⁄ (2.string_arrayRDecalTex)
+
+DecalColorÂ (2.vector3R
+DecalColor$
+Beardı (2.string_arrayRBeard)
+
+BeardColor∞ (2.vector3R
+BeardColor"
+Hairæ (2.string_arrayRHair$
+Fhair∑	 (2.string_arrayRFhair$
+Bhair– (2.string_arrayRBhair*
+DullHairŒ (2.string_arrayRDullHair%
+HairHighlightø (RHairHighlight-
+	HairColor’ (2.vector3_arrayR	HairColor2
+HairGradientÿ (2.number_arrayRHairGradient"
+Tailå
+ (2.string_arrayRTail-
+	TailColorº (2.vector3_arrayR	TailColor%
+Weapon (2.string_arrayRWeapon!
+CombineType˙ (RCombineType*
+HalfSuitÚ (2.string_arrayRHalfSuit5
+HalfSuitColor∏ (2.vector3_arrayRHalfSuitColor"
+Suit≈ (2.string_arrayRSuit-
+	SuitColorΩ (2.vector3_arrayR	SuitColor(
+Clothes÷ (2.string_arrayRClothes3
+ClothesColor“ (2.vector3_arrayRClothesColor$
+Pantsí (2.string_arrayRPants/
+
+PantsColor† (2.vector3_arrayR
+PantsColor&
+Glovesú (2.string_arrayRGloves0
+GlovesColorI (2.vector3_arrayRGlovesColor$
+Shoes⁄ (2.string_arrayRShoes/
+
+ShoesColor— (2.vector3_arrayR
+ShoesColor
+Socks— (	RSocks/
+
+SocksColor” (2.vector3_arrayR
+SocksColor
+BodyU∏ (	RBodyU
+BodyDï (	RBodyD
+	UnderWear“ (	R	UnderWear7
+UnderWearColorî	 (2.vector3_arrayRUnderWearColor*
+Headwear≈ (2.string_arrayRHeadwear5
+HeadwearColor˚ (2.vector3_arrayRHeadwearColor!
+MaskJ (2.string_arrayRMask-
+	MaskColor∞ (2.vector3_arrayR	MaskColor,
+	MouthMask÷
+ (2.string_arrayR	MouthMask7
+MouthMaskColorΩ (2.vector3_arrayRMouthMaskColor*
+EarringsÅ (2.string_arrayREarrings5
+EarringsColorç (2.vector3_arrayREarringsColor*
+Necklaceü (2.string_arrayRNecklace5
+NecklaceColorÑ (2.vector3_arrayRNecklaceColor"
+Ring‘ (2.string_arrayRRing-
+	RingColor§ (2.vector3_arrayR	RingColor4
+PreviewAction§ (2.number_arrayRPreviewAction!
+PreviewIconÒ (	RPreviewIcon!
+PinchConfig¿ (	RPinchConfig"®
+ModelHumanTableMgr;
+datas (2%.bokura.ModelHumanTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ModelHumanTableBaseRvalue:8bproto3
+Ï
+ModelNpcTable.protobokuratable_basic.proto"å
+ModelNpcTableBase$
+ModelPrefabID (RModelPrefabID)
+ModelPrefabDescÄ	 (	RModelPrefabDesc
+Sex¶ (RSex
+Model• (RModel
+Skinì (2.vector3RSkin
+SkeletonÍ (	RSkeleton#
+AnimTemplate‹	 (	RAnimTemplate5
+SkeletonColorÌ (2.vector3_arrayRSkeletonColor
+	EmoPrefixŸ (	R	EmoPrefix
+Headò (	RHead+
+AnimHeadTemplateã (	RAnimHeadTemplate+
+EyeColor· (2.vector3_arrayREyeColor
+Hairæ (	RHair-
+	HairColor’ (2.vector3_arrayR	HairColor
+Headwear≈ (	RHeadwear5
+HeadwearColor˚ (2.vector3_arrayRHeadwearColor
+MaskJ (	RMask-
+	MaskColor∞ (2.vector3_arrayR	MaskColor
+Back˚ (	RBack-
+	BackColor∫ (2.vector3_arrayR	BackColor
+
+HandObjecte (	R
+HandObject9
+HandObjectColorÜ (2.vector3_arrayRHandObjectColor
+WeaponLû
+ (	RWeaponL
+WeaponRö (	RWeaponR&
+WeaponIdleAnimf (	RWeaponIdleAnim"¢
+ModelNpcTableMgr9
+datas (2#.bokura.ModelNpcTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.ModelNpcTableBaseRvalue:8bproto3
+œ
+ModelSpecialTable.protobokuratable_basic.proto"ﬂ
+ModelSpecialTableBase$
+ModelPrefabID (RModelPrefabID)
+ModelPrefabDescÄ	 (	RModelPrefabDesc
+SkeletonÍ (	RSkeleton#
+AnimTemplate‹	 (	RAnimTemplate%
+Weapon (2.string_arrayRWeapon
+	UseHeadIK“ (R	UseHeadIK!
+LookAtAngleé (RLookAtAngle!
+LookAtSpeedì (RLookAtSpeed'
+LookAtDistanceî (RLookAtDistance"Æ
+ModelSpecialTableMgr=
+datas (2'.bokura.ModelSpecialTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ModelSpecialTableBaseRvalue:8bproto3
+√
+ModelTable.protobokuratable_basic.proto"Ô
+ModelTableBase
+ModelID€ (RModelID
+	ModelDescÀ	 (	R	ModelDesc
+	ModelTypeä (R	ModelType
+Imageæ (	RImage
+Busté (	RBust$
+ModelPrefabID (RModelPrefabID
+
+ModelScaleÆ (R
+ModelScale$
+Mountñ (2.string_arrayRMount0
+MountOffsetì (2.number_tableRMountOffset*
+MountRot¸ (2.number_tableRMountRot.
+
+MountScale™ (2.number_tableR
+MountScale&
+WeaponIdleAnimf (	RWeaponIdleAnim
+GoType«	 (RGoType&
+GoData˛ (2.number_arrayRGoData)
+	BodyParts™ (2
+.int_arrayR	BodyParts
+RTPos® (2.vector3RRTPos
+RTRot¸ (2.vector3RRTRot#
+WeightFactor≤
+ (RWeightFactor4
+StiffAirCurve¨ (2.string_arrayRStiffAirCurve6
+StiffDownCurveá (2.string_arrayRStiffDownCurve6
+StiffFallCurve› (2.string_arrayRStiffFallCurve+
+	StiffTimej (2.number_arrayR	StiffTime'
+StiffStandTimeÄ (RStiffStandTime%
+StiffDownTimeÓ (RStiffDownTime)
+DeathActionTimeá (RDeathActionTime+
+BreakEndAnimTime± (RBreakEndAnimTime,
+	AudioBankÑ (2.string_arrayR	AudioBank%
+IgnoreFarCullœ (RIgnoreFarCull
+SizeType9 (RSizeType)
+BasicFleshyType˘ (RBasicFleshyType#
+WalkVelocityπ (RWalkVelocity!
+RunVelocityå (RRunVelocity#
+DashVelocityè (RDashVelocity%
+MoveAnimSpeedŒ (RMoveAnimSpeed!
+ModelEffectì (	RModelEffect
+
+IsMultipod∏ (R
+IsMultipod!
+BeHitOffsetá (RBeHitOffset0
+ScaleParamsÚ (2.number_arrayRScaleParams-
+BeHitAddiAnimNameÿ	 (	RBeHitAddiAnimNameF
+StateAdditiveHitWeightî (2.number_tableRStateAdditiveHitWeight'
+BloodHudOffsetΩ (RBloodHudOffset"ô
+ModelTableMgr6
+datas (2 .bokura.ModelTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.ModelTableBaseRvalue:8bproto3
+˚
+ModelWpNpcTable.protobokura"¶
+ModelWpNpcTableBase$
+ModelPrefabID (RModelPrefabID)
+ModelPrefabDescÄ	 (	RModelPrefabDesc
+Sex¶ (RSex
+SkeletonÍ (	RSkeleton#
+AnimTemplate‹	 (	RAnimTemplate
+	EmoPrefixŸ (	R	EmoPrefix
+Headò (	RHead+
+AnimHeadTemplateã (	RAnimHeadTemplate
+Hairæ (	RHair+
+AnimHairTemplateÄ (	RAnimHairTemplate
+Headwear≈ (	RHeadwear
+Back˚ (	RBack
+WeaponLû
+ (	RWeaponL
+WeaponRö (	RWeaponR
+Tailå
+ (	RTail&
+WeaponIdleAnimf (	RWeaponIdleAnim!
+PinchConfig¿ (	RPinchConfig"®
+ModelWpNpcTableMgr;
+datas (2%.bokura.ModelWpNpcTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ModelWpNpcTableBaseRvalue:8bproto3
+º
+ModTable.protobokuratable_basic.proto"
+ModTableBase
+Id∑ (RId
+ModPic≈ (	RModPic
+ModLvlã (RModLvl
+
+EffectTypeè (R
+EffectType"
+EffectConfign (REffectConfig5
+EffectParameter˘ (2
+.int_arrayREffectParameter!
+TagIdû (2
+.int_arrayRTagId"ì
+ModTableMgr4
+datas (2.bokura.ModTableMgr.DatasEntryRdatasN
+
+DatasEntry
+key (Rkey*
+value (2.bokura.ModTableBaseRvalue:8bproto3
+Ë
+MonsterEntityGlobalTable.protobokuratable_basic.proto"]
+MonsterEntityGlobalTableBase
+UIdÏ (RUId*
+PositionÆ (2.number_arrayRPosition"√
+MonsterEntityGlobalTableMgrD
+datas (2..bokura.MonsterEntityGlobalTableMgr.DatasEntryRdatas^
+
+DatasEntry
+key (Rkey:
+value (2$.bokura.MonsterEntityGlobalTableBaseRvalue:8bproto3
+´
+MonsterEntityTable.protobokuratable_basic.proto"∑
+MonsterEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation
+	RotationXî (R	RotationX
+	RotationZ (R	RotationZ!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+DataType™ (RDataType#
+WayPointNameÏ (	RWayPointName)
+SpaceLayerIndexè (RSpaceLayerIndex%
+OverrideScaleï
+ (ROverrideScale
+EntMask… (REntMask
+
+AlertRangeµ (R
+AlertRange1
+HatredChainIdÑ (2
+.int_arrayRHatredChainId7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition!
+IsNotGround— (RIsNotGround
+IsStatic˝ (RIsStatic
+IsPatrolÉ (RIsPatrol#
+IsPlayAction„ (RIsPlayAction5
+PlayActionProbabilityç (RPlayActionProbability'
+PlayActionModeÒ (RPlayActionMode/
+PlayActionId≥ (2
+.int_arrayRPlayActionId
+IsAIUseÖ (RIsAIUse%
+VisualLayerIdÛ (RVisualLayerId&
+DefaultIdlAnim+ (	RDefaultIdlAnim
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState"±
+MonsterEntityTableMgr>
+datas (2(.bokura.MonsterEntityTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.MonsterEntityTableBaseRvalue:8bproto3
+Ô
+MonsterExploreTable.protobokuratable_basic.proto"˜
+MonsterExploreTableBase
+	MonsterIdÓ	 (R	MonsterId
+Sceneû (RScene
+SortÎ (RSort#
+Targetº
+ (2
+.int_tableRTarget!
+UnlockAward— (RUnlockAward
+
+ModelRetio≠ (R
+ModelRetio(
+	Condition‚ (2	.mlstringR	Condition"¥
+MonsterExploreTableMgr?
+datas (2).bokura.MonsterExploreTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.MonsterExploreTableBaseRvalue:8bproto3
+∑
+MonsterExploreTargetTable.protobokuratable_basic.proto"ß
+MonsterExploreTargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType
+Num≥ (RNum
+SceneId‚ (RSceneId!
+Param∑	 (2
+.int_arrayRParam
+	TargetPosﬁ (	R	TargetPos!
+IsTeamShareÖ (RIsTeamShare(
+	TargetDesˇ	 (2	.mlstringR	TargetDes&
+IsShowProgress8 (RIsShowProgress0
+
+SpVariableò (2.mlstring_arrayR
+SpVariable:
+SpVariableLimitª (2.mlstring_arrayRSpVariableLimit8
+SpVariableName÷ (2.mlstring_arrayRSpVariableNameG
+IsShowSpVariableProgress† (2
+.int_arrayRIsShowSpVariableProgress"∆
+MonsterExploreTargetTableMgrE
+datas (2/.bokura.MonsterExploreTargetTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.MonsterExploreTargetTableBaseRvalue:8bproto3
+«
+MonsterFightAreaTable.protobokuratable_basic.proto"«
+MonsterFightAreaTableBase
+Id∑ (RId*
+AreaNameÄ (2.string_arrayRAreaName3
+AreaHateWeightÎ (2
+.int_arrayRAreaHateWeight.
+
+AreaRadiusÛ (2.number_tableR
+AreaRadius-
+AreaMaximumRadiusÜ (RAreaMaximumRadius,
+	AreaAngleŸ	 (2.number_tableR	AreaAngle+
+PlayerHateWeightú	 (RPlayerHateWeight"∫
+MonsterFightAreaTableMgrA
+datas (2+.bokura.MonsterFightAreaTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.MonsterFightAreaTableBaseRvalue:8bproto3
+‡
+MonsterTable.protobokuratable_basic.proto"Ñ
+MonsterTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+ModelID€ (RModelID!
+MonsterType˜ (RMonsterType'
+BloodTubeCount  (RBloodTubeCount
+Comment1ò (	RComment1
+Comment2Û (	RComment2'
+SkillIdsÿ (2
+.int_arrayRSkillIds5
+HatredBuildTypeò (2
+.int_arrayRHatredBuildType
+IsFlying’ (RIsFlying-
+SightConfigì (2
+.int_tableRSightConfig)
+IsAccurateSightè (RIsAccurateSight+
+
+HatredAwayõ (2
+.int_arrayR
+HatredAway
+Score£ (RScore3
+HatredAwayTypeè (2
+.int_arrayRHatredAwayType!
+AttributeId° (RAttributeId
+	WalkSpeedŸ (R	WalkSpeed
+RunSpeedR (RRunSpeed
+	FRunSpeedI (R	FRunSpeed
+
+AlertSpeedá	 (R
+AlertSpeed!
+MinAlertDisﬂ (RMinAlertDis!
+MaxAlertDisÙ (RMaxAlertDis!
+ExportVoxel» (RExportVoxel
+	VoxelPath≤ (	R	VoxelPath!
+DefaultCamp∫ (RDefaultCamp
+IsShowHp$ (RIsShowHp>
+EntityTurnVelocityß (2.number_arrayREntityTurnVelocity+
+AITableReference„ (RAITableReference#
+AttackHeightà (RAttackHeight
+
+DropHeight– (R
+DropHeight
+	DashSpeedû (R	DashSpeed+
+MonsterFightArea‚ (RMonsterFightArea3
+HatredAwayShow≥ (2
+.int_arrayRHatredAwayShow
+TagsË (2
+.int_arrayRTags/
+TargetSelectWeight– (RTargetSelectWeight1
+BornDissolutionTimeÿ (RBornDissolutionTime
+BornTime¥ (RBornTime7
+InvincibleTimeWithBornÈ (RInvincibleTimeWithBorn3
+BreakingContinueTime– (RBreakingContinueTime+
+WeeknessDurationÛ (RWeeknessDuration+
+FractureDuration› (RFractureDuration+
+BehitLightIsOpenÙ (RBehitLightIsOpen
+
+BornEffectÙ (	R
+BornEffect5
+BornClientBuffs‘
+ (2
+.int_arrayRBornClientBuffs
+
+DeadEffect⁄ (	R
+DeadEffect5
+DeadClientBuffsÊ (2
+.int_arrayRDeadClientBuffs!
+HudInScreen§ (RHudInScreen)
+	BloodMarkí
+ (2
+.int_arrayR	BloodMark!
+HudPosParamï (RHudPosParam"ü
+MonsterTableMgr8
+datas (2".bokura.MonsterTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.MonsterTableBaseRvalue:8bproto3
+ô
+NameCardTable.protobokuratable_basic.proto"π
+NameCardTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName(
+	UnlockDes« (2	.mlstringR	UnlockDes
+Image1Ø (	RImage1
+Image2‡ (	RImage2
+UnlockÇ (RUnlock"¢
+NameCardTableMgr9
+datas (2#.bokura.NameCardTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.NameCardTableBaseRvalue:8bproto3
+ë
+NeighbouringSceneTable.protobokuratable_basic.proto"ç
+NeighbouringSceneTableBase
+Id∑ (RId9
+NeighbouringScene÷ (2
+.int_arrayRNeighbouringScene#
+Portal¬	 (2
+.int_arrayRPortal"Ω
+NeighbouringSceneTableMgrB
+datas (2,.bokura.NeighbouringSceneTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.NeighbouringSceneTableBaseRvalue:8bproto3
+Ù
+NormalHeroDungeonTable.protobokuratable_basic.proto"
+NormalHeroDungeonTableBase
+	DungeonIdØ (R	DungeonId'
+SeasonOpenTime¬ (RSeasonOpenTime
+	AffixPoolÊ (R	AffixPool
+
+Background◊ (	R
+Background
+ModelId´ (RModelId
+EffectIdì (REffectId
+	BaseRatio¸ (R	BaseRatio
+	LimitTime‹ (R	LimitTime)
+	ScoreRankÂ (2
+.int_tableR	ScoreRank)
+	KeyRewardˇ (2
+.int_arrayR	KeyReward"Ω
+NormalHeroDungeonTableMgrB
+datas (2,.bokura.NormalHeroDungeonTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.NormalHeroDungeonTableBaseRvalue:8bproto3
+á
+NpcEntityGlobalTable.protobokuratable_basic.proto"ã
+NpcEntityGlobalTableBase
+UIdÏ (RUId
+Id∑ (RId*
+PositionÆ (2.number_arrayRPosition
+
+SourceType¸ (R
+SourceType"∑
+NpcEntityGlobalTableMgr@
+datas (2*.bokura.NpcEntityGlobalTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.NpcEntityGlobalTableBaseRvalue:8bproto3
+
+NpcEntityTable.protobokuratable_basic.proto"å
+NpcEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation
+	RotationXî (R	RotationX
+	RotationZ (R	RotationZ!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+DataType™ (RDataType)
+SpaceLayerIndexè (RSpaceLayerIndex%
+OverrideScaleï
+ (ROverrideScale
+EntMask… (REntMask
+
+AlertRangeµ (R
+AlertRange7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition/
+ClientAIConfigFile° (	RClientAIConfigFile-
+IgnoreVisualLayer« (RIgnoreVisualLayer
+
+BindTaskId‡ (R
+BindTaskId!
+IsNotGround— (RIsNotGround
+IsStatic˝ (RIsStatic!
+IsAiEnabled˙
+ (RIsAiEnabled%
+VisualLayerIdÛ (RVisualLayerId&
+DefaultIdlAnim+ (	RDefaultIdlAnim
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent"•
+NpcEntityTableMgr:
+datas (2$.bokura.NpcEntityTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.NpcEntityTableBaseRvalue:8bproto3
+œ
+NpcTable.protobokuratable_basic.proto"É
+NpcTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+ModelID€ (RModelID#
+AIConfigFile¬	 (	RAIConfigFile
+	WalkSpeedŸ (R	WalkSpeed
+RunSpeedR (RRunSpeed!
+ExportVoxel» (RExportVoxel
+	VoxelPath≤ (	R	VoxelPath!
+DefaultCamp∫ (RDefaultCamp
+IsShowHp$ (RIsShowHp>
+EntityTurnVelocityß (2.number_arrayREntityTurnVelocity
+MapIcon' (	RMapIcon 
+Title∑ (2	.mlstringRTitle
+
+DialogFlowk (R
+DialogFlow
+Comment (	RComment
+NpcIcon¬ (	RNpcIcon
+ShowTypeÎ (RShowType
+ShowName∂ (RShowName6
+NpcFunctionIDÒ (2.mlstring_tableRNpcFunctionID
+
+SceneTagIdÒ
+ (R
+SceneTagId'
+IsTurnToPlayer≠ (RIsTurnToPlayer#
+TalkActionIdó (RTalkActionId1
+LookAtPosition˙ (2.vector3RLookAtPosition
+	LookAtNpc˝	 (R	LookAtNpc#
+LookAtPlayer§ (	RLookAtPlayer'
+LookAtDistanceî (RLookAtDistance!
+LookAtAngleé (RLookAtAngle2
+LootAtWeight≥ (2.number_arrayRLootAtWeight$
+ResponseRange/ (RResponseRange%
+ScareActionIdÈ (RScareActionId'
+PraiseActionIdÍ (RPraiseActionId7
+BePushedActionIdÔ (2
+.int_arrayRBePushedActionId
+LayerÀ	 (RLayer$
+InsightusableG (RInsightusable
+
+BornEffectÙ (	R
+BornEffect
+BornTime¥ (RBornTime5
+BornClientBuffs‘
+ (2
+.int_arrayRBornClientBuffs
+
+DeadEffect⁄ (	R
+DeadEffect5
+DeadClientBuffsÊ (2
+.int_arrayRDeadClientBuffs
+UseIkÓ	 (RUseIk%
+IsDissolution´ (RIsDissolution+
+PlotCharactersIdÇ
+ (RPlotCharactersId+
+
+StatusInfoª (2
+.int_tableR
+StatusInfo6
+StatusTransitionm (2
+.int_tableRStatusTransition=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent#
+DefaultState¯ (RDefaultState3
+ShowStatusInfo¡ (2
+.int_tableRShowStatusInfo?
+ShowStatusTransitionÎ (2
+.int_tableRShowStatusTransition"ì
+NpcTableMgr4
+datas (2.bokura.NpcTableMgr.DatasEntryRdatasN
+
+DatasEntry
+key (Rkey*
+value (2.bokura.NpcTableBaseRvalue:8bproto3
+Ø
+ObtainWayTable.protobokuratable_basic.proto"L
+ObtainWayTableBase
+Id∑ (RId%
+GetWaysÚ (2
+.int_tableRGetWays"•
+ObtainWayTableMgr:
+datas (2$.bokura.ObtainWayTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.ObtainWayTableBaseRvalue:8bproto3
+ø
+ParkourStyleActionTable.protobokuratable_basic.proto"∑
+ParkourStyleActionTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Level‡ (RLevel!
+EnergyValue≤ (REnergyValue
+WaitTimej (RWaitTime
+Dot— (RDot"¿
+ParkourStyleActionTableMgrC
+datas (2-.bokura.ParkourStyleActionTableMgr.DatasEntryRdatas]
+
+DatasEntry
+key (Rkey9
+value (2#.bokura.ParkourStyleActionTableBaseRvalue:8bproto3
+ˆ
+PayFunctionTable.protobokuratable_basic.proto"ä
+PayFunctionTableBase
+Id∑ (RId)
+	PaymentIdÙ (2
+.int_arrayR	PaymentId
+Name∑ (2	.mlstringRName
+Desc° (	RDesc
+ShowTypeÎ (RShowType
+IconÅ	 (	RIcon
+SortÎ (RSort!
+Label∞ (2
+.int_tableRLabel
+IsSale⁄ (RIsSale"´
+PayFunctionTableMgr<
+datas (2&.bokura.PayFunctionTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.PayFunctionTableBaseRvalue:8bproto3
+õ
+PaymentTable.protobokuratable_basic.proto"ø
+PaymentTableBase
+Id∑ (RId!
+ProductNameÖ (	RProductName
+Desc° (	RDesc!
+ProductTypeÍ (RProductType
+Currency» (	RCurrency
+Price∂ (RPrice
+AwardId≠	 (RAwardId!
+Itemsù (2
+.int_tableRItems
+MailId« (RMailId
+Platform¡ (RPlatform
+IsSale⁄ (RIsSale"ü
+PaymentTableMgr8
+datas (2".bokura.PaymentTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.PaymentTableBaseRvalue:8bproto3
+Á
+PersonalTagTable.protobokura"é
+PersonalTagTableBase
+Id∑ (RId
+TagName˛ (	RTagName
+TagIcon (	RTagIcon
+Type° (RType
+Sequenceø (RSequence"´
+PersonalTagTableMgr<
+datas (2&.bokura.PersonalTagTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.PersonalTagTableBaseRvalue:8bproto3
+›
+PhotoDecorationsTable.protobokura"q
+PhotoDecorationsTableBase
+Id∑ (RId
+Type° (RType
+Sequenceø (RSequence
+Res˚	 (	RRes"∫
+PhotoDecorationsTableMgrA
+datas (2+.bokura.PhotoDecorationsTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.PhotoDecorationsTableBaseRvalue:8bproto3
+π
+Photograph.protobokuratable_basic.proto"f
+PhotographBase
+Id∑ (RId
+	Parameter˝ (	R	Parameter$
+ValueË (2.number_arrayRValue"ô
+PhotographMgr6
+datas (2 .bokura.PhotographMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.PhotographBaseRvalue:8bproto3
+Ô
+PhotoParamTable.protobokuratable_basic.proto"á
+PhotoParamTableBase
+Id∑ (RId
+Desä (2	.mlstringRDes
+PointIdˇ (RPointId-
+DistanceTakeÿ (2.vector2RDistanceTake-
+DistanceHintì (2.vector2RDistanceHint
+Angle≈ (2.vector2RAngle'
+TargetIdò (2
+.int_arrayRTargetId"®
+PhotoParamTableMgr;
+datas (2%.bokura.PhotoParamTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.PhotoParamTableBaseRvalue:8bproto3
+£
+PhotoTargetTable.protobokuratable_basic.proto"∑
+PhotoTargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType!
+Param∑	 (2
+.int_arrayRParam
+Num≥ (RNum
+SceneId‚ (RSceneId
+Desä (2	.mlstringRDes"´
+PhotoTargetTableMgr<
+datas (2&.bokura.PhotoTargetTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.PhotoTargetTableBaseRvalue:8bproto3
+¥
+PivotAwardTable.protobokuratable_basic.proto"M
+PivotAwardTableBase
+Id∑ (RId%
+AwardId≠	 (2
+.int_arrayRAwardId"®
+PivotAwardTableMgr;
+datas (2%.bokura.PivotAwardTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.PivotAwardTableBaseRvalue:8bproto3
+ï
+PivotTable.protobokuratable_basic.proto"¡
+PivotTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+MapIDØ (RMapID&
+AreaNameÄ (2	.mlstringRAreaName1
+SettingOffNum¢ (2
+.int_arrayRSettingOffNum3
+CirculateAward† (2
+.int_arrayRCirculateAward
+PivotPicí (	RPivotPic
+	PivotArea 
+ (R	PivotArea
+CameraIdÿ (RCameraId"ô
+PivotTableMgr6
+datas (2 .bokura.PivotTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.PivotTableBaseRvalue:8bproto3
+å
+#PlanetMemorySeasonConfigTable.protobokuratable_basic.proto"m
+!PlanetMemorySeasonConfigTableBase
+Index¯
+ (RIndex
+Id∑ (	RId 
+ValueË (2	.mlstringRValue"“
+ PlanetMemorySeasonConfigTableMgrI
+datas (23.bokura.PlanetMemorySeasonConfigTableMgr.DatasEntryRdatasc
+
+DatasEntry
+key (Rkey?
+value (2).bokura.PlanetMemorySeasonConfigTableBaseRvalue:8bproto3
+’
+PlanetMemoryTable.protobokuratable_basic.proto"Â
+PlanetMemoryTableBase
+RoomIdl (RRoomId
+	DungeonIdØ (R	DungeonId(
+RoomPos∆ (2.number_arrayRRoomPos/
+UnlockRoomIdŸ (2
+.int_arrayRUnlockRoomId
+RoomTypeÆ (RRoomType)
+	LinkModelÛ (2
+.int_arrayR	LinkModel!
+Affixú (2
+.int_arrayRAffix&
+RoomName— (2	.mlstringRRoomName
+GsLimitî (RGsLimit0
+TargetMonster" (2
+.int_arrayRTargetMonster+
+
+UnlockTimeﬁ (2
+.int_arrayR
+UnlockTime-
+ExtraTarget±
+ (2
+.int_arrayRExtraTarget"Æ
+PlanetMemoryTableMgr=
+datas (2'.bokura.PlanetMemoryTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.PlanetMemoryTableBaseRvalue:8bproto3
+¥
+PlayerLevelSkillTable.protobokuratable_basic.proto"¥
+PlayerLevelSkillTableBase
+BuffId¢ (RBuffId
+BuffName— (	RBuffName!
+ActiveLeveló (RActiveLevel
+Style“ (RStyle'
+LockItemê (2
+.int_tableRLockItem"∫
+PlayerLevelSkillTableMgrA
+datas (2+.bokura.PlayerLevelSkillTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.PlayerLevelSkillTableBaseRvalue:8bproto3
+√
+PlayerLevelTable.protobokuratable_basic.proto"◊
+PlayerLevelTableBase
+Level‡ (RLevel
+Exp  (RExp-
+LevelUpAttræ (2
+.int_tableRLevelUpAttr#
+LevelAwardID∞ (RLevelAwardID
+IconÅ	 (	RIcon,
+ExplainText√ (2	.mlstringRExplainText"´
+PlayerLevelTableMgr<
+datas (2&.bokura.PlayerLevelTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.PlayerLevelTableBaseRvalue:8bproto3
+Ë
+PlayNameTable.protobokura"õ
+PlayNameTableBase
+Id∑ (RId
+NameCNÿ (	RNameCN
+NameENä (	RNameEN
+NameJP⁄ (	RNameJP
+NameKRŒ	 (	RNameKR
+Sex¶ (RSex"¢
+PlayNameTableMgr9
+datas (2#.bokura.PlayNameTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.PlayNameTableBaseRvalue:8bproto3
+€
+PlotCharactersTable.protobokura"ˆ
+PlotCharactersTableBase
+Id∑ (RId/
+PlotCharactersName‹ (	RPlotCharactersName3
+PlotCharactersGender÷ (	RPlotCharactersGender-
+PlotCharactersAgeØ (	RPlotCharactersAge5
+PlotCharactersContentÖ (	RPlotCharactersContent"¥
+PlotCharactersTableMgr?
+datas (2).bokura.PlotCharactersTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.PlotCharactersTableBaseRvalue:8bproto3
+é
+PositionSampleTable.protobokuratable_basic.proto"ñ
+PositionSampleTableBase
+Id∑ (RId
+Name∑ (	RName.
+
+SampleInfoÜ (2.number_tableR
+SampleInfo%
+HasChangeFlag‰ (RHasChangeFlag"¥
+PositionSampleTableMgr?
+datas (2).bokura.PositionSampleTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.PositionSampleTableBaseRvalue:8bproto3
+ò
+PresentationEPFlowTable.protobokuratable_basic.proto"ê
+PresentationEPFlowTableBase
+Id∑ (RId
+ResPath§ (	RResPath
+FlowNameÛ (	RFlowName
+FlowType (	RFlowType
+	GetOption? (R	GetOption)
+IsSavePlayStateÖ (RIsSavePlayState-
+CheckPlayKeyIndexµ (RCheckPlayKeyIndex%
+CheckPlayType˛ (RCheckPlayType9
+IsDefaultCameraDisabled» (RIsDefaultCameraDisabled%
+ContentHidingÇ	 (RContentHiding5
+IgnoreHidingNPCª (2
+.int_arrayRIgnoreHidingNPC)
+IsModelDialogue™ (RIsModelDialogue)
+	BlackMaskè (2
+.int_arrayR	BlackMask"¿
+PresentationEPFlowTableMgrC
+datas (2-.bokura.PresentationEPFlowTableMgr.DatasEntryRdatas]
+
+DatasEntry
+key (Rkey9
+value (2#.bokura.PresentationEPFlowTableBaseRvalue:8bproto3
+ˇ
+ProfessionEffectLibTable.protobokuratable_basic.proto"Û
+ProfessionEffectLibTableBase
+Id∑ (RId!
+EffectLibID† (REffectLibID
+
+EffectTypeè (R
+EffectType"
+EffectConfign (REffectConfig+
+
+ValueRangeŸ (2
+.int_tableR
+ValueRange-
+RandomRange‘	 (2
+.int_tableRRandomRange"√
+ProfessionEffectLibTableMgrD
+datas (2..bokura.ProfessionEffectLibTableMgr.DatasEntryRdatas^
+
+DatasEntry
+key (Rkey:
+value (2$.bokura.ProfessionEffectLibTableBaseRvalue:8bproto3
+Ê
+ProfessionEffectTable.protobokuratable_basic.proto"Ê
+ProfessionEffectTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName6
+ShortDescription˜	 (2	.mlstringRShortDescription+
+DescriptionK (2	.mlstringRDescription%
+ArrtrId (2
+.int_arrayRArrtrId+
+
+ValueRangeŸ (2
+.int_arrayR
+ValueRange#
+SignId™ (2
+.int_tableRSignId
+ResType' (RResType 
+Buffs (2
+.int_arrayRBuffs#
+ArrtrsÆ (2
+.int_tableRArrtrs!
+NormalLibIDá (RNormalLibID
+ProLibID  (RProLibID
+IfClose∆ (RIfClose"∫
+ProfessionEffectTableMgrA
+datas (2+.bokura.ProfessionEffectTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.ProfessionEffectTableBaseRvalue:8bproto3
+§
+ProfessionSignLevelTable.protobokuratable_basic.proto"ò
+ProfessionSignLevelTableBase
+Id∑ (RId
+
+SignItemIdó	 (R
+SignItemId
+LevelIDÄ (RLevelID+
+
+EffectParaì (2
+.int_tableR
+EffectPara"√
+ProfessionSignLevelTableMgrD
+datas (2..bokura.ProfessionSignLevelTableMgr.DatasEntryRdatas^
+
+DatasEntry
+key (Rkey:
+value (2$.bokura.ProfessionSignLevelTableBaseRvalue:8bproto3
+°
+ProfessionSignTable.protobokuratable_basic.proto"©
+ProfessionSignTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName'
+SignTypeı (2
+.int_arrayRSignType
+Card„ (	RCard
+ItemTipsÎ (	RItemTips+
+
+EffectTypeè (2
+.int_arrayR
+EffectType'
+EffectIdì (2
+.int_arrayREffectId,
+	Effectkey· (2.string_tableR	Effectkey"¥
+ProfessionSignTableMgr?
+datas (2).bokura.ProfessionSignTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.ProfessionSignTableBaseRvalue:8bproto3
+¡
+ProfessionTable.protobokuratable_basic.proto"Ÿ
+ProfessionTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName6
+ShortDescription˜	 (2	.mlstringRShortDescription+
+DescriptionK (2	.mlstringRDescription
+Jobœ (2
+.int_tableRJob
+IconÅ	 (	RIcon
+IconBg• (	RIconBg%
+ResTemplateId¯
+ (RResTemplateId 
+Buffs (2
+.int_arrayRBuffs#
+ArrtrsÆ (2
+.int_tableRArrtrs;
+ProfessionEffectId‚ (2
+.int_arrayRProfessionEffectId4
+TipsDescriptionÑ (2	.mlstringRTipsDescription"®
+ProfessionTableMgr;
+datas (2%.bokura.ProfessionTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ProfessionTableBaseRvalue:8bproto3
+ó
+ProfileAttrTable.protobokuratable_basic.proto"´
+ProfileAttrTableBase
+Id∑ (RId
+AttrIdõ
+ (RAttrId
+Name∑ (2	.mlstringRName
+Type° (RType4
+TypeDisplayName‘ (2	.mlstringRTypeDisplayName"´
+ProfileAttrTableMgr<
+datas (2&.bokura.ProfileAttrTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.ProfileAttrTableBaseRvalue:8bproto3
+ß
+ProfileImageTable.protobokuratable_basic.proto"∑
+ProfileImageTableBase
+Id∑ (RId
+Type° (RType
+Name∑ (2	.mlstringRName(
+	UnlockDes« (2	.mlstringR	UnlockDes
+Imageæ (	RImage
+UnlockÇ (RUnlock"Æ
+ProfileImageTableMgr=
+datas (2'.bokura.ProfileImageTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.ProfileImageTableBaseRvalue:8bproto3
+⁄
+QteTable.protobokuratable_basic.proto"é
+QteTableBase
+Id∑ (RId
+name∞ (	Rname
+QTEType· (RQTEType
+UITypeí (RUIType
+maxTimeÜ (RmaxTime0
+timeQuantumÑ (2.number_tableRtimeQuantum.
+triggerCount (2
+.int_arrayRtriggerCount0
+triggerTime√ (2.number_tableRtriggerTime)
+	playSkillç (2
+.int_tableR	playSkill9
+buffIdWhenSuccessÎ	 (2
+.int_tableRbuffIdWhenSuccess9
+buffIdWhenFailureø (2
+.int_arrayRbuffIdWhenFailure'
+QTEShowSkillId˚
+ (RQTEShowSkillId0
+EventParamsï (2.number_tableREventParams
+
+functionId≤ (R
+functionId7
+impactFunctionId≤ (2
+.int_arrayRimpactFunctionId
+
+impactTypeÂ (R
+impactType"ì
+QteTableMgr4
+datas (2.bokura.QteTableMgr.DatasEntryRdatasN
+
+DatasEntry
+key (Rkey*
+value (2.bokura.QteTableBaseRvalue:8bproto3
+À
+QuestionnaireTable.protobokuratable_basic.proto"◊
+QuestionnaireTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Linki (	RLink
+
+LevelLimit„ (R
+LevelLimit
+DayLimitü (RDayLimit
+MailIDâ (RMailID!
+Awardª (2
+.int_tableRAward"±
+QuestionnaireTableMgr>
+datas (2(.bokura.QuestionnaireTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.QuestionnaireTableBaseRvalue:8bproto3
+ˆ
+QuestStepTable.protobokuratable_basic.proto"í
+QuestStepTableBase!
+QuestStepId· (RQuestStepId)
+	StepParam≤ (2
+.int_tableR	StepParam
+LuaJump∂ (	RLuaJump
+
+FailToStepÿ
+ (R
+FailToStep'
+CompleteToStep÷ (RCompleteToStep5
+CompleteAllStepÃ (2
+.int_arrayRCompleteAllStep1
+NpcTalkChangeˇ (2
+.int_tableRNpcTalkChange+
+
+QuestItemsã (2
+.int_tableR
+QuestItems&
+StepTips– (2	.mlstringRStepTips'
+QuestClickJumpï (RQuestClickJump5
+TimeLimitedStep∞ (2
+.int_arrayRTimeLimitedStep'
+StepTargetType√ (RStepTargetType@
+StepTargetConditionã
+ (2.string_tableRStepTargetCondition4
+StepTargetPosº
+ (2.string_tableRStepTargetPos0
+StepMainTitle∞
+ (2	.mlstringRStepMainTitle8
+StepTargetInfoÎ (2.mlstring_arrayRStepTargetInfo+
+DisableTransportˆ (RDisableTransport
+
+SceneCheckÆ (R
+SceneCheck*
+VisualLayerCheckT (RVisualLayerCheck#
+HideTrackBarÎ (RHideTrackBar"•
+QuestStepTableMgr:
+datas (2$.bokura.QuestStepTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.QuestStepTableBaseRvalue:8bproto3
+æ
+QuestTable.protobokuratable_basic.proto"Í
+QuestTableBase
+QuestIdÍ (RQuestId(
+	QuestName≠ (2	.mlstringR	QuestName,
+QuestDetail∑ (2	.mlstringRQuestDetail
+	QuestTypeÿ (R	QuestType
+	QuestStepá (R	QuestStep
+AwardId≠	 (RAwardId!
+FollowQuestÔ (RFollowQuest'
+PreQuestÿ	 (2
+.int_arrayRPreQuest%
+PreQuestLogic— (	RPreQuestLogic/
+MustPreQuestô (2
+.int_arrayRMustPreQuest/
+AccessLimitZ (2.string_tableRAccessLimit,
+	TimeLimit∫ (2.string_arrayR	TimeLimit4
+ContinueLimitÛ
+ (2.string_tableRContinueLimit.
+
+AbortLimit∏ (2.string_tableR
+AbortLimit#
+StepFlowPathÇ (	RStepFlowPath"ô
+QuestTableMgr6
+datas (2 .bokura.QuestTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.QuestTableBaseRvalue:8bproto3
+‹
+QuestTypeGroupTable.protobokuratable_basic.proto"‰
+QuestTypeGroupTableBase+
+QuestTypeGroupIdÈ (RQuestTypeGroupId(
+	GroupName≈ (2	.mlstringR	GroupName!
+TypeGroupUIº (	RTypeGroupUI*
+TypeGroupUIColor* (	RTypeGroupUIColor#
+DisplayOrder∆ (RDisplayOrder"¥
+QuestTypeGroupTableMgr?
+datas (2).bokura.QuestTypeGroupTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.QuestTypeGroupTableBaseRvalue:8bproto3
+Õ
+QuestTypeTable.protobokura"¸
+QuestTypeTableBase!
+QuestTypeId≤ (RQuestTypeId%
+QuestTypeNameŸ (	RQuestTypeName+
+QuestTypeGroupID´ (RQuestTypeGroupID!
+QuestTypeUIº (	RQuestTypeUI!
+ShowQuestUIÈ (RShowQuestUI
+	ResetType˙ (R	ResetType'
+ForcedTracking≈	 (RForcedTracking#
+AutoTrackingÂ (RAutoTracking%
+QuestListHide™ (RQuestListHide
+orderê (Rorder"•
+QuestTypeTableMgr:
+datas (2$.bokura.QuestTypeTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.QuestTypeTableBaseRvalue:8bproto3
+·
+QuickJumpTypeTable.protobokura"Ä
+QuickJumpTypeTableBase
+Type° (RType
+Param∑	 (	RParam
+Exampleä (	RExample
+
+RefreshNum‡
+ (	R
+RefreshNum"±
+QuickJumpTypeTableMgr>
+datas (2(.bokura.QuickJumpTypeTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.QuickJumpTypeTableBaseRvalue:8bproto3
+à
+RecipeTable.protobokuratable_basic.proto"∞
+RecipeTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName*
+
+RecipeText§ (2	.mlstringR
+RecipeText
+
+RecipeIcon¨ (	R
+RecipeIcon
+
+RecipeTypeÀ	 (R
+RecipeType"ú
+RecipeTableMgr7
+datas (2!.bokura.RecipeTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.RecipeTableBaseRvalue:8bproto3
+î
+RedDotCheckTable.protobokura"ª
+RedDotCheckTableBase
+Id∑ (RId)
+CheckMethodNameà (	RCheckMethodName
+FileName‚ (	RFileName
+
+FunctionIdï (R
+FunctionId)
+CheckMethodType≤ (RCheckMethodType"´
+RedDotCheckTableMgr<
+datas (2&.bokura.RedDotCheckTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.RedDotCheckTableBaseRvalue:8bproto3
+Æ
+RedDotIndexTable.protobokuratable_basic.proto"¬
+RedDotIndexTableBase
+Id∑ (RId
+
+RedSignKeyò (	R
+RedSignKey
+
+FunctionIdï (R
+FunctionId+
+
+CloseCheck” (2
+.int_arrayR
+CloseCheck)
+	LoseCheckÃ (2
+.int_arrayR	LoseCheck+
+
+ChildrenIDÉ	 (2
+.int_arrayR
+ChildrenID'
+ShowTypeÎ (2
+.int_arrayRShowType!
+PicturePath¥	 (	RPicturePath
+
+EffectPathÄ (	R
+EffectPath#
+OffSet˝ (2
+.int_arrayROffSet
+SizeÔ (2
+.int_arrayRSize
+
+ServerTypeŒ (R
+ServerType"´
+RedDotIndexTableMgr<
+datas (2&.bokura.RedDotIndexTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.RedDotIndexTableBaseRvalue:8bproto3
+î
+ResolveTable.protobokuratable_basic.proto"∏
+ResolveTableBase
+Id∑ (RId
+ItemID· (RItemID
+ItemName≈ (	RItemName%
+GetItem€ (2
+.int_arrayRGetItem
+
+FunctionIdï (R
+FunctionId
+LimitÄ (RLimit"ü
+ResolveTableMgr8
+datas (2".bokura.ResolveTableMgr.DatasEntryRdatasR
+
+DatasEntry
+key (Rkey.
+value (2.bokura.ResolveTableBaseRvalue:8bproto3
+Ì
+ReviveTable.protobokuratable_basic.proto"ï
+ReviveTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Type° (RType%
+ConsumeÆ (2
+.int_arrayRConsume
+	CountDownÆ (R	CountDown/
+BeforeBuffIdŸ (2
+.int_arrayRBeforeBuffId
+WaitTimej (RWaitTime)
+IsBossCanRevive¨ (RIsBossCanRevive"ú
+ReviveTableMgr7
+datas (2!.bokura.ReviveTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.ReviveTableBaseRvalue:8bproto3
+¥
+RoleCardTable.protobokuratable_basic.proto"‘
+RoleCardTableBase
+Id∑ (RId
+
+FunctionIdï (	R
+FunctionId
+Name∑ (2	.mlstringRName
+System§ (	RSystem
+Show∑ (	RShow
+SortÎ (	RSort
+Check˙	 (	RCheck
+IconÅ	 (	RIcon"¢
+RoleCardTableMgr9
+datas (2#.bokura.RoleCardTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.RoleCardTableBaseRvalue:8bproto3
+é
+RotationSampleTable.protobokuratable_basic.proto"ñ
+RotationSampleTableBase
+Id∑ (RId
+Name∑ (	RName.
+
+SampleInfoÜ (2.number_tableR
+SampleInfo%
+HasChangeFlag‰ (RHasChangeFlag"¥
+RotationSampleTableMgr?
+datas (2).bokura.RotationSampleTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.RotationSampleTableBaseRvalue:8bproto3
+ˇ
+ScaleSampleTable.protobokuratable_basic.proto"ì
+ScaleSampleTableBase
+Id∑ (RId
+Name∑ (	RName.
+
+SampleInfoÜ (2.number_tableR
+SampleInfo%
+HasChangeFlag‰ (RHasChangeFlag"´
+ScaleSampleTableMgr<
+datas (2&.bokura.ScaleSampleTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.ScaleSampleTableBaseRvalue:8bproto3
+π
+SceneAreaTable.protobokuratable_basic.proto"’
+SceneAreaTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName%
+Stationπ (2
+.int_arrayRStation
+Region (RRegion
+BgmEventÉ (	RBgmEvent2
+NamePosition« (2.number_arrayRNamePosition"•
+SceneAreaTableMgr:
+datas (2$.bokura.SceneAreaTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.SceneAreaTableBaseRvalue:8bproto3
+ƒ
+SceneEventTable.protobokuratable_basic.proto"‹
+SceneEventTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName+
+
+TargetListË (2
+.int_arrayR
+TargetList
+	Difficult¬ (R	Difficult3
+CompleteActionØ (2
+.int_tableRCompleteAction
+TimeŸ (RTime"®
+SceneEventTableMgr;
+datas (2%.bokura.SceneEventTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SceneEventTableBaseRvalue:8bproto3
+–
+"SceneObjectEntityGlobalTable.protobokuratable_basic.proto"¥
+ SceneObjectEntityGlobalTableBase
+UIdÏ (RUId
+Id∑ (RId*
+PositionÆ (2.number_arrayRPosition
+
+SourceType¸ (R
+SourceType
+
+OptionData’ (	R
+OptionData"œ
+SceneObjectEntityGlobalTableMgrH
+datas (22.bokura.SceneObjectEntityGlobalTableMgr.DatasEntryRdatasb
+
+DatasEntry
+key (Rkey>
+value (2(.bokura.SceneObjectEntityGlobalTableBaseRvalue:8bproto3
+ª
+SceneObjectEntityTable.protobokuratable_basic.proto"∑
+
+SceneObjectEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation
+	RotationXî (R	RotationX
+	RotationZ (R	RotationZ!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+DataMask¥ (RDataMask
+	StateTypeÆ (R	StateType)
+SpaceLayerIndexè (RSpaceLayerIndex
+
+OptionData’ (	R
+OptionData%
+OverrideScaleï
+ (ROverrideScale
+EntMask… (REntMask
+
+AlertRangeµ (R
+AlertRange7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition-
+IgnoreVisualLayer« (RIgnoreVisualLayer!
+IsNotGround— (RIsNotGround
+IsStatic˝ (RIsStatic#
+DefaultState¯ (RDefaultState%
+VisualLayerIdÛ (RVisualLayerId
+
+SourceType¸ (R
+SourceType=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent"Ω
+SceneObjectEntityTableMgrB
+datas (2,.bokura.SceneObjectEntityTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.SceneObjectEntityTableBaseRvalue:8bproto3
+î	
+SceneObjectTable.protobokuratable_basic.proto"®
+SceneObjectTableBase
+Id∑ (RId
+Name∑ (	RName
+ModelID€ (RModelID!
+AttributeId° (RAttributeId!
+ExportVoxel» (RExportVoxel
+	VoxelPath≤ (	R	VoxelPath!
+DefaultCamp∫ (RDefaultCamp
+IsShowHp$ (RIsShowHp
+	SobjBeHit7 (	R	SobjBeHit
+SobjBornÃ (	RSobjBorn
+	SobjDeathÙ (	R	SobjDeath!
+IsClimbable· (RIsClimbable#
+SceneObjTypeä
+ (RSceneObjType
+
+EndStateId≠ (R
+EndStateId
+
+BornEffectÙ (	R
+BornEffect
+
+DeadEffect⁄ (	R
+DeadEffect+
+IsUsePrefabLayerÁ (RIsUsePrefabLayer+
+
+StatusInfoª (2
+.int_tableR
+StatusInfo6
+StatusTransitionm (2
+.int_tableRStatusTransition#
+DefaultState¯ (RDefaultState=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent3
+ShowStatusInfo¡ (2
+.int_tableRShowStatusInfo?
+ShowStatusTransitionÎ (2
+.int_tableRShowStatusTransition"´
+SceneObjectTableMgr<
+datas (2&.bokura.SceneObjectTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.SceneObjectTableBaseRvalue:8bproto3
+Ì
+ScenePointInfoGlobalTable.protobokuratable_basic.proto"^
+ScenePointInfoGlobalTableBase
+UIdÏ (RUId*
+PositionÆ (2.number_arrayRPosition"∆
+ScenePointInfoGlobalTableMgrE
+datas (2/.bokura.ScenePointInfoGlobalTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.ScenePointInfoGlobalTableBaseRvalue:8bproto3
+Œ
+ScenePointInfoTable.protobokuratable_basic.proto"÷
+ScenePointInfoTableBase
+UIdÏ (RUId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation0
+CamPositionﬂ (2.number_arrayRCamPosition!
+CamRotation¶ (RCamRotation#
+RandomRadius◊ (RRandomRadius
+CameraIdÿ (RCameraId-
+RandomInnerRadiusÀ (RRandomInnerRadius"¥
+ScenePointInfoTableMgr?
+datas (2).bokura.ScenePointInfoTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.ScenePointInfoTableBaseRvalue:8bproto3
+œ
+SceneResourceTable.protobokura"o
+SceneResourceTableBase
+Id∑ (RId%
+SceneLoadTypeå
+ (RSceneLoadType
+	SceneFileç
+ (	R	SceneFile"±
+SceneResourceTableMgr>
+datas (2(.bokura.SceneResourceTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.SceneResourceTableBaseRvalue:8bproto3
+Ó
+SceneTable.protobokuratable_basic.proto"ö
+SceneTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Comment (	RComment
+	SceneType– (R	SceneType#
+SceneSubType™ (RSceneSubType
+ParentId—
+ (RParentId7
+IsShareParentSceneData– (RIsShareParentSceneData)
+SceneResourceIdı (RSceneResourceId
+
+LoadingPngò (	R
+LoadingPng(
+SceneUiƒ (2.string_arrayRSceneUi#
+MapSize˙ (2.vector2RMapSize(
+MapTexsÕ (2.string_arrayRMapTexs!
+MapRowCount¢ (RMapRowCount.
+
+MapTexSizeR (2.vector2_arrayR
+MapTexSize
+BigWorldœ (RBigWorld,
+	AudioBankÑ (2.string_arrayR	AudioBank'
+SceneEnterTypeÑ (RSceneEnterType)
+BornPosƒ (2.vector3_arrayRBornPos
+BornId∏ (RBornId
+	CanRevive‡ (R	CanRevive
+
+ReviveType (R
+ReviveType
+ReviveIdÂ (RReviveId1
+ReviveTableIdå (2
+.int_arrayRReviveTableId
+	CamConfigf (R	CamConfig
+Bgm” (	RBgm
+
+LoadingBgmË (	R
+LoadingBgm
+	BattleBgm (	R	BattleBgm+
+EnvironmentSound™
+ (	REnvironmentSound0
+CamPositionﬂ (2.number_arrayRCamPosition
+	LuaScriptë (R	LuaScript
+FallDisÈ (RFallDis
+Weatherî (RWeather!
+DayAndNightí (RDayAndNight
+
+CutsceneIdı (R
+CutsceneId
+MainUi (RMainUi'
+CanChangeLayer÷ (RCanChangeLayer*
+MaxLayerÜ (2.number_tableRMaxLayer7
+PreloadCutscenesä (2
+.int_arrayRPreloadCutscenes3
+PreloadEPFlowsá (2
+.int_arrayRPreloadEPFlows
+EPFlowId’ (REPFlowId!
+ShowMiniMapå (RShowMiniMap#
+MiniMapRatio» (RMiniMapRatio
+SubScene∏ (	RSubScene"ô
+SceneTableMgr6
+datas (2 .bokura.SceneTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.SceneTableBaseRvalue:8bproto3
+˚
+SceneTagTable.protobokuratable_basic.proto"õ
+SceneTagTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+Icon1å (	RIcon1
+Icon2¢
+ (	RIcon2
+Type° (RType
+Param∑	 (	RParam
+
+FunctionIdï (R
+FunctionId
+	TrackTypeﬁ	 (R	TrackType
+Show∑ (RShow
+UnlockÇ (RUnlock
+Level‡ (RLevel
+SortÎ (RSort
+Number≤ (RNumber
+MiniShowœ (RMiniShow+
+DescriptionK (2	.mlstringRDescription"¢
+SceneTagTableMgr9
+datas (2#.bokura.SceneTagTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.SceneTagTableBaseRvalue:8bproto3
+Ã
+SeasonActTable.protobokuratable_basic.proto"Ë
+SeasonActTableBase
+Id∑ (RId
+
+FunctionIdï (R
+FunctionId
+SeasonIdÖ (RSeasonId
+Type° (RType
+SortÎ (RSort
+Name∑ (2	.mlstringRName
+LabelPicÈ (	RLabelPic%
+BackGroundPic¯ (	RBackGroundPic"
+ActDesç	 (2	.mlstringRActDes&
+OtherDesÚ	 (2	.mlstringROtherDes#
+PreviewAward¨ (RPreviewAward%
+QuickJumpType˙ (RQuickJumpType3
+QuickJumpParam— (2
+.int_arrayRQuickJumpParam(
+	UnlockDes« (2	.mlstringR	UnlockDes"•
+SeasonActTableMgr:
+datas (2$.bokura.SeasonActTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.SeasonActTableBaseRvalue:8bproto3
+Æ
+SeasonBPTaskTable.protobokuratable_basic.proto"æ
+SeasonBPTaskTableBase
+TargetIdò (RTargetId
+	MajorType« (R	MajorType!
+TargetGroup÷	 (RTargetGroup
+Targetº
+ (RTarget
+AwardId≠	 (RAwardId
+ShowWeekª
+ (RShowWeek,
+	Condition‚ (2.string_arrayR	Condition)
+DailyTaskRandom€ (RDailyTaskRandom%
+QuickJumpType˙ (RQuickJumpType(
+	QuickJumpK (2
+.int_arrayR	QuickJump
+SeasonÏ (RSeason
+	PassAwardó	 (R	PassAward
+Desc° (	RDesc"Æ
+SeasonBPTaskTableMgr=
+datas (2'.bokura.SeasonBPTaskTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.SeasonBPTaskTableBaseRvalue:8bproto3
+–
+SeasonBPTaskTargetTable.protobokuratable_basic.proto"»
+SeasonBPTaskTargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType
+Num≥ (RNum
+SceneId‚ (RSceneId!
+Param∑	 (2
+.int_arrayRParam&
+Describe´	 (2	.mlstringRDescribe"¿
+SeasonBPTaskTargetTableMgrC
+datas (2-.bokura.SeasonBPTaskTargetTableMgr.DatasEntryRdatas]
+
+DatasEntry
+key (Rkey9
+value (2#.bokura.SeasonBPTaskTargetTableBaseRvalue:8bproto3
+ 
+SeasonCenterTable.protobokura"n
+SeasonCenterTableBase
+
+FunctionIdï (R
+FunctionId
+
+NameRemarkˇ (	R
+NameRemark
+SortÎ (RSort"Æ
+SeasonCenterTableMgr=
+datas (2'.bokura.SeasonCenterTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.SeasonCenterTableBaseRvalue:8bproto3
+¸
+SeasonDailyTable.protobokura"£
+SeasonDailyTableBase
+Id∑ (RId
+SeasonÏ (RSeason
+Day˝ (RDay)
+DailyEquipLevel∫ (RDailyEquipLevel#
+GrowRangeAdd˛ (RGrowRangeAdd"´
+SeasonDailyTableMgr<
+datas (2&.bokura.SeasonDailyTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.SeasonDailyTableBaseRvalue:8bproto3
+ô
+SeasonGlobalTable.protobokuratable_basic.proto"©
+SeasonGlobalTableBase
+SeasonIdÖ (RSeasonId*
+
+SeasonNameÒ (2	.mlstringR
+SeasonName#
+SeasonTimeId« (RSeasonTimeId%
+MinEquipLevelÛ
+ (RMinEquipLevel%
+MaxEquipLevel˚ (RMaxEquipLevel'
+MaxWeaponLevelÕ	 (RMaxWeaponLevel+
+BattlePassCardId˚ (RBattlePassCardId"Æ
+SeasonGlobalTableMgr=
+datas (2'.bokura.SeasonGlobalTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.SeasonGlobalTableBaseRvalue:8bproto3
+ß
+SeasonNodeDataTable.protobokuratable_basic.proto"Ø
+SeasonNodeDataTableBase
+Id∑ (RId
+NodeIdµ	 (RNodeId
+	NodeLeveló (R	NodeLevel&
+NodeNameæ (2	.mlstringRNodeName
+NodeIcon» (	RNodeIcon+
+
+NodeEffectë (2
+.int_tableR
+NodeEffect2
+BuffValueKeyú (2.string_tableRBuffValueKey%
+BuffParò (2
+.int_tableRBuffPar"¥
+SeasonNodeDataTableMgr?
+datas (2).bokura.SeasonNodeDataTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.SeasonNodeDataTableBaseRvalue:8bproto3
+Î
+SeasonNodeTable.protobokuratable_basic.proto"É
+SeasonNodeTableBase
+Id∑ (RId
+HoleId¥ (RHoleId
+	HoleLevelΩ (R	HoleLevel#
+NodeIdµ	 (2
+.int_arrayRNodeId
+NodeTypeß (RNodeType
+SeasonIdÖ (RSeasonId3
+NodeCollectionÊ (2
+.int_tableRNodeCollection+
+
+Collection— (2
+.int_tableR
+Collection1
+NumberConsume´ (2
+.int_tableRNumberConsume/
+OtherConsumeò	 (2
+.int_tableROtherConsume"®
+SeasonNodeTableMgr;
+datas (2%.bokura.SeasonNodeTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SeasonNodeTableBaseRvalue:8bproto3
+Ì
+SeasonRankTable.protobokuratable_basic.proto"Ö
+SeasonRankTableBase
+Id∑ (RId
+RankIdΩ (RRankId
+Desä (	RDes
+Name∑ (2	.mlstringRName
+	StarLevel	 (R	StarLevel
+IconBigò (	RIconBig
+IconMinÀ (	RIconMin
+SeasonIdÖ (RSeasonId+
+
+Conditions¢ (2
+.int_tableR
+Conditions+
+
+EchoPoints±	 (2
+.int_tableR
+EchoPoints
+RewardIdÿ (RRewardId.
+CoreRewardId3 (2
+.int_tableRCoreRewardId1
+FinalRewardIdõ (2
+.int_tableRFinalRewardId$
+PromotionTypej (RPromotionType
+
+BackRankId— (R
+BackRankId"®
+SeasonRankTableMgr;
+datas (2%.bokura.SeasonRankTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SeasonRankTableBaseRvalue:8bproto3
+Ü
+SeasonShopItemTable.protobokuratable_basic.proto"é
+SeasonShopItemTableBase
+Id∑ (RId
+ItemId¯ (RItemId
+QuantityÈ (RQuantity
+ItemName≈ (	RItemName
+SortÎ (RSort
+
+FunctionIdï (R
+FunctionId
+LimitSex√ (RLimitSex
+
+LimitLevelŒ (R
+LimitLevel
+	LimitTime‹ (R	LimitTime1
+ShowLimitType± (2
+.int_tableRShowLimitType1
+OriginalPriceù (2
+.int_arrayROriginalPrice>
+Cost† (2).bokura.SeasonShopItemTableBase.CostEntryRCost-
+RefreshType’ (2
+.int_tableRRefreshType+
+
+RefreshNum‡
+ (2
+.int_tableR
+RefreshNum
+Bindã (RBind+
+
+DeliverWay∑ (2
+.int_tableR
+DeliverWay$
+Label∞ (2.string_arrayRLabel4
+ShowCountDown®	 (2.string_arrayRShowCountDown#
+CheckDisplay’ (RCheckDisplay7
+	CostEntry
+key (Rkey
+value (Rvalue:8"¥
+SeasonShopItemTableMgr?
+datas (2).bokura.SeasonShopItemTableMgr.DatasEntryRdatasY
+
+DatasEntry
+key (Rkey5
+value (2.bokura.SeasonShopItemTableBaseRvalue:8bproto3
+â
+SeasonShopTable.protobokuratable_basic.proto"°
+SeasonShopTableBase
+Id∑ (RId
+
+FunctionIdï (R
+FunctionId
+Name∑ (2	.mlstringRName
+
+NameRemarkˇ (	R
+NameRemark
+ShopTypeµ (RShopType
+TimerIdæ (RTimerId
+SortÎ (RSort
+IconÅ	 (	RIcon5
+CurrencyDisplay˛ (2
+.int_arrayRCurrencyDisplay"®
+SeasonShopTableMgr;
+datas (2%.bokura.SeasonShopTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SeasonShopTableBaseRvalue:8bproto3
+∏
+SeasonTaskTable.protobokuratable_basic.proto"–
+SeasonTaskTableBase
+TargetIdò (RTargetId
+	MajorType« (R	MajorType
+OpenDayj (ROpenDay!
+TargetGroup÷	 (RTargetGroup
+Targetº
+ (RTarget
+AwardId≠	 (RAwardId
+ShowWeekª
+ (RShowWeek%
+QuickJumpType˙ (RQuickJumpType3
+QuickJumpParam— (2
+.int_arrayRQuickJumpParam
+Desc° (	RDesc"®
+SeasonTaskTableMgr;
+datas (2%.bokura.SeasonTaskTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SeasonTaskTableBaseRvalue:8bproto3
+∆
+SeasonTaskTargetTable.protobokuratable_basic.proto"∆
+SeasonTaskTargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType
+Num≥ (RNum
+SceneId‚ (RSceneId!
+Param∑	 (2
+.int_arrayRParam&
+Describe´	 (2	.mlstringRDescribe"∫
+SeasonTaskTargetTableMgrA
+datas (2+.bokura.SeasonTaskTargetTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.SeasonTaskTargetTableBaseRvalue:8bproto3
+ù
+SetKeyboardContrastTable.protobokuratable_basic.proto"ë
+SetKeyboardContrastTableBase
+Id∑ (RId&
+KeyboardÏ (2	.mlstringRKeyboard
+ShowTypeÎ (RShowType
+ImageWayÔ (	RImageWay"√
+SetKeyboardContrastTableMgrD
+datas (2..bokura.SetKeyboardContrastTableMgr.DatasEntryRdatas^
+
+DatasEntry
+key (Rkey:
+value (2$.bokura.SetKeyboardContrastTableBaseRvalue:8bproto3
+ú
+SetKeyboardTable.protobokuratable_basic.proto"∞
+SetKeyboardTableBase
+Id∑ (RId)
+	ActionIdsü (2
+.int_arrayR	ActionIds%
+MapCategoryId€
+ (RMapCategoryId"
+SetDesì (2	.mlstringRSetDes!
+KeyboardDesˇ (RKeyboardDes
+
+FunctionIdï (R
+FunctionId
+SortÎ (RSort
+
+ShowSwitch◊ (R
+ShowSwitch
+GoBack¡ (	RGoBack"´
+SetKeyboardTableMgr<
+datas (2&.bokura.SetKeyboardTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.SetKeyboardTableBaseRvalue:8bproto3
+ª
+SettingOffTable.protobokuratable_basic.proto"”
+SettingOffTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+PivotIdî
+ (RPivotId"
+Buttoná (2	.mlstringRButton'
+SettingOffAnim˘ (	RSettingOffAnim#
+RemindRadius› (RRemindRadius"®
+SettingOffTableMgr;
+datas (2%.bokura.SettingOffTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SettingOffTableBaseRvalue:8bproto3
+É
+SettingsTable.protobokuratable_basic.proto"£
+SettingsTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+SystemIdÜ (RSystemId
+TypesId¯ (RTypesId!
+OperateTypeı (ROperateType!
+DescribeKeyà
+ (	RDescribeKey
+Desä (	RDes
+ValueË (	RValue!
+DataStorage„	 (RDataStorage
+Linki (	RLink"¢
+SettingsTableMgr9
+datas (2#.bokura.SettingsTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.SettingsTableBaseRvalue:8bproto3
+’
+SettingsTypeTable.protobokura"y
+SettingsTypeTableBase
+TypesId¯ (RTypesId
+SystemIdÜ (RSystemId
+Name∑ (	RName
+SortÎ (RSort"Æ
+SettingsTypeTableMgr=
+datas (2'.bokura.SettingsTypeTableMgr.DatasEntryRdatasW
+
+DatasEntry
+key (Rkey3
+value (2.bokura.SettingsTypeTableBaseRvalue:8bproto3
+™
+SkillDataTable.protobokuratable_basic.proto"∆
+SkillDataTableBase"
+SKillLevelIdT (RSKillLevelId/
+ActionArrayæ (2.int64_arrayRActionArray-
+
+EventArrayû
+ (2.int64_arrayR
+EventArray/
+EffectArrayâ (2.int64_arrayREffectArray/
+CameraArrayê (2.int64_arrayRCameraArray3
+MaterialArrayö (2.int64_arrayRMaterialArray-
+
+AudioArrayö (2.int64_arrayR
+AudioArray/
+BulletArray≥ (2.int64_arrayRBulletArray5
+TimeScaleArrayœ (2.int64_arrayRTimeScaleArray"•
+SkillDataTableMgr:
+datas (2$.bokura.SkillDataTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.SkillDataTableBaseRvalue:8bproto3
+’	
+SkillEffectTable.protobokuratable_basic.proto"È
+SkillEffectTableBase
+Id∑ (RId
+Level‡ (RLevel
+Name∑ (	RName
+SkillIdø (RSkillId1
+SkillDamageDistanceÄ
+ (RSkillDamageDistance0
+EffectRange– (2.number_arrayREffectRange@
+AiReleaseSkillRangeÙ (2.number_arrayRAiReleaseSkillRangeA
+CoolTimeOnBattleStart∫ (2
+.int_arrayRCoolTimeOnBattleStart-
+UseRandomCoolTime™ (RUseRandomCoolTime<
+RandomPVECoolTime˝ (2.number_arrayRRandomPVECoolTime
+TagsË (2
+.int_arrayRTags&
+BuffTagsj (2
+.int_tableRBuffTags%
+HitTagsÓ (2
+.int_tableRHitTags+
+
+EntityTags´ (2
+.int_tableR
+EntityTags4
+SkillAttrDesÏ	 (2.mlstring_tableRSkillAttrDes7
+MaxHorizontalMotionDisé (RMaxHorizontalMotionDis
+STRange‹	 (RSTRange
+STAngle (RSTAngle%
+STSphereRangeô (RSTSphereRange)
+IsInBattleStateÖ (RIsInBattleState-
+TakeWeaponInSkillõ (RTakeWeaponInSkill)
+NeedScaleCamera· (RNeedScaleCamera5
+SkillLearnBuffsÎ (2
+.int_arrayRSkillLearnBuffs"´
+SkillEffectTableMgr<
+datas (2&.bokura.SkillEffectTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.SkillEffectTableBaseRvalue:8bproto3
+Å
+SkillFightLevelTable.protobokuratable_basic.proto"Ö
+SkillFightLevelTableBase
+Id∑ (RId
+SkillIdø (RSkillId
+Level‡ (RLevel%
+SkillEffectIdÅ (RSkillEffectId
+Name∑ (	RName)
+	SkillCostÎ (2
+.int_tableR	SkillCost1
+SkillResCheckÁ (2
+.int_tableRSkillResCheck!
+PVECoolTime— (RPVECoolTime6
+FloatParameterﬁ	 (2.string_tableRFloatParameter1
+ShowParameterï (2
+.int_arrayRShowParameter"∑
+SkillFightLevelTableMgr@
+datas (2*.bokura.SkillFightLevelTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.SkillFightLevelTableBaseRvalue:8bproto3
+Ÿ
+SkillLevelTable.protobokuratable_basic.proto"r
+SkillLevelTableBase
+Id∑ (RId
+Cost† (2
+.int_tableRCost)
+	ExtraCost¸ (2
+.int_tableR	ExtraCost"®
+SkillLevelTableMgr;
+datas (2%.bokura.SkillLevelTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.SkillLevelTableBaseRvalue:8bproto3
+õ
+SkillTable.protobokuratable_basic.proto"«
+SkillTableBase
+Id∑ (RId
+
+NameDesignÒ (	R
+NameDesign
+Desc° (2	.mlstringRDesc
+Name∑ (2	.mlstringRName5
+SkillLevelGroup€
+ (2
+.int_arrayRSkillLevelGroup)
+	EffectIDs— (2
+.int_arrayR	EffectIDs
+	SkillType´ (R	SkillType
+
+FaceTargetÒ (R
+FaceTarget
+	IsPreviewõ (R	IsPreview
+
+TargetType‡ (R
+TargetType3
+SkillTargetRangeType≤ (RSkillTargetRangeType'
+SkillRangeTypeﬂ (RSkillRangeType3
+SkillSelectPointType≤ (RSkillSelectPointType'
+SkillHatedType∏ (RSkillHatedType#
+SkillDamTypeâ (RSkillDamType%
+SwitchSkillIdﬁ (RSwitchSkillId
+IsAoeÏ (RIsAoe
+IconÅ	 (	RIcon!
+NextSkillId· (RNextSkillId
+SlotTypeÖ (RSlotType9
+LongPressReplaceSKillIdÃ (RLongPressReplaceSKillId%
+LongPressTimeñ (RLongPressTime1
+ComboTakeEffectTimeÒ (RComboTakeEffectTime#
+CanPlayInSky∫ (RCanPlayInSky
+
+SkySkillId˝
+ (R
+SkySkillId
+IsArmorñ (RIsArmor
+	CantStiffÚ (R	CantStiff%
+CantStiffBack« (RCantStiffBack%
+CantStiffDown¥ (RCantStiffDown#
+CantStiffAirˆ (RCantStiffAir3
+UnbreakSkillPriority™ (RUnbreakSkillPriority/
+BreakSkillPriorityﬂ (RBreakSkillPriority-
+UseTotalDamageHud¬
+ (RUseTotalDamageHud#
+WeaponReturn” (RWeaponReturn'
+SkillRootShiftñ (RSkillRootShift#
+CoolTimeType˙ (RCoolTimeType3
+NecessaryParts” (2
+.int_arrayRNecessaryParts/
+ExcludePartsÅ (2
+.int_arrayRExcludeParts6
+SkillAreaArrayˆ (2.string_arrayRSkillAreaArray8
+SwitchSkillInfo˜ (2.number_tableRSwitchSkillInfo+
+EnergyChargeTimeı (REnergyChargeTime/
+MaxEnergyChargeNum® (RMaxEnergyChargeNum9
+ContinuesSkillDelayTimeƒ (RContinuesSkillDelayTime'
+UseAddResValue… (RUseAddResValue'
+AtkSpeedSwitch˛ (RAtkSpeedSwitch+
+SkillLookAtAngle…
+ (RSkillLookAtAngle/
+DefocusLookAtangleƒ (RDefocusLookAtangle)
+IsFractureSkillË (RIsFractureSkill%
+IsDangerSkillŸ (RIsDangerSkill%
+IsPassiveDesc¥ (RIsPassiveDesc'
+IsSearchEnemieÔ (RIsSearchEnemie7
+SearchEnemieFilterNameÅ (	RSearchEnemieFilterName
+	RockerDir¢ (R	RockerDir@
+SkillUnbreakLevelAdditionalq (RSkillUnbreakLevelAdditional1
+IsHideReplaceEffectÛ (RIsHideReplaceEffect)
+ChangeWpInSkillÚ (RChangeWpInSkill9
+IsTanlentContinuedBegin∆ (RIsTanlentContinuedBegin6
+UIWarningParam÷ (2.number_arrayRUIWarningParam/
+InheritMotionSpeed˝ (RInheritMotionSpeed"ô
+SkillTableMgr6
+datas (2 .bokura.SkillTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.SkillTableBaseRvalue:8bproto3
+–
+SpecialSkillSlotTable.protobokuratable_basic.proto"Q
+SpecialSkillSlotTableBase
+Id∑ (RId#
+TagIdsÒ
+ (2
+.int_arrayRTagIds"∫
+SpecialSkillSlotTableMgrA
+datas (2+.bokura.SpecialSkillSlotTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.SpecialSkillSlotTableBaseRvalue:8bproto3
+≠
+StageBehaveCallEventTable.protobokura"∞
+StageBehaveCallEventTableBase
+Id∑ (RId
+	EventTypeÀ
+ (R	EventType#
+LuaEventNameç (	RLuaEventName%
+CSharpEventIdé (RCSharpEventId
+Desc° (	RDesc"∆
+StageBehaveCallEventTableMgrE
+datas (2/.bokura.StageBehaveCallEventTableMgr.DatasEntryRdatas_
+
+DatasEntry
+key (Rkey;
+value (2%.bokura.StageBehaveCallEventTableBaseRvalue:8bproto3
+≥
+StaticInteractiveClass.protobokuratable_basic.proto"Ø
+StaticInteractiveClassBase
+Id∑ (RId/
+InterationTemplate˘ (RInterationTemplate<
+PlayerActionStartí (2.string_arrayRPlayerActionStart:
+PlayerActionLoop® (2.string_arrayRPlayerActionLoop8
+PlayerActionEndç (2.string_arrayRPlayerActionEnd
+ExitTypeÔ
+ (RExitType"Ω
+StaticInteractiveClassMgrB
+datas (2,.bokura.StaticInteractiveClassMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.StaticInteractiveClassBaseRvalue:8bproto3
+∂
+"StaticInteractiveObjectTable.protobokuratable_basic.proto"ö
+ StaticInteractiveObjectTableBase
+Id∑ (RId*
+PositionÆ (2.number_arrayRPosition"
+RotY≈ (2.number_arrayRRotY
+ClassId (RClassId&
+RadiusØ (2.number_arrayRRadius7
+TriggerPosition% (2.number_arrayRTriggerPosition=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent
+
+SourceType¸ (R
+SourceType"œ
+StaticInteractiveObjectTableMgrH
+datas (22.bokura.StaticInteractiveObjectTableMgr.DatasEntryRdatasb
+
+DatasEntry
+key (Rkey>
+value (2(.bokura.StaticInteractiveObjectTableBaseRvalue:8bproto3
+Ä
+StiffTemplateTable.protobokura"ü
+StiffTemplateTableBase
+Id∑ (RId
+Desä (	RDes
+	BehitType◊
+ (R	BehitType'
+HorImpactForce¶ (RHorImpactForce'
+VerImpactForceƒ (RVerImpactForce#
+StiffingTimeê (RStiffingTime%
+StiffHangTime¿ (RStiffHangTime#
+StiffEndTimeπ	 (RStiffEndTime)
+MinimumHorSpeedﬂ (RMinimumHorSpeed)
+SkillFlowOffsetÃ (RSkillFlowOffset)
+SkillFlowRadiusﬁ (RSkillFlowRadius"±
+StiffTemplateTableMgr>
+datas (2(.bokura.StiffTemplateTableMgr.DatasEntryRdatasX
+
+DatasEntry
+key (Rkey4
+value (2.bokura.StiffTemplateTableBaseRvalue:8bproto3
+Á
+TalentPoolTable.protobokuratable_basic.proto"ˇ
+TalentPoolTableBase
+Id∑ (RId
+Desä (	RDes
+SectIconﬁ (	RSectIcon#
+MainTalentIdª (RMainTalentId5
+SecondaryTalent® (2
+.int_arrayRSecondaryTalent1
+PassiveTalent¢ (2
+.int_arrayRPassiveTalent3
+TalentPositionπ (2
+.int_tableRTalentPosition5
+RecommendTalent» (2
+.int_arrayRRecommendTalent(
+	SchoolDesû (2	.mlstringR	SchoolDes:
+RecommendDimension‘ (2	.mlstringRRecommendDimension*
+
+SchoolIcon® (2	.mlstringR
+SchoolIcon6
+PlayerSchoolIconö (2	.mlstringRPlayerSchoolIcon=
+FantasySolutionListÛ (2
+.int_arrayRFantasySolutionList#
+StrategyPageû (RStrategyPage"®
+TalentPoolTableMgr;
+datas (2%.bokura.TalentPoolTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.TalentPoolTableBaseRvalue:8bproto3
+Â
+TalentTable.protobokuratable_basic.proto"ç
+TalentTableBase
+Id∑ (RId
+TalentIdÅ (RTalentId
+Desä (	RDes*
+
+TalentName· (2	.mlstringR
+TalentName
+
+TalentIcon¥ (	R
+TalentIcon
+
+TalentType§ (R
+TalentType!
+TalentLevelƒ (RTalentLevel/
+TalentEffectò (2
+.int_tableRTalentEffect2
+BuffValueKeyú (2.string_tableRBuffValueKey%
+BuffParò (2
+.int_tableRBuffPar#
+UnlockÇ (2
+.int_tableRUnlock)
+	PreTalent∫ (2
+.int_tableR	PreTalent1
+UnlockConsumeÌ (2
+.int_tableRUnlockConsume
+BdTagIdœ (RBdTagId"ú
+TalentTableMgr7
+datas (2!.bokura.TalentTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.TalentTableBaseRvalue:8bproto3
+£
+TalentTagTable.protobokuratable_basic.proto"ø
+TalentTagTableBase
+Id∑ (RId
+Desä (	RDes
+TagTypeœ (RTagType
+
+FightResId¥	 (R
+FightResId$
+TagName˛ (2	.mlstringRTagName
+TagIcon (	RTagIcon
+	TagIconBgœ (	R	TagIconBg!
+TagIconMark” (	RTagIconMark(
+	SimpleDesã (2	.mlstringR	SimpleDes)
+
+DetailsDesg (2	.mlstringR
+DetailsDes;
+TalentAssociatedIDÌ
+ (2
+.int_arrayRTalentAssociatedID5
+FantasyHoleListÂ (2
+.int_arrayRFantasyHoleList"•
+TalentTagTableMgr:
+datas (2$.bokura.TalentTagTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.TalentTagTableBaseRvalue:8bproto3
+Ò
+TargetTable.protobokuratable_basic.proto"ô
+TargetTableBase
+Id∑ (RId
+
+TargetType‡ (R
+TargetType
+Num≥ (RNum
+SceneId‚ (RSceneId!
+Param∑	 (2
+.int_arrayRParam
+	TargetPosﬁ (	R	TargetPos!
+IsTeamShareÖ (RIsTeamShare(
+	TargetDesˇ	 (2	.mlstringR	TargetDes&
+IsShowProgress8 (RIsShowProgress0
+
+SpVariableò (2.mlstring_arrayR
+SpVariable:
+SpVariableLimitª (2.mlstring_arrayRSpVariableLimit8
+SpVariableName÷ (2.mlstring_arrayRSpVariableNameG
+IsShowSpVariableProgress† (2
+.int_arrayRIsShowSpVariableProgress"ú
+TargetTableMgr7
+datas (2!.bokura.TargetTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.TargetTableBaseRvalue:8bproto3
+«
+TargetTrackTable.protobokura"Ó
+TargetTrackTableBase
+Id∑ (RId
+Type° (	RType
+Team‘ (RTeam
+
+SceneTrackÍ (R
+SceneTrack
+MapTrack≥ (RMapTrack%
+StartDistance‰ (RStartDistance!
+EndDistanceè (REndDistance
+IconÅ	 (	RIcon"´
+TargetTrackTableMgr<
+datas (2&.bokura.TargetTrackTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.TargetTrackTableBaseRvalue:8bproto3
+Ÿ
+TeamTargetTable.protobokuratable_basic.proto"Ò
+TeamTargetTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName%
+HasFatherType–
+ (RHasFatherType
+
+BelongTypeà (R
+BelongType
+	TimeCycleá (	R	TimeCycle
+TimeŸ (	RTime
+
+FunctionID“ (R
+FunctionID-
+RelativeDungeonId¿
+ (RRelativeDungeonId3
+MemberCountStopMatch∆ (RMemberCountStopMatch
+SortÎ (RSort
+IconÅ	 (	RIcon"®
+TeamTargetTableMgr;
+datas (2%.bokura.TeamTargetTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.TeamTargetTableBaseRvalue:8bproto3
+˝
+TempAttrTable.protobokuratable_basic.proto"ù
+TempAttrTableBase
+Id∑ (RId
+Name∑ (	RName
+Desc° (	RDesc
+AttrType˘ (RAttrType
+	LogicType∆ (R	LogicType*
+
+AttrParams
+ (2
+.int_arrayR
+AttrParams
+
+LowerLimitª
+ (R
+LowerLimit
+
+UpperLimitœ (R
+UpperLimit#
+IsSyncClient (RIsSyncClient"¢
+TempAttrTableMgr9
+datas (2#.bokura.TempAttrTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.TempAttrTableBaseRvalue:8bproto3
+¯
+TextDescription.protobokuratable_basic.proto"ê
+TextDescriptionBase
+Id∑ (RId
+Textù (2	.mlstringRText+
+DescriptionK (2	.mlstringRDescription
+ShowRuleÃ (RShowRule"®
+TextDescriptionMgr;
+datas (2%.bokura.TextDescriptionMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.TextDescriptionBaseRvalue:8bproto3
+Ç
+TimerTable.protobokura"¡
+TimerTableBase
+Id∑ (RId
+	starttime”	 (	R	starttime
+endtimeá (	Rendtime
+typeß (Rtype
+offset˙ (	Roffset
+duration∏ (	Rduration
+command„ (	Rcommand"ô
+TimerTableMgr6
+datas (2 .bokura.TimerTableMgr.DatasEntryRdatasP
+
+DatasEntry
+key (Rkey,
+value (2.bokura.TimerTableBaseRvalue:8bproto3
+€
+TimeScaleShowDataTable.protobokura"Í
+TimeScaleShowDataTableBase
+Id∑ (RId
+Start¶ (RStart
+Duration† (RDuration
+Endá (REnd
+
+IsAttackerò (R
+IsAttacker
+StateId¥ (RStateId
+GroupIdƒ (RGroupId
+	TimeScale∑ (R	TimeScale"Ω
+TimeScaleShowDataTableMgrB
+datas (2,.bokura.TimeScaleShowDataTableMgr.DatasEntryRdatas\
+
+DatasEntry
+key (Rkey8
+value (2".bokura.TimeScaleShowDataTableBaseRvalue:8bproto3
+Ê
+TransferTable.protobokuratable_basic.proto"Ü
+TransferTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+PivotIdî
+ (RPivotId,
+TransferDec– (2	.mlstringRTransferDec
+
+ScenePointë (R
+ScenePoint%
+AwardId≠	 (2
+.int_arrayRAwardId
+IsOn (RIsOn
+SceneTagÉ (RSceneTag"¢
+TransferTableMgr9
+datas (2#.bokura.TransferTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.TransferTableBaseRvalue:8bproto3
+©	
+TrapEntityTable.protobokuratable_basic.proto"¡
+TrapEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable%
+OverrideScaleï
+ (ROverrideScale
+EntMask… (REntMask
+
+AlertRangeµ (R
+AlertRange7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition!
+IsNotGround— (RIsNotGround
+IsStatic˝ (RIsStatic%
+VisualLayerIdÛ (RVisualLayerId
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState"®
+TrapEntityTableMgr;
+datas (2%.bokura.TrapEntityTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.TrapEntityTableBaseRvalue:8bproto3
+Ù
+TrapTable.protobokuratable_basic.proto"§
+TrapTableBase
+Id∑ (RId
+Name∑ (	RName
+SkillIdø (RSkillId%
+BuffIds¸ (2
+.int_arrayRBuffIds#
+TriggerRangeË (RTriggerRange!
+AttributeId° (RAttributeId
+ModelId´ (RModelId'
+LifeInfoú (2
+.int_arrayRLifeInfo
+TagsË (2
+.int_arrayRTags"ñ
+TrapTableMgr5
+datas (2.bokura.TrapTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.TrapTableBaseRvalue:8bproto3
+≥
+UnionEventTable.protobokuratable_basic.proto"L
+UnionEventTableBase
+Id∑ (RId$
+Contentè (2	.mlstringRContent"®
+UnionEventTableMgr;
+datas (2%.bokura.UnionEventTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.UnionEventTableBaseRvalue:8bproto3
+ø
+UnionIconTable.protobokura"Ó
+UnionIconTableBase
+Id∑ (RId
+Type° (RType%
+ShowIconRoute« (	RShowIconRoute%
+ResourceRouteè (	RResourceRoute
+ShowSort‚ (RShowSort
+Colourﬂ (RColour
+LimitÄ (RLimit
+IsHideª (RIsHide"•
+UnionIconTableMgr:
+datas (2$.bokura.UnionIconTableMgr.DatasEntryRdatasT
+
+DatasEntry
+key (Rkey0
+value (2.bokura.UnionIconTableBaseRvalue:8bproto3
+È
+UnionManageTable.protobokuratable_basic.proto"˝
+UnionManageTableBase
+Id∑ (RId&
+PositionÆ (2	.mlstringRPosition!
+PositionNum¯ (RPositionNum1
+UnionManage” (2.vector3_arrayRUnionManage
+ShowSort‚ (RShowSort9
+UnionAuthoritySit¶ (2
+.int_arrayRUnionAuthoritySit"´
+UnionManageTableMgr<
+datas (2&.bokura.UnionManageTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.UnionManageTableBaseRvalue:8bproto3
+É
+UnionTagTable.protobokura"∂
+UnionTagTableBase
+Id∑ (RId
+Type° (RType#
+ShowTagRoute˚ (	RShowTagRoute 
+DescriptionK (	RDescription
+ShowSort‚ (RShowSort
+IsHideª (RIsHide"¢
+UnionTagTableMgr9
+datas (2#.bokura.UnionTagTableMgr.DatasEntryRdatasS
+
+DatasEntry
+key (Rkey/
+value (2.bokura.UnionTagTableBaseRvalue:8bproto3
+‹
+VisualLayer.protobokuratable_basic.proto"Ñ
+VisualLayerBase
+Id∑ (RId)
+VisualLayerType¸ (RVisualLayerType
+MainUi (RMainUi1
+ReviveTableIdå (2
+.int_arrayRReviveTableId,
+	AudioBankÑ (2.string_arrayR	AudioBank
+Bgm” (	RBgm)
+	BlackMaskè (2
+.int_arrayR	BlackMask"ú
+VisualLayerMgr7
+datas (2!.bokura.VisualLayerMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.VisualLayerBaseRvalue:8bproto3
+É
+VoxelExportTable.protobokuratable_basic.proto"ó
+VoxelExportTableBase
+Id∑ (RId
+Name∑ (	RName%
+SceneFilePathª (	RSceneFilePath2
+CubePosition≈ (2.number_arrayRCubePosition2
+ColliderSize€ (2.number_arrayRColliderSize
+
+HasTerrain˚ (R
+HasTerrain)
+TerrainFilePathÇ (	RTerrainFilePath"´
+VoxelExportTableMgr<
+datas (2&.bokura.VoxelExportTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.VoxelExportTableBaseRvalue:8bproto3
+ñ
+WeaponAttrTable.protobokuratable_basic.proto"Æ
+WeaponAttrTableBase
+Id∑ (RId
+WeaponIDû (RWeaponID
+Level‡ (RLevel'
+BaseAttr≈ (2
+.int_tableRBaseAttr)
+	ExtraAttr∂ (2
+.int_tableR	ExtraAttr"®
+WeaponAttrTableMgr;
+datas (2%.bokura.WeaponAttrTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.WeaponAttrTableBaseRvalue:8bproto3
+¢
+WeaponForgeTable.protobokuratable_basic.proto"∂
+WeaponForgeTableBase
+Id∑ (RId
+Name∑ (	RName/
+ConsumableId≤ (2
+.int_tableRConsumableId2
+ConsumableGold (2
+.int_arrayRConsumableGold
+SortÎ (RSort"´
+WeaponForgeTableMgr<
+datas (2&.bokura.WeaponForgeTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.WeaponForgeTableBaseRvalue:8bproto3
+∑
+WeaponLevelTable.protobokuratable_basic.proto"À
+WeaponLevelTableBase
+Id∑ (RId
+Exp  (RExp
+BrokeÀ (RBroke)
+	ItemPrice™ (2
+.int_tableR	ItemPrice'
+ExtrCost¸
+ (2
+.int_tableRExtrCost$
+SkillMaxLevelo (RSkillMaxLevel"´
+WeaponLevelTableMgr<
+datas (2&.bokura.WeaponLevelTableMgr.DatasEntryRdatasV
+
+DatasEntry
+key (Rkey2
+value (2.bokura.WeaponLevelTableBaseRvalue:8bproto3
+ï
+WeaponSkinTable.protobokuratable_basic.proto"≠
+WeaponSkinTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon 
+Intro‰ (2	.mlstringRIntro1
+WeaponModelId≠ (2
+.int_arrayRWeaponModelId
+WeaponId∏ (RWeaponId
+Originalä (ROriginal
+UnlockÇ (RUnlock(
+	UnlockDes« (2	.mlstringR	UnlockDes"®
+WeaponSkinTableMgr;
+datas (2%.bokura.WeaponSkinTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.WeaponSkinTableBaseRvalue:8bproto3
+ı
+WeaponStarTable.protobokuratable_basic.proto"ç
+WeaponStarTableBase
+Id∑ (RId
+WeaponId∏ (RWeaponId
+SkillIdø (RSkillId4
+UlockSkillLevel< (2
+.int_tableRUlockSkillLevel!
+ChangeSkillÅ (RChangeSkill-
+UpgradeCostó (2
+.int_tableRUpgradeCost7
+UpgradeExtraCostÜ (2
+.int_tableRUpgradeExtraCost
+BuffIDÙ (RBuffID%
+BuffParò (2
+.int_arrayRBuffPar3
+UpgradeSkillIdô (2
+.int_arrayRUpgradeSkillId9
+UpgradeSkillLevelÇ (2
+.int_arrayRUpgradeSkillLevel
+Name∑ (2	.mlstringRName
+Desä (2	.mlstringRDes"®
+WeaponStarTableMgr;
+datas (2%.bokura.WeaponStarTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.WeaponStarTableBaseRvalue:8bproto3
+≈
+WeaponTable.protobokuratable_basic.proto"Ì
+WeaponTableBase
+Id∑ (RId
+Name∑ (2	.mlstringRName
+IconÅ	 (	RIcon 
+Story°
+ (2	.mlstringRStory 
+Intro‰ (2	.mlstringRIntro#
+TalentÌ (2
+.int_arrayRTalent
+Element£ (RElement?
+WeaponBrokeExtraItemØ
+ (2
+.int_tableRWeaponBrokeExtraItem=
+WeaponStarExtraItem‡	 (2
+.int_tableRWeaponStarExtraItem?
+WeaponSkillExtraItemÇ (2
+.int_tableRWeaponSkillExtraItem
+IsClose (RIsClose2
+CommonSkillIdsL (2
+.int_arrayRCommonSkillIds#
+HasSecondary° (RHasSecondary
+ModelId´ (RModelId1
+WeaponModelId≠ (2
+.int_arrayRWeaponModelId
+
+TimelineId∆ (R
+TimelineId*
+ModelPos· (2.number_tableRModelPos*
+ModelRot≈ (2.number_tableRModelRot$
+Model• (2.string_arrayRModel#
+AnimTemplate‹	 (	RAnimTemplate$
+Mountñ (2.string_tableRMount0
+MountOffsetì (2.number_tableRMountOffset*
+MountRot¸ (2.number_tableRMountRot.
+
+WeaponIdle§ (2.string_tableR
+WeaponIdle'
+SkillIdsÿ (2
+.int_arrayRSkillIds7
+AcquiredSkillIdsÜ (2
+.int_arrayRAcquiredSkillIds3
+WearedSkillIds± (2
+.int_tableRWearedSkillIds4
+SkillIdsVideoõ (2.string_tableRSkillIdsVideo5
+SpecialSkillIds⁄ (2
+.int_tableRSpecialSkillIds
+
+SkySkillId˝
+ (R
+SkySkillId/
+FightResTemplateIdò (RFightResTemplateId#
+WhackSkillId∞ (RWhackSkillId1
+WhackTakeEffectTimeµ (RWhackTakeEffectTime'
+PassiveSkillIdÃ (RPassiveSkillId)
+SpacingDistance∑ (RSpacingDistance>
+ChangeWeaponActionÃ (2.string_arrayRChangeWeaponAction
+STRange‹ (RSTRange
+STAngle (RSTAngle%
+STSphereRangeô (RSTSphereRange+
+STDistanceWeight˛ (RSTDistanceWeight%
+STAngleWeight¶ (RSTAngleWeight;
+STCloseDistanceThresholdÍ (RSTCloseDistanceThreshold%
+STCancelRangeÅ (RSTCancelRange'
+STCheckEndTimeñ (RSTCheckEndTime3
+SupTargetEffectRange≠
+ (RSupTargetEffectRange)
+LockCancelRangeÙ (RLockCancelRange+
+FocusCancelRange≤
+ (RFocusCancelRange,
+FocusCheckEndTime (RFocusCheckEndTime;
+BattleRushMaxChargeCountá (RBattleRushMaxChargeCount3
+BattleRushChargeTimeî (RBattleRushChargeTime6
+DodgeStartTime¿ (2.number_arrayRDodgeStartTime'
+DodgeCountDownﬁ (RDodgeCountDown!
+RushSkillIdê
+ (RRushSkillId%
+RushBreakTimeÁ (RRushBreakTime1
+RushAnimTime (2.number_arrayRRushAnimTime=
+RushPerformanceBuffÆ (2
+.int_arrayRRushPerformanceBuff5
+DodgeClientBuff∏ (2
+.int_arrayRDodgeClientBuff,
+	RushCurveç
+ (2.string_arrayR	RushCurve/
+TakeWeaponInBattle¨ (RTakeWeaponInBattle!
+BasicHitTag¶ (RBasicHitTag
+TagsË (2
+.int_arrayRTags9
+FightbackSkillIds‡ (2
+.int_arrayRFightbackSkillIds
+	PassiveId¬ (R	PassiveId1
+DodgeInvincibleTimeÊ (RDodgeInvincibleTime/
+EffectSwitch® (2
+.int_tableREffectSwitchK
+BattleRushOriginEnergyCostÍ (2
+.int_arrayRBattleRushOriginEnergyCost
+CreateË (RCreate
+Factorº (RFactor
+
+ObtainTipsï
+ (R
+ObtainTips
+Index¯
+ (RIndex"ú
+WeaponTableMgr7
+datas (2!.bokura.WeaponTableMgr.DatasEntryRdatasQ
+
+DatasEntry
+key (Rkey-
+value (2.bokura.WeaponTableBaseRvalue:8bproto3
+∞
+WindTunnelTable.protobokura"\
+WindTunnelTableBase
+Id∑ (RId
+Name∑ (	RName
+
+EffectPathÄ (	R
+EffectPath"®
+WindTunnelTableMgr;
+datas (2%.bokura.WindTunnelTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.WindTunnelTableBaseRvalue:8bproto3
+∞
+WorldEventAwardTable.protobokura"H
+WorldEventAwardTableBase
+Score£ (RScore
+Awardª (RAward"∑
+WorldEventAwardTableMgr@
+datas (2*.bokura.WorldEventAwardTableMgr.DatasEntryRdatasZ
+
+DatasEntry
+key (Rkey6
+value (2 .bokura.WorldEventAwardTableBaseRvalue:8bproto3
+≤
+WorldEventTable.protobokuratable_basic.proto" 
+WorldEventTableBase
+EventIdå (REventId
+Name∑ (	RName
+	EventTypeÀ
+ (R	EventType
+Score£ (RScore
+TimerIdæ (RTimerId
+
+NoticeTimeŸ (R
+NoticeTime
+Cycle∫ (RCycle
+LastTimeÁ (RLastTime)
+	EventForm‹ (2
+.int_arrayR	EventForm
+CountÈ (RCount
+Alert« (RAlert
+Awardª (RAward)
+	FullAward‡ (2
+.int_tableR	FullAward#
+StartMessageÜ (RStartMessage
+	PhaseTime≈ (	R	PhaseTime"®
+WorldEventTableMgr;
+datas (2%.bokura.WorldEventTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.WorldEventTableBaseRvalue:8bproto3
+Á
+ZoneEntityGlobalTable.protobokuratable_basic.proto"Á
+ZoneEntityGlobalTableBase
+UIdÏ (RUId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation
+
+OptionData’ (	R
+OptionData,
+	ZoneParamº (2.number_arrayR	ZoneParam
+
+SourceType¸ (R
+SourceType"∫
+ZoneEntityGlobalTableMgrA
+datas (2+.bokura.ZoneEntityGlobalTableMgr.DatasEntryRdatas[
+
+DatasEntry
+key (Rkey7
+value (2!.bokura.ZoneEntityGlobalTableBaseRvalue:8bproto3
+À
+ZoneEntityTable.protobokuratable_basic.proto"„
+ZoneEntityTableBase
+UIdÏ (RUId
+Id∑ (RId
+GroupIdƒ (RGroupId*
+PositionÆ (2.number_arrayRPosition
+Rotationè (RRotation!
+RefreshModeÊ (RRefreshMode+
+RefreshAfterDiedÀ (RRefreshAfterDied-
+ConstPointRefresh´ (RConstPointRefresh)
+RefreshRangeMinî (RRefreshRangeMin)
+RefreshRangeMax§ (RRefreshRangeMax/
+MultiPointsRefreshÄ (RMultiPointsRefresh4
+RefreshPoints· (2.number_arrayRRefreshPoints'
+RefreshTimeMinÇ (RRefreshTimeMin'
+RefreshTimeMaxˇ (RRefreshTimeMax
+CampIdÖ (RCampId
+Visibleî (RVisible
+Usable· (RUsable
+Shapeà	 (RShape,
+	ZoneParamº (2.number_arrayR	ZoneParam
+DataType™ (RDataType!
+ExportVoxel» (RExportVoxel
+	VoxelPath≤ (	R	VoxelPath)
+SpaceLayerIndexè (RSpaceLayerIndex
+
+OptionData’ (	R
+OptionData!
+ScaleEffect® (RScaleEffect
+EntMask… (REntMask7
+RefreshConditionƒ (2
+.int_tableRRefreshCondition'
+InsightVisible± (RInsightVisible%
+IsSoftAirWallﬂ (RIsSoftAirWall-
+IgnoreVisualLayer« (RIgnoreVisualLayer
+	RotationXî (R	RotationX
+	RotationZ (R	RotationZ
+TestDesc@ (	RTestDesc%
+IgnoreFarCullœ (RIgnoreFarCull%
+VisualLayerIdÛ (RVisualLayerId
+
+SourceType¸ (R
+SourceType#
+DefaultState¯ (RDefaultState=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent
+ZoneType— (RZoneType"®
+ZoneEntityTableMgr;
+datas (2%.bokura.ZoneEntityTableMgr.DatasEntryRdatasU
+
+DatasEntry
+key (Rkey1
+value (2.bokura.ZoneEntityTableBaseRvalue:8bproto3
+º
+ZoneTable.protobokuratable_basic.proto"Ï
+ZoneTableBase
+Id∑ (RId
+Name∑ (	RName
+ModelID€ (RModelID
+
+EffectPathÄ (	R
+EffectPath+
+
+StatusInfoª (2
+.int_tableR
+StatusInfo6
+StatusTransitionm (2
+.int_tableRStatusTransition#
+DefaultState¯ (RDefaultState=
+InteractionTemplateí (2
+.int_tableRInteractionTemplate:
+InteractionEventø
+ (2.string_arrayRInteractionEvent3
+ShowStatusInfo¡ (2
+.int_tableRShowStatusInfo?
+ShowStatusTransitionÎ (2
+.int_tableRShowStatusTransition"ñ
+ZoneTableMgr5
+datas (2.bokura.ZoneTableMgr.DatasEntryRdatasO
+
+DatasEntry
+key (Rkey+
+value (2.bokura.ZoneTableBaseRvalue:8bproto3
+∂
+table_config_option.prototable_config google/protobuf/descriptor.proto"D
+MessageTable
+msg_type (	RmsgType
+pbs_path (	RpbsPath"4
+SecondaryKey
+id (Rid
+index (Rindex"õ
+TableConfigFieldOption
+primary_key (R
+primaryKey
+
+non_unique (R	nonUniqueA
+secondary_keys (2.table_config.SecondaryKeyRsecondaryKeys:Z
+	msg_table.google.protobuf.MessageOptions¢ (2.table_config.MessageTableRmsgTable:k
+field_option.google.protobuf.FieldOptions‘£ (2$.table_config.TableConfigFieldOptionRfieldOptionàbproto3

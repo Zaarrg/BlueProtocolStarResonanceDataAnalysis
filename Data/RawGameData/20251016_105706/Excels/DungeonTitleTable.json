@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Monster Exterminator",
+    "Content": "Most Monsters Defeated",
+    "Weight": 50
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Final Blow",
+    "Content": "Deal the Final Blow to the Boss",
+    "Weight": 30
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Highest Output",
+    "Content": "Highest Damage Output",
+    "Weight": 50
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Cautious Person",
+    "Content": "Never Defeated",
+    "Weight": 10
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Reckless One",
+    "Content": "Most Dissipations",
+    "Weight": 10
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Highest Damage Taken",
+    "Content": "Most Damage Taken",
+    "Weight": 50
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Highest Healing",
+    "Content": "Most Healing",
+    "Weight": 50
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "1": {
+    "Id": 1,
+    "TypeDes": "Daily",
+    "Icon": "ui/atlas/planetmemory/planetmemory_icon_special",
+    "Sort": 1
+  },
+  "2": {
+    "Id": 2,
+    "TypeDes": "Weekly",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_129",
+    "Sort": 2
+  },
+  "3": {
+    "Id": 3,
+    "TypeDes": "Challenge",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_202",
+    "Sort": 4
+  },
+  "4": {
+    "Id": 4,
+    "TypeDes": "Explore",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_204",
+    "Sort": 5
+  },
+  "5": {
+    "Id": 5,
+    "TypeDes": "Leisure",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_206",
+    "Sort": 3
+  }
+}

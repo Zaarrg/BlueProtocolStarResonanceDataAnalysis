@@ -1,0 +1,1658 @@
+{
+  "40000": {
+    "Id": 40000,
+    "Name": "Central District",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "40001": {
+    "Id": 40001,
+    "Name": "Port Town",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "40002": {
+    "Id": 40002,
+    "Name": "Entertainment District",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "40003": {
+    "Id": 40003,
+    "Name": "Cathedral Shrine",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "40004": {
+    "Id": 40004,
+    "Name": "North Plaza",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "40100": {
+    "Id": 40100,
+    "Name": "City Square Second Floor",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80001": {
+    "Id": 80001,
+    "Name": "Central District",
+    "NamePosition": [
+      0.57,
+      0.46
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80002": {
+    "Id": 80002,
+    "Name": "Port Town",
+    "NamePosition": [
+      0.57,
+      0.3
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80003": {
+    "Id": 80003,
+    "Name": "Ocean Hill",
+    "NamePosition": [
+      0.63,
+      0.55
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80004": {
+    "Id": 80004,
+    "Name": "Asterleeds Beach",
+    "NamePosition": [
+      0.67,
+      0.7
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_Beach",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80005": {
+    "Id": 80005,
+    "Name": "Entertainment District",
+    "NamePosition": [
+      0.46,
+      0.67
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80006": {
+    "Id": 80006,
+    "Name": "Arena Town",
+    "NamePosition": [
+      0.296,
+      0.715
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80007": {
+    "Id": 80007,
+    "Name": "Shrine Area",
+    "NamePosition": [
+      0.26,
+      0.47
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80008": {
+    "Id": 80008,
+    "Name": "\"Unit X\" Research Facility",
+    "NamePosition": [
+      0.3,
+      0.57
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80009": {
+    "Id": 80009,
+    "Name": "Artisan Guild",
+    "NamePosition": [
+      0.48,
+      0.36
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80010": {
+    "Id": 80010,
+    "Name": "Central District",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80011": {
+    "Id": 80011,
+    "Name": "Port Town",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80012": {
+    "Id": 80012,
+    "Name": "Shrine Area",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80013": {
+    "Id": 80013,
+    "Name": "Arena Town",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80014": {
+    "Id": 80014,
+    "Name": "Entertainment District",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80015": {
+    "Id": 80015,
+    "Name": "Asterleeds Beach",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_Beach",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80101": {
+    "Id": 80101,
+    "Name": "Pioneer Bureau 2nd Floor",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80102": {
+    "Id": 80102,
+    "Name": "Rooftop",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80201": {
+    "Id": 80201,
+    "Name": "Pioneer Bureau 3rd Floor",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80301": {
+    "Id": 80301,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_Bureau",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80302": {
+    "Id": 80302,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80303": {
+    "Id": 80303,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_Hotel",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80304": {
+    "Id": 80304,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80305": {
+    "Id": 80305,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_Bar",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80306": {
+    "Id": 80306,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_Hotel",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80307": {
+    "Id": 80307,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80098": {
+    "Id": 80098,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.73,
+      0.418
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "80099": {
+    "Id": 80099,
+    "Name": "Underground District",
+    "NamePosition": [
+      0.4,
+      0.315
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70001": {
+    "Id": 70001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70002": {
+    "Id": 70002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70003": {
+    "Id": 70003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70004": {
+    "Id": 70004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70005": {
+    "Id": 70005,
+    "Name": "Scout Lookout Post<br>Lv.1~10",
+    "NamePosition": [
+      0.63,
+      0.34
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70006": {
+    "Id": 70006,
+    "Name": "Cliff Ruins",
+    "NamePosition": [
+      0.48,
+      0.29
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70007": {
+    "Id": 70007,
+    "Name": "Ancient City of Vill<br>Lv.9~20",
+    "NamePosition": [
+      0.375,
+      0.275
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70008": {
+    "Id": 70008,
+    "Name": "Statue of the Hero",
+    "NamePosition": [
+      0.22,
+      0.33
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_StelesOfHeroes",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001,
+      7000002
+    ]
+  },
+  "70009": {
+    "Id": 70009,
+    "Name": "Towering Ruin",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70010": {
+    "Id": 70010,
+    "Name": "Andra Landing Battlefield<br>Lv.16~25",
+    "NamePosition": [
+      0.27,
+      0.42
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70011": {
+    "Id": 70011,
+    "Name": "Kanamia Tribe",
+    "NamePosition": [
+      0.74,
+      0.65
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_Carniman",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70012": {
+    "Id": 70012,
+    "Name": "Minsterhorn",
+    "NamePosition": [
+      0.6,
+      0.52
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_Misthoen",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70013": {
+    "Id": 70013,
+    "Name": "Old Kanamia Tribe",
+    "NamePosition": [
+      0.59,
+      0.6
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_Carniman",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001,
+      7000002
+    ]
+  },
+  "70014": {
+    "Id": 70014,
+    "Name": "Pale Azure Lake",
+    "NamePosition": [
+      0.62,
+      0.65
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70015": {
+    "Id": 70015,
+    "Name": "Ruins of Andra City<br>Lv.53~60",
+    "NamePosition": [
+      0.35,
+      0.67
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70016": {
+    "Id": 70016,
+    "Name": "Muku Camp<br>Lv.39~45",
+    "NamePosition": [
+      0.74,
+      0.5
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70017": {
+    "Id": 70017,
+    "Name": "Andra Resting Post",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70018": {
+    "Id": 70018,
+    "Name": "Brigand Camp<br>Lv.29~35",
+    "NamePosition": [
+      0.46,
+      0.54
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70019": {
+    "Id": 70019,
+    "Name": "Skyquake Fields",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70020": {
+    "Id": 70020,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70021": {
+    "Id": 70021,
+    "Name": "Andra Landing Battlefield<br>Lv.16~25",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70022": {
+    "Id": 70022,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70023": {
+    "Id": 70023,
+    "Name": "Kanamia Tribe",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_Carniman",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70024": {
+    "Id": 70024,
+    "Name": "Muku Camp<br>Lv.39~45",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70025": {
+    "Id": 70025,
+    "Name": "Scout Lookout Post<br>Lv.1~10",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70026": {
+    "Id": 70026,
+    "Name": "Skyquake Fields",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70027": {
+    "Id": 70027,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_CliffRuins",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70028": {
+    "Id": 70028,
+    "Name": "Ancient City of Vill<br>Lv.9~20",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_ValeCitadel",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70029": {
+    "Id": 70029,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_StelesOfHeroes",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70030": {
+    "Id": 70030,
+    "Name": "Ruins of Andra City<br>Lv.53~60",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001
+    ]
+  },
+  "70101": {
+    "Id": 70101,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_CliffRuins",
+    "ReverEvent": "Reverb_Cave",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70102": {
+    "Id": 70102,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_AndraCave",
+    "ReverEvent": "Reverb_Cave",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70103": {
+    "Id": 70103,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_DuskbloodFort",
+    "ReverEvent": "Reverb_Cave",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70104": {
+    "Id": 70104,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70105": {
+    "Id": 70105,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_CarnimanRuins",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70106": {
+    "Id": 70106,
+    "Name": "Dark Mist Fortress",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70096": {
+    "Id": 70096,
+    "Name": "Skimmer's Lair",
+    "NamePosition": [
+      0.315,
+      0.16
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Underwater_Area_A",
+    "ReverEvent": "Reverb_Cave",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70097": {
+    "Id": 70097,
+    "Name": "Windhowl Canyon",
+    "NamePosition": [
+      0.855,
+      0.672
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Dragonscar_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70098": {
+    "Id": 70098,
+    "Name": "Asterleeds",
+    "NamePosition": [
+      0.545,
+      0.21
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Cty001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "70099": {
+    "Id": 70099,
+    "Name": "Duskdye Woods",
+    "NamePosition": [
+      0.52,
+      0.735
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_North_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "710001": {
+    "Id": 710001,
+    "Name": "Duskdye Woods <br>Lv.60",
+    "NamePosition": [
+      0.6,
+      0.53
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_North_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7000001,
+      7000002
+    ]
+  },
+  "710002": {
+    "Id": 710002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_North_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "710098": {
+    "Id": 710098,
+    "Name": "Everfall Forest",
+    "NamePosition": [
+      0.78,
+      0.47
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_East_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "710099": {
+    "Id": 710099,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.203,
+      0.495
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "720001": {
+    "Id": 720001,
+    "Name": "Everfall Forest<br>Lv.60",
+    "NamePosition": [
+      0.5,
+      0.51
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_East_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": [
+      7920060
+    ]
+  },
+  "720099": {
+    "Id": 720099,
+    "Name": "Duskdye Woods",
+    "NamePosition": [
+      0.165,
+      0.49
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_North_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "730001": {
+    "Id": 730001,
+    "Name": "Windhowl Canyon<br>Lv.46~55",
+    "NamePosition": [
+      0.5,
+      0.38
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Dragonscar_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "730002": {
+    "Id": 730002,
+    "Name": "Windhowl Canyon<br>Lv.46~55",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Dragonscar_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "730099": {
+    "Id": 730099,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.298,
+      0.14
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "740001": {
+    "Id": 740001,
+    "Name": "Underground District<br>Lv.24~40",
+    "NamePosition": [
+      0.533,
+      0.455
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Underground_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "740099": {
+    "Id": 740099,
+    "Name": "Asterleeds",
+    "NamePosition": [
+      0.226,
+      0.427
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "750001": {
+    "Id": 750001,
+    "Name": "Skimmer's Lair<br>Lv.60",
+    "NamePosition": [
+      0.518,
+      0.509
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Underwater_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "750002": {
+    "Id": 750002,
+    "Name": "Skimmer's Lair<br>Lv.60",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Underwater_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "750003": {
+    "Id": 750003,
+    "Name": "Skimmer's Lair<br>Lv.60",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Underwater_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "750098": {
+    "Id": 750098,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.785,
+      0.762
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "750099": {
+    "Id": 750099,
+    "Name": "Asteria Plains",
+    "NamePosition": [
+      0.772,
+      0.306
+    ],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Fld001_Area_General",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11010001": {
+    "Id": 11010001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11010002": {
+    "Id": 11010002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11010003": {
+    "Id": 11010003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11010004": {
+    "Id": 11010004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11020001": {
+    "Id": 11020001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11020002": {
+    "Id": 11020002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11020003": {
+    "Id": 11020003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11020004": {
+    "Id": 11020004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11210001": {
+    "Id": 11210001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11210002": {
+    "Id": 11210002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11210003": {
+    "Id": 11210003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11210004": {
+    "Id": 11210004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11110001": {
+    "Id": 11110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11110002": {
+    "Id": 11110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11110003": {
+    "Id": 11110003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11110004": {
+    "Id": 11110004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11220001": {
+    "Id": 11220001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11220002": {
+    "Id": 11220002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11220003": {
+    "Id": 11220003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11220004": {
+    "Id": 11220004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11120001": {
+    "Id": 11120001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11120002": {
+    "Id": 11120002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11120003": {
+    "Id": 11120003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11120004": {
+    "Id": 11120004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11130001": {
+    "Id": 11130001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11130002": {
+    "Id": 11130002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11130003": {
+    "Id": 11130003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11130004": {
+    "Id": 11130004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11140001": {
+    "Id": 11140001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11140002": {
+    "Id": 11140002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11140003": {
+    "Id": 11140003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_C",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "11140004": {
+    "Id": 11140004,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng002_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12010001": {
+    "Id": 12010001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12010002": {
+    "Id": 12010002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12010003": {
+    "Id": 12010003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12020001": {
+    "Id": 12020001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12020002": {
+    "Id": 12020002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12020003": {
+    "Id": 12020003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12110001": {
+    "Id": 12110001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12110002": {
+    "Id": 12110002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12110003": {
+    "Id": 12110003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12120001": {
+    "Id": 12120001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12120002": {
+    "Id": 12120002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12120003": {
+    "Id": 12120003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12210001": {
+    "Id": 12210001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12210002": {
+    "Id": 12210002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12210003": {
+    "Id": 12210003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12220001": {
+    "Id": 12220001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12220002": {
+    "Id": 12220002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12220003": {
+    "Id": 12220003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12230001": {
+    "Id": 12230001,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_A",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12230002": {
+    "Id": 12230002,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_B",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "12230003": {
+    "Id": 12230003,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "BGM_Dng1201_Area_Boss",
+    "ReverEvent": "Reverb_Normal",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "120500001": {
+    "Id": 120500001,
+    "Name": "Right Arm Assault Platform",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "120500002": {
+    "Id": 120500002,
+    "Name": "Legs Assault Platform",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "120500003": {
+    "Id": 120500003,
+    "Name": "Head Assault Platform",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "120500004": {
+    "Id": 120500004,
+    "Name": "Cannon Fire Corridor",
+    "NamePosition": [],
+    "RegionType": 0,
+    "BgmEvent": "",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "130101": {
+    "Id": 130101,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Dng1301_Area_A",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  },
+  "130102": {
+    "Id": 130102,
+    "Name": "BGM_Cty001_Area_General",
+    "NamePosition": [],
+    "RegionType": 1,
+    "BgmEvent": "BGM_Dng1301_Area_B",
+    "ReverEvent": "",
+    "AmbEvent": [],
+    "EnvClientBuffArray": []
+  }
+}

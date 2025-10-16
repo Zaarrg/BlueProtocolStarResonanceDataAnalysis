@@ -1,0 +1,122 @@
+{
+  "1": {
+    "Id": 1,
+    "BuildingName": "Guild Center",
+    "BuildingTxt": "Guild Center, once crowdfunding is initiated, all players in the Guild can enter. Upgrading the Guild Center unlocks more content.",
+    "Picture": "ui/textures/union_2/union_device",
+    "SmallPicture": "ui/textures/union_2/union_linshi",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4001
+    ],
+    "Sort": 1
+  },
+  "2": {
+    "Id": 2,
+    "BuildingName": "Boon Fountain",
+    "BuildingTxt": "Activate the Boon Fountain, all Guild members can enjoy the blessings, requires daily activation by the Guild administrator.",
+    "Picture": "ui/textures/union_2/union_device04",
+    "SmallPicture": "ui/textures/union_2/union_linshi04",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      90
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4002
+    ],
+    "Sort": 4
+  },
+  "3": {
+    "Id": 3,
+    "BuildingName": "Practice Room",
+    "BuildingTxt": "Let's practice the new skills we just learned!",
+    "Picture": "ui/textures/union_2/union_device05",
+    "SmallPicture": "ui/textures/union_2/union_linshi05",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      7
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4003
+    ],
+    "Sort": 8
+  },
+  "4": {
+    "Id": 4,
+    "BuildingName": "Leisure Area",
+    "BuildingTxt": "Upgrade the leisure area to accommodate more guild members!",
+    "Picture": "ui/textures/union_2/union_device06",
+    "SmallPicture": "ui/textures/union_2/union_linshi06",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      10
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4004
+    ],
+    "Sort": 2
+  },
+  "5": {
+    "Id": 5,
+    "BuildingName": "Grocery Store",
+    "BuildingTxt": "Use Guild Token to exchange items at the guild store!",
+    "Picture": "ui/textures/union_2/union_device03",
+    "SmallPicture": "ui/textures/union_2/union_linshi03",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      11
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4005
+    ],
+    "Sort": 3
+  },
+  "6": {
+    "Id": 6,
+    "BuildingName": "Photo Panel",
+    "BuildingTxt": "Upgrade the Photo Panel to customize images, go take some photos!",
+    "Picture": "ui/textures/union_2/union_device02",
+    "SmallPicture": "ui/textures/union_2/union_linshi02",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      91
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [
+      4006
+    ],
+    "Sort": 5
+  },
+  "7": {
+    "Id": 7,
+    "BuildingName": "ID Machine",
+    "BuildingTxt": "A machine used to customize avatars and Namecard photos. Put on your favorite outfit to create a personalized avatar and Namecard photo!",
+    "Picture": "ui/textures/union_2/union_device10",
+    "SmallPicture": "ui/textures/union_2/union_linshi10",
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      12000,
+      2,
+      103
+    ],
+    "Unlock": [],
+    "CameraTemplateId": [],
+    "Sort": 6
+  }
+}

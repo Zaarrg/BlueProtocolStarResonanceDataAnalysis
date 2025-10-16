@@ -1,0 +1,101 @@
+{
+  "51001": {
+    "Id": 51001,
+    "Name": "Cliff Ruins Breakpoint",
+    "PivotId": 50001,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51002": {
+    "Id": 51002,
+    "Name": "Statue of the Hero Breakpoint",
+    "PivotId": 50002,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51003": {
+    "Id": 51003,
+    "Name": "Dark Mist Fortress Breakpoint",
+    "PivotId": 50003,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51004": {
+    "Id": 51004,
+    "Name": "Minsterhorn Breakpoint",
+    "PivotId": 50004,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51005": {
+    "Id": 51005,
+    "Name": "Kanamia Tribe Breakpoint",
+    "PivotId": 50005,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51006": {
+    "Id": 51006,
+    "Name": "Duskdye Woods Breakpoint",
+    "PivotId": 50006,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51007": {
+    "Id": 51007,
+    "Name": "Everfall Forest Breakpoint",
+    "PivotId": 50007,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51008": {
+    "Id": 51008,
+    "Name": "Windhowl Canyon Breakpoint",
+    "PivotId": 50008,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  },
+  "51009": {
+    "Id": 51009,
+    "Name": "Underground District Breakpoint",
+    "PivotId": 50009,
+    "Button": "Resonate",
+    "RemindRadius": {
+      "x": 10.0,
+      "y": 300.0
+    },
+    "InteractionTemplate": 2002
+  }
+}

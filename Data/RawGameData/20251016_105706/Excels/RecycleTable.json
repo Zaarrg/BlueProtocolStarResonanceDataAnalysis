@@ -1,0 +1,129 @@
+{
+  "101": {
+    "Id": 101,
+    "Name": "Ocean Garbage Recycling",
+    "SystemId": 106101,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      503222
+    ],
+    "CurrencyDisplay": [
+      10002
+    ]
+  },
+  "102": {
+    "Id": 102,
+    "Name": "Fashion Recycling",
+    "SystemId": 106102,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4008
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504020
+    ],
+    "CurrencyDisplay": [
+      1070011
+    ]
+  },
+  "103": {
+    "Id": 103,
+    "Name": "Battle Will Recovery.",
+    "SystemId": 106103,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4015
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      3226
+    ],
+    "CurrencyDisplay": []
+  },
+  "104": {
+    "Id": 104,
+    "Name": "Homestead Certificate Recycle",
+    "SystemId": 106104,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504756
+    ],
+    "CurrencyDisplay": [
+      1070012
+    ]
+  },
+  "105": {
+    "Id": 105,
+    "Name": "Homestead Flower Recycle",
+    "SystemId": 106105,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4027
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      30001,
+      2,
+      3000102
+    ],
+    "CurrencyDisplay": [
+      10010
+    ]
+  },
+  "199": {
+    "Id": 199,
+    "Name": "Wish Recycle",
+    "SystemId": 106199,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4008
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      504020
+    ],
+    "CurrencyDisplay": []
+  },
+  "106": {
+    "Id": 106,
+    "Name": "General Goods Recycling",
+    "SystemId": 106106,
+    "Npc": "",
+    "ShowType": 0,
+    "CameraTemplateId": [
+      4028
+    ],
+    "QuickJumpType": 1,
+    "QuickJumpParam": [
+      8,
+      2,
+      505383
+    ],
+    "CurrencyDisplay": [
+      10008
+    ]
+  }
+}

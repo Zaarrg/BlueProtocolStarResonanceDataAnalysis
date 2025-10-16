@@ -1,0 +1,181 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "Ancient City Patrol",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [],
+    "AdditionalTargetName": [
+      "1. Stay near soldiers to obtain score",
+      "2. Defeat monsters to gain bonus score"
+    ],
+    "AdditionalTarget": [
+      [
+        272,
+        1,
+        7,
+        82
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      3
+    ],
+    "TargetCompleteClientBuff": []
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "Brigand Camp Patrol",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [],
+    "AdditionalTargetName": [
+      "1. Stay near soldiers to obtain score",
+      "2. Defeat monsters to gain bonus score"
+    ],
+    "AdditionalTarget": [
+      [
+        272,
+        1,
+        7,
+        82
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      3
+    ],
+    "TargetCompleteClientBuff": []
+  },
+  "1003": {
+    "Id": 1003,
+    "Name": "Muku Camp Patrol",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [],
+    "AdditionalTargetName": [
+      "1. Stay near soldiers to obtain score",
+      "2. Defeat monsters to gain bonus score"
+    ],
+    "AdditionalTarget": [
+      [
+        272,
+        1,
+        7,
+        82
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      3
+    ],
+    "TargetCompleteClientBuff": []
+  },
+  "2001": {
+    "Id": 2001,
+    "Name": "Dance Novice",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "Stay in target area to obtain score"
+    ],
+    "AdditionalTarget": [
+      [
+        24,
+        1,
+        8,
+        200101
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      15
+    ],
+    "TargetCompleteClientBuff": []
+  },
+  "2002": {
+    "Id": 2002,
+    "Name": "Street Theater",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay in target area to obtain score",
+      "2. Receive 1 vote ticket every 150s",
+      "3. Recipients gain 1 Popularity per vote. Both the voter and the recipient gain extra score.",
+      "4. Your character will ​grow larger​ upon reaching ​5, 10, 15, and 20 Popularity.",
+      "5. Popularity ​clears after 10min. Gaining new Popularity ​resets this timer."
+    ],
+    "AdditionalTarget": [
+      [
+        24,
+        1,
+        8,
+        200201
+      ],
+      [
+        24,
+        1,
+        8,
+        200202
+      ]
+    ],
+    "AdditionalTargetIdleScore": [
+      50,
+      25
+    ],
+    "TargetCompleteClientBuff": []
+  },
+  "2003": {
+    "Id": 2003,
+    "Name": "Starlight Fireworks",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      1,
+      5
+    ],
+    "AdditionalTargetName": [
+      "1. Stay near Gold Nappo and Silver Nappo to obtain score. Each session lasts 10 minutes.",
+      "2. Receive a large amount of Friendship Points, Silver Star Badges, and gear materials for your first participation each day."
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": []
+  },
+  "3001": {
+    "Id": 3001,
+    "Name": "Charming Fish Parade",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "Follow the Parade Leader to obtain score"
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": []
+  },
+  "3002": {
+    "Id": 3002,
+    "Name": "Boarlet Knight Parade",
+    "BubbleType": 1,
+    "TargetScore": 500,
+    "ScoreCycle": [
+      3,
+      5
+    ],
+    "AdditionalTargetName": [
+      "Follow the Parade Leader to obtain score"
+    ],
+    "AdditionalTarget": [],
+    "AdditionalTargetIdleScore": [],
+    "TargetCompleteClientBuff": []
+  }
+}

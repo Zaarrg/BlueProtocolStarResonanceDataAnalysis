@@ -1,0 +1,86 @@
+{
+  "200101": {
+    "Id": 200101,
+    "SortId": 1,
+    "Title": "Level Up",
+    "TextDes": "Adventurer Lv.",
+    "NeedItem": []
+  },
+  "104200": {
+    "Id": 104200,
+    "SortId": 2,
+    "Title": "Talents",
+    "TextDes": "Activate Talents to create your own unique combat style.",
+    "NeedItem": [
+      30001,
+      1020054,
+      1020055,
+      1020056
+    ]
+  },
+  "200500": {
+    "Id": 200500,
+    "SortId": 3,
+    "Title": "Skill Training",
+    "TextDes": "Upgrade and advance Class Skills and Battle Imagines.",
+    "NeedItem": [
+      10008,
+      1020151,
+      1020152,
+      1020153,
+      1020154,
+      1020155,
+      1020156,
+      1020157
+    ]
+  },
+  "100701": {
+    "Id": 100701,
+    "SortId": 4,
+    "Title": "Gear",
+    "TextDes": "Equip high-quality, high-level gear, and perform reforging, refining, and embedding.",
+    "NeedItem": [
+      10008,
+      1022201,
+      1022202,
+      1022203,
+      1022001,
+      1022002,
+      1022005,
+      1022006,
+      1022101,
+      1022102,
+      1022103
+    ]
+  },
+  "800506": {
+    "Id": 800506,
+    "SortId": 5,
+    "Title": "Emblem",
+    "TextDes": "Upgrade the power nodes of the Emblem.",
+    "NeedItem": [
+      1220001,
+      1220002,
+      1220003,
+      20006,
+      10001
+    ]
+  },
+  "104210": {
+    "Id": 104210,
+    "SortId": 6,
+    "Title": "Module",
+    "TextDes": "Equip modules and activate the power core effects.",
+    "NeedItem": [
+      5500101,
+      5500102,
+      5500103,
+      5500201,
+      5500202,
+      5500203,
+      5500301,
+      5500302,
+      5500303
+    ]
+  }
+}

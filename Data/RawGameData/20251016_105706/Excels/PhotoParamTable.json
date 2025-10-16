@@ -1,0 +1,218 @@
+{
+  "70101": {
+    "Id": 70101,
+    "Des": "Take a photo with Hero's Herb",
+    "PointId": 1356,
+    "DistanceTake": {
+      "x": 5.0,
+      "y": 35.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 45.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70103": {
+    "Id": 70103,
+    "Des": "Take a photo at the Statue of the Hero",
+    "PointId": 1428,
+    "DistanceTake": {
+      "x": 25.0,
+      "y": 50.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 65.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70102": {
+    "Id": 70102,
+    "Des": "Take a photo at Towering Ruin",
+    "PointId": 1650,
+    "DistanceTake": {
+      "x": 30.0,
+      "y": 55.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 75.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70104": {
+    "Id": 70104,
+    "Des": "Take a photo at Andra Resting Post",
+    "PointId": 1658,
+    "DistanceTake": {
+      "x": 35.0,
+      "y": 60.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 70.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70105": {
+    "Id": 70105,
+    "Des": "Take a photo at Andra Landing Battlefield",
+    "PointId": 1668,
+    "DistanceTake": {
+      "x": 25.0,
+      "y": 45.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 65.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70106": {
+    "Id": 70106,
+    "Des": "Take a photo at Deep Memorial",
+    "PointId": 1676,
+    "DistanceTake": {
+      "x": 20.0,
+      "y": 35.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 50.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70107": {
+    "Id": 70107,
+    "Des": "Take a photo at Minsterhorn",
+    "PointId": 1682,
+    "DistanceTake": {
+      "x": 15.0,
+      "y": 30.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 45.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70108": {
+    "Id": 70108,
+    "Des": "Take a photo at Kanamia Tribe Entrance",
+    "PointId": 1729,
+    "DistanceTake": {
+      "x": 25.0,
+      "y": 50.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 70.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70109": {
+    "Id": 70109,
+    "Des": "Take a photo at the Elder Council Hall",
+    "PointId": 1741,
+    "DistanceTake": {
+      "x": 10.0,
+      "y": 30.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 40.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70110": {
+    "Id": 70110,
+    "Des": "Take a photo at Ruins of Andra City",
+    "PointId": 1778,
+    "DistanceTake": {
+      "x": 10.0,
+      "y": 27.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 50.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70111": {
+    "Id": 70111,
+    "Des": "Take a photo at Dark Mist Fortress",
+    "PointId": 1783,
+    "DistanceTake": {
+      "x": 5.0,
+      "y": 30.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 50.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  },
+  "70112": {
+    "Id": 70112,
+    "Des": "Take a photo with Caprahorns",
+    "PointId": 0,
+    "DistanceTake": {
+      "x": 25.0,
+      "y": 35.0
+    },
+    "DistanceHint": {
+      "x": 0.0,
+      "y": 60.0
+    },
+    "Angle": {
+      "x": -180.0,
+      "y": 180.0
+    },
+    "TargetId": []
+  }
+}

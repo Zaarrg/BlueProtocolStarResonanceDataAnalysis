@@ -1,0 +1,192 @@
+{
+  "1": {
+    "Id": 1,
+    "FunctionId": "2001",
+    "Name": "Apply",
+    "System": "1",
+    "Show": "1",
+    "Sort": "20",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "2": {
+    "Id": 2,
+    "FunctionId": "2002",
+    "Name": "Invite",
+    "System": "",
+    "Show": "",
+    "Sort": "21",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_application"
+  },
+  "3": {
+    "Id": 3,
+    "FunctionId": "2003",
+    "Name": "Apply for captain",
+    "System": "",
+    "Show": "",
+    "Sort": "22",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_captain"
+  },
+  "4": {
+    "Id": 4,
+    "FunctionId": "2004",
+    "Name": "Transfer captain",
+    "System": "",
+    "Show": "",
+    "Sort": "23",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_sell"
+  },
+  "5": {
+    "Id": 5,
+    "FunctionId": "2005",
+    "Name": "Remove",
+    "System": "",
+    "Show": "",
+    "Sort": "24",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_leave"
+  },
+  "6": {
+    "Id": 6,
+    "FunctionId": "2006",
+    "Name": "Interact",
+    "System": "",
+    "Show": "",
+    "Sort": "29",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_invitation"
+  },
+  "7": {
+    "Id": 7,
+    "FunctionId": "2007",
+    "Name": "Add",
+    "System": "",
+    "Show": "",
+    "Sort": "27",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_friends"
+  },
+  "8": {
+    "Id": 8,
+    "FunctionId": "2008",
+    "Name": "Message",
+    "System": "",
+    "Show": "",
+    "Sort": "28",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_message"
+  },
+  "9": {
+    "Id": 9,
+    "FunctionId": "2009",
+    "Name": "Block",
+    "System": "",
+    "Show": "",
+    "Sort": "30",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_blacklist"
+  },
+  "10": {
+    "Id": 10,
+    "FunctionId": "2010",
+    "Name": "Unblock",
+    "System": "",
+    "Show": "",
+    "Sort": "31",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_blacklist"
+  },
+  "11": {
+    "Id": 11,
+    "FunctionId": "3001",
+    "Name": "Invite",
+    "System": "",
+    "Show": "1",
+    "Sort": "25",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "12": {
+    "Id": 12,
+    "FunctionId": "3002",
+    "Name": "Apply",
+    "System": "",
+    "Show": "1",
+    "Sort": "26",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "13": {
+    "Id": 13,
+    "FunctionId": "3003",
+    "Name": "Role",
+    "System": "2",
+    "Show": "1",
+    "Sort": "32",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "14": {
+    "Id": 14,
+    "FunctionId": "3004",
+    "Name": "Remove",
+    "System": "2",
+    "Show": "1",
+    "Sort": "33",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "15": {
+    "Id": 15,
+    "FunctionId": "4001",
+    "Name": "Go to Sub-line",
+    "System": "",
+    "Show": "",
+    "Sort": "34",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "16": {
+    "Id": 16,
+    "FunctionId": "100106",
+    "Name": "Warehouse Invitation",
+    "System": "",
+    "Show": "",
+    "Sort": "35",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_captain"
+  },
+  "17": {
+    "Id": 17,
+    "FunctionId": "102801",
+    "Name": "Share Mount",
+    "System": "",
+    "Show": "1",
+    "Sort": "36",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_add_team"
+  },
+  "18": {
+    "Id": 18,
+    "FunctionId": "102802",
+    "Name": "Share Mount",
+    "System": "",
+    "Show": "1",
+    "Sort": "37",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_application"
+  },
+  "19": {
+    "Id": 19,
+    "FunctionId": "500400",
+    "Name": "Report",
+    "System": "",
+    "Show": "",
+    "Sort": "38",
+    "Check": "1",
+    "Icon": "ui/atlas/idcard/idcard_icon_report"
+  }
+}

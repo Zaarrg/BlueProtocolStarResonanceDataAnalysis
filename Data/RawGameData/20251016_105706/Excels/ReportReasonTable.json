@@ -1,0 +1,87 @@
+{
+  "101": {
+    "Id": 101,
+    "Reason": "Insulting and abusive",
+    "Iffill": false
+  },
+  "102": {
+    "Id": 102,
+    "Reason": "Advertising for traffic",
+    "Iffill": false
+  },
+  "103": {
+    "Id": 103,
+    "Reason": "Pornographic and vulgar",
+    "Iffill": false
+  },
+  "104": {
+    "Id": 104,
+    "Reason": "Politically sensitive",
+    "Iffill": false
+  },
+  "105": {
+    "Id": 105,
+    "Reason": "Harassment",
+    "Iffill": false
+  },
+  "106": {
+    "Id": 106,
+    "Reason": "Violent and bloody",
+    "Iffill": false
+  },
+  "108": {
+    "Id": 108,
+    "Reason": "Fraudulent information",
+    "Iffill": false
+  },
+  "199": {
+    "Id": 199,
+    "Reason": "Other",
+    "Iffill": true
+  },
+  "901": {
+    "Id": 901,
+    "Reason": "Nickname violation",
+    "Iffill": false
+  },
+  "999": {
+    "Id": 999,
+    "Reason": "Other",
+    "Iffill": true
+  },
+  "903": {
+    "Id": 903,
+    "Reason": "Photo violation",
+    "Iffill": false
+  },
+  "799": {
+    "Id": 799,
+    "Reason": "Photo violation",
+    "Iffill": false
+  },
+  "801": {
+    "Id": 801,
+    "Reason": "Guild name violation",
+    "Iffill": false
+  },
+  "802": {
+    "Id": 802,
+    "Reason": "Guild Notice violation",
+    "Iffill": false
+  },
+  "803": {
+    "Id": 803,
+    "Reason": "Guild tag violation",
+    "Iffill": false
+  },
+  "899": {
+    "Id": 899,
+    "Reason": "Other",
+    "Iffill": true
+  },
+  "798": {
+    "Id": 798,
+    "Reason": "Inappropriate Furnishing",
+    "Iffill": true
+  }
+}

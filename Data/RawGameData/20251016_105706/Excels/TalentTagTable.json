@@ -1,0 +1,35 @@
+{
+  "1": {
+    "Id": 1,
+    "Des": "输出",
+    "TagType": 1,
+    "FightResId": 10001,
+    "TagName": "Attack",
+    "TagIconBg": "ui/textures/talent/talent_icon_3",
+    "TagIconMark": "ui/atlas/new_com/com_icon_tab_77",
+    "SimpleDes": "Powerful attack, unstoppable",
+    "DetailsDes": "High burst, high damage, delivering extreme strikes to enemies, a key damage dealer in the party."
+  },
+  "2": {
+    "Id": 2,
+    "Des": "辅助",
+    "TagType": 2,
+    "FightResId": 10002,
+    "TagName": "Support",
+    "TagIconBg": "ui/textures/talent/talent_icon_2",
+    "TagIconMark": "ui/atlas/new_com/com_icon_tab_79",
+    "SimpleDes": "Buff removal, stable healing",
+    "DetailsDes": "Control and release, restore HP, and play the role of healing or supporting combat in the party."
+  },
+  "3": {
+    "Id": 3,
+    "Des": "生存",
+    "TagType": 3,
+    "FightResId": 10003,
+    "TagName": "Guard",
+    "TagIconBg": "ui/textures/talent/talent_icon_1",
+    "TagIconMark": "ui/atlas/new_com/com_icon_tab_78",
+    "SimpleDes": "As solid as a rock, ensures output",
+    "DetailsDes": "Strong survivability, attract firepower, and withstand damage, playing the role of a warrior or tank in the party."
+  }
+}

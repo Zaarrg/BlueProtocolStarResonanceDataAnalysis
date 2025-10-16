@@ -1,0 +1,17 @@
+{
+  "panda-art": {
+    "branch": "release_1.6_apj_backup",
+    "commit": "016d98277",
+    "date": "2025-10-09 00:41:49"
+  },
+  "panda-client": {
+    "branch": "release_1.6_apj_backup",
+    "commit": "e7113f70d",
+    "date": "2025-10-09 23:46:12"
+  },
+  "panda-config": {
+    "branch": "release_1.6_apj_backup",
+    "commit": "24375e8da",
+    "date": "2025-10-09 18:46:59"
+  }
+}

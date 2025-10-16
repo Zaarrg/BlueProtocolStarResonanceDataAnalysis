@@ -1,0 +1,3135 @@
+{
+  "9001": {
+    "Id": 9001,
+    "FaceDataId": [],
+    "Name": "LOL",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_laugh",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9002": {
+    "Id": 9002,
+    "FaceDataId": [],
+    "Name": "Awesome",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_joym",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9003": {
+    "Id": 9003,
+    "FaceDataId": [],
+    "Name": "Great",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_joyf",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9004": {
+    "Id": 9004,
+    "FaceDataId": [],
+    "Name": "Shocked",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_surprise",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9005": {
+    "Id": 9005,
+    "FaceDataId": [],
+    "Name": "Speechless",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_amazed",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9006": {
+    "Id": 9006,
+    "FaceDataId": [],
+    "Name": "Crying",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cry",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9007": {
+    "Id": 9007,
+    "FaceDataId": [],
+    "Name": "Depressed",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_feeldown",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9008": {
+    "Id": 9008,
+    "FaceDataId": [],
+    "Name": "Bow I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bows",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9009": {
+    "Id": 9009,
+    "FaceDataId": [],
+    "Name": "Bow II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bowl",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9010": {
+    "Id": 9010,
+    "FaceDataId": [],
+    "Name": "Farewell",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_goodbyem",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9011": {
+    "Id": 9011,
+    "FaceDataId": [],
+    "Name": "Wave",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_goodbyef",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9012": {
+    "Id": 9012,
+    "FaceDataId": [],
+    "Name": "Applaud",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_applause",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9013": {
+    "Id": 9013,
+    "FaceDataId": [],
+    "Name": "Apologize",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dogeza",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9014": {
+    "Id": 9014,
+    "FaceDataId": [],
+    "Name": "Play dumb",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheat",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9015": {
+    "Id": 9015,
+    "FaceDataId": [],
+    "Name": "Sit Cross-legged",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_sitagura",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9016": {
+    "Id": 9016,
+    "FaceDataId": [],
+    "Name": "Sit down",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_sitkakae",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9017": {
+    "Id": 9017,
+    "FaceDataId": [],
+    "Name": "Change Pose",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_wait",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9018": {
+    "Id": 9018,
+    "FaceDataId": [],
+    "Name": "Jump",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_jump",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9019": {
+    "Id": 9019,
+    "FaceDataId": [],
+    "Name": "Deep in Thought",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_think",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9020": {
+    "Id": 9020,
+    "FaceDataId": [],
+    "Name": "Dance I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dance",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9021": {
+    "Id": 9021,
+    "FaceDataId": [],
+    "Name": "Rage",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_anger",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9022": {
+    "Id": 9022,
+    "FaceDataId": [],
+    "Name": "Pacify",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_appease",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9023": {
+    "Id": 9023,
+    "FaceDataId": [],
+    "Name": "Take Caution",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_beware",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9024": {
+    "Id": 9024,
+    "FaceDataId": [],
+    "Name": "Salute I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_carvain",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9025": {
+    "Id": 9025,
+    "FaceDataId": [],
+    "Name": "Dance II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dance02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9026": {
+    "Id": 9026,
+    "FaceDataId": [],
+    "Name": "Adjust Glasses",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9027": {
+    "Id": 9027,
+    "FaceDataId": [],
+    "Name": "Glad",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_greatjoy",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9028": {
+    "Id": 9028,
+    "FaceDataId": [],
+    "Name": "Ready to Shake Hands",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9029": {
+    "Id": 9029,
+    "FaceDataId": [],
+    "Name": "Shhh",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_hushup",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9030": {
+    "Id": 9030,
+    "FaceDataId": [],
+    "Name": "Greet",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_jake",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9031": {
+    "Id": 9031,
+    "FaceDataId": [],
+    "Name": "Salute II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_king",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9032": {
+    "Id": 9032,
+    "FaceDataId": [],
+    "Name": "Scorn",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_margin",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9033": {
+    "Id": 9033,
+    "FaceDataId": [],
+    "Name": "Nod",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_nod",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9034": {
+    "Id": 9034,
+    "FaceDataId": [],
+    "Name": "Panic",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_panicky",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9035": {
+    "Id": 9035,
+    "FaceDataId": [],
+    "Name": "Point",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_pointing",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9036": {
+    "Id": 9036,
+    "FaceDataId": [],
+    "Name": "What a Shame",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_regrettable",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9037": {
+    "Id": 9037,
+    "FaceDataId": [],
+    "Name": "Reject",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_rejection",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9038": {
+    "Id": 9038,
+    "FaceDataId": [],
+    "Name": "Body Stretch I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_revolve",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9039": {
+    "Id": 9039,
+    "FaceDataId": [],
+    "Name": "Scratch",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_scratch",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9040": {
+    "Id": 9040,
+    "FaceDataId": [],
+    "Name": "Show Off",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_showoff",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9041": {
+    "Id": 9041,
+    "FaceDataId": [],
+    "Name": "Shy",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9042": {
+    "Id": 9042,
+    "FaceDataId": [],
+    "Name": "Kneel Sit",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_sitknee",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9043": {
+    "Id": 9043,
+    "FaceDataId": [],
+    "Name": "Sit sideways",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_sitside",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9044": {
+    "Id": 9044,
+    "FaceDataId": [],
+    "Name": "Squat",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_squat",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9045": {
+    "Id": 9045,
+    "FaceDataId": [],
+    "Name": "Body Stretch II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_flowershower",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9046": {
+    "Id": 9046,
+    "FaceDataId": [],
+    "Name": "Support",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_support",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9047": {
+    "Id": 9047,
+    "FaceDataId": [],
+    "Name": "Arms Crossed",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_fold",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9048": {
+    "Id": 9048,
+    "FaceDataId": [],
+    "Name": "Cool Pose I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_beachposecool01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9049": {
+    "Id": 9049,
+    "FaceDataId": [],
+    "Name": "Cute Pose I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_beachposecute01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9050": {
+    "Id": 9050,
+    "FaceDataId": [],
+    "Name": "Pose of Power I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bodybuilding01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9051": {
+    "Id": 9051,
+    "FaceDataId": [],
+    "Name": "Pose of Power II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bodybuilding02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9052": {
+    "Id": 9052,
+    "FaceDataId": [],
+    "Name": "Lie Down",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_liedowndcool01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9053": {
+    "Id": 9053,
+    "FaceDataId": [],
+    "Name": "Prone Leg Swings",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_liedowndcute01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9054": {
+    "Id": 9054,
+    "FaceDataId": [],
+    "Name": "Sunbathe",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_liedownucool01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9055": {
+    "Id": 9055,
+    "FaceDataId": [],
+    "Name": "Side-lying",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_liedownucute01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9056": {
+    "Id": 9056,
+    "FaceDataId": [],
+    "Name": "Play Dead",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_collapse",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9057": {
+    "Id": 9057,
+    "FaceDataId": [],
+    "Name": "Showcase I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_creation01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9058": {
+    "Id": 9058,
+    "FaceDataId": [],
+    "Name": "Showcase II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_creation02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9059": {
+    "Id": 9059,
+    "FaceDataId": [],
+    "Name": "Showcase II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_creation03",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9060": {
+    "Id": 9060,
+    "FaceDataId": [],
+    "Name": "Showcase IV",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_creation04",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9061": {
+    "Id": 9061,
+    "FaceDataId": [],
+    "Name": "Attack",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_poke",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9062": {
+    "Id": 9062,
+    "FaceDataId": [],
+    "Name": "Pray",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_prayer",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9063": {
+    "Id": 9063,
+    "FaceDataId": [],
+    "Name": "Proud",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_proudly",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9064": {
+    "Id": 9064,
+    "FaceDataId": [],
+    "Name": "Salute",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_salute",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9065": {
+    "Id": 9065,
+    "FaceDataId": [],
+    "Name": "Sorcery",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_witchcraft",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9066": {
+    "Id": 9066,
+    "FaceDataId": [],
+    "Name": "Rock-Paper-Scissors",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9067": {
+    "Id": 9067,
+    "FaceDataId": [],
+    "Name": "Scissors",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9068": {
+    "Id": 9068,
+    "FaceDataId": [],
+    "Name": "Scissors 01",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9069": {
+    "Id": 9069,
+    "FaceDataId": [],
+    "Name": "Rock",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9070": {
+    "Id": 9070,
+    "FaceDataId": [],
+    "Name": "Rock 01",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9071": {
+    "Id": 9071,
+    "FaceDataId": [],
+    "Name": "Paper",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9072": {
+    "Id": 9072,
+    "FaceDataId": [],
+    "Name": "Paper 01",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9073": {
+    "Id": 9073,
+    "FaceDataId": [],
+    "Name": "Awaiting the Outcome I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_resultwait00",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9074": {
+    "Id": 9074,
+    "FaceDataId": [],
+    "Name": "Awaiting the Outcome II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_resultwait01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9075": {
+    "Id": 9075,
+    "FaceDataId": [],
+    "Name": "Awaiting the Outcome III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_resultwait02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9077": {
+    "Id": 9077,
+    "FaceDataId": [],
+    "Name": "Wall Pin",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_kabedoncool",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9078": {
+    "Id": 9078,
+    "FaceDataId": [],
+    "Name": "Pinned Against Wall",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_kabedoncute",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9079": {
+    "Id": 9079,
+    "FaceDataId": [],
+    "Name": "Dance III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dance03",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9080": {
+    "Id": 9080,
+    "FaceDataId": [],
+    "Name": "Dance IV",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dance04",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9081": {
+    "Id": 9081,
+    "FaceDataId": [],
+    "Name": "Dance V",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_dance05",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9082": {
+    "Id": 9082,
+    "FaceDataId": [],
+    "Name": "Dance VII",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_psylliumdance",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9083": {
+    "Id": 9083,
+    "FaceDataId": [],
+    "Name": "Fan I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      2,
+      1
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_psylliumside",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9084": {
+    "Id": 9084,
+    "FaceDataId": [],
+    "Name": "Fan III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      2,
+      1
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheer02",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9085": {
+    "Id": 9085,
+    "FaceDataId": [],
+    "Name": "Fan II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      2,
+      1
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_psylliumvertical",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9086": {
+    "Id": 9086,
+    "FaceDataId": [],
+    "Name": "Bunny Ears",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_rabbitears",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9087": {
+    "Id": 9087,
+    "FaceDataId": [],
+    "Name": "Sitting Properly",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_seiza01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9088": {
+    "Id": 9088,
+    "FaceDataId": [],
+    "Name": "Sitting Properly",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_seiza02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9089": {
+    "Id": 9089,
+    "FaceDataId": [],
+    "Name": "Coral Solsticera",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_moekyunheart",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9090": {
+    "Id": 9090,
+    "FaceDataId": [],
+    "Name": "Boo",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_wolfcool01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9091": {
+    "Id": 9091,
+    "FaceDataId": [],
+    "Name": "Blow Kiss",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_throwkiss_cute01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9092": {
+    "Id": 9092,
+    "FaceDataId": [],
+    "Name": "Dance VI",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bondance",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9093": {
+    "Id": 9093,
+    "FaceDataId": [],
+    "Name": "Cheer",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheering",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9094": {
+    "Id": 9094,
+    "FaceDataId": [],
+    "Name": "Confetti",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_stretch",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9095": {
+    "Id": 9095,
+    "FaceDataId": [],
+    "Name": "Showcase V",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_galpeace01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9096": {
+    "Id": 9096,
+    "FaceDataId": [],
+    "Name": "Confetti Barrage",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_gimmick",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9097": {
+    "Id": 9097,
+    "FaceDataId": [],
+    "Name": "Left Thumbs-Up",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_goodhandleft",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9098": {
+    "Id": 9098,
+    "FaceDataId": [],
+    "Name": "Right Thumbs-Up",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_goodhandright",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9099": {
+    "Id": 9099,
+    "FaceDataId": [],
+    "Name": "Left-Hand Finger Heart",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_hearthandleft",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9100": {
+    "Id": 9100,
+    "FaceDataId": [],
+    "Name": "Right-Hand Finger Heart",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_hearthandright",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9101": {
+    "Id": 9101,
+    "FaceDataId": [],
+    "Name": "Showcase VI",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_idolpose",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9102": {
+    "Id": 9102,
+    "FaceDataId": [],
+    "Name": "Ninja Technique I",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ninja",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9103": {
+    "Id": 9103,
+    "FaceDataId": [],
+    "Name": "Ninja Technique II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ninjalsize",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9104": {
+    "Id": 9104,
+    "FaceDataId": [],
+    "Name": "Ninja Technique III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ninjassize",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9105": {
+    "Id": 9105,
+    "FaceDataId": [],
+    "Name": "Walk",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9106": {
+    "Id": 9106,
+    "FaceDataId": [],
+    "Name": "Run",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_run",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9107": {
+    "Id": 9107,
+    "FaceDataId": [],
+    "Name": "Friendship",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_onepiece01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9108": {
+    "Id": 9108,
+    "FaceDataId": [],
+    "Name": "Starry Domain",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinangel_perform01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9109": {
+    "Id": 9109,
+    "FaceDataId": [],
+    "Name": "Rose Attire",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnobility_perform01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9110": {
+    "Id": 9110,
+    "FaceDataId": [],
+    "Name": "Siren Songstress",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_run",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9111": {
+    "Id": 9111,
+    "FaceDataId": [],
+    "Name": "Drying Fish I",
+    "EmoteType": 5,
+    "Type": 1,
+    "Accessory": [
+      1
+    ],
+    "Movable": true,
+    "MovableFunctionId": 100606,
+    "CornerMark": 3,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_fishingshow01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9112": {
+    "Id": 9112,
+    "FaceDataId": [],
+    "Name": "Bow III",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_bowservant",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9113": {
+    "Id": 9113,
+    "FaceDataId": [],
+    "Name": "Cheer",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheer01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9114": {
+    "Id": 9114,
+    "FaceDataId": [],
+    "Name": "Cheers",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheers",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9115": {
+    "Id": 9115,
+    "FaceDataId": [],
+    "Name": "Come On",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_comeon",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9116": {
+    "Id": 9116,
+    "FaceDataId": [],
+    "Name": "Cool Pose II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ecstaticcool",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9117": {
+    "Id": 9117,
+    "FaceDataId": [],
+    "Name": "Cool Pose III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ecstaticcool02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9118": {
+    "Id": 9118,
+    "FaceDataId": [],
+    "Name": "Cute Pose II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ecstaticcute",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9119": {
+    "Id": 9119,
+    "FaceDataId": [],
+    "Name": "Cute Pose III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ecstaticcute02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9120": {
+    "Id": 9120,
+    "FaceDataId": [],
+    "Name": "Awkward",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_embarrassed",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9121": {
+    "Id": 9121,
+    "FaceDataId": [],
+    "Name": "Dance VIII",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_exercisedance",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9122": {
+    "Id": 9122,
+    "FaceDataId": [],
+    "Name": "Dance IX",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_feverdance",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9123": {
+    "Id": 9123,
+    "FaceDataId": [],
+    "Name": "Snap",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9124": {
+    "Id": 9124,
+    "FaceDataId": [],
+    "Name": "Showcase VII",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_galpeace02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9125": {
+    "Id": 9125,
+    "FaceDataId": [],
+    "Name": "Surprise I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_halloweensurprisecool02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9126": {
+    "Id": 9126,
+    "FaceDataId": [],
+    "Name": "Surprise II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_halloweensurprisecute01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9127": {
+    "Id": 9127,
+    "FaceDataId": [],
+    "Name": "Cool Pose IV",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_heropose01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9128": {
+    "Id": 9128,
+    "FaceDataId": [],
+    "Name": "Dance X",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_hiphop01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9129": {
+    "Id": 9129,
+    "FaceDataId": [],
+    "Name": "Take Out I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_takeout",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9130": {
+    "Id": 9130,
+    "FaceDataId": [],
+    "Name": "Put Away",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9131": {
+    "Id": 9131,
+    "FaceDataId": [],
+    "Name": "Kneeling Thanks",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9132": {
+    "Id": 9132,
+    "FaceDataId": [],
+    "Name": "Showcase VIII",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_modelpose",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9133": {
+    "Id": 9133,
+    "FaceDataId": [],
+    "Name": "Kitty Paws",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_nyannyan",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9134": {
+    "Id": 9134,
+    "FaceDataId": [],
+    "Name": "Beg Sweetly",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9135": {
+    "Id": 9135,
+    "FaceDataId": [],
+    "Name": "Drum Solo",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_ringbell",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9136": {
+    "Id": 9136,
+    "FaceDataId": [],
+    "Name": "Boxing Practice",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_shadowboxing",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9137": {
+    "Id": 9137,
+    "FaceDataId": [],
+    "Name": "Snowball Fight",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_walk",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9138": {
+    "Id": 9138,
+    "FaceDataId": [],
+    "Name": "Build a Snow Knight",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_snowman",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9139": {
+    "Id": 9139,
+    "FaceDataId": [],
+    "Name": "Crouch and Observe",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_squatting",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9140": {
+    "Id": 9140,
+    "FaceDataId": [],
+    "Name": "Shrug I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_streamer",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9141": {
+    "Id": 9141,
+    "FaceDataId": [],
+    "Name": "Surprised",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_surprise01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9142": {
+    "Id": 9142,
+    "FaceDataId": [],
+    "Name": "Thinking",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_think02",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9143": {
+    "Id": 9143,
+    "FaceDataId": [],
+    "Name": "Stylish Kiss I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_throwkiss_cool01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9144": {
+    "Id": 9144,
+    "FaceDataId": [],
+    "Name": "Stylish Kiss II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_throwkiss_cool02",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9145": {
+    "Id": 9145,
+    "FaceDataId": [],
+    "Name": "Praise",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_thumbsup",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9146": {
+    "Id": 9146,
+    "FaceDataId": [],
+    "Name": "Salute III",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_waitservant",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9147": {
+    "Id": 9147,
+    "FaceDataId": [],
+    "Name": "Warm-up",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_warmingup",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9148": {
+    "Id": 9148,
+    "FaceDataId": [],
+    "Name": "Stage Wave",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_wavehands",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9149": {
+    "Id": 9149,
+    "FaceDataId": [],
+    "Name": "Take It",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_accept",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9150": {
+    "Id": 9150,
+    "FaceDataId": [],
+    "Name": "Furious",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_angry",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9151": {
+    "Id": 9151,
+    "FaceDataId": [],
+    "Name": "Crouch I",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_around",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9152": {
+    "Id": 9152,
+    "FaceDataId": [],
+    "Name": "Crouch II",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_beckona",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9153": {
+    "Id": 9153,
+    "FaceDataId": [],
+    "Name": "Left!",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_pointleft",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9154": {
+    "Id": 9154,
+    "FaceDataId": [],
+    "Name": "Front!",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_point",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9155": {
+    "Id": 9155,
+    "FaceDataId": [],
+    "Name": "Right!",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_pointright",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9156": {
+    "Id": 9156,
+    "FaceDataId": [],
+    "Name": "Encourage",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_rejoice",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9157": {
+    "Id": 9157,
+    "FaceDataId": [],
+    "Name": "Sad",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_sad",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9158": {
+    "Id": 9158,
+    "FaceDataId": [],
+    "Name": "Talk",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_talk00",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9159": {
+    "Id": 9159,
+    "FaceDataId": [],
+    "Name": "Shrug II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_whew",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9160": {
+    "Id": 9160,
+    "FaceDataId": [],
+    "Name": "Take Out II",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_handoff",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9161": {
+    "Id": 9161,
+    "FaceDataId": [],
+    "Name": "Coral Solsticera (Discarded)",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_cheat",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9162": {
+    "Id": 9162,
+    "FaceDataId": [],
+    "Name": "Awakened Drive",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinarmourdress_perform01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9163": {
+    "Id": 9163,
+    "FaceDataId": [],
+    "Name": "Disorder Mimic",
+    "EmoteType": 1,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "",
+    "Emote": []
+  },
+  "9164": {
+    "Id": 9164,
+    "FaceDataId": [],
+    "Name": "Tribal Dance",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      2,
+      2
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9165": {
+    "Id": 9165,
+    "FaceDataId": [],
+    "Name": "Emote: Cool Pose V",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9166": {
+    "Id": 9166,
+    "FaceDataId": [],
+    "Name": "Emote: Cool Pose VI",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9167": {
+    "Id": 9167,
+    "FaceDataId": [],
+    "Name": "Emote: Cool Pose VII",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9168": {
+    "Id": 9168,
+    "FaceDataId": [],
+    "Name": "Emote: Cute Pose IV",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9169": {
+    "Id": 9169,
+    "FaceDataId": [],
+    "Name": "Emote: Cute Pose V",
+    "EmoteType": 2,
+    "Type": 1,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 1,
+    "Icon": "ui/atlas/emote_icon/emo_icon_action_skinnoble_perform01",
+    "IsShow": "0",
+    "Emote": []
+  },
+  "9900": {
+    "Id": 9900,
+    "FaceDataId": [],
+    "Name": "Hold Hands",
+    "EmoteType": 3,
+    "Type": 3,
+    "Accessory": [
+      0
+    ],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_mp_handholding",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1001": {
+    "Id": 1001,
+    "FaceDataId": [
+      301,
+      401
+    ],
+    "Name": "Neutral",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_straightface",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1002": {
+    "Id": 1002,
+    "FaceDataId": [
+      302,
+      402
+    ],
+    "Name": "Smile",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_grin",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1003": {
+    "Id": 1003,
+    "FaceDataId": [
+      303,
+      403
+    ],
+    "Name": "Angry",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_angry",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1004": {
+    "Id": 1004,
+    "FaceDataId": [
+      304,
+      404
+    ],
+    "Name": "Upset",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_doubt",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1005": {
+    "Id": 1005,
+    "FaceDataId": [
+      305,
+      405
+    ],
+    "Name": "Glad",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_joy",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1006": {
+    "Id": 1006,
+    "FaceDataId": [
+      306,
+      406
+    ],
+    "Name": "Stunned",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_slack",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1007": {
+    "Id": 1007,
+    "FaceDataId": [
+      307,
+      407
+    ],
+    "Name": "Troubled",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_troubled",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1008": {
+    "Id": 1008,
+    "FaceDataId": [
+      308,
+      408
+    ],
+    "Name": "Doubt",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_sad",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1009": {
+    "Id": 1009,
+    "FaceDataId": [
+      309,
+      409
+    ],
+    "Name": "Teasing",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_jest",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1010": {
+    "Id": 1010,
+    "FaceDataId": [
+      310,
+      410
+    ],
+    "Name": "Enduring",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_endure",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1011": {
+    "Id": 1011,
+    "FaceDataId": [
+      311,
+      411
+    ],
+    "Name": "Confident",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_enthusiastic",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1012": {
+    "Id": 1012,
+    "FaceDataId": [
+      312,
+      412
+    ],
+    "Name": "Pained",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_suffering",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1013": {
+    "Id": 1013,
+    "FaceDataId": [
+      313,
+      413
+    ],
+    "Name": "Confused",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_confused",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1014": {
+    "Id": 1014,
+    "FaceDataId": [
+      314,
+      414
+    ],
+    "Name": "Worried",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_worry",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1015": {
+    "Id": 1015,
+    "FaceDataId": [
+      315,
+      415
+    ],
+    "Name": "Startled",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_startled",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1016": {
+    "Id": 1016,
+    "FaceDataId": [
+      316,
+      416
+    ],
+    "Name": "Disgusted",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_annoy",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1017": {
+    "Id": 1017,
+    "FaceDataId": [
+      317,
+      417
+    ],
+    "Name": "Shy",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_shy",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1018": {
+    "Id": 1018,
+    "FaceDataId": [
+      318,
+      418
+    ],
+    "Name": "Afraid",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_funk",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1019": {
+    "Id": 1019,
+    "FaceDataId": [
+      319,
+      419
+    ],
+    "Name": "Serious",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_concentrate",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1020": {
+    "Id": 1020,
+    "FaceDataId": [
+      320,
+      420
+    ],
+    "Name": "Smile",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_smile",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1021": {
+    "Id": 1021,
+    "FaceDataId": [
+      321,
+      421
+    ],
+    "Name": "Smirk",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_sneer",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1022": {
+    "Id": 1022,
+    "FaceDataId": [
+      322,
+      422
+    ],
+    "Name": "Attack",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_attack",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1023": {
+    "Id": 1023,
+    "FaceDataId": [
+      323,
+      423
+    ],
+    "Name": "Injured",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_injuried",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1024": {
+    "Id": 1024,
+    "FaceDataId": [
+      324,
+      424
+    ],
+    "Name": "Play Dead",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_death",
+    "IsShow": "",
+    "Emote": []
+  },
+  "1025": {
+    "Id": 1025,
+    "FaceDataId": [
+      325,
+      425
+    ],
+    "Name": "Ace",
+    "EmoteType": 4,
+    "Type": 2,
+    "Accessory": [],
+    "Movable": false,
+    "MovableFunctionId": 0,
+    "CornerMark": 0,
+    "Icon": "ui/atlas/emote_icon/emo_icon_expr_lb",
+    "IsShow": "",
+    "Emote": []
+  }
+}

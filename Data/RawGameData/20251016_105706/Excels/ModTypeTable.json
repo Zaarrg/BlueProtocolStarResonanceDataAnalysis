@@ -1,0 +1,44 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Attack",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_102",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_102",
+    "TypeTexture": ""
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Other",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_103",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_103",
+    "TypeTexture": ""
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Guard",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_104",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_104",
+    "TypeTexture": ""
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Universal",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_107",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_107",
+    "TypeTexture": ""
+  },
+  "5": {
+    "Id": 5,
+    "Name": "General 1",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_105",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_105",
+    "TypeTexture": ""
+  },
+  "6": {
+    "Id": 6,
+    "Name": "General 2",
+    "TypeTips": "ui/atlas/item/c_tab_icon/com_icon_tab_106",
+    "TypeShow": "ui/atlas/item/c_tab_icon/com_icon_tab_106",
+    "TypeTexture": ""
+  }
+}

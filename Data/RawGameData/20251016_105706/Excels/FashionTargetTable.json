@@ -1,0 +1,136 @@
+{
+  "1": {
+    "Id": 1,
+    "TargetType": 166,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Times": -1,
+    "Score": 10,
+    "TargetDes": "Dye fashion items {*val2*} time(s).",
+    "Active": 1,
+    "Sort": 6,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      101101
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "TargetType": 269,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Times": -1,
+    "Score": 10,
+    "TargetDes": "Change beauty {*val2*} time(s).",
+    "Active": 1,
+    "Sort": 7,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      103004
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "TargetType": 270,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Times": -1,
+    "Score": 10,
+    "TargetDes": "Change hairstyle {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 8,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      103004
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "TargetType": 44,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Times": 4,
+    "Score": 30,
+    "TargetDes": "Complete Guild Dance {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 5,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      900200
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "TargetType": 271,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "Times": 5,
+    "Score": 5,
+    "TargetDes": "Change outfit {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 1,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      101101
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "TargetType": 343,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      3
+    ],
+    "Times": 1,
+    "Score": 5,
+    "TargetDes": "Take selfie {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 2,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      102001
+    ]
+  },
+  "8": {
+    "Id": 8,
+    "TargetType": 346,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      2
+    ],
+    "Times": 1,
+    "Score": 5,
+    "TargetDes": "Take group photo {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 3,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      102001
+    ]
+  },
+  "9": {
+    "Id": 9,
+    "TargetType": 343,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      5
+    ],
+    "Times": 1,
+    "Score": 5,
+    "TargetDes": "Take combat photo {*val2*} time(s)",
+    "Active": 1,
+    "Sort": 4,
+    "QuickJumpType": 2,
+    "QuickJump": [
+      102001
+    ]
+  }
+}

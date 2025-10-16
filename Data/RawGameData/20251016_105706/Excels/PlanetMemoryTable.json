@@ -1,0 +1,1860 @@
+{
+  "1": {
+    "RoomId": 1,
+    "DungeonId": 15001,
+    "RoomPos": [
+      0.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 150,
+    "TargetMonster": [
+      20056,
+      20057,
+      20061,
+      20062,
+      20063
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "2": {
+    "RoomId": 2,
+    "DungeonId": 16001,
+    "RoomPos": [
+      2.0,
+      9.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      3
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 150,
+    "TargetMonster": [
+      20053,
+      20054,
+      20055
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "3": {
+    "RoomId": 3,
+    "DungeonId": 15501,
+    "RoomPos": [
+      3.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      4,
+      5
+    ],
+    "RoomType": 2,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 150,
+    "TargetMonster": [
+      20066,
+      20063
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "4": {
+    "RoomId": 4,
+    "DungeonId": 16501,
+    "RoomPos": [
+      4.5,
+      10.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      6
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 150,
+    "TargetMonster": [
+      20074,
+      20075,
+      20076
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "5": {
+    "RoomId": 5,
+    "DungeonId": 19001,
+    "RoomPos": [
+      5.0,
+      6.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      7,
+      8
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 150,
+    "TargetMonster": [
+      20093
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "6": {
+    "RoomId": 6,
+    "DungeonId": 18001,
+    "RoomPos": [
+      6.0,
+      10.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      9
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 155,
+    "TargetMonster": [
+      20102
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "7": {
+    "RoomId": 7,
+    "DungeonId": 15004,
+    "RoomPos": [
+      6.5,
+      6.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      10,
+      12
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 155,
+    "TargetMonster": [
+      20056,
+      20061,
+      20062,
+      20067,
+      20068,
+      20069
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "8": {
+    "RoomId": 8,
+    "DungeonId": 18501,
+    "RoomPos": [
+      6.0,
+      4.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 155,
+    "TargetMonster": [
+      20102
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "9": {
+    "RoomId": 9,
+    "DungeonId": 15003,
+    "RoomPos": [
+      7.5,
+      11.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      11,
+      12
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      8
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 155,
+    "TargetMonster": [
+      20079,
+      20080,
+      20081,
+      20082
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "10": {
+    "RoomId": 10,
+    "DungeonId": 17504,
+    "RoomPos": [
+      8.0,
+      7.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      13
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      52
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 160,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20054,
+      20056,
+      20061,
+      20062
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "11": {
+    "RoomId": 11,
+    "DungeonId": 17003,
+    "RoomPos": [
+      9.0,
+      10.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      14
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      38
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 160,
+    "TargetMonster": [
+      20067,
+      20068,
+      20069,
+      20074,
+      20075,
+      20076,
+      20079,
+      20080,
+      20081,
+      20082
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "12": {
+    "RoomId": 12,
+    "DungeonId": 19002,
+    "RoomPos": [
+      9.5,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      15
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 160,
+    "TargetMonster": [
+      20094
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "13": {
+    "RoomId": 13,
+    "DungeonId": 15002,
+    "RoomPos": [
+      9.0,
+      6.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      9
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 160,
+    "TargetMonster": [
+      20051,
+      20052,
+      20054,
+      20055,
+      20057,
+      20058,
+      20059,
+      20060,
+      20062,
+      20067,
+      20078,
+      20083,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "14": {
+    "RoomId": 14,
+    "DungeonId": 16002,
+    "RoomPos": [
+      11.0,
+      10.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      25
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 165,
+    "TargetMonster": [
+      20054,
+      20089,
+      20091
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "15": {
+    "RoomId": 15,
+    "DungeonId": 15504,
+    "RoomPos": [
+      10.5,
+      9.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      16
+    ],
+    "RoomType": 3,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      4
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 165,
+    "TargetMonster": [
+      20086
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "16": {
+    "RoomId": 16,
+    "DungeonId": 15011,
+    "RoomPos": [
+      12.0,
+      8.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      17,
+      18
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      12
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 165,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20078,
+      20079,
+      20080,
+      20081,
+      20082
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "17": {
+    "RoomId": 17,
+    "DungeonId": 17004,
+    "RoomPos": [
+      13.5,
+      8.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      19,
+      20
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      13
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 165,
+    "TargetMonster": [
+      20057,
+      20062,
+      20063,
+      20064,
+      20074,
+      20075,
+      20077,
+      20078,
+      20080,
+      20081,
+      20082
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "18": {
+    "RoomId": 18,
+    "DungeonId": 15007,
+    "RoomPos": [
+      15.0,
+      12.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      21
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      8
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 170,
+    "TargetMonster": [
+      20051,
+      20053,
+      20054,
+      20061,
+      20063,
+      20069,
+      20082,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "19": {
+    "RoomId": 19,
+    "DungeonId": 17505,
+    "RoomPos": [
+      15.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      22,
+      23
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      16
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 170,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20054,
+      20056,
+      20061,
+      20062
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "20": {
+    "RoomId": 20,
+    "DungeonId": 16003,
+    "RoomPos": [
+      15.5,
+      5.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      24,
+      25
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      7
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 170,
+    "TargetMonster": [
+      20074,
+      20075,
+      20076,
+      20089
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "21": {
+    "RoomId": 21,
+    "DungeonId": 18002,
+    "RoomPos": [
+      17.0,
+      12.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      26
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 175,
+    "TargetMonster": [
+      20092
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "22": {
+    "RoomId": 22,
+    "DungeonId": 15008,
+    "RoomPos": [
+      16.5,
+      10.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      26
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      6,
+      53
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 175,
+    "TargetMonster": [
+      20055,
+      20057,
+      20061,
+      20067,
+      20078,
+      20079,
+      20081
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "23": {
+    "RoomId": 23,
+    "DungeonId": 15503,
+    "RoomPos": [
+      16.5,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      27,
+      28
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      9,
+      10
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 175,
+    "TargetMonster": [
+      20071
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "24": {
+    "RoomId": 24,
+    "DungeonId": 15009,
+    "RoomPos": [
+      17.0,
+      4.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      29
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      18,
+      36
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 175,
+    "TargetMonster": [
+      20016,
+      20053,
+      20055,
+      20062,
+      20068,
+      20077,
+      20080,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "25": {
+    "RoomId": 25,
+    "DungeonId": 19003,
+    "RoomPos": [
+      16.5,
+      6.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 175,
+    "TargetMonster": [
+      20095,
+      20097,
+      20098
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "26": {
+    "RoomId": 26,
+    "DungeonId": 17502,
+    "RoomPos": [
+      18.5,
+      11.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      13,
+      51
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 180,
+    "TargetMonster": [
+      20052,
+      20054,
+      20055,
+      20057,
+      20062,
+      20063,
+      20065,
+      20067,
+      20075,
+      20077,
+      20080,
+      20081
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "27": {
+    "RoomId": 27,
+    "DungeonId": 18502,
+    "RoomPos": [
+      18.0,
+      9.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      30
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 180,
+    "TargetMonster": [
+      20108
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "28": {
+    "RoomId": 28,
+    "DungeonId": 16504,
+    "RoomPos": [
+      18.5,
+      6.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      5,
+      23
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 180,
+    "TargetMonster": [
+      20054,
+      20080,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "29": {
+    "RoomId": 29,
+    "DungeonId": 19004,
+    "RoomPos": [
+      18.0,
+      4.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 180,
+    "TargetMonster": [
+      20096
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "30": {
+    "RoomId": 30,
+    "DungeonId": 15506,
+    "RoomPos": [
+      20.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      31,
+      32
+    ],
+    "RoomType": 3,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      52,
+      24
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 185,
+    "TargetMonster": [
+      20087
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "31": {
+    "RoomId": 31,
+    "DungeonId": 15005,
+    "RoomPos": [
+      21.0,
+      12.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      33,
+      34
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      64,
+      41
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 185,
+    "TargetMonster": [
+      20052,
+      20053,
+      20054,
+      20077,
+      20078,
+      20083,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "32": {
+    "RoomId": 32,
+    "DungeonId": 15006,
+    "RoomPos": [
+      21.5,
+      6.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      35,
+      36
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      56,
+      40
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 185,
+    "TargetMonster": [
+      20056,
+      20057,
+      20058,
+      20061,
+      20062,
+      20078,
+      20079,
+      20080
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "33": {
+    "RoomId": 33,
+    "DungeonId": 19005,
+    "RoomPos": [
+      22.5,
+      12.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      37
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 190,
+    "TargetMonster": [
+      20101
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "34": {
+    "RoomId": 34,
+    "DungeonId": 16502,
+    "RoomPos": [
+      22.0,
+      8.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      38
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      5,
+      67
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 190,
+    "TargetMonster": [
+      20054,
+      20080,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "35": {
+    "RoomId": 35,
+    "DungeonId": 17501,
+    "RoomPos": [
+      22.0,
+      6.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      38
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      55,
+      65
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 190,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20054,
+      20056,
+      20061,
+      20062
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "36": {
+    "RoomId": 36,
+    "DungeonId": 16004,
+    "RoomPos": [
+      22.5,
+      4.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      39
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      52,
+      23
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 190,
+    "TargetMonster": [
+      20080,
+      20081,
+      20082,
+      20090
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "37": {
+    "RoomId": 37,
+    "DungeonId": 18504,
+    "RoomPos": [
+      24.0,
+      13.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 195,
+    "TargetMonster": [
+      20127
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "38": {
+    "RoomId": 38,
+    "DungeonId": 17001,
+    "RoomPos": [
+      24.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      40
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      26,
+      50,
+      36
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 195,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20054,
+      20055,
+      20056,
+      20057,
+      20058,
+      20061,
+      20062,
+      20077,
+      20078,
+      20083,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "39": {
+    "RoomId": 39,
+    "DungeonId": 18004,
+    "RoomPos": [
+      24.5,
+      4.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 195,
+    "TargetMonster": [
+      20125
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "40": {
+    "RoomId": 40,
+    "DungeonId": 15508,
+    "RoomPos": [
+      26.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      41,
+      42,
+      43
+    ],
+    "RoomType": 3,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      9,
+      67,
+      40
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 195,
+    "TargetMonster": [
+      20100
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "41": {
+    "RoomId": 41,
+    "DungeonId": 16503,
+    "RoomPos": [
+      27.0,
+      13.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      5,
+      28,
+      51
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20077,
+      20078
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "42": {
+    "RoomId": 42,
+    "DungeonId": 15012,
+    "RoomPos": [
+      27.5,
+      9.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      44
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      38,
+      41,
+      10
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20051,
+      20052,
+      20053,
+      20078,
+      20079,
+      20080,
+      20081,
+      20082
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "43": {
+    "RoomId": 43,
+    "DungeonId": 18503,
+    "RoomPos": [
+      27.0,
+      7.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      45,
+      46
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20111,
+      20112,
+      20113,
+      20114,
+      20115,
+      20116,
+      20118,
+      20119
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "44": {
+    "RoomId": 44,
+    "DungeonId": 18003,
+    "RoomPos": [
+      29.0,
+      9.0,
+      0.0
+    ],
+    "UnlockRoomId": [
+      47,
+      48
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20107
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "45": {
+    "RoomId": 45,
+    "DungeonId": 15507,
+    "RoomPos": [
+      28.5,
+      7.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      18,
+      59,
+      36
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20072
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "46": {
+    "RoomId": 46,
+    "DungeonId": 17002,
+    "RoomPos": [
+      28.5,
+      5.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      64,
+      24,
+      51
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20056,
+      20061,
+      20062,
+      20064,
+      20065,
+      20066
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "47": {
+    "RoomId": 47,
+    "DungeonId": 17503,
+    "RoomPos": [
+      30.0,
+      12.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      49
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31010,
+      31012
+    ],
+    "Affix": [
+      8,
+      15,
+      50
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20052,
+      20053,
+      20054,
+      20074,
+      20075,
+      20076
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "48": {
+    "RoomId": 48,
+    "DungeonId": 15010,
+    "RoomPos": [
+      30.0,
+      8.5,
+      0.0
+    ],
+    "UnlockRoomId": [
+      50
+    ],
+    "RoomType": 1,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      55,
+      59,
+      53
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20052,
+      20053,
+      20054,
+      20055,
+      20077,
+      20078,
+      20083,
+      20084
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "49": {
+    "RoomId": 49,
+    "DungeonId": 15502,
+    "RoomPos": [
+      31.5,
+      12.5,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 2,
+    "LinkModel": [
+      31006,
+      31008
+    ],
+    "Affix": [
+      79,
+      10,
+      41
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20063,
+      20070
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  },
+  "50": {
+    "RoomId": 50,
+    "DungeonId": 15505,
+    "RoomPos": [
+      32.0,
+      8.0,
+      0.0
+    ],
+    "UnlockRoomId": [],
+    "RoomType": 3,
+    "LinkModel": [
+      31011,
+      31013
+    ],
+    "Affix": [
+      56,
+      61,
+      23
+    ],
+    "RoomName": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside.",
+    "GsLimit": 200,
+    "TargetMonster": [
+      20088
+    ],
+    "UnlockTime": [
+      1,
+      0
+    ],
+    "ExtraTarget": [
+      1,
+      2,
+      3
+    ]
+  }
+}

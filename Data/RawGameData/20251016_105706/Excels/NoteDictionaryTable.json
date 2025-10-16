@@ -1,0 +1,1481 @@
+{
+  "1001": {
+    "Id": 1001,
+    "DictionaryType": 1,
+    "Episode": 1001,
+    "Name": "About Me - I",
+    "DictionaryDes": "According to Airona, she rescued me from a Goblin's cauldron. <br>But I have no memory of any of this...<br>The Number 71 mentioned in that strange dream... breaking the shackles of civilizational development... is that a memory from my past? <br>Why have I lost all my memories?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "IsHide": false
+  },
+  "1002": {
+    "Id": 1002,
+    "DictionaryType": 3,
+    "Episode": 1002,
+    "Name": "Luno",
+    "DictionaryDes": "A currency widely used on the Continent of Magna, managed and minted by the Bapharian Creed. <br>The minting material is a precious bullion containing Engram. <br>The craftsmanship of Luno coins is so superb that they are nearly impossible to counterfeit.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "IsHide": false
+  },
+  "1003": {
+    "Id": 1003,
+    "DictionaryType": 2,
+    "Episode": 1003,
+    "Name": "Operation Luno!",
+    "DictionaryDes": "To pay off the lodging fees at The Double-Faced Coin and to repay Airona for saving my life. <br>I plan to work with Airona to earn enough money.<br>Airona said she has a way to earn enough Luno within <style=\"ItemQuality_5\">one month</style> to repay the tavern owner, with a surplus to enjoy delicacies in Asterleeds. <br>Since I'm in an unfamiliar place... I might as well give it a try! <br>Operation Luno begins!",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10092
+    ],
+    "IsHide": false
+  },
+  "1004": {
+    "Id": 1004,
+    "DictionaryType": 3,
+    "Episode": 1004,
+    "Name": "Teleportal",
+    "DictionaryDes": "An ancient <style=\"ItemQuality_5\">Bapharian Legacy</style> that can teleport a creature touching it to another Teleportal along the Engram Line. The principle is not yet clear. <br>It is a very common \"public facility\" with widespread application. <br>Teleportals are set up in various settlements and important locations. They cannot teleport large quantities of goods, only a small amount of personal supplies.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10092
+    ],
+    "IsHide": false
+  },
+  "1005": {
+    "Id": 1005,
+    "DictionaryType": 3,
+    "Episode": 1005,
+    "Name": "The Double-Faced Coin",
+    "DictionaryDes": "An old tavern located at Entertainment District in the north of the city, though calling it an tavern is a bit of a stretch. <br>This is because The Double-Faced Coin offers a wide range of services, including dining, lodging, and specialty drinks. Due to its central location at Entertainment District, it is very well-known. <br>People nearby love to go in for a couple of drinks when they are free. <br>The owner, Wilbert, is a kind-hearted uncle, but for some reason, he speaks with a Byrnhald accent.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [],
+    "IsHide": false
+  },
+  "1006": {
+    "Id": 1006,
+    "DictionaryType": 1,
+    "Episode": 1006,
+    "Name": "Airona's Identity - I",
+    "DictionaryDes": "<style=\"ItemQuality_5\">\"The renowned legend\", \"the pride of the Pioneer Bureau\", \"the legendary adventurer\", \"the brilliant star of Asterleeds\"...</style><br>To receive such honors, Airona's identity seems to be not as simple as I imagined.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10092
+    ],
+    "IsHide": false
+  },
+  "1007": {
+    "Id": 1007,
+    "DictionaryType": 3,
+    "Episode": 1007,
+    "Name": "Seabreeze Festival",
+    "DictionaryDes": "The Council established an annual city-wide celebration to commemorate the independence of Asterleeds, known as the \"Seabreeze Festival.\" <br>On the day of the festival, a shower of brilliant colored ribbons falls over Asterleeds. Adults tell their children that this is a blessing from the stars and the sea. <br><br>Citizens will place blooming Sea Lilies by their doorsteps and windows to express their wishes for peace. <br>During the Seabreeze Festival, people also exchange Sea Lilies with each other to express their cherish and blessings. <br>Various special celebrations, such as poetry gatherings, parades, and the Carnival, are also held in the city.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10092
+    ],
+    "IsHide": false
+  },
+  "1008": {
+    "Id": 1008,
+    "DictionaryType": 2,
+    "Episode": 1008,
+    "Name": "Tales of the Plains",
+    "DictionaryDes": "<style=\"ItemQuality_5\">\"Those who step out of the city gates will be devoured by the black fog monsters.\"</style><br>The originally crowded Seabreeze Festival has seen a sharp drop in attendance this time due to the Tales of the Plains. What is the truth behind these tales?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10009
+    ],
+    "IsHide": false
+  },
+  "1009": {
+    "Id": 1009,
+    "DictionaryType": 2,
+    "Episode": 1009,
+    "Name": "Snow Knight",
+    "DictionaryDes": "The Snow Knight is highly skilled. Despite wearing a clumsy Snow Knight suit, they can still flexibly repel monsters and rescue merchants. <br>Hidden inside the clumsy Snow Knight suit is <style=\"ItemQuality_5\">Tina</style>, a Freedom Fighter of Asterleeds.<br>Her popularity in the city is comparable to a walking pile of Luno. <br>However, Tina appearing on the plains in a Snow Knight suit seems to have a hidden reason.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10089
+    ],
+    "IsHide": false
+  },
+  "1010": {
+    "Id": 1010,
+    "DictionaryType": 3,
+    "Episode": 1010,
+    "Name": "Void Mist",
+    "DictionaryDes": "A twisted form of Engram of unknown origin, appearing as black mist cloud. <br>When Void Mist appears, the Engram in the surrounding space becomes chaotic and extremely dangerous. <br><br>Besides, Void Mist and Engram undergo a neutralization reaction, so the only way to dispel it is to inject a large amount of Engram into the contaminated area.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10095
+    ],
+    "IsHide": false
+  },
+  "1011": {
+    "Id": 1011,
+    "DictionaryType": 3,
+    "Episode": 1011,
+    "Name": "Wind Gate and Wind Field",
+    "DictionaryDes": "The intense collision of Winds creates a miraculous phenomenon called a wind field. <br>Abundant Winds fill the wind field, forming invisible wind gates.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10090
+    ],
+    "IsHide": false
+  },
+  "1012": {
+    "Id": 1012,
+    "DictionaryType": 1,
+    "Episode": 1012,
+    "Name": "About Me - II",
+    "DictionaryDes": "After a brief moment of stun and discomfort, I found my body dissipating into the air like wind-blown flower petals...<br>In the end, this dissipation seems related to certain events I experienced before, and it is precisely these experiences that caused my memory loss and Attack Damage.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10090
+    ],
+    "IsHide": false
+  },
+  "1013": {
+    "Id": 1013,
+    "DictionaryType": 2,
+    "Episode": 1013,
+    "Name": "The Dissipating Man in Black",
+    "DictionaryDes": "We finally tracked the source of the Void Mist to a mysterious person dressed in a pitch-black robe. <br>It was he who deliberately spread the Void Mist, causing all the strange Engram Anomalys on the plains. <br><br>When defeated, the Man in Black knelt on the ground, obsessively whispering, <style=\"ItemQuality_5\">\"How can such a grand cause be...\" </style>, and then dissipated into black mist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10090
+    ],
+    "IsHide": false
+  },
+  "1014": {
+    "Id": 1014,
+    "DictionaryType": 3,
+    "Episode": 1014,
+    "Name": "Pioneer Bureau",
+    "DictionaryDes": "A global organization that supports adventurer activities, the excavation of Bapharian Ruins, and the hunting of monsters. The Pioneer Bureau's stance is neutral and does not belong to any country. <br>The person in charge of the <style=\"ItemQuality_5\">Asterleeds Branch</style> is Miss Valeria, known as \"Miss Bright Idea.\" You can go to her for commissions in the future.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10003
+    ],
+    "IsHide": false
+  },
+  "1015": {
+    "Id": 1015,
+    "DictionaryType": 3,
+    "Episode": 1015,
+    "Name": "Imagine Research Institute",
+    "DictionaryDes": "Founded by legendary artisan Mason Stonecutter, the institute specializes in the research and application of Imagine Seeds.<br>Mason was once a central figure in the Artisan Guild and pioneered Legacy modification theory, but left after the Guild rejected his vision for Imagine Seeds.<br><br>The institute upholds his belief that Imagine Seeds hold potential beyond traditional Legacies, striving to break technical boundaries and explore more creative forms of craftsmanship.<br>Today, it operates independently as a frontier institution, advancing innovations overlooked by the mainstream.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10003
+    ],
+    "IsHide": false
+  },
+  "1016": {
+    "Id": 1016,
+    "DictionaryType": 1,
+    "Episode": 1016,
+    "Name": "The Mystery of Tina's Identity",
+    "DictionaryDes": "The stolen file revealed that Tina harbors a latent danger, prompting the Council to impose strict containment measures.<br>Therefore, Tina is restricted to <style=\"ItemQuality_5\">only being able to move within Asterleeds</style>, which is why she disguised herself as the Snow Knight to resolve the crisis on the plains.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10097
+    ],
+    "IsHide": false
+  },
+  "1017": {
+    "Id": 1017,
+    "DictionaryType": 2,
+    "Episode": 1017,
+    "Name": "Being Watched?",
+    "DictionaryDes": "It was a false alarm. It turns out to be Olvera, the commander of the Asterleeds Defense Corps soldiers, who wants to find her teacher, Airona.<br>That's why she was commissioning people everywhere, asking us to meet in Arena Town. <br>However, for such a powerful commander to also <style=\"ItemQuality_5\">call Airona her teacher</style>, just how powerful is Airona really...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10097
+    ],
+    "IsHide": false
+  },
+  "1018": {
+    "Id": 1018,
+    "DictionaryType": 1,
+    "Episode": 1018,
+    "Name": "About Me - III",
+    "DictionaryDes": "The Man in Black mentioned that I don't seem to be controlled by the Void Mist. <br>It seems there is some mysterious power hidden within my body...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10010
+    ],
+    "IsHide": false
+  },
+  "1019": {
+    "Id": 1019,
+    "DictionaryType": 2,
+    "Episode": 1019,
+    "Name": "Seabreeze Medal and Knighting Ceremony",
+    "DictionaryDes": "Awarded personally by the Council, it symbolizes the highest honor for making outstanding contributions to Asterleeds. <br>Those who receive this honor must be outstanding individuals who have turned the tide in a crisis and brought profound changes to the city. <br>The Knighting Ceremony is a celebration for the entire city. Citizens gather at Ocean Hill to witness the hero's coronation. <br>This is not only a recognition of individual merit but also a praise of the spirit of freedom. <br><br>Tina has been named this year's recipient of the prestigious Seabreeze Medal.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10010
+    ],
+    "IsHide": false
+  },
+  "1020": {
+    "Id": 1020,
+    "DictionaryType": 2,
+    "Episode": 1020,
+    "Name": "Tina's Inner Struggle",
+    "DictionaryDes": "War made Tina feel powerless. The loss of comrades and the Kanamian tragedy haunted her deeply.<br>Though called a hero, the Council restricted her freedom as a Seal Watcher.<br>The Void Mist amplified her pain, pulling her into darkness.<br><br>In a crucial moment, I resonated with her Bio-Engram and entered her mind. Together, we faced the pain she had buried-loss, despair, and the freedom she could never reach.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10011
+    ],
+    "IsHide": false
+  },
+  "1021": {
+    "Id": 1021,
+    "DictionaryType": 1,
+    "Episode": 1021,
+    "Name": "About Me - IV",
+    "DictionaryDes": "I seem to possess a special <style=\"ItemQuality_5\">Resonance Power</style>, allowing deep connections with others' Bio-Engrams and restoring life touched by the Void Mist.<br>It was this power that let me enter Tina's Mindrealm and bring her back from the edge.<br>And somehow, this power is deeply tied to my past...<br><br>Hruga sent the medal fragment through her follower-it's clear she's been watching my <style=\"ItemQuality_5\">Resonance Power</style>.<br>After all, it's a direct threat to the Void Mist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1022": {
+    "Id": 1022,
+    "DictionaryType": 2,
+    "Episode": 1022,
+    "Name": "Fireworks Festival",
+    "DictionaryDes": "During the Seabreeze Festival, at dusk, fireworks are set off on the beach, illuminating the entire sky of Asterleeds. <br>The firework patterns range from Sea Lilies to cat heads, having everything one could wish for. <br>The fireworks display creates a dreamlike scene, becoming a signature sight of the Seabreeze Festival.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10012
+    ],
+    "IsHide": false
+  },
+  "1023": {
+    "Id": 1023,
+    "DictionaryType": 1,
+    "Episode": 1023,
+    "Name": "The Witch's Whisper",
+    "DictionaryDes": "The gift inside the box turned out to be... a <style=\"ItemQuality_5\">fragment of Tina's Medal</style>?!<br><br>The moment my fingers brushed against the shard, a whisper echoed in my mind-<br>\"Accept my gift. I shall bestow upon thee the blade that can sunder fate itself. \"<br><br>Moments later, my consciousness began to fade... as if I were drifting into the depths of the Void Mist...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1024": {
+    "Id": 1024,
+    "DictionaryType": 3,
+    "Episode": 1024,
+    "Name": "The Fragment of Hruga's Horn",
+    "DictionaryDes": "The black keratin shard found in Tina's medal was the very source of the Void Mist at the Knighting Ceremony.<br>The mist leaked from this fragment, and contact with it disrupts the mind, causing brief loss of control.<br><br>This tampered shard was hidden inside a Box-disguised and delivered to me.<br>Even I couldn't resist its power.<br>After years of silence, Hruga's shadow has returned to Magna. Her followers may already be moving in secret.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1025": {
+    "Id": 1025,
+    "DictionaryType": 1,
+    "Episode": 1025,
+    "Name": "Hruga, the Witch of Calamity",
+    "DictionaryDes": "Witch Hruga, the spreader of Void Mist, is an extremely dangerous existence. <br><br>Three years ago, Hruga was sealed in the deepest part of the continent.<br>But rumor has it Hruga has recently been trying to break the seal...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1026": {
+    "Id": 1026,
+    "DictionaryType": 3,
+    "Episode": 1026,
+    "Name": "Hruga's Seal",
+    "DictionaryDes": "The divine seal that holds Hruga's power is called the \"Core of Stellarium.\"<br>Those who bear it are \"Seal Watchers.\"<br>There are two Watchers in total-Tina is one of them. That's why the Council assigned guards to protect her.<br><br>The recent Plains Incident likely stems from an attempt by the black-cloaked believer to break the seal.<br>When combined with the ceremony attack, it becomes clear-<br><style=\"ItemQuality_5\">the true mastermind behind all this evil is the witch Hruga</style>, working through her followers to reclaim her power.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1027": {
+    "Id": 1027,
+    "DictionaryType": 2,
+    "Episode": 1027,
+    "Name": "The Spreader of Void Mist",
+    "DictionaryDes": "The horn fragment hidden in the medal proves that the <style=\"ItemQuality_5\">Man in Black is a follower of the witch Hruga</style>.<br>They were also the one who spread the Void Mist during the Knighting Ceremony-and had previously sought Tina's classified records.<br><br>It's likely they attacked Tina to break the seal and free Hruga.<br>Now, they've set their sights on me-perhaps because they sensed my unusual resistance to the Void Mist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1028": {
+    "Id": 1028,
+    "DictionaryType": 1,
+    "Episode": 1028,
+    "Name": "Revelation",
+    "DictionaryDes": "It is said that when Hruga's seal was restored, a revelation emerged: <br><style=\"ItemQuality_5\">\"The eternal calamity is nigh. Awaken... Bearer of Resonance Power, you shall remember the sign of salvation, and bear the power of all beings to halt the end of fate...\"</style><br><br>So far, I am the only one with Resonance Power. This \"coincidence\" seems to hint that both my past and future are tightly bound to this revelation.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1029": {
+    "Id": 1029,
+    "DictionaryType": 3,
+    "Episode": 1029,
+    "Name": "Council Chair and the Council",
+    "DictionaryDes": "The highest governing body of Asterleeds consists of 17 councilors and a Council Chair, with members drawn from various sectors and communities. <br>Asterians value equality and believe the city's future should be shaped by voices from all walks of life. <br><br>The current Council Chair is <style=\"ItemQuality_5\">Lamond</style>, a kind and insightful elder. <br>He entrusted me with uncovering the truth behind the Void Mist in the medal-and granted us generous support, including the privileged Ocean Platinum Card.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10202
+    ],
+    "IsHide": false
+  },
+  "1030": {
+    "Id": 1030,
+    "DictionaryType": 2,
+    "Episode": 1030,
+    "Name": "The Real Culprit - Dark Mist Legion",
+    "DictionaryDes": "The one who tampered with Tina's medal was a craftsman named Ryan-forced into it after the Dark Mist Legion took his family hostage. <br>This reveals the true culprit: <style=\"ItemQuality_5\">the Dark Mist Legion, agents of Witch Hruga.</style><br><br>Once an elite unit of the Byrnhald Knights, the Legion refused to return after the Independence War. <br>Instead, they remained near Asterleeds, launching repeated attacks. Their leader, Denvel, a former knight, bears deep hatred toward the city.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10205
+    ],
+    "IsHide": false
+  },
+  "1031": {
+    "Id": 1031,
+    "DictionaryType": 2,
+    "Episode": 1031,
+    "Name": "The Fake Tycoon Kakater",
+    "DictionaryDes": "The \"tycoon\" Kakater aboard the luxury cruise was just a front, crafted by the infamous swindler \"Greenbottle Fly.\" <br>He struck a deal with <style=\"ItemQuality_5\">Byrnhald Executive Officer Taltraud</style>: under a stand-in agreement, Taltraud gathered intel in disguise, while the swindler plotted in secret. <br><br>As the officer enjoyed the convenience of anonymity, the conman had already siphoned away his assets through clever financial tricks. <br>Their alliance soon unraveled into a full-blown conspiracy on the high seas.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10206
+    ],
+    "IsHide": false
+  },
+  "1032": {
+    "Id": 1032,
+    "DictionaryType": 2,
+    "Episode": 1032,
+    "Name": "Operation White Night",
+    "DictionaryDes": "The codename given by Council Chair Lamond for the joint operation between Asterleeds and Byrnhald Executive Officer Tatta to annihilate the Dark Mist Legion. <br>As the saying goes-<style=\"ItemQuality_5\">\"Under the blazing white night, darkness is torn asunder and scattered to the winds like fading smoke, as mighty heroes rend the stars from the heavens.\"</style>",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10211
+    ],
+    "IsHide": false
+  },
+  "1033": {
+    "Id": 1033,
+    "DictionaryType": 3,
+    "Episode": 1033,
+    "Name": "Byrnhald Executive Officer",
+    "DictionaryDes": "A special military position in the Duchy of Byrnhald with extremely high authority. <br>It is said that Byrnhald cannot tolerate the rebellious attitude of the Dark Mist Legion, viewing them as a disgrace to the duchy, and has therefore dispatched the executive officer to eliminate them.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10211
+    ],
+    "IsHide": false
+  },
+  "1034": {
+    "Id": 1034,
+    "DictionaryType": 1,
+    "Episode": 1034,
+    "Name": "Rumors of the Dark Mist Legion - I",
+    "DictionaryDes": "Three years ago, the Dark Mist Legion defected from Byrnhald and repeatedly attacked Asterleeds. <br>Though most of their forces were destroyed, signs of a comeback have emerged. <br><br>Byrnhald, outraged by their betrayal, saw it as a disgrace. <br>The Knights dispatched <style=\"ItemQuality_5\">Taltraud</style> to eliminate them-especially their leader, Denvel.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10211
+    ],
+    "IsHide": false
+  },
+  "1035": {
+    "Id": 1035,
+    "DictionaryType": 1,
+    "Episode": 1035,
+    "Name": "The key to defeating the Dark Mist Legion is...",
+    "DictionaryDes": "Tatta revealed that the key to defeating Denvel lies with a Dark Mist Legion aide named <style=\"ItemQuality_5\">Jayden</style>. <br>However, he mysteriously vanished years ago in the <style=\"ItemQuality_5\">Towering Ruin</style>.<br><br>Records show that Jayden led an infiltration mission into Asterleeds. After it failed, he fled into the ruins and was never seen again-presumed dead.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10211
+    ],
+    "IsHide": false
+  },
+  "1036": {
+    "Id": 1036,
+    "DictionaryType": 3,
+    "Episode": 1036,
+    "Name": "Imagine & Imagine Seed",
+    "DictionaryDes": "When strong emotions or spiritual elements merge with Engram and become physical, they form what's known as <style=\"ItemQuality_5\">Imagine</style>.<br><br>On Regnus, Imagine is a common supernatural force rivaling the Legacy. Users can summon entities, weapons, or empower themselves. Its limits remain unknown.<br><br>Imagine is stored in gem-like items called <style=\"ItemQuality_5\">Imagine Seeds</style>, which must be activated. These seeds are hard to destroy and appear randomly-no one can create or predict them.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10214
+    ],
+    "IsHide": false
+  },
+  "1037": {
+    "Id": 1037,
+    "DictionaryType": 1,
+    "Episode": 1037,
+    "Name": "Rumors of the Dark Mist Legion - II",
+    "DictionaryDes": "Denvel, leader of the Dark Mist Legion, refused to accept the war-ending peace treaty. Fueled by revenge, he defied orders and attacked Asterleeds. <br><br>After being defeated by Tina and Olvera, he fell into despair and was swayed by the Man in Black, choosing to side with Witch Hruga and <style=\"ItemQuality_5\">use her power to destroy Asterleeds</style>. <br><br>It was revenge-and a twisted tribute to his fallen comrades.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10215
+    ],
+    "IsHide": false
+  },
+  "1038": {
+    "Id": 1038,
+    "DictionaryType": 2,
+    "Episode": 1038,
+    "Name": "Ship Ticket or Intellect",
+    "DictionaryDes": "With Denvel on the verge of attacking Asterleeds, <br>Council Chair Lamond did not force me to stay but gave me a choice: <br>a dignified departure, or to join the fight against the Dark Mist Legion.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10300
+    ],
+    "IsHide": false
+  },
+  "1039": {
+    "Id": 1039,
+    "DictionaryType": 3,
+    "Episode": 1039,
+    "Name": "Engram Anomaly",
+    "DictionaryDes": "Engram and Void Mist are opposing forces. <br>Engram maintains life's balance, while Void Mist brings madness and chaos. <br><br>Flowing through Engram Lines, Engram nourishes the world. <br>If blocked by Void Mist, <style=\"ItemQuality_5\">Engram Anomalies</style> occur-unleashing storms, hurricanes, or floods as elemental forces spiral out of control.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10303
+    ],
+    "IsHide": false
+  },
+  "1040": {
+    "Id": 1040,
+    "DictionaryType": 3,
+    "Episode": 1040,
+    "Name": "Engram Anomaly - Thunderstorm",
+    "DictionaryDes": "A massive amount of thunder energy converged into a devastating thunderstorm, mercilessly striking Minsterhorn and causing irreparable damage...<br>Even more deadly, the lingering thunder energy solidified into a barrier, blocking the way forward and making rescue efforts extremely difficult. <br><br>Only by locating the <style=\"ItemQuality_5\">source of the Engram Anomaly</style> can this catastrophe be resolved.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10304
+    ],
+    "IsHide": false
+  },
+  "1041": {
+    "Id": 1041,
+    "DictionaryType": 3,
+    "Episode": 1041,
+    "Name": "Source of the Engram Anomaly",
+    "DictionaryDes": "After an Engram Anomaly occurs due to an element cycle collapse, the collapsed elements will gather in one place.<br>This gathering point is called the Source. <br><br>The Source may appear in powerful creatures or attach itself to special objects, and is usually difficult to find. <br>Resonating with the Source using my Resonance Power is currently the only way to resolve an Engram Anomaly.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10304
+    ],
+    "IsHide": false
+  },
+  "1042": {
+    "Id": 1042,
+    "DictionaryType": 3,
+    "Episode": 1042,
+    "Name": "Void Sigil",
+    "DictionaryDes": "A lost and forbidden magical formula that can block the flow of Engram Lines, allowing Void Mist to spread. <br>By controlling \"Void Mist\" with Hruga's Horn, the magical formula can be activated, thus completing the placement of the sigils. <br>When all sigils are set, the magical formula will cause a large-scale spread of \"Void Mist,\" leading to a massive Void Cataclysm disaster.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10304
+    ],
+    "IsHide": false
+  },
+  "1043": {
+    "Id": 1043,
+    "DictionaryType": 3,
+    "Episode": 1043,
+    "Name": "Denvel's True Agenda",
+    "DictionaryDes": "There are four Void Sigils: one in the Dragonclaw Ruins, one in Minsterhorn, one in the Monument Statue of the Hero,<br>and the last one is set within Asterleeds. <br>The goal of Denvel, the leader of the Dark Mist Legion, is to <style=\"ItemQuality_5\">use the Void Sigils to engulf the entire plain</style> to achieve his revenge. <br>The only way to undo this is to find a large amount of Engram to neutralize the Void Mist within the sigils, thereby dismantling Void Sigil.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10506
+    ],
+    "IsHide": false
+  },
+  "1044": {
+    "Id": 1044,
+    "DictionaryType": 1,
+    "Episode": 1044,
+    "Name": "The Legend of the Bapharian Divine",
+    "DictionaryDes": "Long ago, the Bapharian Divine who ruled Regnus vanished, causing humanity to lose its technological foundation and fall into decline.<br>As civilization neared collapse, divine emissaries came forth with the \"Oracle.\"<br>This gave rise to the Bapharian Creed, guiding humanity's rebirth.<br><br>Today, people know the Divine were simply another race resembling humans. Yet most still hold them in deep reverence.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10513
+    ],
+    "IsHide": false
+  },
+  "1045": {
+    "Id": 1045,
+    "DictionaryType": 3,
+    "Episode": 1045,
+    "Name": "Engram Collector",
+    "DictionaryDes": "A very rare type of Legacy that can slowly collect nearby Engram and store it stably within. <br>Engram collected by an Engram Collector can be stored within it for hundreds of years. <br>Currently, Engram Collectors have been found in various sizes, with different-sized collectors storing different amounts of Engram.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10303
+    ],
+    "IsHide": false
+  },
+  "1046": {
+    "Id": 1046,
+    "DictionaryType": 3,
+    "Episode": 1046,
+    "Name": "Kanamia Tribe",
+    "DictionaryDes": "Before Asterleeds was founded, the Kanamia Tribe had long lived and thrived on this land.<br><br>Unlike modern civilization that relies on Bapharian Legacies, the Kanamians lead simple, peaceful lives in harmony with nature.<br>They worship their ancestors as <style=\"ItemQuality_5\">Ancestral Spirits</style>, and under their chieftain's leadership, live traditionally through hunting and gathering.<br>Known for their superb craftsmanship, Kanamian artisans make all daily tools and housing within the tribe.<br><br>During the Independence War, the Kanamians fought alongside Asterleeds.<br>But after the Battle of Kanamia Forest, many lost their homes and families, causing the tribe to grow isolated and cut ties with the outside world.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1047": {
+    "Id": 1047,
+    "DictionaryType": 3,
+    "Episode": 1047,
+    "Name": "The Beliefs of Kanamians",
+    "DictionaryDes": "Kanamians believe in ancestral spirits, holding that their kin return to the <style=\"ItemQuality_5\">ancestral spirits</style> after death. <br>The <style=\"ItemQuality_5\">ancestral spirits</style> are the world itself, watching over and protecting the tribe. <br>But the <style=\"ItemQuality_5\">ancestral spirits</style> cannot communicate directly with Kanamians and can only convey their will through priests.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1048": {
+    "Id": 1048,
+    "DictionaryType": 1,
+    "Episode": 1048,
+    "Name": "Rumors of the Forbidden Zone of Kanamia - I",
+    "DictionaryDes": "Engram in Kanamia is very abundant. It is said that this may be related to the <style=\"ItemQuality_5\">\"Forbidden Land\"</style> located within their territory. <br>It is said that the waters of the Forbidden Zone of Kanamia possess <style=\"ItemQuality_5\">healing abilities</style>, which further suggests that the concentration of Engram there is exceptionally high.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1049": {
+    "Id": 1049,
+    "DictionaryType": 4,
+    "Episode": 1049,
+    "Name": "\"Green Warbler\"",
+    "DictionaryDes": "The competition codename Rorola prepared for Airona in the Kanamia Tribe's Kanamia Brave trial. It means \"a green bird in the forest.\" It combines Airona's affinity for nature with her bird-like agility in combat.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1050": {
+    "Id": 1050,
+    "DictionaryType": 4,
+    "Episode": 1050,
+    "Name": "\"Tide Envoy\"",
+    "DictionaryDes": "The competition codename Rorola prepared for the protagonist in the Kanamia Tribe's Kanamia Brave trial. <br>It means \"a traveler from the sea.\" It alludes to the protagonist coming from the seaside city of Asterleeds and their future travels across the world.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1051": {
+    "Id": 1051,
+    "DictionaryType": 3,
+    "Episode": 1051,
+    "Name": "Kanamia Brave Trial",
+    "DictionaryDes": "In the Kanamia Tribe, the Warrior holds key responsibilities: defending the tribe, overseeing hunts, and carrying out administrative duties.<br>This role is bound by a <style=\"ItemQuality_5\">lifetime tenure</style> and only transitions when the current Warrior can no longer wield a blade due to <style=\"ItemQuality_5\">old age, death in battle, or special circumstances</style>.<br><br>Selection trials are strict-only elite members approved by the elders may take part.<br>These include combat simulations, endurance tests, and tactical evaluations, judged by the current Warrior, Chieftain, and Priest.<br><br>Only one Warrior serves at a time. The successor inherits all authority and honor, and any change in office must be jointly decided by the Chieftain, Priest, and the current Warrior.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10401
+    ],
+    "IsHide": false
+  },
+  "1052": {
+    "Id": 1052,
+    "DictionaryType": 1,
+    "Episode": 1052,
+    "Name": "Rumors of the Forbidden Zone of Kanamia - II",
+    "DictionaryDes": "The Forbidden Land, which has been guarded by the Kanamians for generations, is reverently called <style=\"ItemQuality_5\">\"The Ancestors' Gift\"</style>. <br>According to the tribespeople, it contains the sacred <style=\"ItemQuality_5\">\"power of the ancestors\"</style>, which is the lifeblood of the tribe's survival. <br>The tribespeople firmly believe that the water in the Forbidden Land can heal wounds and grant strength, a gift from the ancestors to protect Kanamia.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1053": {
+    "Id": 1053,
+    "DictionaryType": 3,
+    "Episode": 1053,
+    "Name": "Old Kanamia Tribe",
+    "DictionaryDes": "The Kanamians once lived for generations along the shores of Pale Azure Lake, but the Independence War changed everything. <br>Flames engulfed their homeland, and the tribe's living space shrank drastically. <br><br>The damage ran deeper-many lives were lost, and the survivors couldn't return to bury their fallen kin. <br>Now, the ruins are haunted by twisted <style=\"ItemQuality_5\">Engram Aberrants</style>, forcing the Kanamians to face the nightmare of fighting their once-loved ones if they wish to reclaim it. <br><br>That bloodstained land remains an unhealed scar, a constant reminder of the pain left by the war.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1054": {
+    "Id": 1054,
+    "DictionaryType": 3,
+    "Episode": 1054,
+    "Name": "Engram Aberrants",
+    "DictionaryDes": "An Engram Aberrant is a mutated lifeform born from the fusion of Engram energy and lingering obsessions. It must cling to a physical corpse or specific item to maintain its form. <br>Commonly known in folklore as <style=\"ItemQuality_5\">\"ghosts,\" \"undead,\" or \"spirits\"</style>, <br><br>these beings emerge when strong emotions at death prevent full Bio-Engram dispersal-leaving the spirit linked to Engram energy in a twisted union. Aberrants are surrounded by a natural Engram field, but lacking Bio-Engram, they instinctively attack nearby life to steal it and survive. <br><br>Most are mindless echoes of who they once were, but some reports speak of aberrants capable of speech.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1055": {
+    "Id": 1055,
+    "DictionaryType": 1,
+    "Episode": 1055,
+    "Name": "Kanamia Forest Skirmish - I",
+    "DictionaryDes": "During Asterleeds Independence War, the Kanamia Tribe, located on the border of Asterleeds, joined forces with Asterleeds to resist the Byrnhald army. <br>A special unit composed of <style=\"ItemQuality_5\">artisans, Kanamia Warriors, and Asterleeds Troopers</style> set up defensive facilities at the border to repel the Byrnhald army's offensive. <br><br>Unfortunately, the Byrnhald's attack came earlier than intel predicted. This led to the heavy losses of the joint unit after they were caught in an ambush.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1056": {
+    "Id": 1056,
+    "DictionaryType": 1,
+    "Episode": 1056,
+    "Name": "Kanamia Forest Skirmish - II",
+    "DictionaryDes": "During the skirmish, Commander Olvera led her subordinates to break out, while also heading to various deployment points to rescue the artisans who were setting up the installations. <br>However, to protect their homes, the artisans completed the deployment of the defensive facilities with their own lives.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1057": {
+    "Id": 1057,
+    "DictionaryType": 1,
+    "Episode": 1057,
+    "Name": "Kanamia Forest Skirmish - III",
+    "DictionaryDes": "In the final moments of the battle, High Priestess Yaretsi of the Kanamia Tribe led the last surviving warriors in a brave assault to divert the enemy forces. <br><br>Their sacrifice bought Olvera enough time to activate the defense system alone. <br>United, the Asterleeds soldiers, artisans, and Kanamians repelled the Byrnhald army's advance. <br><br>The survivors knew-if the border fell, their homeland would be lost to war. <br>So they chose to protect it with their lives. <br><br>Yet Priestess Yaretsi's will remained. Twisted by obsession, she became an Engram Aberrant, standing at the ruins of Kanamia. Holding the Key to the Forbidden Land, she waits in silence for her people's return...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10402
+    ],
+    "IsHide": false
+  },
+  "1058": {
+    "Id": 1058,
+    "DictionaryType": 3,
+    "Episode": 1058,
+    "Name": "Engram Anomaly - Hurricane",
+    "DictionaryDes": "The Wind, influenced by the Void Sigil, began to gather in large quantities near the Source. <br>The congested Wind eventually formed a terrifying tornado, which struck the Kanamia Tribe. <br><br>The hurricane caused severe damage, destroying the houses of the Kanamia Tribe, uprooting trees, and displacing the tribespeople...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10403
+    ],
+    "IsHide": false
+  },
+  "1059": {
+    "Id": 1059,
+    "DictionaryType": 3,
+    "Episode": 1059,
+    "Name": "Forbidden Zone of Kanamia",
+    "DictionaryDes": "When the gates of the Forbidden Land opened, the truth was astonishing-\n the so-called <style=\"ItemQuality_5\">\"Power of the Ancestors\"</style> was actually a <style=\"ItemQuality_5\">massive Engram Collector</style>, far beyond standard priestly models. <br><br>These ancient Bapharian relics infused Engram into the water, giving it powerful Healing. <br>The flow gathered below, forming the Sacred Spring worshipped by the Kanamians for generations. <br><br>Now, this giant Collector offers new hope-\n its energy may be enough to cleanse the spreading <style=\"ItemQuality_5\">Void Sigil</style>.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10404
+    ],
+    "IsHide": false
+  },
+  "1060": {
+    "Id": 1060,
+    "DictionaryType": 3,
+    "Episode": 1060,
+    "Name": "The Spread of Void Sigils",
+    "DictionaryDes": "The Man in Black and Denvel used a forbidden Igdias' ritual to amplify the Void Sigil, a technique that causes their spread. <br>Once spread, the Void Sigil becomes even stronger and is <style=\"ItemQuality_5\">difficult to eliminate in the short term</style>. <br>Even more dangerous, if multiple Void Sigils are placed in the same area, they will amplify each other, ultimately leading to the entire region being consumed by the Void Mist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10501
+    ],
+    "IsHide": false
+  },
+  "1061": {
+    "Id": 1061,
+    "DictionaryType": 2,
+    "Episode": 1061,
+    "Name": "Denvel's Final Assault",
+    "DictionaryDes": "The Dark Mist Legion realized that the other Void Sigils were being dispelled, so they launched an all-out assault on the location of the final sigil: Asterleeds. <br>If Denvel completes the final mark sigil this time, all the sigils will amplify each other, eventually causing the entire plains to be swallowed by the Void Mist. <br>Therefore, it is imperative to use the massive Engram Collector found in the Forbidden Land of Kanamia to dispel the Void Sigil before he succeeds.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10505
+    ],
+    "IsHide": false
+  },
+  "1062": {
+    "Id": 1062,
+    "DictionaryType": 1,
+    "Episode": 1062,
+    "Name": "About Me - V",
+    "DictionaryDes": "At the moment the final Void Sigil erupted, the violent energy shock completely destroyed the Engram Collector. <br>In the nick of time, I had to forcibly channel all the remaining Engram from the device into my own body.<br>With this power, I finally cleared the last Void Sigil, shattering Denvel's conspiracy. <br><br>As my consciousness began to fade, a distant yet familiar voice pierced through the darkness:<style=\"ItemQuality_5\">\" Please... wake up...\" </style><br>Is this call an echo of reality, or an awakening of past memories?",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10506
+    ],
+    "IsHide": false
+  },
+  "1063": {
+    "Id": 1063,
+    "DictionaryType": 3,
+    "Episode": 1063,
+    "Name": "Dark Mist Fortress",
+    "DictionaryDes": "When the Asterleeds Independence War ended, the Dark Mist Legion refused the recall order and secretly established a military base in a hidden area deep within the plains. <br>After colluding with Hruga's believers, this fortress became shrouded in dense Void Mist energy, forming a barrier difficult to penetrate. <br>Now, as the Void Sigils on the plain gradually dissipate, the dark barrier surrounding the fortress has crumbled. The time for a counterattack has finally arrived.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10510
+    ],
+    "IsHide": false
+  },
+  "1064": {
+    "Id": 1064,
+    "DictionaryType": 3,
+    "Episode": 1064,
+    "Name": "Engram Hub",
+    "DictionaryDes": "Engram flows across Planet Regnus in a network of Engram Lines.<br>The gathering points of this vein network are called Engram Hubs, where the Engram concentration and power are higher.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10511
+    ],
+    "IsHide": false
+  },
+  "1065": {
+    "Id": 1065,
+    "DictionaryType": 2,
+    "Episode": 1065,
+    "Name": "The Dissipation of Core of Stellarium",
+    "DictionaryDes": "The Core of Stellarium within Tina was formed to seal Witch Hruga, condensed from the life-giving power of the Stellarium. <br><br>Not meant for ordinary people, Tina's life became tied to it after merging. If it breaks, her Engram would vanish as well. <br><br>To save those in the Dark Mist Fortress, the Core of Stellarium within her was depleted and collapsed. <br>To keep her alive, I used Resonance Power to channel high-concentration Engram from a nearby Hub into her body. <br><br>But the collapse of the Core of Stellarium is sure to trigger serious consequences...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10511
+    ],
+    "IsHide": false
+  },
+  "1066": {
+    "Id": 1066,
+    "DictionaryType": 1,
+    "Episode": 1066,
+    "Name": "About Me - VI",
+    "DictionaryDes": "<style=\"ItemQuality_5\">\"Sever the source of this calamity, and find your complete self.\" \"Your destination is also your origin.\" </style><br>Connecting this with the previous mysterious revelation, <style=\"ItemQuality_5\">\"The eternal calamity is nigh. Awaken, bearer of Resonance Power, remember the sign of salvation, and bear the power of all beings to halt the end of fate.\" </style><br>Airona said that my memories may hold the key to saving this continent: the secret of the source of the Void Mist.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10513
+    ],
+    "IsHide": false
+  },
+  "1067": {
+    "Id": 1067,
+    "DictionaryType": 4,
+    "Episode": 1067,
+    "Name": "The Sea Lily and Compass Before Departure",
+    "DictionaryDes": "To find Hruga's followers, I must leave Asterleeds for now-parting ways with both Olvera and Tina. <br><br>Olvera prepared travel supplies herself, including a sealed glass bottle of <style=\"ItemQuality_5\">Sea Lily petals</style>, carefully preserved. <br>Soft white and blue specks, like the pearls and waves of Asterleeds. <br><br>Tina gave me her cherished <style=\"ItemQuality_5\">old compass</style>, one she carried through her early years traveling with caravans. <br>She said it helped her find her way home when she was lost. <br><br>Goodbye, Asterleeds, Sea Lilies, and the wind of freedom. <br>May we meet again someday...",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10513
+    ],
+    "IsHide": false
+  },
+  "1068": {
+    "Id": 1068,
+    "DictionaryType": 2,
+    "Episode": 1068,
+    "Name": "Hruga's Believers and the Highlands",
+    "DictionaryDes": "The Man in Black, a believer of Hruga, fled with Hruga's Horn to the nearby <style=\"ItemQuality_5\">Bahamar Highlands</style>. <br>The highlands are a treacherous land full of sand, stone, and crystals, as well as many mysterious ruins left by the Divine. <br>To uncover my past and unravel the secret of the revelation, I must go to the Bahamar Highlands and find the <style=\"ItemQuality_5\">believer of Hruga</style>.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      10513
+    ],
+    "IsHide": false
+  },
+  "1069": {
+    "Id": 1069,
+    "DictionaryType": 3,
+    "Episode": 1069,
+    "Name": "Golem",
+    "DictionaryDes": "The Golem is a rare Bapharian Legacy, known for its immense destructive power and incredible speed. Despite the Divine having departed centuries ago, some of these Golems are still active. <br>Humanity has had a long history of contact with Golems, but the method to activate them remains unknown, as well as their technological core. <br>However, Golems can unexpectedly activate when they sense a threat. A rogue Golem usually eliminates all nearby lifeforms, which is why the Council has strictly prohibited private ownership of Golems. <br><br>Interestingly, this dangerous characteristic has made Golems even more desirable in the black market. Some wealthy individuals and powerful figures even view owning one privately as a status symbol. The high price of Golems has drawn numerous desperate individuals who form groups, sometimes even bringing along a few artisans, to venture deep into the Divine's ruins just to retrieve an intact Golem and sell it for a hefty profit.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30118
+    ],
+    "IsHide": false
+  },
+  "1070": {
+    "Id": 1070,
+    "DictionaryType": 3,
+    "Episode": 1070,
+    "Name": "The Election of Council",
+    "DictionaryDes": "The council election process in Asterleeds is highly rigorous. Citizens who run for council are called candidates. To become a candidate, one must have made outstanding contributions or shown exceptional performance in their field. And they also need recommendation letters from at least three current councilors to be eligible. <br><br>Of course, becoming a candidate is only the beginning. The council conducts strict evaluations on all candidates. Candidates are required to give multiple speeches filled with insight to impress a critical audience-including current councilors, citizens, and even the Council Chair-while clearly outlining their political vision for the future. <br>At the same time, a background investigation is quietly launched. Council agents will interview and investigate the candidate's living environment, friends and family, and even their neighbors to gain a comprehensive understanding of their true character.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30125
+    ],
+    "IsHide": false
+  },
+  "1071": {
+    "Id": 1071,
+    "DictionaryType": 3,
+    "Episode": 1071,
+    "Name": "The Scouts of Asterleeds",
+    "DictionaryDes": "After the Asterleeds Independence War, although the relationship between Asterleeds and Byrnhald is not one of outright hostility, Asterleeds still maintains great caution. <br>For example, to avoid surprise attacks, measures such as secretly stationing scouts on the trade routes used for Cargo Delivery in Asterleeds have been implemented. <br>Asterians cannot suffer the trauma of war again, so they use various methods to carefully avoid it. <br>This is also the old wound brought by the Asterleeds Independence War.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30132
+    ],
+    "IsHide": false
+  },
+  "1072": {
+    "Id": 1072,
+    "DictionaryType": 1,
+    "Episode": 1072,
+    "Name": "Andra Landing Battle and the Ecosystem",
+    "DictionaryDes": "After the outbreak of the Asterleeds Independence War, Byrnhald troops landed in the Andra Basin from the sea. <br>In this battle, Byrnhald deployed a giant Golem, determined to take the Andra Basin. <br>The Asterleeds Defense Corps, led by Olvera, fought back fiercely, and a violent conflict broke out between the two sides, known in history as the Andra Basin Skirmish. <br>The battle was so brutal that it took many years for the local ecosystem to recover.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30121
+    ],
+    "IsHide": false
+  },
+  "1073": {
+    "Id": 1073,
+    "DictionaryType": 3,
+    "Episode": 1073,
+    "Name": "The Black Market of Asterleeds",
+    "DictionaryDes": "Asterleeds is a city of trade. Besides legitimate business, there are also sizable black markets. <br>These black markets are usually privately organized and have their own currency and codes. <br>Wary of the suppression of the Defense Corps, the gathering places and even the members of the black market are not fixed. <br>The most common goods on the black market are illegal Bapharian Legacies (unauthorized by the Creed), illicit gear made by underground workshops, and goods circulating through unofficial channels.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30136
+    ],
+    "IsHide": false
+  },
+  "1074": {
+    "Id": 1074,
+    "DictionaryType": 3,
+    "Episode": 1074,
+    "Name": "Rab and Vita",
+    "DictionaryDes": "Rab and Vita are two cute cat mascots and the official symbols of the Asterleeds Seabreeze Festival.<br>Granted the title \"Seabreeze Festival Ambassadors,\" they represent joy and warmth, and deliver blessings.<br>Their performers are selected by the Council and rigorously trained to ensure quality.<br><br>During the festival, residents traditionally exchange letters, and Rab and Vita are the most beloved messengers.<br>It's said that asking Rab to deliver a love letter greatly boosts your chances of success.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      31071
+    ],
+    "IsHide": false
+  },
+  "1075": {
+    "Id": 1075,
+    "DictionaryType": 2,
+    "Episode": 1075,
+    "Name": "Mutations caused by Engram",
+    "DictionaryDes": "In Regnus, Engram flows through every part of the world as the energy that sustains all life.<br>But when its concentration exceeds the natural balance, strange anomalies emerge:<br>A turtle's shell may grow uncontrollably and become grotesque.<br>Fruit may carry deadly toxins. Streams may suddenly boil...<br><br>These are not random events, but inevitable signs of the Engram Cycle's collapse.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30124
+    ],
+    "IsHide": false
+  },
+  "1076": {
+    "Id": 1076,
+    "DictionaryType": 1,
+    "Episode": 1076,
+    "Name": "The Shadows of Asterleeds",
+    "DictionaryDes": "After the Independence War, Asterleeds faced a period of unrest.<br>Brigands appeared outside the city, while thugs and gangs surfaced within.<br><br>They caused serious disruption until the Defense Corps cracked down, greatly improving security.<br>Now, most gangs have moved into the sewers, with only a few still lurking in the shadows.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30137
+    ],
+    "IsHide": false
+  },
+  "1077": {
+    "Id": 1077,
+    "DictionaryType": 3,
+    "Episode": 1077,
+    "Name": "Webber Energy Network",
+    "DictionaryDes": "The Webber Energy Network, built by legendary artisan Webber, powers all of Asterleeds, supporting homes and public infrastructure.<br><br>Back when the city was founded, Legacy tech was rarely used, but Webber insisted on converting a Bapharian ruin into an energy hub. His foresight proved correct as usage steadily grew over the decades.<br><br>Lately, the network has suffered repeated malfunctions. Some artisans call for a full rebuild, while the Energy Division argues that its modular design just needs upgrades.<br>Amid the debate, the division's leader mysteriously vanished. Both sides agreed: if upgrades aren't finished on time, the entire system will be replaced.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30401
+    ],
+    "IsHide": false
+  },
+  "1078": {
+    "Id": 1078,
+    "DictionaryType": 1,
+    "Episode": 1078,
+    "Name": "Energy Division of the Artisan Guild",
+    "DictionaryDes": "The Energy Division, founded by the Webber family of Byrnhald, is a special branch of the Asterleeds Artisan Guild, tasked with maintaining the Webber Energy Network.<br><br>After the Independence War, while most Byrnhalds left, the division stayed behind. Over time, ideological rifts led to their marginalization. They now rely on self-sufficiency, with rumors of secret support from Byrnhald.<br>Though officially under the Guild, they operate under Webber Industry, which funds and supports them.<br><br>Following their leader's mysterious disappearance, the sewer network began collapsing, triggering an energy crisis. The Council and Guild's silence has made this isolated team the center of the growing threat.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30401
+    ],
+    "IsHide": false
+  },
+  "1079": {
+    "Id": 1079,
+    "DictionaryType": 2,
+    "Episode": 1079,
+    "Name": "Funerals in the Underground",
+    "DictionaryDes": "Funerals in the underground world are twisted and bizarre, unlike anything on the surface.<br>They begin with a dark dirge, followed by eulogies, then the officiant carves the epitaph into a fence. Assistants and a pharmacist then send the body into a chute.<br>The pharmacist applies a live-bacteria salve that, upon contact with water, corrodes the body and pushes it through the pipe into the Abyssal, where it fully dissolves as if it never existed.<br><br>Such funerals are costly-a rare luxury underground. But what truly makes them exclusive to the wealthy is the unwritten rule: the host inherits all of the deceased's assets, legally and without question.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30413
+    ],
+    "IsHide": false
+  },
+  "1080": {
+    "Id": 1080,
+    "DictionaryType": 1,
+    "Episode": 1080,
+    "Name": "Scavenger",
+    "DictionaryDes": "Across the Asteria Plains, a unique group known as Scavengers roams the wilds with packs on their backs, living apart from the crowded city in their own way.<br><br>The wilderness is harsh, so they often travel in small groups. Losing a companion means no one to share fire, offer herbs, or fend off beasts. Mutual support is vital. Though borders aren't formal, each group tends to stick to familiar ground.<br><br>Andra Resting Post is their largest gathering spot-a place to sleep, trade goods, and share information.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30106
+    ],
+    "IsHide": false
+  },
+  "1081": {
+    "Id": 1081,
+    "DictionaryType": 3,
+    "Episode": 1081,
+    "Name": "The Orphanage",
+    "DictionaryDes": "The Asterleeds Orphanage was founded by the Creed to support children who lost their parents.<br><br>During the Independence War, nearby regions were devastated, leaving many civilians displaced. The Creed set up temporary shelters to ease the suffering. After the war, most returned home-except the orphans. <br><br>The Creed then turned the shelters into a permanent orphanage for war orphans, offering strict etiquette training and formal education under the care of its members.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30507
+    ],
+    "IsHide": false
+  },
+  "1082": {
+    "Id": 1082,
+    "DictionaryType": 1,
+    "Episode": 1082,
+    "Name": "Movements of the Dragons",
+    "DictionaryDes": "Decades ago, dragons launched a major invasion of the The Duchy of Byrnhald, but were repelled by the Byrnhald Knights and disappeared from sight.<br><br>Today, wild dragons are still occasionally seen in remote mountains and wilderness. Though they sometimes clash with locals, their low numbers mean they pose no serious threat.<br><br>While dragons are no longer a military concern, their cultural influence remains strong. Dragon-themed stories, plays, and art thrive across the Continent of Magna, and the public still views dragons as powerful and dangerous beings.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30211
+    ],
+    "IsHide": false
+  },
+  "1083": {
+    "Id": 1083,
+    "DictionaryType": 3,
+    "Episode": 1083,
+    "Name": "Gigantic Automaton",
+    "DictionaryDes": "The Gigantic Automatons, mighty war machines forged by the Bapharians, played a crucial role in the war against dragons.<br>Legend says they were not taken back by the Divine, but lost across the Continent of Magna.<br>Divine texts state that only chosen individuals can awaken and control them.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30127
+    ],
+    "IsHide": false
+  },
+  "1084": {
+    "Id": 1084,
+    "DictionaryType": 3,
+    "Episode": 1084,
+    "Name": "Scholars of Asterleeds",
+    "DictionaryDes": "In the trade city of Asterleeds, scholars are a rare and often overlooked group, devoted to knowledge and detached from business or politics.<br>Their abstract research-on topics like the origin of the world or the meaning of life-rarely attracts interest. Asterleeds' pragmatic culture makes it hard for them to survive, and progress often depends on support from the Artisan Guild.<br><br>Recently, the Pioneer Bureau's work has highlighted the value of exploring Bapharian Ruins. Some Legacies have had real impact on daily life.<br>Shrewd merchants, sensing opportunity, have begun funding scholars in hopes their discoveries may spark the next wave of commercial innovation.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30313
+    ],
+    "IsHide": false
+  },
+  "1085": {
+    "Id": 1085,
+    "DictionaryType": 3,
+    "Episode": 1085,
+    "Name": "Jump Mice-5",
+    "DictionaryDes": "An advanced modified Bapharian Legacy with a core module that releases high-pressure gas for instant propulsion.<br>Perfect for navigating hazardous terrain like mountain ravines.<br>Originally used by the Byrnhald Knights, it later surfaced on the black market-at a high price.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30300
+    ],
+    "IsHide": false
+  },
+  "1086": {
+    "Id": 1086,
+    "DictionaryType": 3,
+    "Episode": 1086,
+    "Name": "Secure Chest",
+    "DictionaryDes": "An advanced modified Bapharian Legacy, the Secure Casket-also known as a \"storage compartment\"-is built to hold highly valuable items.<br>It follows an irreversible protocol: unlocking conditions must be preset, such as a sound frequency, a linked object, or the owner's Bio-Engram signature.<br><br>Its outer shell, made of an unknown alloy, can withstand extreme events like volcanic eruptions and earthquakes.<br>Any forced access while sealed triggers an immediate alarm.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30300
+    ],
+    "IsHide": false
+  },
+  "1087": {
+    "Id": 1087,
+    "DictionaryType": 3,
+    "Episode": 1087,
+    "Name": "Etched Lines",
+    "DictionaryDes": "A glowing, wide stripe often seen in Bapharian Ruins, commonly known among modern artisans as \"Etched Lines.\"<br><br>They appear on walls, pillars, and other energy-reliant structures, suggesting they were used by the Divine to transmit power.<br>Strikingly, even if the structure is damaged, nearby Legacies can still receive energy within a limited range.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30301
+    ],
+    "IsHide": false
+  },
+  "1088": {
+    "Id": 1088,
+    "DictionaryType": 3,
+    "Episode": 1088,
+    "Name": "Modia's Egg",
+    "DictionaryDes": "Legend tells of a Bapharian Legacy called Modia's Egg, said to cure all diseases.<br>Yet no solid proof has ever surfaced. The Creed denies its existence, and scholars have found no credible records. All known \"Modia's Eggs\" have been proven to be forgeries.<br><br>Some believe it's a black market invention inspired by ancient myths, fueled by people's hope for healing and fascination with lost civilizations. Others claim it exists but was hidden by the Creed due to its forbidden nature.<br><br>Even now, many continue to believe that Modia's Egg is real.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30601
+    ],
+    "IsHide": false
+  },
+  "1089": {
+    "Id": 1089,
+    "DictionaryType": 1,
+    "Episode": 1089,
+    "Name": "City Beneath the Ruins",
+    "DictionaryDes": "The ruins are believed to be Andra, a massive city from the Bapharian era. Due to the presence of monsters, the Creed has only set up outposts around its perimeter.<br><br>Archaeological evidence suggests it was destroyed during a Bapharian war. But with the Divine's superior technology and supposedly impenetrable defenses-what could have caused its fall?<br><br>Recent surveys show that the visible ring structures may only be the upper layers. Most of the city could lie buried underground. The truth might still be hidden below.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30139
+    ],
+    "IsHide": false
+  },
+  "1090": {
+    "Id": 1090,
+    "DictionaryType": 1,
+    "Episode": 1090,
+    "Name": "Evershade Waters",
+    "DictionaryDes": "Evershade Waters is a hazardous maritime zone near Asterleeds, infamous for deadly conditions and frequent shipwrecks.<br><br>Its defining feature is a massive whirlpool, hundreds of meters wide. Ships caught in it lose all power and are torn apart, their remains scattered across the sea in a visible debris field.<br><br>Due to the constant threat, local sailors avoid the area at all costs.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30500
+    ],
+    "IsHide": false
+  },
+  "1091": {
+    "Id": 1091,
+    "DictionaryType": 1,
+    "Episode": 1091,
+    "Name": "The Andra Incident",
+    "DictionaryDes": "The Andra Incident was a mysterious maritime disaster near Asterleeds.<br><br>The cargo ship Andra, operated by the Merchant Guild, went missing in Evershade Waters while fulfilling a contract with the Fishers' Guild. Days later, Captain Dorunik and his crew were found alive, claiming they escaped through a hollow beneath the sea after being pulled into a whirlpool.<br><br>The Fishers' Guild doubted their story, suspecting a cover-up for lost cargo, and demanded compensation under the contract terms.<br><br>The Merchant Guild denied fault and enlisted the Pioneer Bureau's help. With adventurers' aid, the underwater hollow was confirmed, clearing the crew of all accusations.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30500
+    ],
+    "IsHide": false
+  },
+  "1092": {
+    "Id": 1092,
+    "DictionaryType": 3,
+    "Episode": 1092,
+    "Name": "Abyssal Eye",
+    "DictionaryDes": "The Abyssal Eye is a famed gem across Asterleeds' Seaside regions, especially among sailors and pirates.<br>Legend says it was forged by dragons and holds the power to destroy entire cities.<br>But with such power comes misfortune-every known bearer has faced tragedy: monster attacks, loss of loved ones, and total ruin.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30510
+    ],
+    "IsHide": false
+  },
+  "1093": {
+    "Id": 1093,
+    "DictionaryType": 1,
+    "Episode": 1093,
+    "Name": "Legacy Forging Technology",
+    "DictionaryDes": "Forging artisans are one of the four major disciplines within the Artisan Guild, renowned for their mastery of material processing and object creation.<br>With Legacy forging now widespread, traditional tools like hammers have been fully replaced by Bapharian forging instruments.<br><br>Modern artisans can synthesize basic materials into high-grade forging composites, used in ship keels, hardened blades, and precision components. Forging artisans have thus become the cornerstone of the artisan tradition.",
+    "DictionaryFigure": "",
+    "TargetType": 115,
+    "Num": 1,
+    "SceneId": 0,
+    "Param": [
+      -2,
+      30123
+    ],
+    "IsHide": false
+  }
+}

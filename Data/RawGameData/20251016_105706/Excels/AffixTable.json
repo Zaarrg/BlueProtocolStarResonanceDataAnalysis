@@ -1,0 +1,4423 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Testentry1 - Warrior's Fiery Blade Crit",
+    "Description": "Character 100% Crit",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        521801,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Testentry2 - Taoist 15 Dogs, Dominating the Region",
+    "Description": "Scene 2 Randomly Summon Goblins",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_touyunmuxuan",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      1
+    ],
+    "Effect": [
+      [
+        2,
+        1,
+        1001,
+        2,
+        91
+      ],
+      [
+        2,
+        1,
+        1002,
+        2,
+        92
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        1000.0
+      ],
+      [
+        4.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Testentry3 - Mage's Frost Instant Kill",
+    "Description": "Randomly Reduce Ice Resistance of Half the Monsters",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_lengjing",
+    "EffectType": 1,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        2,
+        521901,
+        0,
+        2,
+        50
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Pursue Victory",
+    "Description": "Elite-level monsters receive 35% less damage when in a super armor state, but take 250% damage when weakened.",
+    "Remark": "英雄本用",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 3,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        860101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Holy Baptism",
+    "Description": "Within 3s of receiving a Healing, hitting an enemy reduces the CD of all skills by 1s.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_shenshengxili",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        860401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Prism",
+    "Description": "The number of projectile skills for the character +3, duration +10s, and damage dealt +200%.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_lengjing",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        860601,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Barrier",
+    "Description": "The character's shield gain +300%, and while a shield is present, Engram recovery speed +100%.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_bilei",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        860701,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Gale",
+    "Description": "When the character deals Wind damage, there is a 10% chance to create a wind field that lasts for 7s. The wind field continuously deals damage and attracts nearby monsters. Monsters within the wind field take 50% more damage. CD: 10s.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_kuangfeng",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        860801,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "9": {
+    "Id": 9,
+    "Name": "Stun",
+    "Description": "When the character deals Fire damage, it adds a 5% increased damage taken effect for 5s, which can stack.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_touyunmuxuan",
+    "EffectType": 1,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        860901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "10": {
+    "Id": 10,
+    "Name": "Impenetrable Wall",
+    "Description": "When monsters take damage, the damage -500 points.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_tongqiangtiebi",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        861001,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "11": {
+    "Id": 11,
+    "Name": "Soul Devourer",
+    "Description": "Each time the character takes damage, it restores 5% of nearby monsters' health.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_shixiezhishou",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        861101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "12": {
+    "Id": 12,
+    "Name": "Fight to the Death",
+    "Description": "At the start of the battle, the character's ultimate gauge is filled. When the character is not in a healthy state, they gain a 75% damage increase. When in an injured state, they gain an additional 75% damage increase.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_beishuiyizhan",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        861401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "13": {
+    "Id": 13,
+    "Name": "Perfectionist",
+    "Description": "When the character is in a healthy state, damage dealt +30%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_wanmeizhuyizhe",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        861501,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "14": {
+    "Id": 14,
+    "Name": "Wound",
+    "Description": "When a monster hits the character, the damage the character takes is permanently +3%. This effect can stack.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhongjizhiren",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        861601,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "15": {
+    "Id": 15,
+    "Name": "Will to Rebirth",
+    "Description": "When a non-boss monster's health drops to 0, it will restore to full health once and continuously take damage.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhisifangxiu",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        861801,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "16": {
+    "Id": 16,
+    "Name": "Double-Edged Sword",
+    "Description": "The character gains 1 stack of effect every 5s, each stack increases damage dealt and damage taken by 10% (up to 20 stacks), each time the character takes damage, 1 stack is removed.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_shuangrenjian",
+    "EffectType": 3,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        861901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "17": {
+    "Id": 17,
+    "Name": "War Enthusiasm",
+    "Description": "The character takes damage equal to 1% of their Max HP per second (not lethal), and each time a monster is defeated, the character recovers 10% of their Max HP.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhandoukuangre",
+    "EffectType": 3,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        862101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "18": {
+    "Id": 18,
+    "Name": "Dual Wielding",
+    "Description": "After switching weapons, the character gains a 30% increase in damage and Healing for 10s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_erdaoliu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        862201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "19": {
+    "Id": 19,
+    "Name": "Frost Blade",
+    "Description": "When a monster hits the character, the character's Speed -10% for 20s, stacking up to 7 times.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_bingshuangzhiren",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        862401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "20": {
+    "Id": 20,
+    "Name": "Bomber",
+    "Description": "When a monster dissipates, it causes a large explosion at its original location.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        862601,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "21": {
+    "Id": 21,
+    "Name": "Swift as the Wind",
+    "Description": "The Speed of monsters +20%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jirufeng",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        862701,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "22": {
+    "Id": 22,
+    "Name": "Aura of Devotion",
+    "Description": "After a monster dissipates, it leaves a blazing trap on the ground that deals damage to players for 15s",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_xianjiguanghuan",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        862801,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "23": {
+    "Id": 23,
+    "Name": "Upgrade Module",
+    "Description": "Monsters increase damage by 30% every 5s they survive, elite level monsters increase damage by 20% every 10s they survive, and boss monsters increase damage by 10% every 20s they survive.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_shengjimokuai",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        862901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "24": {
+    "Id": 24,
+    "Name": "Spirit",
+    "Description": "Monsters gain a shield that grants complete immunity to damage 3 times every 20s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_lingti",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        863101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "25": {
+    "Id": 25,
+    "Name": "Swift Flash",
+    "Description": "When the character triggers a perfect dodge, all skill CDs are refreshed, CD: 30s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_xunjiyishan",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        863201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "26": {
+    "Id": 26,
+    "Name": "Chaotic Thunder",
+    "Description": "When the character deals damage, there is a 10% chance to summon a lightning strike to hit the enemy (this effect is influenced by engraving probability bonuses).",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_luanlei",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        864101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "27": {
+    "Id": 27,
+    "Name": "Nuclear Impact",
+    "Description": "When monsters take Crit, the damage value is recorded and reduced to 0. Every 3s, the recorded damage value is settled, and during this period, the recorded damage value +50% per second.",
+    "Remark": "主词缀",
+    "Icon": "ui/atlas/affix/com_affix_hechongji",
+    "EffectType": 1,
+    "TargetType": 2,
+    "Level": 3,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        864201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "28": {
+    "Id": 28,
+    "Name": "Rupture",
+    "Description": "When monsters dissipate, they explode, causing damage to nearby characters.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_benghuai",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        870101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "29": {
+    "Id": 29,
+    "Name": "Inspire",
+    "Description": "When monsters dissipate, they permanently increase the damage dealt by other monsters within 5 meters (excluding boss level) by 30% and reduce the damage they take by 10%. This effect can stack, with Defense increasing up to a maximum of 50%.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_jili",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        870201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "30": {
+    "Id": 30,
+    "Name": "Pursue Victory",
+    "Description": "Arcane value acquisition efficiency +20%, and after breaking super armor, deal triple damage within 10s.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        870501,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "31": {
+    "Id": 31,
+    "Name": "Water Element Shield",
+    "Description": "When monsters spawn, they gain a layer of water element shield, taking 150% Ice damage and 50% other attribute damage.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_shui",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        870701,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "32": {
+    "Id": 32,
+    "Name": "Fire Shield",
+    "Description": "When monsters spawn, they gain a layer of Fire shield, taking 150% Fire damage and 50% other attribute damage",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_huo",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        870801,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "33": {
+    "Id": 33,
+    "Name": "Thunder Element Shield",
+    "Description": "Monsters will gain a layer of Water Element Shield upon spawning, taking 150% Thunder Element damage and 50% other attribute damage.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_lei",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        870901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "34": {
+    "Id": 34,
+    "Name": "Wind Shield",
+    "Description": "Monsters will gain a layer of Water Element Shield upon spawning, taking 150% Wind damage and 50% other attribute damage.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_feng",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        871001,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "35": {
+    "Id": 35,
+    "Name": "Forest Shield",
+    "Description": "Monsters will gain a layer of Water Element Shield upon spawning, taking 150% Verdant Damage and 50% other attribute damage.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_yuansuhudun_sen",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        871101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "36": {
+    "Id": 36,
+    "Name": "Arena",
+    "Description": "Monsters of elite level or higher will generate a 5-meter diameter Shrine around them, making monsters within the Shrine immune to damage from outside the Shrine.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jiaodouchang",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        865001,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "37": {
+    "Id": 37,
+    "Name": "Concealment",
+    "Description": "Monsters have a 10% chance to enter a 3-second invisibility state when attacked, becoming immune to damage, with a 20-second CD after activation.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhebi",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        865201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "38": {
+    "Id": 38,
+    "Name": "Glass Cannon",
+    "Description": "Character's damage dealt +200%, but Max HP -50%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_bolidapao",
+    "EffectType": 3,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        865401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "39": {
+    "Id": 39,
+    "Name": "Spring",
+    "Description": "Monsters will recover 50% of the damage taken as health 0.5s after taking damage.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_tanhuang",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        865501,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "40": {
+    "Id": 40,
+    "Name": "Analgesia",
+    "Description": "When the character takes damage from monsters, the damage value is recorded and reduced to zero. When the total recorded damage exceeds the character's HP, the character immediately dissipates.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_wutongzheng",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        865601,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "41": {
+    "Id": 41,
+    "Name": "Venom",
+    "Description": "After dealing damage, monsters will inflict a debuff that reduces Max HP by 1% per second, stacking up to 10 layers. This effect is removed if the character is healed to full health.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zuzhou",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        865701,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "42": {
+    "Id": 42,
+    "Name": "Stormy Weather",
+    "Description": "Each time the character deals damage, an additional 10% of their ATK as non-elemental damage is added.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jifengzhouyu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        865901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "43": {
+    "Id": 43,
+    "Name": "Perfect State",
+    "Description": "When the character's health is above 80%, they deal an additional 20% damage.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_wanmeizhuyizhe",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        872001,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "44": {
+    "Id": 44,
+    "Name": "Void Soul",
+    "Description": "When Tina's health drops to 70% and 35%, she will summon a Void Soul respectively. The Void Soul will target the player with the highest rage and deal DoT to them. The Void Soul receives 80% Defense when its super armor is not broken and takes 500% damage when its super armor is broken. When the Void Soul dissipates, it increases all players' damage by 100% for 10s.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_shixiezhishou",
+    "EffectType": 3,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        872101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "45": {
+    "Id": 45,
+    "Name": "Stormy Weather",
+    "Description": "Each time the character deals damage, an additional 8% of their ATK as damage is added.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_jifengzhouyu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        865901,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "46": {
+    "Id": 46,
+    "Name": "Swift Flash",
+    "Description": "When the character triggers a perfect dodge, all skill CDs are refreshed, CD: 10s.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_xunjiyishan",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        3,
+        863201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "47": {
+    "Id": 47,
+    "Name": "Chaotic Thunder",
+    "Description": "When the character lands a Crit, there is a 30% chance to generate a lightning strike that attacks nearby enemies. Each Crit increases the trigger chance by 10%, lasting for 10s, up to a maximum of 100%.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_luanlei",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        3,
+        864101,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "48": {
+    "Id": 48,
+    "Name": "Dual Wielding",
+    "Description": "After switching weapons, the character gains a 30% increase in damage and Healing for 10s.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_erdaoliu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        3,
+        862201,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "49": {
+    "Id": 49,
+    "Name": "Holy Baptism",
+    "Description": "Within 3s of receiving a Healing, hitting an enemy reduces the CD of all skills by 1s.",
+    "Remark": "英雄本词缀",
+    "Icon": "ui/atlas/affix/com_affix_shenshengxili",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        3,
+        860401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "50": {
+    "Id": 50,
+    "Name": "Corrupt Regeneration",
+    "Description": "The Max HP of Monsters -25%, but they recover 5% of their Max HP per second.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_fuhuaizaisheng",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866402,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "51": {
+    "Id": 51,
+    "Name": "Affliction",
+    "Description": "Each stack increases damage taken by 5%. Defeating a normal monster adds 1 stack, and defeating an elite monster adds 3 stacks.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_kunan",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866403,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "52": {
+    "Id": 52,
+    "Name": "Reshape",
+    "Description": "Gain dungeon skill: Refresh, consuming 35% of health, refreshes all skill CDs, and increases damage by 50% for 10s. CD: 1 minute.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chongsu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866405,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "53": {
+    "Id": 53,
+    "Name": "Warning Line",
+    "Description": "Monsters cannot take more than 10% of their Max HP as damage per hit.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jingjiexian",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866407,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "54": {
+    "Id": 54,
+    "Name": "Wild Surge",
+    "Description": "When a monster within 10 meters of the character is defeated, reduce all skill CDs by 1s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_roushizhe",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866408,
+        0
+      ],
+      [
+        1,
+        1,
+        866409,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ],
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "55": {
+    "Id": 55,
+    "Name": "Holy Healing",
+    "Description": "When the character receives healing, it deals equal damage to units within 10 meters.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_shenshengzhiyu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866410,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "56": {
+    "Id": 56,
+    "Name": "Quick Strike",
+    "Description": "The character's damage dealt -80%, but each time damage is dealt, it increases damage by 2.5% for 5s, stackable up to a maximum of 200%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jifengzhouyu",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866411,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "57": {
+    "Id": 57,
+    "Name": "Isolated",
+    "Description": "When there are no other monsters around a non-boss monster, the damage it receives +80%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_gudugan",
+    "EffectType": 1,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866413,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "58": {
+    "Id": 58,
+    "Name": "Inflatable Hammer",
+    "Description": "The character's damage +30%, but thisentrybecomes temporarily inactive when the character is in an injured state.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chongqichui",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866414,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "59": {
+    "Id": 59,
+    "Name": "Time Bomb",
+    "Description": "During combat, every 25s or when a normal monster dissipates, there is a chance to spawn a self-destructing robot that deals damage to all players after a certain time.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_dingshizhadan",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866415,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "60": {
+    "Id": 60,
+    "Name": "Loneliness",
+    "Description": "When there are allies within 10 meters of the character, the character gains a buff that increases damage dealt by 30%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_gudugan",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866417,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "61": {
+    "Id": 61,
+    "Name": "Burning Heart",
+    "Description": "After entering combat, the character enters a burning state every 30s for 10s, during which moving will cause damage based on a percentage of Max HP.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_xianjiguanghuan",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866418,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "62": {
+    "Id": 62,
+    "Name": "Rally",
+    "Description": "After entering combat, every 30s a shield is generated on one player, and after 5s, lightning strikes all players. Those outside the shield take damage equal to 50% of their Max HP.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_liwojindian",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        866420,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "63": {
+    "Id": 63,
+    "Name": "Shadow Pool",
+    "Description": "When a non-boss monster dissipates, it creates a 3-meter radius poison pool that deals damage to players and heals monsters.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_anmie",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866424,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "64": {
+    "Id": 64,
+    "Name": "Price of Power",
+    "Description": "The character gains a 40% increase in damage and a 25% CD reduction, but loses 2% of Max HP per second. This effect will not reduce the character's health to zero.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_liliangdedaijia",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866425,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "65": {
+    "Id": 65,
+    "Name": "Roar",
+    "Description": "Non-boss monsters become enraged when their health drops to 30%, increasing their damage by 100% until defeated.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866426,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "66": {
+    "Id": 66,
+    "Name": "Absolute Defense",
+    "Description": "All monsters gain permanent super armor.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jueduifangyu",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866427,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "67": {
+    "Id": 67,
+    "Name": "Frozen Domain",
+    "Description": "Upon entering combat, circular frozen areas will randomly appear on the ground. Characters within these areas will have their Speed -25% and take damage equal to 5% of their Max HP per second. After 5s, the area will explode, dealing damage equal to 25% of Max HP to players within the area and freezing them for 5s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_bingfenglingyu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866428,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "68": {
+    "Id": 68,
+    "Name": "Entangling Vines",
+    "Description": "Upon entering combat, ring-shaped vine areas will periodically appear under random characters. Characters will take damage and have their Speed -50% when entering or leaving these areas.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jiaoshazhiteng",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 2,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        866431,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        40.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "69": {
+    "Id": 69,
+    "Name": "Soul Siphon (Normal)",
+    "Description": "Monsters gain 10% life steal.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_linghunhongxi",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866433,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "70": {
+    "Id": 70,
+    "Name": "Soul Siphon (Elite)",
+    "Description": "Elite monsters gain 10% life steal.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_linghunhongxi",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866434,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "71": {
+    "Id": 71,
+    "Name": "Ascension (Normal)",
+    "Description": "Monsters gain 20% additional health and have a 30% chance to increase damage by 25% when dealing damage.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jinsheng",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866435,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "72": {
+    "Id": 72,
+    "Name": "Ascension (Elite)",
+    "Description": "Elite monsters gain 50% additional health and their damage +100%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jinsheng",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866436,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "73": {
+    "Id": 73,
+    "Name": "Rock Solid",
+    "Description": "Non-World Boss monsters take 30% less Crit DMG.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jianrupanshi",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866437,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "74": {
+    "Id": 74,
+    "Name": "Swift",
+    "Description": "Non-World Boss monsters' Speed +25%",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_xunjie",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866438,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "75": {
+    "Id": 75,
+    "Name": "Tenacity",
+    "Description": "All damage taken by non-World Boss monsters -25%",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jianren",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866439,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "76": {
+    "Id": 76,
+    "Name": "Evolution - Part One",
+    "Description": "All monsters' item level +20",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_waiqiangzhonggan",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866440,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 20,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "77": {
+    "Id": 77,
+    "Name": "Evolution - Part Two",
+    "Description": "All monsters' item level +30",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_waiqiangzhonggan",
+    "EffectType": 2,
+    "TargetType": 2,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866441,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 30,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "78": {
+    "Id": 78,
+    "Name": "Divine Gift",
+    "Description": "When the character heals, it applies a 3-second effect to the target that increases critical rate, Crit DMG, and attack speed by 25%",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_shenshengxili",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        866442,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "79": {
+    "Id": 79,
+    "Name": "Pursue Victory",
+    "Description": "Elite and above monsters take 50% less damage when in a super armor state, but take 500% damage when in a weakened state.",
+    "Remark": "大秘境用主词缀",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        866448,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "80": {
+    "Id": 80,
+    "Name": "Void Heart",
+    "Description": "Enemies infected by Void Corruption provide a higher score bonus. In Fate mode, Void Corruption containers appear in the scene, and interacting with them infects nearby enemies with Void Seeds.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "81": {
+    "Id": 81,
+    "Name": "Void Corruption Hardening",
+    "Description": "Small monsters infected by Void Corruption are immune to control effects, and elites have their tenacity bar doubled.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_jianren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      82,
+      101
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873401,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "82": {
+    "Id": 82,
+    "Name": "Void Corruption Eruption",
+    "Description": "Enemies infected by Void Corruption periodically erupt with [Void Corruption Pillars].",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_linghunhongxi",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      81,
+      101
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873404,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "83": {
+    "Id": 83,
+    "Name": "Weakening Link",
+    "Description": "Every once in a while, a random player will be connected to the farthest player nearby for 10s. While the connection exists, the damage caused by both players will be continuously reduced. The connection is cleared when the players get closer to each other.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_tanhuang",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      84,
+      85
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873410,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        60000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "84": {
+    "Id": 84,
+    "Name": "Void Prism",
+    "Description": "There is a chance that an untargetable Void Crystal will spawn near enemies in combat, continuously healing nearby enemies. The crystal is destroyed after a player stays near it for more than 2s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhisifangxiu",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      83,
+      85
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873303,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "85": {
+    "Id": 85,
+    "Name": "Void Corruption Afterimage",
+    "Description": "There is a chance that a Void Corruption Soulshard will spawn near enemies in combat, casting for 10s. When the casting ends, it reduces the ATK of all nearby players by 50% for 10s.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zuzhou",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      83,
+      84
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873302,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "86": {
+    "Id": 86,
+    "Name": "Tenacity",
+    "Description": "Health of minor and elite enemies +30%, damage +10%",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      87
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873406,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "87": {
+    "Id": 87,
+    "Name": "Brutal",
+    "Description": "Boss enemies' HP +15%, damage +10%",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      86
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        873407,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "88": {
+    "Id": 88,
+    "Name": "Burning Heart",
+    "Description": "At regular intervals, four players are randomly afflicted with Heat for 3s. Moving during this state causes HP loss.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_anmie",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      89,
+      90
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873001,
+        0,
+        1,
+        4
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        60000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "89": {
+    "Id": 89,
+    "Name": "Shockwave",
+    "Description": "At regular intervals, shock zones will periodically appear beneath three randomly selected players. When the zones explode, they deal DMG and cause stun to other players in range.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      88,
+      90
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873104,
+        0,
+        1,
+        3
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        60000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "90": {
+    "Id": 90,
+    "Name": "Unexpected Surprise",
+    "Description": "At regular intervals, two players will randomly receive bombs that explode after 5s, dealing AoE DMG and knockback. Jumping leaves the bomb behind at the jump location",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_dingshizhadan",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      88,
+      89
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873203,
+        0,
+        1,
+        2
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        60000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "91": {
+    "Id": 91,
+    "Name": "Evolution 1",
+    "Description": "Enemy health +25%, damage +15%",
+    "Remark": "S1特殊库",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        873411,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "92": {
+    "Id": 92,
+    "Name": "Evolution 2",
+    "Description": "Enemy health +25%, damage +15%",
+    "Remark": "S1特殊库",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        873419,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "93": {
+    "Id": 93,
+    "Name": "Void Seed",
+    "Description": "Some dungeon enemies are infected with [Void Seed]. Enemies infected by [Void Seed] gain multiple buffs. <br><style=\"tipsYellow\">Defeating enhanced enemies will earn you more points!<br><style=\"tipsYellow\">",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 3,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "94": {
+    "Id": 94,
+    "Name": "Gift of Healing",
+    "Description": "Healing done by players +an additional 15%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873412,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "95": {
+    "Id": 95,
+    "Name": "Gift of Life",
+    "Description": "Player's Max HP +20%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873413,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "96": {
+    "Id": 96,
+    "Name": "Gift of Crit",
+    "Description": "Player's Crit +8%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873414,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "97": {
+    "Id": 97,
+    "Name": "Gift of Haste",
+    "Description": "Player's haste +8%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873415,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "98": {
+    "Id": 98,
+    "Name": "Gift of Luck",
+    "Description": "Player's luck +8%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873416,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "99": {
+    "Id": 99,
+    "Name": "Gift of Mastery",
+    "Description": "Player's mastery +8%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873417,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "100": {
+    "Id": 100,
+    "Name": "Gift of Versatility",
+    "Description": "Player's versatility +8%",
+    "Remark": "S1钥匙库",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        873418,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "101": {
+    "Id": 101,
+    "Name": "Dark Corruption",
+    "Description": "When enemies infected with Void Corruption are eliminated, they apply [Dark Corruption] to nearby players, dealing damage equal to 1% of Max HP per second per stack.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_benghuai",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [
+      81,
+      82
+    ],
+    "Effect": [
+      [
+        1,
+        4,
+        700036,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "102": {
+    "Id": 102,
+    "Name": "Void Corruption Afterimage",
+    "Description": "Periodically generates six Void Corruption Afterimages, attempting to deal high damage to players. Interrupting their chanting or controlling them will cause them to dissipate immediately and provide players with a critical attribute bonus.",
+    "Remark": "S1库A",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_shadow1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      104,
+      106,
+      108
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873420,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "103": {
+    "Id": 103,
+    "Name": "Enhanced Void Corruption Afterimages",
+    "Description": "The number of Void Corruption Afterimages appearing increases to ten.",
+    "Remark": "S1库C",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_shadow2",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873421,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "104": {
+    "Id": 104,
+    "Name": "Void Corruption Meteor",
+    "Description": "Periodically a Void Corruption Meteor falls from the sky, dealing high shared damage in an area and providing a haste attribute bonus to players. If no player shares the damage, the meteor destroys the ground, dealing high damage to the entire team.",
+    "Remark": "S1库A",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_decoy1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      102,
+      106,
+      108
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873422,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "105": {
+    "Id": 105,
+    "Name": "Enhanced Void Corruption Meteor",
+    "Description": "Damage caused by Void Corruption Meteor significantly increased",
+    "Remark": "S1库C",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_decoy2",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873423,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "106": {
+    "Id": 106,
+    "Name": "Illusion Invasion",
+    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a mastery attribute bonus.",
+    "Remark": "S1库A",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      102,
+      104,
+      108
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873424,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "107": {
+    "Id": 107,
+    "Name": "Enhanced Illusion Invasion",
+    "Description": "The attributes of the illusion are greatly increased.",
+    "Remark": "S1库C",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor2",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873425,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "108": {
+    "Id": 108,
+    "Name": "Dispersed Energy",
+    "Description": "Periodically generates a Fragile Star Core, scattering Star Core Energy. Picking up Star Core Energy or directly healing the soul to full health will cause it to dissipate and provide players with an all-round attribute bonus, otherwise it will deal high damage to players.",
+    "Remark": "S1库A",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_energy3",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [
+      102,
+      104,
+      106
+    ],
+    "Effect": [
+      [
+        3,
+        1,
+        873426,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "109": {
+    "Id": 109,
+    "Name": "Enhanced Dispersed Energy",
+    "Description": "Initial health of the Fragile Star Core significantly decreased",
+    "Remark": "S1库C",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_energy4",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        3,
+        1,
+        873427,
+        0,
+        1,
+        1
+      ]
+    ],
+    "EffectTime": [
+      [
+        2.0,
+        90000.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": [
+      1,
+      2
+    ]
+  },
+  "110": {
+    "Id": 110,
+    "Name": "Void Corruption Afterimage",
+    "Description": "Periodically generates six Void Corruption Afterimages, attempting to deal high damage to players. Interrupting their chanting or controlling them will cause them to dissipate immediately and provide players with a critical attribute bonus.",
+    "Remark": "显示用库D",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_shadow1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "111": {
+    "Id": 111,
+    "Name": "Void Corruption Meteor",
+    "Description": "Periodically a Void Corruption Meteor falls from the sky, dealing high shared damage in an area and providing a haste attribute bonus to players. If no player shares the damage, the meteor destroys the ground, dealing high damage to the entire team.",
+    "Remark": "显示用库D",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_decoy1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "112": {
+    "Id": 112,
+    "Name": "Illusion Invasion",
+    "Description": "Periodically generates an illusion that is immune to control and can restore health based on the actual damage caused, continuously attacking players and attempting to unleash an ultimate move that deals high damage to the entire team. If the illusion is destroyed, it provides players with a mastery attribute bonus.",
+    "Remark": "显示用库D",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_meteor1",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "113": {
+    "Id": 113,
+    "Name": "Dispersed Energy",
+    "Description": "Periodically generates a Fragile Star Core, scattering Star Core Energy. Picking up Star Core Energy or directly healing the soul to full health will cause it to dissipate and provide players with an all-round attribute bonus, otherwise it will deal high damage to players.",
+    "Remark": "显示用库D",
+    "Icon": "ui/atlas/affix/com_affix_s1_flux_energy3",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "114": {
+    "Id": 114,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension.<br><style=\"tipsYellow\">The team that loots it will obtain the high-tier loot reward corresponding to the dungeon upon completion!<br><style=\"tipsYellow\">",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        700122,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "115": {
+    "Id": 115,
+    "Name": "Placeholder Entry",
+    "Description": "Placeholder Entry",
+    "Remark": "占位词缀",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "116": {
+    "Id": 116,
+    "Name": "\"Unit X\"",
+    "Description": "There is a \"Unit X\" in a fixed position in the scene, interacting with it can provide buffs!",
+    "Remark": "介绍用词缀",
+    "Icon": "ui/atlas/affix/com_affix_tongqiangtiebi",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "117": {
+    "Id": 117,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. <br><style=\"tipsYellow\">The party that loots it will obtain the high-tier loot reward corresponding to the dungeon upon completion!<br><style=\"tipsYellow\">",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        700123,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "118": {
+    "Id": 118,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension.<br><style=\"tipsYellow\">The party that loots it will obtain the high-tier loot reward corresponding to the dungeon upon completion!<br><style=\"tipsYellow\">",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        700124,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "119": {
+    "Id": 119,
+    "Name": "Power of Unity",
+    "Description": "When the party includes Guardian, Support, and Attack classes, the party's DMG dealt +25%.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_wanmeizhuyizhe",
+    "EffectType": 1,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "120": {
+    "Id": 120,
+    "Name": "Void Vanguard",
+    "Description": "Empowered by the primal Void Corruption Power, all enemies in the dungeon gain significant stat boosts.",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_baonu",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        700129,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "995": {
+    "Id": 995,
+    "Name": "Tag - Unstable Solo",
+    "Description": "Marks a solo challenge",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        701008,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "996": {
+    "Id": 996,
+    "Name": "Tag - Unstable Multiplayer",
+    "Description": "Marks a solo challenge",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        701008,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "997": {
+    "Id": 997,
+    "Name": "Mark for -PT difficulty",
+    "Description": "Used for pre-dungeon season performance, to distinguish difficulty",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        701008,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "998": {
+    "Id": 998,
+    "Name": "Mark for -H difficulty",
+    "Description": "Used for pre-dungeon season performance, to distinguish difficulty",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        701009,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "999": {
+    "Id": 999,
+    "Name": "Mark for -M difficulty",
+    "Description": "Used for pre-dungeon season performance, to distinguish difficulty",
+    "Remark": "",
+    "Icon": "ui/atlas/affix/com_affix_chengshengzhuiji",
+    "EffectType": 1,
+    "TargetType": 1,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        1,
+        701010,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": false,
+    "PauseLogic": []
+  },
+  "1001": {
+    "Id": 1001,
+    "Name": "Dark Realm",
+    "Description": "The scene is shrouded in darkness, staying in the darkness will continuously lose health, and you can avoid the darkness through light orbs in the scene.",
+    "Remark": "爬塔事件",
+    "Icon": "ui/atlas/affix/com_affix_zuzhou",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "Vigilant Machine",
+    "Description": "There are patrolling robots in the area. When they detect an enemy nearby, they will rush towards them and self-destruct",
+    "Remark": "爬塔事件",
+    "Icon": "ui/atlas/affix/com_affix_tanhuang",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "1003": {
+    "Id": 1003,
+    "Name": "Watcher",
+    "Description": "The Watcher continuously scans the area, being scanned will result in a fatal attack.",
+    "Remark": "爬塔事件",
+    "Icon": "ui/atlas/affix/com_affix_zuzhou",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "1004": {
+    "Id": 1004,
+    "Name": "Purification Light Curtain",
+    "Description": "Purification Light Curtains appear periodically. Activate your shield to avoid DMG.",
+    "Remark": "爬塔事件",
+    "Icon": "ui/atlas/affix/com_affix_tanhuang",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2001": {
+    "Id": 2001,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Gauntlets, Earrings</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·哥布林巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2002": {
+    "Id": 2002,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Gauntlets, Earrings</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·哥布林巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2003": {
+    "Id": 2003,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Gauntlets, Earrings</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Remark": "极限·哥布林巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2004": {
+    "Id": 2004,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Gauntlets, Earrings</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Remark": "极限·哥布林巢穴",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2011": {
+    "Id": 2011,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Helmet, Necklace</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·蒂娜·精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2012": {
+    "Id": 2012,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Helmet, Necklace</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·蒂娜·精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2013": {
+    "Id": 2013,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Helmet, Necklace</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Remark": "极限·蒂娜·精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2014": {
+    "Id": 2014,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Helmet, Necklace</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Remark": "极限·蒂娜·精神之界",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2021": {
+    "Id": 2021,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Armor, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2022": {
+    "Id": 2022,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Armor, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2023": {
+    "Id": 2023,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Armor, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Remark": "极限·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2024": {
+    "Id": 2024,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Outfit, Ring</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Remark": "极限·巨塔遗迹",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2031": {
+    "Id": 2031,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Shoes, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·卡尼曼试炼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2032": {
+    "Id": 2032,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Shoes, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary: Weapon</style>",
+    "Remark": "极限·卡尼曼试炼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2033": {
+    "Id": 2033,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Shoes, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Remark": "极限·卡尼曼试炼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2034": {
+    "Id": 2034,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Shoes, Charm</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Remark": "极限·卡尼曼试炼",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2041": {
+    "Id": 2041,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Bracelet (L), Bracelet (R)</style><br>Low chance<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style>",
+    "Remark": "极限·巨龙爪痕",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2042": {
+    "Id": 2042,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Bracelet (L), Bracelet (R)</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style>",
+    "Remark": "极限·巨龙爪痕",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2043": {
+    "Id": 2043,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Bracelet (L), Bracelet (R)</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style>",
+    "Remark": "极限·巨龙爪痕",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2044": {
+    "Id": 2044,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Bracelet (L), Bracelet (R)</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style>",
+    "Remark": "极限·巨龙爪痕",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2051": {
+    "Id": 2051,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Other Slots</style>",
+    "Remark": "极限·黯影堡垒",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2052": {
+    "Id": 2052,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Weapon</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.40 Legendary gear: Other Slots</style>",
+    "Remark": "极限·黯影堡垒",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2053": {
+    "Id": 2053,
+    "Name": "Bane Lord",
+    "Description": "Caution! The powerful Bane Lord may rarely tear through space-time and invade this dimension. The party that attacks and loots it will additionally obtain upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Weapon</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.60 Legendary: Other Slots</style>",
+    "Remark": "极限·黯影堡垒",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  },
+  "2054": {
+    "Id": 2054,
+    "Name": "Bane Lord",
+    "Description": "Watch out! The powerful Bane Lord has a low chance to tear through space-time and invade this realm! The party that attacks and claims its loot will receive an additional reward upon completion <br>Drop:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Weapon</style><br><br>Rare:<br><style=\"ItemQuality_4\">Lv.80 Legendary: Other Slots</style>",
+    "Remark": "极限·黯影堡垒",
+    "Icon": "ui/atlas/affix/com_affix_zhadanren",
+    "EffectType": 2,
+    "TargetType": 3,
+    "Level": 1,
+    "Mutex": [],
+    "Effect": [
+      [
+        1,
+        4,
+        0,
+        0
+      ]
+    ],
+    "EffectTime": [
+      [
+        1.0,
+        0.0
+      ]
+    ],
+    "GsChange": 0,
+    "IsShowUI": true,
+    "PauseLogic": []
+  }
+}

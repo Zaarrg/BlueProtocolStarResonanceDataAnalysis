@@ -1,0 +1,5 @@
+*.ab
+/Data/GameDummyDll/*
+/Data/UnityFiles/*/GameAssembly.dll
+/Data/UnityFiles/*/global-metadata.dat
+/Data/UnityFiles/*/meta.pkg

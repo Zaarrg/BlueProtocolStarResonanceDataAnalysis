@@ -1,0 +1,716 @@
+{
+  "9000001": {
+    "Id": 9000001,
+    "Name": "玩具·白色烟花",
+    "ModelID": 9000001,
+    "ToyId": 1073101,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56001
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000002": {
+    "Id": 9000002,
+    "Name": "玩具·蓝色烟花",
+    "ModelID": 9000002,
+    "ToyId": 1073102,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56002
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000003": {
+    "Id": 9000003,
+    "Name": "玩具·绿色烟花",
+    "ModelID": 9000003,
+    "ToyId": 1073103,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56003
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000004": {
+    "Id": 9000004,
+    "Name": "玩具·粉色烟花",
+    "ModelID": 9000004,
+    "ToyId": 1073104,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56004
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000005": {
+    "Id": 9000005,
+    "Name": "玩具·紫色烟花",
+    "ModelID": 9000005,
+    "ToyId": 1073105,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56005
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000006": {
+    "Id": 9000006,
+    "Name": "玩具·橙色烟花",
+    "ModelID": 9000006,
+    "ToyId": 1073106,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56006
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000007": {
+    "Id": 9000007,
+    "Name": "玩具·黄色烟花",
+    "ModelID": 9000007,
+    "ToyId": 1073107,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56007
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000008": {
+    "Id": 9000008,
+    "Name": "玩具·彩色烟花",
+    "ModelID": 9000008,
+    "ToyId": 1073108,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56008
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000009": {
+    "Id": 9000009,
+    "Name": "玩具·小伊烟花",
+    "ModelID": 9000009,
+    "ToyId": 1073109,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56009
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000010": {
+    "Id": 9000010,
+    "Name": "玩具·风景画板",
+    "ModelID": 9000010,
+    "ToyId": 1073118,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56011
+      ]
+    ],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [],
+    "DissolutionCfg": [],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000028": {
+    "Id": 9000028,
+    "Name": "玩具·弹簧装置",
+    "ModelID": 9000028,
+    "ToyId": 1073128,
+    "GoLayer": -1,
+    "CanMask": false,
+    "StatusInfo": [
+      [
+        0,
+        0
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "StatusTransition": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        0
+      ]
+    ],
+    "DefaultState": 0,
+    "InteractionTemplate": [
+      [
+        0,
+        56012
+      ],
+      [
+        1,
+        56012
+      ]
+    ],
+    "ShowStatusInfo": [
+      [
+        0,
+        7100021,
+        7100020
+      ],
+      [
+        1,
+        7100021,
+        7100020
+      ]
+    ],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": false,
+    "TerrainAttr": []
+  },
+  "9000029": {
+    "Id": 9000029,
+    "Name": "玩具·陆游器",
+    "ModelID": 9000029,
+    "ToyId": 1073129,
+    "GoLayer": -1,
+    "CanMask": true,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": true,
+    "TerrainAttr": [
+      7.0,
+      7.0,
+      4.0
+    ]
+  },
+  "9000030": {
+    "Id": 9000030,
+    "Name": "玩具·小型光桥",
+    "ModelID": 7070001,
+    "ToyId": 1073130,
+    "GoLayer": 3,
+    "CanMask": true,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": true,
+    "TerrainAttr": []
+  },
+  "9000031": {
+    "Id": 9000031,
+    "Name": "玩具·长板光桥",
+    "ModelID": 7070000,
+    "ToyId": 1073131,
+    "GoLayer": 3,
+    "CanMask": true,
+    "StatusInfo": [],
+    "StatusTransition": [],
+    "DefaultState": 0,
+    "InteractionTemplate": [],
+    "ShowStatusInfo": [],
+    "ShowStatusTransition": [],
+    "AppearDisAppearCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "DissolutionCfg": [
+      {
+        "x": 7000207.0,
+        "y": 1.0
+      },
+      {
+        "x": 7000208.0,
+        "y": 1.0
+      }
+    ],
+    "IsNotGround": true,
+    "TerrainAttr": []
+  }
+}

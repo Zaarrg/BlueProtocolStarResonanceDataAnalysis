@@ -1,0 +1,273 @@
+{
+  "100": {
+    "Id": 100,
+    "Name": "Currency",
+    "Icon": "0",
+    "Capacity": -1,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "0",
+    "CapacityExtra": 0
+  },
+  "1": {
+    "Id": 1,
+    "Name": "Items",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_14",
+    "Capacity": 2000,
+    "Show": 1,
+    "Classify": [
+      [
+        "",
+        "",
+        "Growth Item",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Valuable Item",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Consumable",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Rare Material",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Quest Item",
+        ""
+      ]
+    ],
+    "Consume": "0",
+    "CapacityExtra": 2100
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Gear",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_01",
+    "Capacity": 500,
+    "Show": 2,
+    "Classify": [
+      [
+        "",
+        "",
+        "Weapon",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Helmet",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Armor",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Gauntlets",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Boots",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Earrings",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Necklace",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Ring",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Bracelet (L)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Bracelet (R)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Charm",
+        ""
+      ]
+    ],
+    "Consume": "0",
+    "CapacityExtra": 600
+  },
+  "5": {
+    "Id": 5,
+    "Name": "Modules",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_62",
+    "Capacity": 2000,
+    "Show": 6,
+    "Classify": [],
+    "Consume": "0",
+    "CapacityExtra": 2100
+  },
+  "6": {
+    "Id": 6,
+    "Name": "Battle Imagine",
+    "Icon": "ui/atlas/item/c_tab_icon/com_icon_tab_198",
+    "Capacity": 2000,
+    "Show": 5,
+    "Classify": [
+      [
+        "",
+        "",
+        "Power of Resonance",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Battle Will",
+        ""
+      ]
+    ],
+    "Consume": "0",
+    "CapacityExtra": 2100
+  },
+  "7": {
+    "Id": 7,
+    "Name": "Wardrobe",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "0",
+    "CapacityExtra": 999999
+  },
+  "8": {
+    "Id": 8,
+    "Name": "Weapon",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "0",
+    "CapacityExtra": 999999
+  },
+  "102": {
+    "Id": 102,
+    "Name": "Special Talent Points Items",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "0",
+    "CapacityExtra": 999999
+  },
+  "11": {
+    "Id": 11,
+    "Name": "Furniture",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
+  "9": {
+    "Id": 9,
+    "Name": "Personalization",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
+  "10": {
+    "Id": 10,
+    "Name": "Guild Resource Library",
+    "Icon": "",
+    "Capacity": -1,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
+  "12": {
+    "Id": 12,
+    "Name": "Mount Imagine",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
+  "13": {
+    "Id": 13,
+    "Name": "Homestead Coins",
+    "Icon": "",
+    "Capacity": -1,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 0
+  },
+  "110": {
+    "Id": 110,
+    "Name": "Reading Material",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 999999
+  },
+  "121": {
+    "Id": 121,
+    "Name": "Postcards",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 999999
+  },
+  "907": {
+    "Id": 907,
+    "Name": "Collection Cards",
+    "Icon": "",
+    "Capacity": 999999,
+    "Show": 0,
+    "Classify": [],
+    "Consume": "",
+    "CapacityExtra": 999999
+  }
+}

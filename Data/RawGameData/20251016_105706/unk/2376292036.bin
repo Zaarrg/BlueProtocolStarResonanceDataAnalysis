@@ -1,0 +1,4 @@
+{
+    "ProtocolVersion": "",
+    "ProtocolDescription": "当协议版本发生变化时并且前后端不兼容时，此ProtocolVersion需要手动更新,建议格式是主版本号.次版本号.修订号，例如1.0.0"
+}

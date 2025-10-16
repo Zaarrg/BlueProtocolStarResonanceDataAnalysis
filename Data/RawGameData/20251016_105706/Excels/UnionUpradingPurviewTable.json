@@ -1,0 +1,102 @@
+{
+  "1": {
+    "Id": 1,
+    "ShowPurview": "The maximum number of Guild members increases to {*val*}",
+    "PurviewParam": [],
+    "Des": "协会成员上限增加至50人"
+  },
+  "2": {
+    "Id": 2,
+    "ShowPurview": "Unlock the number of Blessing Springs {*val*}",
+    "PurviewParam": [
+      2,
+      1
+    ],
+    "Des": "特效格子解锁1个"
+  },
+  "3": {
+    "Id": 3,
+    "ShowPurview": "Unlock the blessing effect {*val*}",
+    "PurviewParam": [
+      3,
+      0
+    ],
+    "Des": "解锁对应特效ID"
+  },
+  "4": {
+    "Id": 4,
+    "ShowPurview": "Unlock the kitchen",
+    "PurviewParam": [
+      4,
+      1
+    ],
+    "Des": "解锁厨房"
+  },
+  "5": {
+    "Id": 5,
+    "ShowPurview": "Unlock the Guild Hunt gameplay",
+    "PurviewParam": [
+      5,
+      1
+    ],
+    "Des": "解锁PVE玩法"
+  },
+  "6": {
+    "Id": 6,
+    "ShowPurview": "Unlock the leisure area {*val*}",
+    "PurviewParam": [
+      6,
+      1
+    ],
+    "Des": "解锁休闲区域1"
+  },
+  "7": {
+    "Id": 7,
+    "ShowPurview": "Unlock items in the Guild grocery store",
+    "PurviewParam": [],
+    "Des": "这个没有参数，限制在兑换商店那边"
+  },
+  "8": {
+    "Id": 8,
+    "ShowPurview": "Unlock the Photo Panel {*val*}",
+    "PurviewParam": [
+      8,
+      1
+    ],
+    "Des": "解锁电子屏区域1,第二个参数为对应不同电子屏【废弃】"
+  },
+  "9": {
+    "Id": 9,
+    "ShowPurview": "Unlock the Guild Center",
+    "PurviewParam": [
+      9,
+      1
+    ],
+    "Des": "解锁协会场景"
+  },
+  "10": {
+    "Id": 10,
+    "ShowPurview": "Display {*val2*} Photos in the Photo Panel {*val1*}",
+    "PurviewParam": [
+      10,
+      1,
+      2
+    ],
+    "Des": "第二个参数为电子屏对应的唯一ID，第三个参数为可设置的照片数量"
+  },
+  "11": {
+    "Id": 11,
+    "ShowPurview": "Increase the maximum number of Guild albums to {*val*}",
+    "PurviewParam": [
+      11,
+      2
+    ],
+    "Des": "协会相册数量上限增加，基础数量是10"
+  },
+  "12": {
+    "Id": 12,
+    "ShowPurview": "After upgrading the Guild Center, other buildings can be upgraded",
+    "PurviewParam": [],
+    "Des": ""
+  }
+}

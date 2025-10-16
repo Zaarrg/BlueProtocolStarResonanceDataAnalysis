@@ -1,0 +1,219 @@
+{
+  "101104": {
+    "Id": 101104,
+    "Preview": 1,
+    "PreviewText": "◆Make you the fashion icon of Asterleeds!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_19",
+    "PreviewAward": 22000010
+  },
+  "104200": {
+    "Id": 104200,
+    "Preview": 2,
+    "PreviewText": "◆Use talents to grow stronger and define your unique combat style.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_1",
+    "PreviewAward": 22000010
+  },
+  "100804": {
+    "Id": 100804,
+    "Preview": 3,
+    "PreviewText": "◆Follow the manual to track down bosses and elites. <br>Obtain rare materials & titles!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_5",
+    "PreviewAward": 22000010
+  },
+  "200501": {
+    "Id": 200501,
+    "Preview": 4,
+    "PreviewText": "◆Tactical skill sets. <br>Use strategies to crush any foe!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_2",
+    "PreviewAward": 22000010
+  },
+  "800500": {
+    "Id": 800500,
+    "Preview": 5,
+    "PreviewText": "◆Complete Season Pass for achievements. <br>Unlock emblems and items!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_7",
+    "PreviewAward": 22000010
+  },
+  "500100": {
+    "Id": 500100,
+    "Preview": 6,
+    "PreviewText": "◆Join a Guild to find like-minded partners.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_8",
+    "PreviewAward": 22000010
+  },
+  "800400": {
+    "Id": 800400,
+    "Preview": 7,
+    "PreviewText": "◆Buy and sell resources. <br>Savvy businessman can make profits out of it.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_13",
+    "PreviewAward": 22000010
+  },
+  "810009": {
+    "Id": 810009,
+    "Preview": 8,
+    "PreviewText": "◆Boarlet is ready to go with you. Complete the main story quest to obtain Boarlet mount and explore the world!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_22",
+    "PreviewAward": 22000010
+  },
+  "300205": {
+    "Id": 300205,
+    "Preview": 9,
+    "PreviewText": "◆Located on the first floor of the device. <br>Repeatable gear farming, easier with teammates.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_10",
+    "PreviewAward": 22000010
+  },
+  "300000": {
+    "Id": 300000,
+    "Preview": 10,
+    "PreviewText": "◆Grab your fishing pole and catch all kinds of fish. Become the next fishing master!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_26",
+    "PreviewAward": 22000010
+  },
+  "501000": {
+    "Id": 501000,
+    "Preview": 11,
+    "PreviewText": "◆You will always find a Life Skill that interests you.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_24",
+    "PreviewAward": 22000010
+  },
+  "200301": {
+    "Id": 200301,
+    "Preview": 12,
+    "PreviewText": "◆Gain creature abilities.<br>Explore terrain freely with wolf sprint and eagle glide!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_3",
+    "PreviewAward": 22000010
+  },
+  "300301": {
+    "Id": 300301,
+    "Preview": 13,
+    "PreviewText": "◆Complete Attack, Guardian, and Support trials. <br>Unlock talents and claim rewards!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_6",
+    "PreviewAward": 22000010
+  },
+  "800902": {
+    "Id": 800902,
+    "Preview": 14,
+    "PreviewText": "◆Challenge powerful bosses. Win big rewards!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_20",
+    "PreviewAward": 22000010
+  },
+  "300206": {
+    "Id": 300206,
+    "Preview": 15,
+    "PreviewText": "◆Deadlier realms. Greater rewards. <br>Team up and conquer the unknown!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_14",
+    "PreviewAward": 22000010
+  },
+  "500888": {
+    "Id": 500888,
+    "Preview": 16,
+    "PreviewText": "◆The mysterious Inverted Spire, facing stronger enemies and more threatening scene on each floor.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_23",
+    "PreviewAward": 22000010
+  },
+  "300105": {
+    "Id": 300105,
+    "Preview": 17,
+    "PreviewText": "◆Explore deadly ruins.<br>Uncover the secrets of the Asterleeds War.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_15",
+    "PreviewAward": 22000010
+  },
+  "100709": {
+    "Id": 100709,
+    "Preview": 18,
+    "PreviewText": "◆Refine attributes strategically to break power ceilings!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_21",
+    "PreviewAward": 22000010
+  },
+  "100710": {
+    "Id": 100710,
+    "Preview": 19,
+    "PreviewText": "◆Embed suitable gems to enhance your gear effects!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_25",
+    "PreviewAward": 22000010
+  },
+  "102500": {
+    "Id": 102500,
+    "Preview": 20,
+    "PreviewText": "◆Create a Homestead of your own! (Complete main quest [Luno Loop] and reach Lv.40 to unlock.)",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_37",
+    "PreviewAward": 22000010
+  },
+  "800506": {
+    "Id": 800506,
+    "Preview": 21,
+    "PreviewText": "◆Upgrade your Emblem and enhance your combat capabilities for this season!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_17",
+    "PreviewAward": 22000010
+  },
+  "800100": {
+    "Id": 800100,
+    "Preview": 22,
+    "PreviewText": "◆The Pioneer Bureau releases commissions everyday.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_4",
+    "PreviewAward": 22000010
+  },
+  "810004": {
+    "Id": 810004,
+    "Preview": 24,
+    "PreviewText": "◆Enter the mysterious ruins of Bapharian, collaborate in two dimensions, and defeat the guardian statues in the ruins!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_30",
+    "PreviewAward": 22000010
+  },
+  "810005": {
+    "Id": 810005,
+    "Preview": 25,
+    "PreviewText": "◆Confront the power of ancient souls and defeat the former Kanamia warriors!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_31",
+    "PreviewAward": 22000010
+  },
+  "810006": {
+    "Id": 810006,
+    "Preview": 26,
+    "PreviewText": "◆Enter the deep canyon that looks like it was fiercely clawed by a dragon, and battle dragons in the storm!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_32",
+    "PreviewAward": 22000010
+  },
+  "810008": {
+    "Id": 810008,
+    "Preview": 27,
+    "PreviewText": "◆Seek the light in the darkness, and find the only path in the light!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_35",
+    "PreviewAward": 22000010
+  },
+  "810001": {
+    "Id": 810001,
+    "Preview": 28,
+    "PreviewText": "◆Beneath the most treacherous waters of Asterleeds lies a bizarre large cavity.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_27",
+    "PreviewAward": 22000010
+  },
+  "810002": {
+    "Id": 810002,
+    "Preview": 29,
+    "PreviewText": "◆A valley occupied by Muku and Goblins, with relatively rich mineral resources within.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_29",
+    "PreviewAward": 22000010
+  },
+  "810007": {
+    "Id": 810007,
+    "Preview": 30,
+    "PreviewText": "◆Survive the hazardous unknown and finish the timed survey to earn high-value gear and materials!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_33",
+    "PreviewAward": 22000010
+  },
+  "104210": {
+    "Id": 104210,
+    "Preview": 31,
+    "PreviewText": "◆Activate combat modifiers to enhance your combat capabilities!",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_16",
+    "PreviewAward": 22000010
+  },
+  "810003": {
+    "Id": 810003,
+    "Preview": 32,
+    "PreviewText": "◆A wild forest beyond the Asteria Plains, teeming with creatures rarely seen by humans.",
+    "PreviewPic": "ui/textures/feature_preview/feature_preview_picture_28",
+    "PreviewAward": 22000010
+  }
+}

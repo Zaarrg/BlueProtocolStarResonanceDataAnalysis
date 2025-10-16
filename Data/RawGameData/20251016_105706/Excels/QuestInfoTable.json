@@ -1,0 +1,272 @@
+{
+  "10101": {
+    "Id": 10101,
+    "TitleName": "Episode 1: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Dream Unfinished",
+    "PhaseOrder": 1,
+    "Unlock": 10001,
+    "TaskInfo": "A foreboding dream-the world in ruins. A vision of the past, or a warning of the future?",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_01"
+  },
+  "10102": {
+    "Id": 10102,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Luno Sparkle Festival",
+    "PhaseOrder": 2,
+    "Unlock": 10092,
+    "TaskInfo": "You awaken from a chaotic dream to find yourself in an unfamiliar city, where a strange girl named Airona claims she saved your life and even paid for your lodgings. But you've lost your memory—and your money. To repay your debt, you form a duo with Airona and the Luno Partners and set off to earn your keep.<br>You arrive in Asterleeds just in time for the Seabreeze Festival. At the Festival, you dominate every competition, winning champion in all events and raking in rewards with Airona. Your stunning performance draws the attention of runner-up Narulu, who offers clues to the \"Tales of the Plains.\"",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_02"
+  },
+  "10103": {
+    "Id": 10103,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "The Snow Knight's Tale",
+    "PhaseOrder": 3,
+    "Unlock": 10089,
+    "TaskInfo": "While collecting the horns of Caprahorns on the plains, you and Airona rescue a merchant from black mist monsters-thanks to the intervention of a Snow Knight named Tina. Introduced by Airona, Tina joins your party. But the monsters keep coming back even after defeat. Airona suspects the Void Engram-a dreadful phenomenon that devours life and warps the mind-is to blame. To uncover the truth, you delve deeper into the Void Engram. Fighting off wave after wave of Void Corruption monsters, you and your allies push forward and emerge victorious.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_05"
+  },
+  "10104": {
+    "Id": 10104,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Nothing New Beneath the Void Engram",
+    "PhaseOrder": 4,
+    "Unlock": 10088,
+    "TaskInfo": "Your investigation takes you to the Cliff Ruins, where signs point to a deliberate plot behind the disasters. There, the Void Engram overwhelms you, but Airona and Tina fortunately rush to your rescue. You finally confront the Man in Black responsible for spreading the Void Engram. The Man in Black aims to unleash more of it, but your team defeats him. Though the Man in Black vanishes with the Void Engram, the failure is clear: the Tales of the Plains is resolved, and the curse has lifted.<br>You and Airona return to the Pioneer Bureau to claim your reward, only to find that Airona's past expenses will be deducted from your bounty. The remaining sum is entrusted to you. Guild Officer Valeria then invites you to officially join the Pioneer Bureau, marking the start of your new life as an adventurer.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_06"
+  },
+  "10105": {
+    "Id": 10105,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "The Phantom Thief and the Forbidden Journal",
+    "PhaseOrder": 5,
+    "Unlock": 10097,
+    "TaskInfo": "To pay off your remaining debt, you and Airona accept a secret commission: uncover the true identity of the Thief Snow Knight and recover a stolen journal. Airona suspects Tina may be involved because she once wore the Snow Knight suit, though the suit had been rented from a stall at the Seabreeze Festival. Before Tina rented the suit, it had been rented by a thug named Abeku. You track him down, defeat him, and force him to confess. He'd been hired by a mysterious backer to steal what he thought was a diary, but it turns out to be Tina's classified file! Realizing the danger, Tina decides to handle the matter herself. She leaves you and Airona with a reward, but Airona, feeling she let Tina down, grows quiet. The two of you go for a walk to lift her spirits.<br>As you stroll through the shops, messages from merchants summon you to Arena Town. There, you discover the true client of the commission was none other than Commander Olvera. With the file recovered, she apologizes and gives you both a voucher for The Spinning Rudder.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_07"
+  },
+  "10106": {
+    "Id": 10106,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Chaos Interlude",
+    "PhaseOrder": 6,
+    "Unlock": 10010,
+    "TaskInfo": "You enjoy your time at The Spinning Rudder, only for Narulu to bring word of the Fireworks Festival. Airona excitedly drags you along, but en route, you encounter the Man in Black again. The Man in Black reveals that he was behind Abeku's theft and wants Tina's file for himself. Claiming he has a \"gift\" for Tina related to the festival, he attempts to trap you in Void Engram but is shocked to see you unaffected. When you reject his offer to join him, he leaves frustrated.<br>You shake off the Void Engram and rush to find Airona. The two of you race to the festival site where Tina suddenly erupts in Void Engram while accepting a medal. Chaos ensues. Airona dashes off to find Tina. You stay behind to help the Asterleeds Defense Corps rescue civilians and destroy the Void Prisms. Thanks to your efforts, the people are saved.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_03"
+  },
+  "10107": {
+    "Id": 10107,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Shattering the Phantom of Fear",
+    "PhaseOrder": 7,
+    "Unlock": 10011,
+    "TaskInfo": "At the ancient ruins, you reunite with your companions to face the Man in Black who attacked Tina. His obsession with you runs deep—deep enough that, mid-battle, he forcefully separates Airona and Olvera just to sway you again. But he disappears once more, leaving Tina in an even more dire state. While caring for her, you're suddenly drawn into her mind. Within that fragile realm, you glimpse the sorrow she's hidden beneath her smile. Guided by you, Tina confronts the shadows of her past and finds the strength to overcome them. She awakens, saved and whole again.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_04"
+  },
+  "10108": {
+    "Id": 10108,
+    "TitleName": "Episode I: Beginning of the Journey",
+    "TitleOrder": 1,
+    "PhaseName": "Fireworks Night",
+    "PhaseOrder": 8,
+    "Unlock": 10012,
+    "TaskInfo": "After leaving Tina's Mindrealm, you sleep at the tavern for 3 days. Airona tells you that your body holds a Resonance Power capable of stabilizing lives eroded by Void Engram. It probably has something to do with your forgotten past. It was thanks to this mysterious power that you were able to save Tina. Now, with the Fireworks Festival about to begin, Airona invites you to go out and enjoy it with her.<br>At twilight, you head to the beach to meet her and enjoy the Fireworks Festival together. Beneath the stars and fireworks, you make a promise for the future.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep01_08"
+  },
+  "10201": {
+    "Id": 10201,
+    "TitleName": "Episode II: The Light and Shadow",
+    "TitleOrder": 2,
+    "PhaseName": "The Witch's Gift",
+    "PhaseOrder": 1,
+    "Unlock": 10202,
+    "TaskInfo": "After the fireworks, you return to The Double-Faced Coin to find a curious Box waiting for you—inside, a Medal Shard. The moment you touch it, your body is seized by Void Engram, and the witch Hruga takes control. She is the true mastermind, the Man in Black is her pawn, and the recent string of disasters, from the Tales of the Plains to the stolen file and the opening ceremony explosion, were all aimed at Tina, to break the Seal that binds Hruga. Your companions arrive just in time to pull you back. Council Chair Lamond then appears, entrusting you and Airona with a new commission: uncover the truth behind the Void Engram-infused medal. In return, he promises to clear Airona's debt, and to provide resources for the journey ahead. Thus begins a new chapter in your quest.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep02_01"
+  },
+  "10202": {
+    "Id": 10202,
+    "TitleName": "Episode II: The Light and Shadow",
+    "TitleOrder": 2,
+    "PhaseName": "False Rewind",
+    "PhaseOrder": 2,
+    "Unlock": 10205,
+    "TaskInfo": "You and Airona report to the Pioneer Bureau and set off for the Artisan Guild. Guildmaster Dorothy shares everything he knows about the medal—its forging, storage, and those who handled it. The signs point to tampering during its time in storage. Your investigation uncovers suspicious clues: a pair of gloves marked with a strange residue. The gloves belong to a man named Ryan, and in his locker, you find a confession. He acted under coercion from the Dark Mist Legion.<br>Olvera joins you to track him down. In the Ancient City of Vill, you find Ryan cornered by remnants of the Dark Mist Legion. After driving them off, Olvera questions him and decides to bring him back for further investigation. You and Airona return to Asterleeds, deliver your report to Lamond, and receive a generous reward. The job is done, for now, at least. It's time for some well-earned rest.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep02_05"
+  },
+  "10203": {
+    "Id": 10203,
+    "TitleName": "Episode II: The Light and Shadow",
+    "TitleOrder": 2,
+    "PhaseName": "The Knight from Afar",
+    "PhaseOrder": 3,
+    "Unlock": 10211,
+    "TaskInfo": "During your downtime, you and Airona spot a mysterious ship, the Wavecrest Carnival, anchored along the coast. Narulu says it's been chartered by a Byrnhald tycoon and is hosting a free party. You board with an invitation, only to sense something strange aboard. When Narulu's kitten is taken by \"tycoon\" Kakater, Airona grows suspicious. Alongside Tina and the others, you dig up damning evidence: Kakater is a fraud trying to launder wealth through a double. Back at the card table, you present your findings and expose him. That's when the real tycoon, Taltraud, steps out. Kakater attempts to blow up the ship and escape, but everyone makes it out safely.<br>On shore, he is captured and revealed to be the notorious swindler known as \"Greenbottle Fly.\" Taltraud then reveals his true identity, a Special Executive Officer from Byrnhald, on a covert mission to eliminate the Dark Mist Legion. Tina suggests reporting the discovery to Council Chair Lamond. The group travels to Ocean Hill, where Lamond recognizes Taltraud and agrees to cooperate on \"Operation White Night.\" Taltraud requests access to the reconnaissance records of Asterleeds, and your team heads to the archives.<br>There, you uncover clues pointing to the Deputy Squad Leader, Jayden, who vanished in the Towering Ruin after a failed infiltration attempt during the Asterleeds Independence War. Taltraud believes Jayden may hold a key, something known as a \"Imagine Seed,\" that could be used against Denvel. The party sets out once again, to the Towering Ruin.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep02_07"
+  },
+  "10204": {
+    "Id": 10204,
+    "TitleName": "Episode II: The Light and Shadow",
+    "TitleOrder": 2,
+    "PhaseName": "Prelude of White Night",
+    "PhaseOrder": 4,
+    "Unlock": 10213,
+    "TaskInfo": "Your journey to the Towering Ruin begins. Airona parts ways to aid the wounded at the Andra Resting Post, while Tina sets out to scout the surrounding terrain. Tatta promises to meet you at the Ruins. On the way, you and Olvera are ambushed by the Dark Mist Legion. Tatta draws the attackers away, buying you time. Guided by Sea Lily markers, you reunite with Tina and press deeper into the Ruins. There, you uncover the elusive Imagine Seed, but are swiftly ambushed by Denvel and the Squad. In a desperate move, you use the Imagine Seed to briefly bring Denvel back to his senses. However, the witch, Hruga, reasserts her grip, and Tatta is seized in the chaos.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep02_06"
+  },
+  "10205": {
+    "Id": 10205,
+    "TitleName": "Episode II: The Light and Shadow",
+    "TitleOrder": 2,
+    "PhaseName": "Interlude of Shadows",
+    "PhaseOrder": 5,
+    "Unlock": 10215,
+    "TaskInfo": "You and Tina trace the Dark Mist Legion to their fortress and find Tatta imprisoned in the dungeon. There, you uncover a chilling truth: Denvel is conspiring with the Man in Black and holds the Hruga's Horn. They're preparing to launch an all-out assault on Asterleeds. While evading Denvel, you're nearly caught until Tatta intervenes by attracting Denvel's attention.<br>After a narrow escape, you regroup outside the Dark Mist Fortress. At the campsite, Tina asks you to return to Asterleeds and warn Council Chair Lamond of Denvel's plan. She and Tatta will continue the pursuit. The fate of Asterleeds hangs in the balance.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep02_08"
+  },
+  "10301": {
+    "Id": 10301,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "A Clear Sky",
+    "PhaseOrder": 1,
+    "Unlock": 10300,
+    "TaskInfo": "After escaping the Dark Mist Fortress, you return to Ocean Hill and report Denvel's looming assault to Council Chair Lamond. Understanding the weight of your burden, he offers you an envelope containing intel on the Corps and a ticket to leave Asterleeds. The choice is yours. At the gate, Narulu spots your somber expression and invites you for a walk by the bridge. His gentle encouragement helps clear your mind. Moved by his sincerity, you hand him the ticket, urging him to seek safety instead. Narulu, reminded of loved ones lost to war, promises not to vanish from your life and then leaves. With renewed purpose, you open the report and learn that the Dark Mist Legion has attacked the Bapharian Guard Post. Without hesitation, you rush to the front.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_04"
+  },
+  "10302": {
+    "Id": 10302,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "An Omen Unfolds",
+    "PhaseOrder": 2,
+    "Unlock": 10303,
+    "TaskInfo": "By the time you reach the Creed's camp, it's already ablaze—beyond saving. Amid the devastation, you reconnect with Olvera and share what you've learned. Soon, word arrives: the Dark Mist Legion is headed for the Andra Resting Post, where Airona is stationed. Without delay, you and Olvera rush to her aid.<br>The Andra Resting Post is sheltering those who were affected by the Void Engram during the Festival. Airona is working tirelessly to heal them. Together with Olvera, you repel the attackers and rescue a priest named Stanley. He carries an ancient artifact, the Engram Collector, capable of cleansing those consumed by Void Corruption. Thanks to your efforts, the afflicted are cured. But amid the relief, a Dark Mist Trooper reveals himself and shouts a warning. In that moment, the plains twist and ripple, and inexplicable phenomena erupt near Minsterhorn and the Statue of the Hero...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_01"
+  },
+  "10303": {
+    "Id": 10303,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "Rain from the Far Shore",
+    "PhaseOrder": 3,
+    "Unlock": 10304,
+    "TaskInfo": "Minsterhorn lies in shambles when you arrive, its defenders devastated. Amid the wreckage, Narulu is shielding the villagers. Fighting side by side, you drive back the monsters. Narulu explains that Denvel had used the Hruga's Horn to summon a deadly storm and unleash the monsters now tearing through the village. You plan to investigate further and find a way to stop the lightning storm. Though Narulu offers to join you, you ask him to report back to Olvera in Asterleeds instead. But Narulu secretly follows you, and you have no choice but to let him come along. Following his earlier notes, you crack the Lightning Barrier and press on. Soon, Airona contacts you with a grim revelation: the Engram Anomaly stems from a disruption in the star energy flow. There's a Lightning Storm Core at the heart of the chaos. Destroy it, and the disaster ends. But it's guarded by something powerful. As you near the core, you ask Narulu to take cover inside a house. Alone, you confront a monstrous Tempest Ogre. The fight is fierce, but you prevail. Just as you strike down the beast, the Lightning Storm Core unleashes a catastrophic bolt of lightning. Narulu rushes in to shield you—at the cost of his life. When the storm clears, a Void Sigil marks where the Core once was. It turns out this was all Denvel's doing. You set off for the Statue to meet Airona.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_02"
+  },
+  "10304": {
+    "Id": 10304,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "The Hesitant Path",
+    "PhaseOrder": 4,
+    "Unlock": 10308,
+    "TaskInfo": "At the Statue of the Hero, Airona has already dispelled the Engram Anomaly. You share what happened at Minsterhorn, and together you mourn Narulu's sacrifice. A Void Sigil stains the Statue—just like the one you saw before in Minsterhorn. Airona concludes that Denvel is using the Hruga's Horn to plant them. These Void Sigils sever the flow of Engram, birthing further disasters that could doom the plains. But for now, she has no way to erase them. Seeking answers, the two of you head to the forest warden's cabin. As you approach, you realize this was Narulu's home. The weight of grief deepens. You follow his kitten through the woods and find the warden couple under attack. You and Airona drive the monsters off and rescue them. From their account, it was the Dark Mist Legion that unleashed this catastrophe. They mention Narulu went to Minsterhorn but hasn't returned. Their concern and the kitten's plaintive mews, pierce your heart. You hesitate. Should you tell them the truth? After parting with the couple, Airona sings an ancient hymn to honor Narulu's memory.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_06"
+  },
+  "10305": {
+    "Id": 10305,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "Antinomy",
+    "PhaseOrder": 5,
+    "Unlock": 10311,
+    "TaskInfo": "With the storms momentarily calmed, the team agrees to meet at the Andra Resting Post.<br>Tina reaches out—she and Tatta have tracked Denvel down. You, Olvera, and Airona quickly divide the roles: Olvera will lead a surprise attack, Airona will stay behind to study the Void Sigils, and you'll link up with Tina and Tatta.<br>In a secluded part of the plains, you regroup with them and hear the plan: Tatta will act as bait to distract Denvel's elite guard, while Tina sneaks into the camp to use the Relic. Being concerned for Tina's safety, you volunteer to take on her part of the mission. The three of you approach the enemy camp, but Denvel sees it coming. Just as he strikes, Tatta blocks Denvel's attack to shield you. Denvel spares you and withdraws. Afterward, Tatta opens up about her connection with Denvel, shedding light on long-buried secrets.<br>You escort her back to Asterleeds. Soon, Airona's message reaches you, and the group reconvenes at the outpost.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_03"
+  },
+  "10306": {
+    "Id": 10306,
+    "TitleName": "Episode III: Under the Firmament",
+    "TitleOrder": 3,
+    "PhaseName": "In the Dust",
+    "PhaseOrder": 6,
+    "Unlock": 10313,
+    "TaskInfo": "Airona devises a way to break the Void Sigils, but it hinges on finding a rare source of pure, potent Engram somewhere on the plains. You and Tina head out to search—your path eventually leading to the shadowy depths of the Andra Tunnels. There, you encounter the unstable priest Stanley and a few Dark Mist Legion Deserters. All have been poisoned by the noxious gas seeping through the tunnels and are on the verge of death. The Engram you're after lies in a legacy once safeguarded by Stanley. But the priest, consumed by despair and disillusioned with humanity, shatters the legacy and releases the Engram, intending to perish alongside the others. In an almost impossible situation, you and Tina throw caution aside, risking your lives to pull everyone to safety. Deeply moved by your selflessness, Stanley has a change of heart. He offers you a new lead—a place where pure Engram might still exist: the Kanamia Tribe. And so, you and Tina set off once more...toward the land of the Kanamia Tribe.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep03_05"
+  },
+  "10401": {
+    "Id": 10401,
+    "TitleName": "Episode IV: Unknown Roads Ahead",
+    "TitleOrder": 4,
+    "PhaseName": "Moonlit Aphorism",
+    "PhaseOrder": 1,
+    "Unlock": 10401,
+    "TaskInfo": "Following the priest's guidance, you and your companions arrive at the Kanamia Tribe. Someone left behind a strange letter. Following its instructions, you each set out to gather Intellect separately. Beneath the moonlit sky, you cross paths with a mysterious girl named Rorola, the sender of the letter. She reveals that the Kanamia Tribe's Forbidden Land is tied to the fate of the entire plain. To earn the right to enter the Forbidden Land, you join the Kanamia Brave Trial, hunting the fearsome Iron Fang in the dense forest and surviving a brutal gauntlet. Though you emerge victorious, the Chieftain sees through your outsider identity. At the critical moment, Rorola appears to defend you, revealing that a dire omen looms over the tribe and that you are the prophesied one destined to change its fate.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep04_01"
+  },
+  "10402": {
+    "Id": 10402,
+    "TitleName": "Episode IV: Unknown Roads Ahead",
+    "TitleOrder": 4,
+    "PhaseName": "Memories of the Past",
+    "PhaseOrder": 2,
+    "Unlock": 10402,
+    "TaskInfo": "The first thing you do after becoming the Kanamia Brave is to find the key that unlocks the gate to the Forbidden Zone. However, the key is hidden within a mysterious Wander Site, home to the spirits. With Rorola's help, you travel there and encounter a strange spirit named Ted.<br>With Ted's assistance, you learn about the past between Kanamia and Asterleeds, including the war and those who were lost. The key to the Forbidden Zone lies with the fallen soldier, Yaretsi...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep04_02"
+  },
+  "10403": {
+    "Id": 10403,
+    "TitleName": "Episode IV: Unknown Roads Ahead",
+    "TitleOrder": 4,
+    "PhaseName": "Cage of Wind",
+    "PhaseOrder": 3,
+    "Unlock": 10403,
+    "TaskInfo": "After successfully obtaining the key to the Forbidden Zone and leaving the Wander Site, you discover that the Kanamia Tribe is facing a new crisis. Another Engram Anomaly has appeared, and violent storms sweep through the tribe. The chieftain and Rorola are caught in the storm, and in the critical moment, you and your companions step up...",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep04_03"
+  },
+  "10404": {
+    "Id": 10404,
+    "TitleName": "Episode IV: Unknown Roads Ahead",
+    "TitleOrder": 4,
+    "PhaseName": "Visions and Future",
+    "PhaseOrder": 4,
+    "Unlock": 10404,
+    "TaskInfo": "With the storm quelled, you are now respected by the Kanamians as the new Kanamia Brave. The gate to the Forbidden Zone finally opens, and you and your companions retrieve the Divine Legacy imbued with pure Engram, the Engram Collector. With the relic in hand, everyone sets off to prepare a counterattack. Upon coming into contact with the Engram Strength, you regain fragments of your lost memories.<br>At that moment, your fate and that of this continent become deeply entwined once again.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep04_04"
+  },
+  "10501": {
+    "Id": 10501,
+    "TitleName": "Episode V: Countdown to the End",
+    "TitleOrder": 5,
+    "PhaseName": "Farewell to the Past",
+    "PhaseOrder": 1,
+    "Unlock": 10503,
+    "TaskInfo": "Everyone prepares to use the Engram Collector to resolve the Void Sigils. The group starts with the sigil at the Dragon Claw Valley, only to discover that its spread was caused by Denvel's forbidden art. Still, you activate the collector and successfully suppress the spread. Afterward, Olvera and Tina return to the city to deal with the crisis in Asterleedss while you and Airona head to Minsterhorn to handle the remaining sigils. At Minsterhorn and the Statue of the Hero, you manage to suppress two more sigils and encounter a young girl who stayed to protect Narulu. You then receive a letter from Agnes. Upon learning that Asterleeds is under attack from monsters, you and Airona rush back to the city. <br>Back in Asterleeds, you help Jerrad fight off the monsters, rescue civilians, and discuss strategies to deal with Denvel. Council Chair Lamond suggests Tatta might have some clues, and the group asks you to find him.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_01"
+  },
+  "10502": {
+    "Id": 10502,
+    "TitleName": "Episode V: Countdown to the End",
+    "TitleOrder": 5,
+    "PhaseName": "A Clash with Fate",
+    "PhaseOrder": 2,
+    "Unlock": 10506,
+    "TaskInfo": "To address the crisis, you first visit the Pioneer Bureau to check on Tatta but learn that he has gone missing. You and Tina follow traces of fire and eventually find him. Tatta tells everyone that the turmoil in Asterleeds is likely a distraction created by Denvel to set up the final sigil. Then, he leaves alone to investigate Dark Mist Fortress. <br>Using Tatta's information, you deduce that the final Void Sigil may be at the Shrine entrance. You then go to the Artisan Guild to help the embattled Airona and Dorothy fend off Void Monsters. You learn that the Engram Collector must be brought near the Shrine. <br>You later reunite with Olvera and catch up with Airona and Tina en route to the Shrine. Just before arrival, a massive transformation occurs in the city as Denvel activates the final Void Sigil. The Engram Collector is destroyed, and you absorb the scattered Engram, becoming a vessel for it. Though this grants you immense power, it puts your body at extreme risk. Despite everyone's concern, you decide to go confront Denvel. Your companions stand by you, protecting you on the way. <br>Olvera stays behind to hold off Dark Mist Legion pursuers. Dark Mist Legion takes hostages, and Tina gets surrounded when attempting to rescue hostages. You and Airona continue the trip. At the Shrine, Airona stays to fight off more enemies, and you finally confront Denvel. You channel all the Engram to purify the Void Sigils across the plains, shattering Denvel's plot.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_03"
+  },
+  "10503": {
+    "Id": 10503,
+    "TitleName": "Episode V: Countdown to the End",
+    "TitleOrder": 5,
+    "PhaseName": "Whispers from the Abyss",
+    "PhaseOrder": 3,
+    "Unlock": 10510,
+    "TaskInfo": "Though injured in the battle, Denvel remains arrogant. Tatta appears and tries to stop Denvel but is attacked. Later, he departs alone to prepare for a final clash with the Dark Mist Legion. The group decides to strike back while the Void Sigils are purified and the Dark Mist Fortress' defenses are down. Tina and Olvera prepare for battle, while you and Airona are tasked with informing the citizens. <br>At the Town Gate Square, the public enthusiastically responds to the planned attack against Dark Mist Fortress. You speak with soldiers, adventurers, and artisans, learning their thoughts and determination. Then, you head to rejoin your companions and prepare for the offensive.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_04"
+  },
+  "10504": {
+    "Id": 10504,
+    "TitleName": "Episode V: Countdown to the End",
+    "TitleOrder": 5,
+    "PhaseName": "Reunion with the Sea Breeze",
+    "PhaseOrder": 4,
+    "Unlock": 10513,
+    "TaskInfo": "After a bitter struggle in Dark Mist Fortress, the group finally defeats Denvel. But the Man in Black appears again, steals Hruga's Horn, and detonates Void Mist inside the bastion. In this desperate moment, Tina uses the Core of Stellarium to save everyone at the cost of her own life. Only your Resonance Power can save her. You bring Tina to the Engram Hub and revive her. However, the Core of Stellarium is gone for good. <br>Back in the city, you visit The Double-Faced Coin, speak with Jerrad, Valeria, and Dorothy to gather updates, and then return to your room to rest. In your dreams, some of your memories return. Upon waking, you talk to Airona and learn that your memories may be connected to the source of the Void Mist. Also, Airona has found out that Hruga's Horn is in the Bahamar Highlands. <br>Before leaving Asterleeds, you say farewell to Olvera and Tina. At the city gate of Asterleeds, you and Airona prepare to embark on your journey to the highlands. The story of the sea breeze comes to a pause for now, and a new adventure awaits.",
+    "TitlePic": "ui/textures/taskinfo_ep/taskinfo_ep05_05"
+  }
+}

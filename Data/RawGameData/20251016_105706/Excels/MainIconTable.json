@@ -1,0 +1,972 @@
+{
+  "100301": {
+    "Id": 100301,
+    "Title": "Map",
+    "SystemPlace": [],
+    "PCSystemPlace": [],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "",
+    "PCIcon": "",
+    "Path": "sys_map_open"
+  },
+  "100501": {
+    "Id": 100501,
+    "Title": "GM",
+    "SystemPlace": [],
+    "PCSystemPlace": [],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/else/gm",
+    "PCIcon": "ui/atlas/mainui/else/gm",
+    "Path": ""
+  },
+  "100401": {
+    "Id": 100401,
+    "Title": "Leave",
+    "SystemPlace": [],
+    "PCSystemPlace": [],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 10,
+    "PCSortId": 10,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/else/tuichufubenicon",
+    "PCIcon": "ui/atlas/mainui/else/tuichufubenicon",
+    "Path": "sys_main_dungeon_out"
+  },
+  "102501": {
+    "Id": 102501,
+    "Title": "Homestead",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 0,
+    "PCSortId": 0,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_home",
+    "PCIcon": "ui/atlas/mainui/main_btn_home",
+    "Path": "sys_main_setting_in"
+  },
+  "102100": {
+    "Id": 102100,
+    "Title": "Chat",
+    "SystemPlace": [
+      2
+    ],
+    "PCSystemPlace": [
+      2
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 2,
+    "PCSortId": 2,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_chat",
+    "PCIcon": "ui/atlas/mainui/main_btn_chat",
+    "Path": "sys_main_speech_in"
+  },
+  "102001": {
+    "Id": 102001,
+    "Title": "Camera",
+    "SystemPlace": [
+      2
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 3,
+    "PCSortId": 3,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_camera",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_photo_normal",
+    "Path": ""
+  },
+  "102803": {
+    "Id": 102803,
+    "Title": "Mount",
+    "SystemPlace": [
+      0
+    ],
+    "PCSystemPlace": [
+      2
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 5,
+    "PCSortId": 5,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_up_vehicle",
+    "PCIcon": "ui/atlas/mainui/main_btn_up_vehicle",
+    "Path": ""
+  },
+  "100601": {
+    "Id": 100601,
+    "Title": "Emote",
+    "SystemPlace": [
+      2
+    ],
+    "PCSystemPlace": [
+      0
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 4,
+    "PCSortId": 4,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_emo_lobby",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_action_normal",
+    "Path": ""
+  },
+  "100605": {
+    "Id": 100605,
+    "Title": "Emote PC Entry",
+    "SystemPlace": [
+      0
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 4,
+    "PCSortId": 4,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_emo_lobby",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_action_normal",
+    "Path": ""
+  },
+  "102500": {
+    "Id": 102500,
+    "Title": "Homestead",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 4,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 16,
+    "PCSortId": 16,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_home",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_home",
+    "Path": "sys_main_setting_in"
+  },
+  "900101": {
+    "Id": 900101,
+    "Title": "Survey",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 7,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 2,
+    "PCSortId": 2,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_questionnaire_normal",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_questionnaire_normal",
+    "Path": "sys_main_search_in"
+  },
+  "200001": {
+    "Id": 200001,
+    "Title": "Profile",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3,
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 8,
+    "PCSortId": 8,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_role",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_personal_details",
+    "Path": "sys_main_player_in"
+  },
+  "800820": {
+    "Id": 800820,
+    "Title": "Wish",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 7,
+    "PCSortId": 5,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_gasha",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_gashapon",
+    "Path": "sys_main_funcs_in"
+  },
+  "800500": {
+    "Id": 800500,
+    "Title": "Season Hub",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3,
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": true,
+    "SortId": 2,
+    "PCSortId": 2,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_season",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_season",
+    "Path": "sys_main_season_in"
+  },
+  "800800": {
+    "Id": 800800,
+    "Title": "Store",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 4,
+    "PCSortId": 4,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_shop",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_shop",
+    "Path": "sys_main_season_in"
+  },
+  "800502": {
+    "Id": 800502,
+    "Title": "Features",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      3,
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 5,
+    "PCSortId": 8,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_recommendedplay",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_4",
+    "Path": "sys_main_funcs_in"
+  },
+  "800400": {
+    "Id": 800400,
+    "Title": "Trading Center",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 3,
+    "PCSortId": 3,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_trading",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_trading",
+    "Path": "sys_main_season_in"
+  },
+  "200000": {
+    "Id": 200000,
+    "Title": "App Entry",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      0
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 16,
+    "PCSortId": 16,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_main_entrance",
+    "PCIcon": "ui/atlas/mainui/main_btn_main_entrance",
+    "Path": "sys_main_funcs_in"
+  },
+  "800501": {
+    "Id": 800501,
+    "Title": "Handbook",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 6,
+    "PCSortId": 7,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_mengxin",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_activity",
+    "Path": "sys_main_funcs_in"
+  },
+  "300301": {
+    "Id": 300301,
+    "Title": "Trial Path",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 7,
+    "PCSortId": 7,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_trial",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_trial",
+    "Path": "sys_main_funcs_planet_in"
+  },
+  "500100": {
+    "Id": 500100,
+    "Title": "Guild",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 4,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 4,
+    "PCSortId": 4,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_union",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_union",
+    "Path": "sys_main_funcs_guild_in"
+  },
+  "101101": {
+    "Id": 101101,
+    "Title": "Wardrobe",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 3,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 12,
+    "PCSortId": 12,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_wardrobe",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_wardrobe",
+    "Path": "sys_main_funcs_in"
+  },
+  "103004": {
+    "Id": 103004,
+    "Title": "Beauty",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 3,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 13,
+    "PCSortId": 13,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_beauty",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_beauty",
+    "Path": "sys_main_funcs_in"
+  },
+  "103003": {
+    "Id": 103003,
+    "Title": "Album",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 6,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 21,
+    "PCSortId": 21,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_album",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_album",
+    "Path": "sys_main_funcs_album_in"
+  },
+  "103001": {
+    "Id": 103001,
+    "Title": "Guide",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 6,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 22,
+    "PCSortId": 22,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_fingerpost",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_fingerpost",
+    "Path": "sys_main_funcs_guide_in"
+  },
+  "100804": {
+    "Id": 100804,
+    "Title": "Monster Hunt",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 10,
+    "PCSortId": 10,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_monster",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_monster",
+    "Path": "sys_main_funcs_in"
+  },
+  "100908": {
+    "Id": 100908,
+    "Title": "Personal Space",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 3,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 15,
+    "PCSortId": 15,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_personal",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_personal",
+    "Path": "sys_main_funcs_in"
+  },
+  "104200": {
+    "Id": 104200,
+    "Title": "Talents",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 10,
+    "PCSortId": 10,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_talent",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_talent",
+    "Path": "sys_main_funcs_in"
+  },
+  "300000": {
+    "Id": 300000,
+    "Title": "Fishing",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 17,
+    "PCSortId": 17,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_fish",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_fish",
+    "Path": "sys_main_funcs_in"
+  },
+  "800515": {
+    "Id": 800515,
+    "Title": "Achievement",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 17,
+    "PCSortId": 17,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_perachievement",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_perachievement",
+    "Path": "sys_main_funcs_in"
+  },
+  "100701": {
+    "Id": 100701,
+    "Title": "Gear",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 12,
+    "PCSortId": 12,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_2",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_2",
+    "Path": "sys_main_funcs_in"
+  },
+  "104210": {
+    "Id": 104210,
+    "Title": "Modules",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 13,
+    "PCSortId": 13,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_mod",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_mod",
+    "Path": "sys_main_funcs_in"
+  },
+  "200500": {
+    "Id": 200500,
+    "Title": "Skills",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 11,
+    "PCSortId": 11,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_skill",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_skill",
+    "Path": "sys_main_funcs_in"
+  },
+  "102800": {
+    "Id": 102800,
+    "Title": "Mount Imagine",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 3,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 14,
+    "PCSortId": 14,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_vehicles",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_vehicles",
+    "Path": "sys_main_funcs_in"
+  },
+  "600400": {
+    "Id": 600400,
+    "Title": "Archive",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 6,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 20,
+    "PCSortId": 20,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_quest_book",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_quest_book",
+    "Path": "sys_main_funcs_in"
+  },
+  "100101": {
+    "Id": 100101,
+    "Title": "Inventory",
+    "SystemPlace": [
+      3
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 2,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 9,
+    "PCSortId": 9,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_bag",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_bag",
+    "Path": "sys_main_package_in"
+  },
+  "501000": {
+    "Id": 501000,
+    "Title": "Life Skill",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 5,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 11,
+    "PCSortId": 11,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_life_profession",
+    "PCIcon": "ui/atlas/esc_icon/esc_life_profession",
+    "Path": "sys_main_season_in"
+  },
+  "101001": {
+    "Id": 101001,
+    "Title": "Party",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      3,
+      4
+    ],
+    "GroupId": 4,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_team",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_team",
+    "Path": "sys_main_funcs_in"
+  },
+  "400110": {
+    "Id": 400110,
+    "Title": "Mail",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_mail_normal",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_mail_normal",
+    "Path": "sys_main_funcs_in"
+  },
+  "400100": {
+    "Id": 400100,
+    "Title": "Friends",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_friend_normal",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_friend_normal",
+    "Path": "sys_main_funcs_in"
+  },
+  "100201": {
+    "Id": 100201,
+    "Title": "Settings",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_setting_normal",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_setting_normal",
+    "Path": "sys_main_funcs_in"
+  },
+  "106001": {
+    "Id": 106001,
+    "Title": "Quick Tips",
+    "SystemPlace": [
+      0
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 9,
+    "PCSortId": 9,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_fish",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_setting_normal",
+    "Path": ""
+  },
+  "102250": {
+    "Id": 102250,
+    "Title": "Chat Wheel",
+    "SystemPlace": [
+      2
+    ],
+    "PCSystemPlace": [],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_wheel",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_setting_normal",
+    "Path": ""
+  },
+  "333334": {
+    "Id": 333334,
+    "Title": "Scenery Mode",
+    "SystemPlace": [
+      2
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 6,
+    "PCSortId": 6,
+    "Atlas": "",
+    "Icon": "ui/atlas/mainui/main_btn_view_mode",
+    "PCIcon": "",
+    "Path": ""
+  },
+  "100212": {
+    "Id": 100212,
+    "Title": "Notice (Pandora)",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 5,
+    "PCSortId": 5,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_announce",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_announce",
+    "Path": "sys_main_funcs_in"
+  },
+  "100213": {
+    "Id": 100213,
+    "Title": "Notice (HaoPlay)",
+    "SystemPlace": [
+      5
+    ],
+    "PCSystemPlace": [
+      5
+    ],
+    "GroupId": 7,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 5,
+    "PCSortId": 5,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_announce",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_announce",
+    "Path": "sys_main_funcs_in"
+  },
+  "102900": {
+    "Id": 102900,
+    "Title": "Pathfinding",
+    "SystemPlace": [
+      0
+    ],
+    "PCSystemPlace": [
+      3
+    ],
+    "GroupId": 0,
+    "MobileGroupId": 0,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 1,
+    "PCSortId": 1,
+    "Atlas": "",
+    "Icon": "",
+    "PCIcon": "",
+    "Path": ""
+  },
+  "820000": {
+    "Id": 820000,
+    "Title": "Events",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": true,
+    "SortId": 4,
+    "PCSortId": 6,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_themeact",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_themeact",
+    "Path": ""
+  },
+  "800516": {
+    "Id": 800516,
+    "Title": "Pass Purchase",
+    "SystemPlace": [
+      4
+    ],
+    "PCSystemPlace": [
+      4
+    ],
+    "GroupId": 1,
+    "MobileGroupId": 1,
+    "EnlargeIcon": false,
+    "PCEnlargeIcon": false,
+    "SortId": 6,
+    "PCSortId": 9,
+    "Atlas": "",
+    "Icon": "ui/atlas/esc_icon/esc_icon_bpcard",
+    "PCIcon": "ui/atlas/esc_icon/esc_icon_bpcard",
+    "Path": "sys_main_season_in"
+  }
+}

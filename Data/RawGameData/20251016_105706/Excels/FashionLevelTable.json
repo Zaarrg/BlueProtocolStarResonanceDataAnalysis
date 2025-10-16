@@ -1,0 +1,55 @@
+{
+  "1": {
+    "Id": 1,
+    "Score": 0,
+    "Name": "Trainee",
+    "ShortName": "",
+    "Icon": "collection_icon_2",
+    "Card": "",
+    "Privilege": []
+  },
+  "2": {
+    "Id": 2,
+    "Score": 380,
+    "Name": "Explorer",
+    "ShortName": "",
+    "Icon": "collection_icon_3",
+    "Card": "",
+    "Privilege": [
+      301
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "Score": 1800,
+    "Name": "Master",
+    "ShortName": "",
+    "Icon": "collection_icon_4",
+    "Card": "",
+    "Privilege": [
+      302
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "Score": 3800,
+    "Name": "Magician",
+    "ShortName": "",
+    "Icon": "collection_icon_5",
+    "Card": "",
+    "Privilege": [
+      303
+    ]
+  },
+  "5": {
+    "Id": 5,
+    "Score": 12800,
+    "Name": "Seal Watcher",
+    "ShortName": "",
+    "Icon": "collection_icon_6",
+    "Card": "",
+    "Privilege": [
+      304
+    ]
+  }
+}

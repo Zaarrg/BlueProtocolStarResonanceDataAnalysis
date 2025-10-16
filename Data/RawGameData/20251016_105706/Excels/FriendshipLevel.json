@@ -1,0 +1,81 @@
+{
+  "1": {
+    "Level": 1,
+    "Exp": 0,
+    "IsAwardLevel": false,
+    "Content": "",
+    "FunctionUnlock": "",
+    "RewardID": [],
+    "AwardID": 0
+  },
+  "2": {
+    "Level": 2,
+    "Exp": 100,
+    "IsAwardLevel": true,
+    "Content": "Symbol of Friendship, can be used to exchange for desired outfits and unique actions in the Friendship Points Store",
+    "FunctionUnlock": "",
+    "RewardID": [
+      [
+        10004,
+        10
+      ]
+    ],
+    "AwardID": 0
+  },
+  "3": {
+    "Level": 3,
+    "Exp": 500,
+    "IsAwardLevel": true,
+    "Content": "Symbol of Friendship, can be used to exchange for desired outfits and unique actions in the Friendship Points Store",
+    "FunctionUnlock": "",
+    "RewardID": [
+      [
+        10004,
+        10
+      ]
+    ],
+    "AwardID": 0
+  },
+  "4": {
+    "Level": 4,
+    "Exp": 500,
+    "IsAwardLevel": true,
+    "Content": "Symbol of Friendship, can be used to exchange for desired outfits and unique actions in the Friendship Points Store",
+    "FunctionUnlock": "",
+    "RewardID": [
+      [
+        10004,
+        10
+      ]
+    ],
+    "AwardID": 0
+  },
+  "5": {
+    "Level": 5,
+    "Exp": 1000,
+    "IsAwardLevel": true,
+    "Content": "Symbol of Friendship, can be used to exchange for desired outfits and unique actions in the Friendship Points Store",
+    "FunctionUnlock": "",
+    "RewardID": [
+      [
+        10004,
+        10
+      ]
+    ],
+    "AwardID": 0
+  },
+  "6": {
+    "Level": 6,
+    "Exp": 1800,
+    "IsAwardLevel": true,
+    "Content": "Symbol of Friendship, can be used to exchange for desired outfits and unique actions in the Friendship Points Store",
+    "FunctionUnlock": "",
+    "RewardID": [
+      [
+        10004,
+        10
+      ]
+    ],
+    "AwardID": 0
+  }
+}

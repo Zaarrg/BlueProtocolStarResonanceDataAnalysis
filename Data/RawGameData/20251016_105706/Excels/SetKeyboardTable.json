@@ -1,0 +1,1790 @@
+{
+  "1": {
+    "Id": 1,
+    "ActionIds": [
+      [
+        23
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Interact",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 25,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "2": {
+    "Id": 2,
+    "ActionIds": [
+      [
+        1
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Move",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 3,
+    "HideInSettingView": 0,
+    "CanChange": [
+      1,
+      0
+    ],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "6": {
+    "Id": 6,
+    "ActionIds": [
+      [
+        2
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Walk/Run Toggle",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 7,
+    "HideInSettingView": 0,
+    "CanChange": [
+      1,
+      0
+    ],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "7": {
+    "Id": 7,
+    "ActionIds": [
+      [
+        3
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Jump",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 8,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "8": {
+    "Id": 8,
+    "ActionIds": [
+      [
+        4
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Sprint",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 9,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "9": {
+    "Id": 9,
+    "ActionIds": [
+      [
+        5
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Terra Resonance Ability 1",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 10,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "10": {
+    "Id": 10,
+    "ActionIds": [
+      [
+        6
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Terra Resonance Ability 2",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 11,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "11": {
+    "Id": 11,
+    "ActionIds": [
+      [
+        7
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Normal Attack",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 12,
+    "HideInSettingView": 1,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "12": {
+    "Id": 12,
+    "ActionIds": [
+      [
+        8
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Skill 1",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 14,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "13": {
+    "Id": 13,
+    "ActionIds": [
+      [
+        9
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Skill 2",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 15,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "14": {
+    "Id": 14,
+    "ActionIds": [
+      [
+        10
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Skill 3",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 16,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "15": {
+    "Id": 15,
+    "ActionIds": [
+      [
+        11
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Skill 4",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 17,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "17": {
+    "Id": 17,
+    "ActionIds": [
+      [
+        108
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Swipe Left",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 22,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "23": {
+    "Id": 23,
+    "ActionIds": [
+      [
+        17
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Lock/Toggle",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 25,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "25": {
+    "Id": 25,
+    "ActionIds": [
+      [
+        51
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Extra Skill",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 26,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "26": {
+    "Id": 26,
+    "ActionIds": [
+      [
+        18
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Cancel Interaction",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 27,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "27": {
+    "Id": 27,
+    "ActionIds": [
+      [
+        22
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Track Target",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 27,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "28": {
+    "Id": 28,
+    "ActionIds": [
+      [
+        19
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Use",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 28,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "29": {
+    "Id": 29,
+    "ActionIds": [
+      [
+        23
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Climb Down",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 29,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "31": {
+    "Id": 31,
+    "ActionIds": [
+      [
+        65
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Talent Skill 1",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 18,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": ""
+  },
+  "32": {
+    "Id": 32,
+    "ActionIds": [
+      [
+        66
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Talent Skill 2",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 19,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": ""
+  },
+  "33": {
+    "Id": 33,
+    "ActionIds": [
+      [
+        40
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Talents",
+    "KeyboardDes": 2,
+    "FunctionId": 104200,
+    "Sort": 44,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "34": {
+    "Id": 34,
+    "ActionIds": [
+      [
+        71
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Auto Battle",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 135,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "101": {
+    "Id": 101,
+    "ActionIds": [
+      [
+        26
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Toggle Map",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 31,
+    "HideInSettingView": 0,
+    "CanChange": [
+      1,
+      0
+    ],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "102": {
+    "Id": 102,
+    "ActionIds": [
+      [
+        29
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Chat",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 33,
+    "HideInSettingView": 0,
+    "CanChange": [
+      1,
+      0
+    ],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "103": {
+    "Id": 103,
+    "ActionIds": [
+      [
+        69
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Chat",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 33,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "104": {
+    "Id": 104,
+    "ActionIds": [
+      [
+        30
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Profile",
+    "KeyboardDes": 2,
+    "FunctionId": 200001,
+    "Sort": 34,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "105": {
+    "Id": 105,
+    "ActionIds": [
+      [
+        84
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Guild",
+    "KeyboardDes": 2,
+    "FunctionId": 500100,
+    "Sort": 35,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "106": {
+    "Id": 106,
+    "ActionIds": [
+      [
+        33
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Find Party",
+    "KeyboardDes": 2,
+    "FunctionId": 101001,
+    "Sort": 39,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "107": {
+    "Id": 107,
+    "ActionIds": [
+      [
+        32
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Inventory",
+    "KeyboardDes": 2,
+    "FunctionId": 100101,
+    "Sort": 37,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "108": {
+    "Id": 108,
+    "ActionIds": [
+      [
+        36
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Main Menu",
+    "KeyboardDes": 2,
+    "FunctionId": 200000,
+    "Sort": 38,
+    "HideInSettingView": 1,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "109": {
+    "Id": 109,
+    "ActionIds": [
+      [
+        61
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Features",
+    "KeyboardDes": 2,
+    "FunctionId": 800502,
+    "Sort": 30,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "111": {
+    "Id": 111,
+    "ActionIds": [
+      [
+        34
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Season Hub",
+    "KeyboardDes": 2,
+    "FunctionId": 800500,
+    "Sort": 40,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "112": {
+    "Id": 112,
+    "ActionIds": [
+      [
+        35
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Exit Dungeon",
+    "KeyboardDes": 2,
+    "FunctionId": 100401,
+    "Sort": 41,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 1,
+    "GoBack": ""
+  },
+  "114": {
+    "Id": 114,
+    "ActionIds": [
+      [
+        63
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Store",
+    "KeyboardDes": 2,
+    "FunctionId": 800800,
+    "Sort": 43,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "115": {
+    "Id": 115,
+    "ActionIds": [
+      [
+        73
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Open/Close Quick Wheel",
+    "KeyboardDes": 1,
+    "FunctionId": 102250,
+    "Sort": 137,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "116": {
+    "Id": 116,
+    "ActionIds": [
+      [
+        37
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Activate Mouse",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 1,
+    "HideInSettingView": 1,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": ""
+  },
+  "117": {
+    "Id": 117,
+    "ActionIds": [
+      [
+        44
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Item Use",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 45,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": ""
+  },
+  "118": {
+    "Id": 118,
+    "ActionIds": [
+      [
+        28
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quests",
+    "KeyboardDes": 2,
+    "FunctionId": 600100,
+    "Sort": 32,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "1"
+  },
+  "119": {
+    "Id": 119,
+    "ActionIds": [
+      [
+        47
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Ultimate",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 18,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "120": {
+    "Id": 120,
+    "ActionIds": [
+      [
+        48
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Expertise Skill",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 13,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "121": {
+    "Id": 121,
+    "ActionIds": [
+      [
+        13
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Use Item",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 23,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "122": {
+    "Id": 122,
+    "ActionIds": [
+      [
+        109
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Swipe Right",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 24,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "130": {
+    "Id": 130,
+    "ActionIds": [
+      [
+        49
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Battle Imagine 1",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 20,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "123": {
+    "Id": 123,
+    "ActionIds": [
+      [
+        50
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Battle Imagine 2",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 21,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "124": {
+    "Id": 124,
+    "ActionIds": [
+      [
+        66
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Hotkeys",
+    "KeyboardDes": 2,
+    "FunctionId": 106001,
+    "Sort": 45,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 3,
+    "ShowList": 1,
+    "GoBack": "1"
+  },
+  "125": {
+    "Id": 125,
+    "ActionIds": [
+      [
+        7
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Cast/Retrieve Rod",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 125,
+    "HideInSettingView": 1,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "126": {
+    "Id": 126,
+    "ActionIds": [],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Pan Camera Up in Photo Mode",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 126,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "127": {
+    "Id": 127,
+    "ActionIds": [],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Pan Camera Down in Photo Mode",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 127,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "128": {
+    "Id": 128,
+    "ActionIds": [],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Pan Camera Left in Photo Mode",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 128,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "129": {
+    "Id": 129,
+    "ActionIds": [],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Move the camera to the right when taking a photo",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 129,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "131": {
+    "Id": 131,
+    "ActionIds": [
+      [
+        62
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Summon/Dismiss Mount Imagine",
+    "KeyboardDes": 2,
+    "FunctionId": 102803,
+    "Sort": 131,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "132": {
+    "Id": 132,
+    "ActionIds": [
+      [
+        65
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Team Voice Chat Switch",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 132,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "133": {
+    "Id": 133,
+    "ActionIds": [
+      [
+        68
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Decline Invitation",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 134,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "134": {
+    "Id": 134,
+    "ActionIds": [
+      [
+        67
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Accept Invitation",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 133,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "135": {
+    "Id": 135,
+    "ActionIds": [
+      [
+        70
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Channel",
+    "KeyboardDes": 2,
+    "FunctionId": 101010,
+    "Sort": 135,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "1"
+  },
+  "136": {
+    "Id": 136,
+    "ActionIds": [
+      [
+        72
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Illustrated Guide",
+    "KeyboardDes": 2,
+    "FunctionId": 0,
+    "Sort": 136,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 1,
+    "GoBack": "0"
+  },
+  "137": {
+    "Id": 137,
+    "ActionIds": [
+      [
+        99
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Auto Run",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 137,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 1,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "138": {
+    "Id": 138,
+    "ActionIds": [
+      [
+        82
+      ]
+    ],
+    "SchemeId": 4,
+    "NameRule": 0,
+    "SetDes": "Edit quick wheel",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 138,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "139": {
+    "Id": 139,
+    "ActionIds": [
+      [
+        83
+      ]
+    ],
+    "SchemeId": 4,
+    "NameRule": 0,
+    "SetDes": "Switch quick wheel",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 139,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "286": {
+    "Id": 286,
+    "ActionIds": [
+      [
+        74
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 1",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 286,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "287": {
+    "Id": 287,
+    "ActionIds": [
+      [
+        75
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 2",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 287,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "288": {
+    "Id": 288,
+    "ActionIds": [
+      [
+        76
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 3",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 288,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "289": {
+    "Id": 289,
+    "ActionIds": [
+      [
+        77
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 4",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 289,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "290": {
+    "Id": 290,
+    "ActionIds": [
+      [
+        78
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 5",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 290,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "291": {
+    "Id": 291,
+    "ActionIds": [
+      [
+        79
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 6",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 291,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "292": {
+    "Id": 292,
+    "ActionIds": [
+      [
+        80
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 7",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 292,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "293": {
+    "Id": 293,
+    "ActionIds": [
+      [
+        81
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quick Wheel Slot 8",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 293,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "140": {
+    "Id": 140,
+    "ActionIds": [
+      [
+        31
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Take Photos",
+    "KeyboardDes": 2,
+    "FunctionId": 102001,
+    "Sort": 35,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "141": {
+    "Id": 141,
+    "ActionIds": [
+      [
+        85
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Skills",
+    "KeyboardDes": 1,
+    "FunctionId": 200500,
+    "Sort": 294,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "142": {
+    "Id": 142,
+    "ActionIds": [
+      [
+        86
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Gear",
+    "KeyboardDes": 1,
+    "FunctionId": 100701,
+    "Sort": 295,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "1"
+  },
+  "143": {
+    "Id": 143,
+    "ActionIds": [
+      [
+        21
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Hide UI",
+    "KeyboardDes": 1,
+    "FunctionId": 333334,
+    "Sort": 27,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "144": {
+    "Id": 144,
+    "ActionIds": [
+      [
+        87
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "View details in the gear interface",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 144,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "145": {
+    "Id": 145,
+    "ActionIds": [
+      [
+        88
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Check fishing level",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 145,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "146": {
+    "Id": 146,
+    "ActionIds": [
+      [
+        89
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Fishing Research",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 146,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "147": {
+    "Id": 147,
+    "ActionIds": [
+      [
+        90
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Bait",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 147,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "148": {
+    "Id": 148,
+    "ActionIds": [
+      [
+        91
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Fishing Pole",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 148,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "149": {
+    "Id": 149,
+    "ActionIds": [
+      [
+        92
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Tap to Reel in",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 149,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "150": {
+    "Id": 150,
+    "ActionIds": [
+      [
+        93
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Fishing Guide",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 150,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "151": {
+    "Id": 151,
+    "ActionIds": [
+      [
+        94
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Fishing Settings",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 151,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "152": {
+    "Id": 152,
+    "ActionIds": [
+      [
+        95
+      ]
+    ],
+    "SchemeId": 5,
+    "NameRule": 0,
+    "SetDes": "Player Info",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 152,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "153": {
+    "Id": 153,
+    "ActionIds": [
+      [
+        98
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Home Editing Entry",
+    "KeyboardDes": 2,
+    "FunctionId": 102501,
+    "Sort": 153,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "154": {
+    "Id": 154,
+    "ActionIds": [
+      [
+        100
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Hold to Navigate",
+    "KeyboardDes": 2,
+    "FunctionId": 102900,
+    "Sort": 154,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "155": {
+    "Id": 155,
+    "ActionIds": [
+      [
+        101
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Chat Channel Toggle",
+    "KeyboardDes": 1,
+    "FunctionId": 0,
+    "Sort": 154,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 2,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "156": {
+    "Id": 156,
+    "ActionIds": [
+      [
+        106
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quest Board Toggle Left",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 140,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "157": {
+    "Id": 157,
+    "ActionIds": [
+      [
+        107
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Quest Board Toggle Right",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 141,
+    "HideInSettingView": 0,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "158": {
+    "Id": 158,
+    "ActionIds": [
+      [
+        38
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Interactive Navigation",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 158,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "159": {
+    "Id": 159,
+    "ActionIds": [
+      [
+        60
+      ],
+      [
+        63
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Camera Move",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 159,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "160": {
+    "Id": 160,
+    "ActionIds": [
+      [
+        58
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Camera Pan",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 160,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "161": {
+    "Id": 161,
+    "ActionIds": [
+      [
+        57
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Hide interface",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 161,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "162": {
+    "Id": 162,
+    "ActionIds": [
+      [
+        56
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Capture",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 162,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "163": {
+    "Id": 163,
+    "ActionIds": [
+      [
+        96
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Hide left popup",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 163,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "164": {
+    "Id": 164,
+    "ActionIds": [
+      [
+        97
+      ]
+    ],
+    "SchemeId": 3,
+    "NameRule": 0,
+    "SetDes": "Hide right popup",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 164,
+    "HideInSettingView": 2,
+    "CanChange": [],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  },
+  "165": {
+    "Id": 165,
+    "ActionIds": [
+      [
+        24
+      ]
+    ],
+    "SchemeId": 1,
+    "NameRule": 0,
+    "SetDes": "Zoom Out/Zoom In",
+    "KeyboardDes": 0,
+    "FunctionId": 0,
+    "Sort": 165,
+    "HideInSettingView": 0,
+    "CanChange": [
+      0,
+      1
+    ],
+    "Quickdescription": 0,
+    "ShowList": 0,
+    "GoBack": "0"
+  }
+}

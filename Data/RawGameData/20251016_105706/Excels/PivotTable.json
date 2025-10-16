@@ -1,0 +1,227 @@
+{
+  "50001": {
+    "Id": 50001,
+    "Name": "Cliff Ruins",
+    "MapID": 7,
+    "AreaName": "Cliff Ruins",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_01",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50002": {
+    "Id": 50002,
+    "Name": "Statue of the Hero",
+    "MapID": 7,
+    "AreaName": "Statue of the Hero",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_02",
+    "PivotArea": 0,
+    "CameraId": 0
+  },
+  "50003": {
+    "Id": 50003,
+    "Name": "Outskirts of Ruins of Andra City",
+    "MapID": 7,
+    "AreaName": "Silent City",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_04",
+    "PivotArea": 3,
+    "CameraId": 0
+  },
+  "50004": {
+    "Id": 50004,
+    "Name": "Minsterhorn",
+    "MapID": 7,
+    "AreaName": "Minsterhorn",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_03",
+    "PivotArea": 2,
+    "CameraId": 0
+  },
+  "50005": {
+    "Id": 50005,
+    "Name": "Kanamia Tribe",
+    "MapID": 7,
+    "AreaName": "Kanamia Tribe",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 4,
+    "CameraId": 0
+  },
+  "50006": {
+    "Id": 50006,
+    "Name": "Duskdye Woods",
+    "MapID": 71,
+    "AreaName": "Duskdye Woods",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 0,
+    "CameraId": 0
+  },
+  "50007": {
+    "Id": 50007,
+    "Name": "Everfall Forest",
+    "MapID": 72,
+    "AreaName": "Everfall Forest",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 0,
+    "CameraId": 0
+  },
+  "50008": {
+    "Id": 50008,
+    "Name": "Windhowl Canyon",
+    "MapID": 73,
+    "AreaName": "Windhowl Canyon",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50009": {
+    "Id": 50009,
+    "Name": "Underground District",
+    "MapID": 74,
+    "AreaName": "Underground District",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50010": {
+    "Id": 50010,
+    "Name": "Skimmer's Lair",
+    "MapID": 75,
+    "AreaName": "Skimmer's Lair",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50011": {
+    "Id": 50011,
+    "Name": "Fallen Valley",
+    "MapID": 9,
+    "AreaName": "Fallen Valley",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50012": {
+    "Id": 50012,
+    "Name": "Pillar of Divinity",
+    "MapID": 9,
+    "AreaName": "Pillar of Divinity",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50013": {
+    "Id": 50013,
+    "Name": "Lallipar",
+    "MapID": 9,
+    "AreaName": "Lallipar",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50014": {
+    "Id": 50014,
+    "Name": "Bekmar Transport Station",
+    "MapID": 9,
+    "AreaName": "Bekmar Transport Station",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  },
+  "50015": {
+    "Id": 50015,
+    "Name": "Underground Sislesa Mine",
+    "MapID": 9,
+    "AreaName": "Sislesa Mine",
+    "SettingOffNum": [],
+    "CirculateAward": [
+      10002010,
+      10002020,
+      10002030
+    ],
+    "PivotPic": "ui/textures/pivot/pivot_img_05",
+    "PivotArea": 1,
+    "CameraId": 0
+  }
+}

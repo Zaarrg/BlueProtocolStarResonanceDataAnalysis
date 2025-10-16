@@ -1,0 +1,38 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Single-person Mount",
+    "Desc": "Can accommodate up to 1 person",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_01"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Two-person Mount",
+    "Desc": "Can accommodate up to 2 people",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_02"
+  },
+  "3": {
+    "Id": 3,
+    "Name": "Three-person Mount",
+    "Desc": "Can accommodate up to 3 people",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_03"
+  },
+  "4": {
+    "Id": 4,
+    "Name": "Four-person Mount",
+    "Desc": "Can accommodate up to 4 people",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_04"
+  },
+  "11": {
+    "Id": 11,
+    "Name": "Land Mounts",
+    "Desc": "Summonable Land Mount Imagines",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_06"
+  },
+  "12": {
+    "Id": 12,
+    "Name": "Water Mounts",
+    "Desc": "Summonable Water Mount Imagines",
+    "Icon": "ui/atlas/vehicle/vehicle_icon_05"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "7010101": {
+    "Id": 7010101,
+    "TargetId": [],
+    "Title": "Commemorating Heroes",
+    "Des": "Take a photo of Hero's Herb under the moonlight",
+    "TargetNum": 0
+  },
+  "7010301": {
+    "Id": 7010301,
+    "TargetId": [
+      5
+    ],
+    "Title": "Mourning Heroes",
+    "Des": "Take a photo at Statue of the Hero",
+    "TargetNum": 0
+  },
+  "7010201": {
+    "Id": 7010201,
+    "TargetId": [
+      6
+    ],
+    "Title": "Take a photo at Towering Ruin",
+    "Des": "Take a photo at Towering Ruin",
+    "TargetNum": 0
+  },
+  "7010401": {
+    "Id": 7010401,
+    "TargetId": [
+      7
+    ],
+    "Title": "Take a photo at Andra Resting Post",
+    "Des": "Take a photo at Andra Resting Post",
+    "TargetNum": 0
+  },
+  "7010501": {
+    "Id": 7010501,
+    "TargetId": [
+      8
+    ],
+    "Title": "Take a photo at Andra Landing Battlefield",
+    "Des": "Take a photo at Andra Landing Battlefield",
+    "TargetNum": 0
+  },
+  "7010601": {
+    "Id": 7010601,
+    "TargetId": [
+      9
+    ],
+    "Title": "Take a photo at Deep Memorial",
+    "Des": "Take a photo at Deep Memorial",
+    "TargetNum": 0
+  },
+  "7010701": {
+    "Id": 7010701,
+    "TargetId": [
+      10
+    ],
+    "Title": "Take a photo at Minsterhorn",
+    "Des": "Take a photo at Minsterhorn",
+    "TargetNum": 0
+  },
+  "7010801": {
+    "Id": 7010801,
+    "TargetId": [
+      11
+    ],
+    "Title": "Take a photo at Kanamia Tribe Entrance",
+    "Des": "Take a photo at Kanamia Tribe Entrance",
+    "TargetNum": 0
+  },
+  "7010901": {
+    "Id": 7010901,
+    "TargetId": [
+      12
+    ],
+    "Title": "Take a photo at the Elder Council Hall",
+    "Des": "Take a photo at the Elder Council Hall",
+    "TargetNum": 0
+  },
+  "7011001": {
+    "Id": 7011001,
+    "TargetId": [
+      13
+    ],
+    "Title": "Take a photo at Ruins of Andra City",
+    "Des": "Take a photo at Ruins of Andra City",
+    "TargetNum": 0
+  },
+  "7011101": {
+    "Id": 7011101,
+    "TargetId": [
+      14
+    ],
+    "Title": "Take a photo at Dark Mist Fortress",
+    "Des": "Take a photo at Dark Mist Fortress",
+    "TargetNum": 0
+  },
+  "7011201": {
+    "Id": 7011201,
+    "TargetId": [
+      15
+    ],
+    "Title": "Take a photo with Caprahorns",
+    "Des": "Take a photo with Caprahorns",
+    "TargetNum": 0
+  },
+  "7010202": {
+    "Id": 7010202,
+    "TargetId": [
+      16
+    ],
+    "Title": "Towering Ruin Recollections",
+    "Des": "Talk to the Scholar in Front of the Towering Ruin",
+    "TargetNum": 0
+  },
+  "7010102": {
+    "Id": 7010102,
+    "TargetId": [
+      17
+    ],
+    "Title": "Asterleeds Independence War",
+    "Des": "Talk to the Historian Tabari at the Statue of the Hero to learn about the Asterleeds Independence War",
+    "TargetNum": 0
+  },
+  "7010302": {
+    "Id": 7010302,
+    "TargetId": [
+      18
+    ],
+    "Title": "Forest Ranger's Cabin - Beacon of Dawn",
+    "Des": "Talk to the old male Near the Forest Ranger's Cabin",
+    "TargetNum": 0
+  },
+  "7010303": {
+    "Id": 7010303,
+    "TargetId": [
+      19
+    ],
+    "Title": "Forest Ranger's Cabin - Message Flower",
+    "Des": "Talk to the old female Near the Forest Ranger's Cabin",
+    "TargetNum": 0
+  },
+  "7010402": {
+    "Id": 7010402,
+    "TargetId": [
+      20
+    ],
+    "Title": "Scavengers",
+    "Des": "Talk to the tavern owner Cove to learn about the landing battle, the inn, and the scavengers.",
+    "TargetNum": 0
+  },
+  "7010602": {
+    "Id": 7010602,
+    "TargetId": [
+      21
+    ],
+    "Title": "Anomalous Ecology",
+    "Des": "Talk to the scholar researching the anomalous ecology of the tunnels.",
+    "TargetNum": 0
+  }
+}

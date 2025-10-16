@@ -1,0 +1,34 @@
+{
+  "1": {
+    "Id": 1,
+    "DesTitle": "Obtain now",
+    "MonthCardDes": "Obtain now",
+    "MonthCardConventionalDes": "Obtained: <style=\"accent-gn\">300 Rose Orbs</color>",
+    "SortId": 1,
+    "Type": 3
+  },
+  "2": {
+    "Id": 2,
+    "DesTitle": "Daily rewards for 30 days",
+    "MonthCardDes": "Login rewards for 30 days: Rose Orb (Bound) and Luno",
+    "MonthCardConventionalDes": "Login rewards for 30 days: <style=\"accent-gn\">Rose Orb (Bound)</color> and <style=\"accent-gn\">Luno</color>",
+    "SortId": 2,
+    "Type": 3
+  },
+  "3": {
+    "Id": 3,
+    "DesTitle": "Limited collections",
+    "MonthCardDes": "Limited collections",
+    "MonthCardConventionalDes": "Monthly limited <style=\"accent-gn\">collection card, headwear</color>",
+    "SortId": 3,
+    "Type": 1
+  },
+  "4": {
+    "Id": 4,
+    "DesTitle": "Privileges",
+    "MonthCardDes": "<color=#433a38>Trading Stalls</color> <color=#e65f29>+2</color><color=#433a38> </color><br><color=#433a38>Trading Tax</color> <color=#e65f29>-20%</color><color=#e65f29></color><br><color=#433a38>Trading Deposit</color> <color=#e65f29>Free</color><br><color=#433a38>Shared Storage </color> <color=#e65f29>+250</color><br><color=#433a38>Shared Storage Withdrawal</color> <color=#e65f29>+50</color><br><color=#433a38>Shared Homestead Storage Advanced Item Deposit Quantity</color> <color=#e65f29>+100</color><br><color=#433a38>Shared Homestead Storage Advanced Item Withdrawal Quantity</color> <color=#e65f29>+15</color>",
+    "MonthCardConventionalDes": "Trading Stalls <style=\"accent-gn\">+2</color><br>Trading Tax <style=\"accent-gn\">-20%</color><br>Trading Deposit <style=\"accent-gn\">Free</color><br>Shared Storage Deposit <style=\"accent-gn\">+250</color><br>Shared Storage Withdrawal <style=\"accent-gn\">+50</color><br>Shared Storage Advanced Deposit <style=\"accent-gn\">+100</color><br>Shared Storage Advanced Withdrawal <style=\"accent-gn\">+15</color>",
+    "SortId": 4,
+    "Type": 2
+  }
+}

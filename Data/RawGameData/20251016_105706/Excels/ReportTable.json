@@ -1,0 +1,98 @@
+{
+  "1": {
+    "Id": 1,
+    "ReportScene": "Conversation speech scene",
+    "SceneId": 1,
+    "ReportCategoryId": [],
+    "ReportCategoryDes": [
+      "Posting illegal information",
+      "Profile violation"
+    ],
+    "ReportReason": [
+      [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        108,
+        199
+      ],
+      [
+        901,
+        999
+      ]
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "ReportScene": "Profile scene",
+    "SceneId": 2,
+    "ReportCategoryId": [
+      9
+    ],
+    "ReportCategoryDes": [
+      "Profile violation"
+    ],
+    "ReportReason": [
+      [
+        901,
+        903,
+        999
+      ]
+    ]
+  },
+  "6": {
+    "Id": 6,
+    "ReportScene": "Report Album Photos",
+    "SceneId": 6,
+    "ReportCategoryId": [
+      7
+    ],
+    "ReportCategoryDes": [
+      "Photo violation"
+    ],
+    "ReportReason": [
+      [
+        799
+      ]
+    ]
+  },
+  "7": {
+    "Id": 7,
+    "ReportScene": "Organization Data Scene",
+    "SceneId": 7,
+    "ReportCategoryId": [
+      8
+    ],
+    "ReportCategoryDes": [
+      "Data Violation"
+    ],
+    "ReportReason": [
+      [
+        801,
+        802,
+        803,
+        799,
+        899
+      ]
+    ]
+  },
+  "101": {
+    "Id": 101,
+    "ReportScene": "Homestead Building Scene",
+    "SceneId": 8,
+    "ReportCategoryId": [
+      7
+    ],
+    "ReportCategoryDes": [
+      "Homestead Violations"
+    ],
+    "ReportReason": [
+      [
+        798
+      ]
+    ]
+  }
+}

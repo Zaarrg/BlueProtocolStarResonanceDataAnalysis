@@ -1,0 +1,90 @@
+{
+  "1": {
+    "Id": 1,
+    "Note": "DMG"
+  },
+  "2": {
+    "Id": 2,
+    "Note": "ENG"
+  },
+  "3": {
+    "Id": 3,
+    "Note": "Block"
+  },
+  "4": {
+    "Id": 4,
+    "Note": "AoE"
+  },
+  "5": {
+    "Id": 5,
+    "Note": "Break"
+  },
+  "6": {
+    "Id": 6,
+    "Note": "Slow"
+  },
+  "7": {
+    "Id": 7,
+    "Note": "Accelerate"
+  },
+  "8": {
+    "Id": 8,
+    "Note": "Envelop"
+  },
+  "9": {
+    "Id": 9,
+    "Note": "Defense"
+  },
+  "10": {
+    "Id": 10,
+    "Note": "Frozen"
+  },
+  "11": {
+    "Id": 11,
+    "Note": "Boost"
+  },
+  "12": {
+    "Id": 12,
+    "Note": "Shield"
+  },
+  "13": {
+    "Id": 13,
+    "Note": "Sprint"
+  },
+  "14": {
+    "Id": 14,
+    "Note": "Control"
+  },
+  "15": {
+    "Id": 15,
+    "Note": "Heal"
+  },
+  "16": {
+    "Id": 16,
+    "Note": "Duration"
+  },
+  "17": {
+    "Id": 17,
+    "Note": "Penetrate"
+  },
+  "18": {
+    "Id": 18,
+    "Note": "Crit"
+  },
+  "19": {
+    "Id": 19,
+    "Note": "Haste"
+  },
+  "20": {
+    "Id": 20,
+    "Note": "Mastery"
+  },
+  "21": {
+    "Id": 21,
+    "Note": "Summon"
+  },
+  "22": {
+    "Id": 22,
+    "Note": "Bless"
+  }
+}

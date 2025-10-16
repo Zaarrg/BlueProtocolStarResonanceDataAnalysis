@@ -1,0 +1,44 @@
+{
+  "2048": {
+    "Id": 2048,
+    "BaseObjectLimit": 1500,
+    "SummonObjectLimit": 100,
+    "TimerLimit": 20,
+    "SaveVarLimit": 100
+  },
+  "1024": {
+    "Id": 1024,
+    "BaseObjectLimit": 1200,
+    "SummonObjectLimit": 50,
+    "TimerLimit": 10,
+    "SaveVarLimit": 50
+  },
+  "512": {
+    "Id": 512,
+    "BaseObjectLimit": 800,
+    "SummonObjectLimit": 30,
+    "TimerLimit": 10,
+    "SaveVarLimit": 30
+  },
+  "256": {
+    "Id": 256,
+    "BaseObjectLimit": 400,
+    "SummonObjectLimit": 20,
+    "TimerLimit": 10,
+    "SaveVarLimit": 20
+  },
+  "128": {
+    "Id": 128,
+    "BaseObjectLimit": 200,
+    "SummonObjectLimit": 10,
+    "TimerLimit": 10,
+    "SaveVarLimit": 10
+  },
+  "64": {
+    "Id": 64,
+    "BaseObjectLimit": 100,
+    "SummonObjectLimit": 5,
+    "TimerLimit": 10,
+    "SaveVarLimit": 5
+  }
+}

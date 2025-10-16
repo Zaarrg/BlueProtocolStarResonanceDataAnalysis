@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package zproto;
+
+enum LoginPlatFormType {
+  InnerPlatForm = 0;
+  TencentPlatForm = 1;
+  IntlPlatForm = 2;
+  HaoPlayPlatForm = 3;
+  ApjPlatForm = 4;
+  XdPlatForm = 5;
+  LoginPlatFormMax = 999;
+  AiBotPlatForm = 9999;
+}
+

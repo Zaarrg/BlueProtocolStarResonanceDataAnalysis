@@ -1,0 +1,32 @@
+{
+  "1": {
+    "Id": 1,
+    "LvUpKillNum": 0,
+    "ExtraBuffContent": "No Buff, World Boss at Strongest State",
+    "StageAward": 0
+  },
+  "2": {
+    "Id": 2,
+    "LvUpKillNum": 99999999,
+    "ExtraBuffContent": "Adventurer damage +10%, damage taken -5%",
+    "StageAward": 11001041
+  },
+  "3": {
+    "Id": 3,
+    "LvUpKillNum": 99999999,
+    "ExtraBuffContent": "Adventurer damage +20%, damage taken -10%",
+    "StageAward": 11001042
+  },
+  "4": {
+    "Id": 4,
+    "LvUpKillNum": 99999999,
+    "ExtraBuffContent": "Adventurer damage +30%, damage taken -15%",
+    "StageAward": 11001043
+  },
+  "5": {
+    "Id": 5,
+    "LvUpKillNum": 99999999,
+    "ExtraBuffContent": "Adventurer damage +40%, damage taken -20%",
+    "StageAward": 11001044
+  }
+}

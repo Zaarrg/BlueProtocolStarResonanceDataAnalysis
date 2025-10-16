@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+import "stru_dirty_mask.proto";
+
+message RoleFace {
+  map<int32, bool> unlock_item_map = 1;
+  bool save_need_consume = 2;
+}
+

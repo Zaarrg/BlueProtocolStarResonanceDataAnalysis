@@ -1,0 +1,38 @@
+{
+  "101": {
+    "Id": 101,
+    "Episode": "Episode I",
+    "EpisodeName": "Beginning of the Journey",
+    "ChapterPreview": "Complete the Prologue"
+  },
+  "102": {
+    "Id": 102,
+    "Episode": "Episode II",
+    "EpisodeName": "The Light and Shadow",
+    "ChapterPreview": "Complete Episode I"
+  },
+  "103": {
+    "Id": 103,
+    "Episode": "Episode III",
+    "EpisodeName": "Under the Firmament",
+    "ChapterPreview": "Complete Episode III"
+  },
+  "104": {
+    "Id": 104,
+    "Episode": "Episode IV",
+    "EpisodeName": "Unknown Roads Ahead",
+    "ChapterPreview": "Complete Episode III"
+  },
+  "105": {
+    "Id": 105,
+    "Episode": "Episode V",
+    "EpisodeName": "Countdown to the End",
+    "ChapterPreview": "Complete Episode IV"
+  },
+  "201": {
+    "Id": 201,
+    "Episode": "Episode I",
+    "EpisodeName": "Chapter Two, Episode I",
+    "ChapterPreview": "Complete Chapter 1"
+  }
+}

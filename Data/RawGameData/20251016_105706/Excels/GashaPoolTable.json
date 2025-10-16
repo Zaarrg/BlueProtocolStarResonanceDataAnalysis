@@ -1,0 +1,999 @@
+{
+  "1001": {
+    "Id": 1001,
+    "Name": "Solsticera",
+    "GashaType": 1,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80101,
+    "Note": "非绑池",
+    "Sort": 1001,
+    "Bind": [],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_fashion_1"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_fashion_1"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_1"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_02",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50000050,
+      50000030,
+      50000020,
+      50000010
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 1,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Solsticera Gift Box</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br><color=#eed335>Sleepy Kitty - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Sleepy Puppy - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Nappo Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Ee-chan Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br>※ <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Fashion Wish.\" During this event, accumulated Wish counts for unacquired <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will not be reset when this event updates. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Boarlet Cap - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Owl Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Youthful Hair Clip - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Wig Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Ee-chan's Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Novelty Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Sweet Dreams Eyemask - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Woven Veil - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Pixelated Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br><color=#ab85f6>Mixing Agent*3</color> <color=#ffe2af>11.53%</color><br><color=#ab85f6>Meowlux Vault Card Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#9cb9ef>Toy - Bubble Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Water Spell*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Sparkler Intermediate Materials - Select×3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Phantom Toy*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Shadow Particles*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Hover Bubble*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Adorable Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Imposing Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cyan Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Green Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Epic Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Sparkler*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cute Reading Pose*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br><color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br><color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color>",
+    "BannerVideo": [],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "1002": {
+    "Id": 1002,
+    "Name": "Solsticera",
+    "GashaType": 1,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80101,
+    "Note": "绑定池",
+    "Sort": 1002,
+    "Bind": [
+      1,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_fashion_1"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_fashion_1"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_1"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_02",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50000050,
+      50000030,
+      50001160,
+      50001150
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 2,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Solsticera Gift Box</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br><color=#eed335>Sleepy Kitty - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Sleepy Puppy - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Nappo Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Ee-chan Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br>※ <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Fashion Wish (Bound).\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Fashion Wish (Bound)\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Boarlet Cap - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Owl Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Youthful Hair Clip - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Wig Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Ee-chan's Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Novelty Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Sweet Dreams Eyemask - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Woven Veil - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Pixelated Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br><color=#ab85f6>Mixing Agent*3</color> <color=#ffe2af>11.53%</color><br><color=#ab85f6>Meowlux Vault Card Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#9cb9ef>Toy - Bubble Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Water Spell*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Sparkler Intermediate Materials - Select×3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Phantom Toy*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Shadow Particles*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Hover Bubble*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Adorable Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Imposing Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cyan Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Green Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Epic Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Sparkler*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cute Reading Pose*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br><color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br><color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color>",
+    "BannerVideo": [],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "1003": {
+    "Id": 1003,
+    "Name": "Core Drive",
+    "GashaType": 1,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80102,
+    "Note": "非绑池",
+    "Sort": 1003,
+    "Bind": [
+      2,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_04",
+        "ui/textures/gasha/gasha_banner_fashion_2"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_04",
+        "ui/textures/gasha/gasha_banner_fashion_2"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_2"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_03",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50002230,
+      50002220,
+      50002210,
+      50002200
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 1,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Core Drive Box</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br> <color=#eed335>Snuggly Airona - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Sleepy Nappo - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Thunder Demon Backpack</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Goblin Plush Backpack</color> <color=#ffe2af>10.00%</color><br>※<color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Fashion Wish.\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will not reset when the \"Fashion Wish\" event updates. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Corgi Plush</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Rose Bloom</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Exclamation Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Arrow Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br> <color=#ab85f6>Mixing Agent x3</color> <color=#ffe2af>11.53%</color><br> <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#9cb9ef>Toy - Bubble Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Water Spell x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Fairy Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Phantom Toy x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Shadow Particles x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Hover Bubble x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Adorable Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Imposing Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cyan Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Green Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Epic Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Sparkler x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cute Reading Pose x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br> <color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "1004": {
+    "Id": 1004,
+    "Name": "Core Drive",
+    "GashaType": 1,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80102,
+    "Note": "绑定池",
+    "Sort": 1004,
+    "Bind": [
+      2,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_04",
+        "ui/textures/gasha/gasha_banner_fashion_2"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_04",
+        "ui/textures/gasha/gasha_banner_fashion_2"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_fashion_banner_tpl_2"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_fashion_03",
+    "BannerTips": "Limited Outfit",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50002230,
+      50002220,
+      50002250,
+      50002240
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 2,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Core Drive Box</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br> <color=#eed335>Snuggly Airona - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Sleepy Nappo - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Thunder Demon Backpack</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Goblin Plush Backpack</color> <color=#ffe2af>10.00%</color><br>※<color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Fashion Wish (Bound).\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Fashion Wish\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Corgi Plush</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Rose Bloom</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Exclamation Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Arrow Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br> <color=#ab85f6>Mixing Agent x3</color> <color=#ffe2af>11.53%</color><br> <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will automatically be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#9cb9ef>Toy - Bubble Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Water Spell x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Fairy Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Phantom Toy x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Shadow Particles x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Hover Bubble x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Adorable Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Imposing Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cyan Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Green Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Epic Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Sparkler x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cute Reading Pose x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br> <color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "2001": {
+    "Id": 2001,
+    "Name": "Shimmering Beautifish",
+    "GashaType": 2,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80101,
+    "Note": "非绑池",
+    "Sort": 2003,
+    "Bind": [
+      3,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_vehicle_1"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_vehicle_1"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_1"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_02",
+    "BannerTips": "Limited Mount",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50001140,
+      50001130,
+      50001120,
+      50001110
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 3,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Shimmering Beautifish</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br><color=#eed335>Sleepy Kitty - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Sleepy Puppy - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Nappo Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Ee-chan Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br>※ <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Mount Wish.\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Mount Wish\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Boarlet Cap - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Owl Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Youthful Hair Clip - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Wig Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Ee-chan's Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Novelty Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Sweet Dreams Eyemask - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Woven Veil - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Pixelated Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br><color=#ab85f6>Mixing Agent*3</color> <color=#ffe2af>11.53%</color><br><color=#ab85f6>Meowlux Vault Card Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#9cb9ef>Toy - Bubble Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Water Spell*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Sparkler Intermediate Materials - Select×3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Phantom Toy*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Shadow Particles*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Hover Bubble*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Adorable Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Imposing Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cyan Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Green Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Epic Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Sparkler*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cute Reading Pose*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br><color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br><color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br><color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "2002": {
+    "Id": 2002,
+    "Name": "Shimmering Beautifish",
+    "GashaType": 2,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80101,
+    "Note": "绑定池",
+    "Sort": 2004,
+    "Bind": [
+      3,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_vehicle_1"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_03",
+        "ui/textures/gasha/gasha_banner_vehicle_1"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_1"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_02",
+    "BannerTips": "Limited Mount",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50001140,
+      50001130,
+      50001220,
+      50001210
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 4,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Shimmering Beautifish</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br><color=#eed335>Sleepy Kitty - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Sleepy Puppy - Headwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Nappo Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br><color=#eed335>Ee-chan Swim Ring - Backwear</color> <color=#ffe2af>10.00%</color><br>※ <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Mount Wish (Bound).\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Mount Wish (Bound)\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Top</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Fine Weather - Bottom</color> <color=#ffe2af>1.73%</color><br><color=#ab85f6>Corgi Plush - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Boarlet Cap - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Owl Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Youthful Hair Clip - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Rose Bloom - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Wig Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Ee-chan's Hat - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Exclamation Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Arrow Mark - Headwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Novelty Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Sweet Dreams Eyemask - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Woven Veil - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Pixelated Glasses - Facewear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Snow Beard - Mouthwear</color> <color=#ffe2af>3.75%</color><br><color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br><color=#ab85f6>Mixing Agent*3</color> <color=#ffe2af>11.53%</color><br><color=#ab85f6>Meowlux Vault Card Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br><color=#9cb9ef>Toy - Bubble Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Water Spell*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Sparkler Intermediate Materials - Select×3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Phantom Toy*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Shadow Particles*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Hover Bubble*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Adorable Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Imposing Sculpture*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cyan Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Green Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Epic Light Stick*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Yellow Sparkler*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Toy - Cute Reading Pose*3</color> <color=#ffe2af>3.17%</color><br><color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br><color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br><color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "2003": {
+    "Id": 2003,
+    "Name": "Hyper Impulse",
+    "GashaType": 2,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80102,
+    "Note": "非绑池",
+    "Sort": 2003,
+    "Bind": [
+      4,
+      0
+    ],
+    "Cost": [
+      1070018,
+      1
+    ],
+    "CostSecond": [
+      1070018,
+      10
+    ],
+    "MallItemId": 811034,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_05",
+        "ui/textures/gasha/gasha_banner_vehicle_2"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_05",
+        "ui/textures/gasha/gasha_banner_vehicle_2"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_2"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_03",
+    "BannerTips": "Limited Mount",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50002290,
+      50002280,
+      50002270,
+      50002260
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 3,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Hyper Impulse</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br> <color=#eed335>Snuggly Airona - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Sleepy Nappo - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Thunder Demon Backpack</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Goblin Plush Backpack</color> <color=#ffe2af>10.00%</color><br>※<color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Mount Wish.\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Mount Wish\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Corgi Plush</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Rose Bloom</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Exclamation Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Arrow Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br> <color=#ab85f6>Mixing Agent x3</color> <color=#ffe2af>11.53%</color><br> <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#9cb9ef>Toy - Bubble Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Water Spell x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Fairy Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Phantom Toy x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Shadow Particles x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Hover Bubble x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Adorable Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Imposing Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cyan Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Green Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Epic Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Sparkler x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cute Reading Pose x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br> <color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070018,
+      10003
+    ]
+  },
+  "2004": {
+    "Id": 2004,
+    "Name": "Hyper Impulse",
+    "GashaType": 2,
+    "OpenType": 0,
+    "FunctionId": 800820,
+    "Work": 1,
+    "TimerId": 80102,
+    "Note": "绑定池",
+    "Sort": 2004,
+    "Bind": [
+      4,
+      1
+    ],
+    "Cost": [
+      1070030,
+      1
+    ],
+    "CostSecond": [
+      1070030,
+      10
+    ],
+    "MallItemId": 0,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_05",
+        "ui/textures/gasha/gasha_banner_vehicle_2"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_05",
+        "ui/textures/gasha/gasha_banner_vehicle_2"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_vehicle_banner_tpl_2"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_vehicle_03",
+    "BannerTips": "Limited Mount",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_001",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50002290,
+      50002280,
+      50002310,
+      50002300
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 3.68%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.54%)"
+    ],
+    "IfWish": 0,
+    "WishItem": [],
+    "WishPercent": 0,
+    "WishNum": 0,
+    "WishLimit": 0,
+    "WishLimitTime": 0,
+    "ResonancePrefab": "",
+    "ShareGuarantee": 4,
+    "ShopFunc": 800812,
+    "ShopIcon": "ui/atlas/item/c_tab_icon/com_icon_tab_218",
+    "PoolDesc": "In this Wish event: <br>The base probability of obtaining an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.54%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will receive: <color=#FF8000>Hyper Impulse</color>.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.85%</color>, with a total probability (including guarantee) of <color=#ffe2af>3.68%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>30</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#eed335>Meowlux Premium Card</color> <color=#ffe2af>60.00%</color><br> <color=#eed335>Snuggly Airona - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Sleepy Nappo - Headwear</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Thunder Demon Backpack</color> <color=#ffe2af>10.00%</color><br> <color=#eed335>Goblin Plush Backpack</color> <color=#ffe2af>10.00%</color><br>※<color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> items obtained via unbound Meowlux Wish Coins can be sold at the Trading Center. Once this event is over, there will be no other way to obtain the Appearance items in this Wish event.<br>※The current event is \"Mount Wish (Bound).\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Mount Wish (Bound)\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining an <color=#ab85f6>[R]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#ab85f6>Long Vacation - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Long Vacation - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Top</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Sunny Day - Bottom</color> <color=#ffe2af>1.73%</color><br> <color=#ab85f6>Corgi Plush</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Boarlet Cap</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Owl Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Youthful Hairpin</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Rose Bloom</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Wig Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Ee-chan's Hat</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Exclamation Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Arrow Mark</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Long Vacation - Shoes</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Novelty Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Sweet Dreams Eyemask</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Woven Veil</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Pixelated Glasses</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Snow Beard</color> <color=#ffe2af>3.75%</color><br> <color=#ab85f6>Advanced Materials - Select</color> <color=#ffe2af>10.09%</color><br> <color=#ab85f6>Mixing Agent x3</color> <color=#ffe2af>11.53%</color><br> <color=#ab85f6>Meowlux Vault Box</color> <color=#ffe2af>11.53%</color><br>※When obtaining a duplicate Appearance, it will be converted into a certain number of <color=#9cb9ef>Meowlux Vault Card</color>.<br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.00%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items according to the corresponding probabilities: <br> <color=#9cb9ef>Toy - Bubble Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Water Spell x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Fairy Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Phantom Toy x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Shadow Particles x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Hover Bubble x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Adorable Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Imposing Sculpture x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cyan Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Green Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Epic Light Stick x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Yellow Sparkler x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Toy - Cute Reading Pose x3</color> <color=#ffe2af>3.17%</color><br> <color=#9cb9ef>Healing Aromatic Lv.2</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Intermediate Materials - Select</color> <color=#ffe2af>7.94%</color><br> <color=#9cb9ef>Meowlux Vault Card</color> <color=#ffe2af>23.81%</color><br> <color=#9cb9ef>Basic Materials - Select</color> <color=#ffe2af>15.87%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070030,
+      10005
+    ]
+  },
+  "3003": {
+    "Id": 3003,
+    "Name": "Battle Will",
+    "GashaType": 3,
+    "OpenType": 1,
+    "FunctionId": 800821,
+    "Work": 1,
+    "TimerId": 10101,
+    "Note": "意志池",
+    "Sort": 3003,
+    "Bind": [
+      5,
+      1
+    ],
+    "Cost": [
+      1070031,
+      1
+    ],
+    "CostSecond": [
+      1070031,
+      10
+    ],
+    "MallItemId": 811078,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_battle_banner_tpl"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_battle_01",
+    "BannerTips": "Battle Will",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50001200,
+      50001190,
+      50001180,
+      50001170
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 5.17%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.56%)"
+    ],
+    "IfWish": 1,
+    "WishItem": [
+      3010008,
+      3010011,
+      3010037,
+      3010019
+    ],
+    "WishPercent": 10000,
+    "WishNum": 1,
+    "WishLimit": 1,
+    "WishLimitTime": 80301,
+    "ResonancePrefab": "ui/prefabs/gasha/gasha_illusion_fore_sub_4",
+    "ShareGuarantee": 5,
+    "ShopFunc": 0,
+    "ShopIcon": "",
+    "PoolDesc": "In this Battle Will Wish: <br>The base probability of obtaining a <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with an omnipotent probability (including guarantee) of <color=#ffe2af>1.35%</color>. You are guaranteed to obtain a <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining a <color=#FF8000>[SSR]</color>, you will randomly receive one of the following items with equal probability: <br><color=#FF8000>Will - Airona</color><br><color=#FF8000>Will - Tina</color><br><color=#FF8000>Will - Olvera</color><br><color=#FF8000>Will - Tatta</color><br>※When obtaining an <color=#FF8000>[SSR]</color>, if player has already <color=#FF8000>resonated</color> with a Battle Will from the pool, the probability of obtaining this Will is <color=#ffe2af>100%</color>.<br>※The current event is \"Battle Will Wish.\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Battle Will Wish\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining an <color=#eed335>[SR]</color> is <color=#ffe2af>1.20%</color>, with a total probability (including guarantee) of <color=#ffe2af>4.75%</color>. You are guaranteed to obtain an <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>20</color> wishes. When you obtain an <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be an <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be a <color=#FF8000>[SSR]</color>. When obtaining an <color=#eed335>[SR]</color>, you will randomly receive one of the following items with equal probability: <br><color=#eed335>Will - Golden Juggernaut</color><br><color=#eed335>Will - Frost Ogre</color><br><color=#eed335>Will - Inferno Ogre</color><br><color=#eed335>Will - Phantom Arachnocrab</color><br><color=#eed335>Will - Brigand Captain</color><br><color=#eed335>Will - Venobzzar Incubator</color><br><color=#eed335>Will - Muku Chief</color><br><color=#eed335>Will - Iron Fang</color><br><color=#eed335>Will - Goblin King</color><br><color=#eed335>Will - Tempest Ogre</color><br><color=#eed335>Will - Celestial Flier</color><br><color=#eed335>Will - Lizardman King</color><br><color=#eed335>Will - Goblin King</color><br><color=#eed335>Will - Muku King</color><br><color=#eed335>Will - Celestial Flier</color><br><br>The base acquisition rate for <color=#ab85f6>[R]</color> is established at <color=#ffe2af>12.00%</color>. When obtaining a <color=#ab85f6>[R]</color>, you will randomly receive one of the following items with the corresponding probabilities: <br><color=#ab85f6>Will - Boarrier Tyrant</color><br><color=#ab85f6>Will - Goblin Guard</color><br><color=#ab85f6>Will - Goblin Warrior</color><br><color=#ab85f6>Will - Goblin Mage</color><br><color=#ab85f6>Will - Mighty Colossus</color><br><color=#ab85f6>Will - Void Arachnocrab</color><br><color=#ab85f6>Will - Brigand Scout Leader</color><br><color=#ab85f6>Will - Brigand Guard Captain</color><br><color=#ab85f6>Will - Void Bzzar</color><br><color=#ab85f6>Will - Muku Warrior</color><br><color=#ab85f6>Will - Muku Vanguard</color><br><color=#ab85f6>Will - Great Warhog</color><br><color=#ab85f6>Will - Storm Goblin Warrior</color><br><color=#ab85f6>Will - Dark Mist Captain</color><br><color=#ab85f6>Will - Dark Mist Commander</color><br><color=#ab85f6>Will - Lizardman Hunter</color><br><color=#ab85f6>Will - Lizardman Mage</color><br><color=#ab85f6>Will - Jungle Goblin Warrior</color><br><color=#ab85f6>Will - Muku Scout</color><br><br>The base acquisition rate for <color=#9cb9ef>[N]</color> is established at <color=#ffe2af>86.65%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items with the corresponding probabilities: <br><color=#9cb9ef> Stunt Will - Fragment*10</color> <color=#ffe2af> 9.09% </color><br><color=#9cb9ef> Stunt Will - Fragment*5</color> <color=#ffe2af> 18.18% </color><br><color=#9cb9ef> Stunt Will - Fragment*2</color> <color=#ffe2af> 27.27% </color><br><color=#9cb9ef> Stunt Will - Fragment*1</color> <color=#ffe2af> 45.46% </color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070031,
+      10005
+    ]
+  },
+  "3001": {
+    "Id": 3001,
+    "Name": "Battle Will",
+    "GashaType": 3,
+    "OpenType": 1,
+    "FunctionId": 800821,
+    "Work": 0,
+    "TimerId": 10501,
+    "Note": "意志池",
+    "Sort": 3003,
+    "Bind": [
+      6,
+      1
+    ],
+    "Cost": [
+      1070031,
+      1
+    ],
+    "CostSecond": [
+      1070031,
+      10
+    ],
+    "MallItemId": 811078,
+    "Limit": 2000,
+    "LimitRefreshTimer": 10102,
+    "Banner": [
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle"
+      ],
+      [
+        "ui/textures/gasha/gasha_panel_01",
+        "ui/textures/gasha/gasha_banner_battle"
+      ],
+      [
+        "ui/prefabs/gasha/gasha_battle_banner_tpl"
+      ]
+    ],
+    "BannerTitle": "ui/textures/gasha/gasha_battle_01",
+    "BannerTips": "Battle Will",
+    "Sticker": [],
+    "StickerEffect": "ui_sfx_niudan_tab_002",
+    "Show": 1,
+    "Cutscene": [
+      [
+        50200301,
+        50200302,
+        50200303,
+        50200303
+      ],
+      [
+        50200304,
+        50200305,
+        50200306,
+        50200306
+      ]
+    ],
+    "Quality": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "AwardPackageGroup": [
+      50001200,
+      50001190,
+      50001180,
+      50001170
+    ],
+    "QualityTitle": [
+      "[N]",
+      "[R]",
+      "[SR]",
+      "[SSR]"
+    ],
+    "GashaIconPreview": [],
+    "GashaProbabilityDesc": [
+      "Base Probability: 86.00%",
+      "Base Probability: 12.00%",
+      "Base Probability: 1.85% (Total with Guarantee: 5.17%)",
+      "Base Probability: 0.15% (Total with Guarantee: 1.56%)"
+    ],
+    "IfWish": 1,
+    "WishItem": [
+      3010008,
+      3010011,
+      3010037,
+      3010019
+    ],
+    "WishPercent": 10000,
+    "WishNum": 1,
+    "WishLimit": 1,
+    "WishLimitTime": 80301,
+    "ResonancePrefab": "ui/prefabs/gasha/gasha_illusion_fore_sub_4",
+    "ShareGuarantee": 5,
+    "ShopFunc": 0,
+    "ShopIcon": "",
+    "PoolDesc": "In this Will Wish: <br>The base probability to obtain an <color=#FF8000>[SSR]</color> is <color=#ffe2af>0.15%</color>, with a total probability (including guarantee) of <color=#ffe2af>1.35%</color>. You are guaranteed to obtain an <color=#FF8000>[SSR]</color> for a maximum of <color=#ffe2af>80</color> wishes. When obtaining an <color=#FF8000>[SSR]</color>, you will randomly receive one of the following items with equal probability: <br><color=#FF8000>Will - Airona</color><br><color=#FF8000>Will - Tina</color><br><color=#FF8000>Will - Olvera</color><br><color=#FF8000>Will - Tatta</color><br>※When obtaining an <color=#FF8000>[SSR]</color>, if player has already <color=#FF8000>resonated</color> with a Will from the pool, the probability of obtaining this Will is <color=#ffe2af>100%</color>.<br>※The current event is \"Will Wish.\" During this event, accumulated Wish counts for unclaimed <color=#FF8000>[SSR]</color> and <color=#eed335>[SR]</color> (or higher quality items) will continue to carry over within the \"Will Wish\" event. These counts are calculated independently from other Wish events and do not affect each other.<br><br>The base probability of obtaining a <color=#eed335>[SR]</color> is <color=#ffe2af>1.20%</color>, with a total probability (including guarantee) of <color=#ffe2af>4.75%</color>. You are guaranteed to obtain a <color=#eed335>[SR]</color> or higher-quality item for a maximum of <color=#ffe2af>20</color> wishes. When you obtain a <color=#eed335>[SR]</color> or higher-quality item through guarantee, there is a <color=#ffe2af>99.85%</color> chance it will be a <color=#eed335>[SR]</color> and a <color=#ffe2af>0.15%</color> chance it will be an <color=#FF8000>[SSR]</color>. When obtaining a <color=#eed335>[SR]</color>, you will randomly receive one of the following items with equal probability: <br><color=#eed335>Will - Golden Juggernaut</color><br><color=#eed335>Will - Frost Ogre</color><br><color=#eed335>Will - Inferno Ogre</color><br><color=#eed335>Will - Phantom Arachnocrab</color><br><color=#eed335>Will - Brigand Captain</color><br><color=#eed335>Will - Venobzzar Incubator</color><br><color=#eed335>Will - Muku Chief</color><br><color=#eed335>Will - Iron Fang</color><br><color=#eed335>Will - Storm Goblin King</color><br><color=#eed335>Will - Tempest Ogre</color><br><color=#eed335>Will - Celestial Flier</color><br><color=#eed335>Will - Lizardman King</color><br><color=#eed335>Will - Goblin King</color><br><color=#eed335>Will - Muku King</color><br><color=#eed335>Will - Celestial Flier</color><br><br>The base probability of obtaining a <color=#ab85f6>[R]</color> is <color=#ffe2af>12.00%</color>. When obtaining a <color=#ab85f6>[R]</color>, you will randomly receive one of the following items with the corresponding probabilities: Azte Pure Ore<br><color=#ab85f6>Will - Boarrier Tyrant</color><br><color=#ab85f6>Will - Goblin Guard</color><br><color=#ab85f6>Will - Goblin Warrior</color><br><color=#ab85f6>Will - Goblin Inferno Mage</color><br><color=#ab85f6>Will - Mighty Colossus</color><br><color=#ab85f6>Will - Void Arachnocrab</color><br><color=#ab85f6>Will - Brigand Scout Leader</color><br><color=#ab85f6>Will - Brigand Guard Captain</color><br><color=#ab85f6>Will - Void Bzzar</color><br><color=#ab85f6>Will - Muku Warrior</color><br><color=#ab85f6>Will - Muku Vanguard</color><br><color=#ab85f6>Will - Great Warhog</color><br><color=#ab85f6>Will - Storm Goblin Warrior</color><br><color=#ab85f6>Will - Dark Mist Captain</color><br><color=#ab85f6>Will - Dark Mist Commander</color><br><color=#ab85f6>Will - Lizardman Hunter</color><br><color=#ab85f6>Will - Lizardman Mage</color><br><color=#ab85f6>Will - Jungle Goblin Warrior</color><br><color=#ab85f6>Will - Muku Scout</color><br><br>The base probability of obtaining an <color=#9cb9ef>[N]</color> is <color=#ffe2af>86.65%</color>. When obtaining an <color=#9cb9ef>[N]</color>, you will randomly receive one of the following items with the corresponding probabilities: <br><color=#9cb9ef>Stunt Will - Fragment*10</color>: <color=#ffe2af>9.09%</color><br><color=#9cb9ef>Stunt Will - Fragment*5</color>: <color=#ffe2af>18.18%</color><br><color=#9cb9ef>Stunt Will - Fragment*2</color>: <color=#ffe2af>27.27%</color><br><color=#9cb9ef>Stunt Will - Fragment*1</color>: <color=#ffe2af>45.46%</color><br>",
+    "BannerVideo": [],
+    "Currency": [
+      1070031,
+      10005
+    ]
+  }
+}

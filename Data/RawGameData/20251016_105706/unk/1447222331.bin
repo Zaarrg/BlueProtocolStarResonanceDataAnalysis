@@ -1,0 +1,8 @@
+//语音语言设置（中文简体0，英语1，日语2，繁体中文3，韩语4，泰语5。0为关闭，其他为开启，打包机修改默认语音DefaultVoiceLanguage）（对应语言=开关|对应语言=开关…）
+audio_language:0=1|2=1
+//文本语言设置（中文简体0，英语1，日语2，繁体中文3，韩语4，泰语5。0为关闭，其他为开启，打包机修改默认语言DefaultLanguage）（对应语言=开关|对应语言=开关…）
+text_language:0=1|1=1|2=0|3=1|4=0|5=1
+//多语言配置设置显示文本，不需要翻译，顺序和文本语言设置保持一致
+name_language:简体中文,English,日本語,繁體中文,한국어,ภาษาไทย
+//多语言类型文本（注意：分隔符使用半角符号）
+type_language:chinese,english,japanese,traditionalchinese,korea,thai

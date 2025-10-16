@@ -1,0 +1,58 @@
+{
+  "1": {
+    "Id": 1,
+    "CoverTitle": "An invitation from a fisher",
+    "CoverDesc": "Come to Star Resonance and join me in fishing!",
+    "CoverPictureURL": "https://wegame-pkg.panda-tke.tencent-cloud.com/shardData/item_icons_item_icons_citizen_note(1).png",
+    "ReceivingPageDesc": "Come to Star Resonance and join me in fishing!",
+    "ReceivingPagePictureURL": [],
+    "ReceivingPagePictureData": [
+      [
+        828,
+        600
+      ]
+    ]
+  },
+  "2": {
+    "Id": 2,
+    "CoverTitle": "Group Photo Invitation",
+    "CoverDesc": "Gather with your friends for a group photo! Tons of stunning poses in one tap. Come get a triple snapshot! This group photo system is just awesome! (๑˃ᴗ˂)ﻭ",
+    "CoverPictureURL": "https://wegame-pkg.panda-tke.tencent-cloud.com/shardData/item_icons_item_icons_citizen_note(1).png",
+    "ReceivingPageDesc": "Gather with your friends for a group photo! Tons of stunning poses in one tap. Come get a triple snapshot! This group photo system is just awesome! (๑˃ᴗ˂)ﻭ",
+    "ReceivingPagePictureURL": [],
+    "ReceivingPagePictureData": [
+      [
+        828,
+        1500
+      ]
+    ]
+  },
+  "3": {
+    "Id": 3,
+    "CoverTitle": "Season Co-op Invitation",
+    "CoverDesc": "Star Resonance - Void Corruption season now live! Come earn exclusive seasonal emblems and limited-time outfits!",
+    "CoverPictureURL": "https://wegame-pkg.panda-tke.tencent-cloud.com/shardData/item_icons_item_icons_citizen_note(1).png",
+    "ReceivingPageDesc": "Star Resonance - Void Corruption season now live! Come earn exclusive seasonal emblems and limited-time outfits!",
+    "ReceivingPagePictureURL": [],
+    "ReceivingPagePictureData": [
+      [
+        828,
+        1500
+      ]
+    ]
+  },
+  "4": {
+    "Id": 4,
+    "CoverTitle": "Homestead Co-living Invitation",
+    "CoverDesc": "My homestead is freshly renovated. You're invited for tea! Looking for roommates!",
+    "CoverPictureURL": "https://wegame-pkg.panda-tke.tencent-cloud.com/shardData/item_icons_item_icons_citizen_note(1).png",
+    "ReceivingPageDesc": "My homestead is freshly renovated. You're invited for tea! Looking for roommates!",
+    "ReceivingPagePictureURL": [],
+    "ReceivingPagePictureData": [
+      [
+        828,
+        1500
+      ]
+    ]
+  }
+}

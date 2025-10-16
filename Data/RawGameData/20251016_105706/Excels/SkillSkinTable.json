@@ -1,0 +1,604 @@
+{
+  "1714": {
+    "Id": 1714,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 1,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1715": {
+    "Id": 1715,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1715
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 1,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "171401": {
+    "Id": 171401,
+    "Name": "Camellia Blade",
+    "Desc": "A faint light, like the cold moon, flows along the blade. The moment the Iaido Slash lands, camellia petals and frost shatter together, like a phantom wilting in the night mist.",
+    "Icon": "ui/atlas/weapon_effects/weapon_tdl_sakura_skin01",
+    "SkillId": [
+      1714,
+      1734
+    ],
+    "SkillGroupId": 171401,
+    "SummonSkillId": [],
+    "ProfessionId": 1,
+    "SkillIdsVideo": "weapon/tdl/tdl_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077001,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "171501": {
+    "Id": 171501,
+    "Name": "Instant Cherry Swallow Blade",
+    "Desc": "The dual slashes of the dash tear through the air, Crimsoncherry blossoms burning out along their trajectory, like two red swallows streaking across the battlefield, leaving only scorching ashes and scattered flower souls.",
+    "Icon": "ui/atlas/weapon_effects/weapon_tdl_sakura_skin02",
+    "SkillId": [
+      1715,
+      1738
+    ],
+    "SkillGroupId": 171501,
+    "SummonSkillId": [],
+    "ProfessionId": 1,
+    "SkillIdsVideo": "weapon/tdl/tdl_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077001,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "1242": {
+    "Id": 1242,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1242
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 2,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1241": {
+    "Id": 1241,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1241
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 2,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "124201": {
+    "Id": 124201,
+    "Name": "Vermilion Spell",
+    "Desc": "Ice crystals gather at the staff's tip like blood-red cherry blossoms, finally exploding into thorn-like icicles. The forbidden prayers of a divine sorceress can be faintly heard amidst the cold air.",
+    "Icon": "ui/atlas/weapon_effects/weapon_fz_sakura_skin01",
+    "SkillId": [
+      1242
+    ],
+    "SkillGroupId": 124201,
+    "SummonSkillId": [],
+    "ProfessionId": 2,
+    "SkillIdsVideo": "weapon/fz/fz_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077003,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "124101": {
+    "Id": 124101,
+    "Name": "Radiant Falling Petals",
+    "Desc": "The laser bursts from the top of the staff, intertwining cherry blossoms and twilight into a beam of light, like the Crimsonthread of Amaterasu's loom cast into the mortal world.",
+    "Icon": "ui/atlas/weapon_effects/weapon_fz_sakura_skin02",
+    "SkillId": [
+      1241
+    ],
+    "SkillGroupId": 124101,
+    "SummonSkillId": [],
+    "ProfessionId": 2,
+    "SkillIdsVideo": "weapon/fz/fz_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077003,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "1518": {
+    "Id": 1518,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1518,
+      1525
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 5,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1507": {
+    "Id": 1507,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1507
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 5,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "151801": {
+    "Id": 151801,
+    "Name": "Myriad Leaves Fluttering",
+    "Desc": "The moment the spell ring rotates, thorny vines erupt from the void. Cherry blossom branches transform into a strangling cage of thorns for the enemy, each leaf blade stained with a thin layer of red blood-dew.",
+    "Icon": "ui/atlas/weapon_effects/weapon_fh_sakura_skin01",
+    "SkillId": [
+      1518,
+      1530,
+      1541,
+      1525
+    ],
+    "SkillGroupId": 151801,
+    "SummonSkillId": [],
+    "ProfessionId": 5,
+    "SkillIdsVideo": "weapon/fh/fh_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077005,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "150701": {
+    "Id": 150701,
+    "Name": "Thin Crimson Flowing Ring",
+    "Desc": "The healing aura ripples out like water waves, pink petals continuously falling within its range. The bloodstains of the injured are gently dyed the color of wilting cherry blossoms.",
+    "Icon": "ui/atlas/weapon_effects/weapon_fh_sakura_skin02",
+    "SkillId": [
+      1507
+    ],
+    "SkillGroupId": 150701,
+    "SummonSkillId": [],
+    "ProfessionId": 5,
+    "SkillIdsVideo": "weapon/fh/fh_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077005,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "1922": {
+    "Id": 1922,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1922
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 9,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1930": {
+    "Id": 1930,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1930
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 9,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "192201": {
+    "Id": 192201,
+    "Name": "Cherry Cleaver",
+    "Desc": "The blade is entwined with an ominous storm of cherry blossoms. Each spinning slash unleashes a crimson tide, as if an ogre is smashing an entire cherry forest down upon the mortal world.",
+    "Icon": "ui/atlas/weapon_effects/weapon_wr_sakura_skin01",
+    "SkillId": [
+      1922,
+      1932
+    ],
+    "SkillGroupId": 192201,
+    "SummonSkillId": [],
+    "ProfessionId": 9,
+    "SkillIdsVideo": "weapon/wr/wr_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077007,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "193001": {
+    "Id": 193001,
+    "Name": "Mountain-Toppling Cherry",
+    "Desc": "The moment the giant blade smashes into the ground, rubbles and cherry petals burst out together. Boiling crimson flower mud surges from the fissures of the cracked ground.",
+    "Icon": "ui/atlas/weapon_effects/weapon_wr_sakura_skin02",
+    "SkillId": [
+      1930
+    ],
+    "SkillGroupId": 193001,
+    "SummonSkillId": [],
+    "ProfessionId": 9,
+    "SkillIdsVideo": "weapon/wr/wr_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077007,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "1418": {
+    "Id": 1418,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1418
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 4,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "1419": {
+    "Id": 1419,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      1419
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 4,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "141801": {
+    "Id": 141801,
+    "Name": "Flower Hail Mower",
+    "Desc": "The spear thrust is too fast to see its physical form. Only afterimages like a hailstorm of cherry blossoms explode in the air can be seen, as if bombarding continuously with the entire spring as ammunition.",
+    "Icon": "ui/atlas/weapon_effects/weapon_cq_sakura_skin01",
+    "SkillId": [
+      1418
+    ],
+    "SkillGroupId": 141801,
+    "SummonSkillId": [],
+    "ProfessionId": 4,
+    "SkillIdsVideo": "weapon/cq/cq_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077004,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "141901": {
+    "Id": 141901,
+    "Name": "Empty Cicada Rushing Stream",
+    "Desc": "A diving spear attack from high above tears through the clouds. Upon landing, it kicks up a ring-shaped shockwave of cherry blossoms. Cicada-wing-shaped energy fragments hover and flicker at the epicenter of the blast.",
+    "Icon": "ui/atlas/weapon_effects/weapon_cq_sakura_skin02",
+    "SkillId": [
+      1419
+    ],
+    "SkillGroupId": 141901,
+    "SummonSkillId": [],
+    "ProfessionId": 4,
+    "SkillIdsVideo": "weapon/cq/cq_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077004,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "2220": {
+    "Id": 2220,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2220
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 11,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "2222": {
+    "Id": 2222,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2222
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 11,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "222001": {
+    "Id": 222001,
+    "Name": "Sakura Maelstrom",
+    "Desc": "The moment the bowstring twangs, multiple arrows, wrapped in a downpour of cherry blossoms, are unleashed. Each arrow blooms into a small crimson vortex along its flight path.",
+    "Icon": "ui/atlas/weapon_effects/weapon_gj_sakura_skin01",
+    "SkillId": [
+      2220
+    ],
+    "SkillGroupId": 222001,
+    "SummonSkillId": [],
+    "ProfessionId": 11,
+    "SkillIdsVideo": "weapon/gj/gj_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077002,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "222201": {
+    "Id": 222201,
+    "Name": "Flowing Hail",
+    "Desc": "The arrowheads transform into an unceasing meteor shower of cherry blossoms. The dense barrage makes an unending crimson snow fall from the sky.",
+    "Icon": "ui/atlas/weapon_effects/weapon_gj_sakura_skin02",
+    "SkillId": [
+      2222,
+      2224
+    ],
+    "SkillGroupId": 222201,
+    "SummonSkillId": [],
+    "ProfessionId": 11,
+    "SkillIdsVideo": "weapon/gj/gj_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077002,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "2405": {
+    "Id": 2405,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2405
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 12,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "2406": {
+    "Id": 2406,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2406
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 12,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "240501": {
+    "Id": 240501,
+    "Name": "Collapsing Snow",
+    "Desc": "Cherry blossoms entwine into an eightfold illusion. The moment of impact, ice crystals and petals explode into a hailstorm, carving a bloody falling blossom emblem onto the enemy.",
+    "Icon": "ui/atlas/weapon_effects/weapon_jd_sakura_skin01",
+    "SkillId": [
+      2405
+    ],
+    "SkillGroupId": 240501,
+    "SummonSkillId": [],
+    "ProfessionId": 12,
+    "SkillIdsVideo": "weapon/jd/jd_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077006,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "240601": {
+    "Id": 240601,
+    "Name": "Straight Line",
+    "Desc": "The slash of the blade cuts open the night curtain. Cherry blossoms rapidly grow and then wilt along the sword mark, as if drawing a final \"One\" on the battlefield with a crimson ink brush.",
+    "Icon": "ui/atlas/weapon_effects/weapon_jd_sakura_skin02",
+    "SkillId": [
+      2406
+    ],
+    "SkillGroupId": 240601,
+    "SummonSkillId": [],
+    "ProfessionId": 12,
+    "SkillIdsVideo": "weapon/jd/jd_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077006,
+        1
+      ]
+    ],
+    "Sort": 4
+  },
+  "2306": {
+    "Id": 2306,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2306
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 13,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 1
+  },
+  "2307": {
+    "Id": 2307,
+    "Name": "Default",
+    "Desc": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "Icon": "ui/atlas/weapon_effects/weapon_skill_skin_default",
+    "SkillId": [
+      2307
+    ],
+    "SkillGroupId": 0,
+    "SummonSkillId": [],
+    "ProfessionId": 13,
+    "SkillIdsVideo": "",
+    "UnlockCondition": [],
+    "UnlockConsume": [],
+    "Sort": 2
+  },
+  "230601": {
+    "Id": 230601,
+    "Name": "Hanami Frenzy",
+    "Desc": "As you leap and slash, your guitar bursts with brilliant sakura sound waves. The entire sakura forest whirls with each strike. Sound and blade intertwine into a melody of Season Passion.",
+    "Icon": "ui/atlas/weapon_effects/weapon_jt_sakura_skin01",
+    "SkillId": [
+      2306
+    ],
+    "SkillGroupId": 230601,
+    "SummonSkillId": [],
+    "ProfessionId": 13,
+    "SkillIdsVideo": "weapon/jt/jt_sakura_skin01",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077008,
+        1
+      ]
+    ],
+    "Sort": 3
+  },
+  "230701": {
+    "Id": 230701,
+    "Name": "Sakura's Touch",
+    "Desc": "With a gentle pluck of the strings, pale pink petals drift with the notes. The soft melody turns into a healing light, easing your allies' pain.",
+    "Icon": "ui/atlas/weapon_effects/weapon_jt_sakura_skin02",
+    "SkillId": [
+      2307
+    ],
+    "SkillGroupId": 230701,
+    "SummonSkillId": [
+      2311,
+      2361,
+      2307
+    ],
+    "ProfessionId": 13,
+    "SkillIdsVideo": "weapon/jt/jt_sakura_skin02",
+    "UnlockCondition": [],
+    "UnlockConsume": [
+      [
+        1077008,
+        1
+      ]
+    ],
+    "Sort": 4
+  }
+}

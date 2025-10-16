@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package zproto;
+
+import "stru_stat_record.proto";
+import "stru_dirty_mask.proto";
+
+message StatisticsData {
+  map<int32, zproto.StatRecord> stat_record_map = 1;
+}
+

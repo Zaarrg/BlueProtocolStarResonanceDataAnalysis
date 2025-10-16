@@ -1,0 +1,97 @@
+{
+  "1": {
+    "Id": 1,
+    "Name": "Life Skill",
+    "TagColor": "#EC9700"
+  },
+  "2": {
+    "Id": 2,
+    "Name": "Auxiliary ingredients",
+    "TagColor": "#D7AF6D"
+  },
+  "101": {
+    "Id": 101,
+    "Name": "Fish",
+    "TagColor": "#65AFE8"
+  },
+  "102": {
+    "Id": 102,
+    "Name": "Mushrooms",
+    "TagColor": "#F2B447"
+  },
+  "103": {
+    "Id": 103,
+    "Name": "Fruits",
+    "TagColor": "#D2E443"
+  },
+  "104": {
+    "Id": 104,
+    "Name": "Flowers and herbs",
+    "TagColor": "#87C264"
+  },
+  "105": {
+    "Id": 105,
+    "Name": "Meat",
+    "TagColor": "#E37A65"
+  },
+  "106": {
+    "Id": 106,
+    "Name": "Seafood",
+    "TagColor": "#536DD5"
+  },
+  "107": {
+    "Id": 107,
+    "Name": "Nuts",
+    "TagColor": "#AE805E"
+  },
+  "201": {
+    "Id": 201,
+    "Name": "Water",
+    "TagColor": "#89CEF6"
+  },
+  "202": {
+    "Id": 202,
+    "Name": "Oil",
+    "TagColor": "#EB9A73"
+  },
+  "203": {
+    "Id": 203,
+    "Name": "Flour",
+    "TagColor": "#B0D595"
+  },
+  "204": {
+    "Id": 204,
+    "Name": "Salty",
+    "TagColor": "#F6CC84"
+  },
+  "205": {
+    "Id": 205,
+    "Name": "Sweet",
+    "TagColor": "#EB9EC2"
+  },
+  "206": {
+    "Id": 206,
+    "Name": "Nine Flavors",
+    "TagColor": "#8F82BE"
+  },
+  "301": {
+    "Id": 301,
+    "Name": "Fish Lv.1",
+    "TagColor": "#65AFE8"
+  },
+  "302": {
+    "Id": 302,
+    "Name": "Fish Lv.2",
+    "TagColor": "#65AFE8"
+  },
+  "303": {
+    "Id": 303,
+    "Name": "Fish Lv.3",
+    "TagColor": "#65AFE8"
+  },
+  "401": {
+    "Id": 401,
+    "Name": "Materials",
+    "TagColor": "#D7AF6D"
+  }
+}

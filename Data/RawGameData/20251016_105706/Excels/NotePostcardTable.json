@@ -1,0 +1,101 @@
+{
+  "1210001": {
+    "Id": 1210001,
+    "Episode": 1210001,
+    "Name": "Hero's Herb Postcard",
+    "DictionaryDes": "After the Asterleeds Independence War, Hero's Herb grew in Ancient City of Vill, spreading towards Asterleeds...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yxc",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yxc",
+    "IsHide": false
+  },
+  "1210002": {
+    "Id": 1210002,
+    "Episode": 1210002,
+    "Name": "Towering Ruin Postcard",
+    "DictionaryDes": "It is said to be a divine ruins left by the Bapharia civilization, standing in the center of Asteria Plains...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_jtyj",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_jtyj",
+    "IsHide": false
+  },
+  "1210003": {
+    "Id": 1210003,
+    "Episode": 1210003,
+    "Name": "Statue of the Hero Postcard",
+    "DictionaryDes": "Many tree carvings were spontaneously built by the people to quietly honor the heroes who brought independence and peace...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_yxbl",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_yxbl",
+    "IsHide": false
+  },
+  "1210004": {
+    "Id": 1210004,
+    "Episode": 1210004,
+    "Name": "Andra Resting Post Postcard",
+    "DictionaryDes": "Built after the war beside the historic Andra Basin battlefield, this resting post now shelters \"battlefield scavengers\"-solitary figures who search for gear left behind from the Asterleeds Independence War...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_adlyz",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_adlyz",
+    "IsHide": false
+  },
+  "1210005": {
+    "Id": 1210005,
+    "Episode": 1210005,
+    "Name": "Andra Landing Battlefield Postcard",
+    "DictionaryDes": "An untamed and hazardous expanse, once a major battlefield in the Asterleeds Independence War, where wild-growing natural plants coexist harmoniously with war remnants...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_adldlzyz",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_adldlzyz",
+    "IsHide": false
+  },
+  "1210006": {
+    "Id": 1210006,
+    "Episode": 1210006,
+    "Name": "Andra Underground Mines Postcard",
+    "DictionaryDes": "Deep within the Andra Basin tunnels, where the Byrnhald's Giant Golem was destroyed during the Asterleeds Independence War-its abandoned energy core continues to trigger dramatic ecological transformations.",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_adldxsd",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_adldxsd",
+    "IsHide": false
+  },
+  "1210007": {
+    "Id": 1210007,
+    "Episode": 1210007,
+    "Name": "Minsterhorn Postcard",
+    "DictionaryDes": "Once a tranquil village, Minsterhorn fell to ruins in the flames of the Asterleeds Independence War. In its quiet aftermath, the surviving villagers returned to reclaim and rebuild their homes...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_msthe",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_msthe",
+    "IsHide": false
+  },
+  "1210008": {
+    "Id": 1210008,
+    "Episode": 1210008,
+    "Name": "Entrance to the Kanamia Tribe Postcard",
+    "DictionaryDes": "The Kanamia Tribe lives a simple and kind life through hunting and gathering. They worship their ancestors, referring to them as Ancestral Spirits...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_knmblrk",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_knmblrk",
+    "IsHide": false
+  },
+  "1210009": {
+    "Id": 1210009,
+    "Episode": 1210009,
+    "Name": "Elders' Council Hall Postcard",
+    "DictionaryDes": "The chieftain and elders of the Kanamia Tribe hold their council meetings entwined around a special eternal tree...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_zlyst",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_zlyst",
+    "IsHide": false
+  },
+  "1210010": {
+    "Id": 1210010,
+    "Episode": 1210010,
+    "Name": "Ruins of Andra City Postcard",
+    "DictionaryDes": "Andra was once a major city of the Bapharia civilization. Destroyed in the chaos of war, it now survives only as ruins...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_adlfd",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_adlfd",
+    "IsHide": false
+  },
+  "1210011": {
+    "Id": 1210011,
+    "Episode": 1210011,
+    "Name": "Dark Mist Fortress Postcard",
+    "DictionaryDes": "The Dark Mist Legion, whose goal is to bring down Asterleeds, has established a secret hideout within the Ruins of Andra City...",
+    "ListResources": "ui/textures/handbook_postcard/list_icons_notepostcard_image_aybl",
+    "Resources": "ui/textures/handbook_postcard/notepostcard_image_aybl",
+    "IsHide": false
+  }
+}

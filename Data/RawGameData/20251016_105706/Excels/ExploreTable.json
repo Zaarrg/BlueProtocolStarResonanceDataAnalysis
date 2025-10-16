@@ -1,0 +1,466 @@
+{
+  "1": {
+    "Id": 1,
+    "Type": 1,
+    "TargetID": 1,
+    "QuestStepID": 0,
+    "Exploration": 20,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "2": {
+    "Id": 2,
+    "Type": 3,
+    "TargetID": 2,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": ""
+  },
+  "3": {
+    "Id": 3,
+    "Type": 2,
+    "TargetID": 3,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "There seem to be many annoying small bases"
+  },
+  "4": {
+    "Id": 4,
+    "Type": 2,
+    "TargetID": 4,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "There seem to be small creatures hiding underground"
+  },
+  "5": {
+    "Id": 5,
+    "Type": 3,
+    "TargetID": 5,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": ""
+  },
+  "6": {
+    "Id": 6,
+    "Type": 3,
+    "TargetID": 6,
+    "QuestStepID": 0,
+    "Exploration": 20,
+    "Param": ""
+  },
+  "7": {
+    "Id": 7,
+    "Type": 3,
+    "TargetID": 7,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": ""
+  },
+  "8": {
+    "Id": 8,
+    "Type": 3,
+    "TargetID": 8,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1008": {
+    "Id": 1008,
+    "Type": 3,
+    "TargetID": 1008,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "Set foot on every piece of land"
+  },
+  "9": {
+    "Id": 9,
+    "Type": 2,
+    "TargetID": 9,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "Beware of monsters on the road"
+  },
+  "10": {
+    "Id": 10,
+    "Type": 3,
+    "TargetID": 10,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "13": {
+    "Id": 13,
+    "Type": 1,
+    "TargetID": 13,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1001": {
+    "Id": 1001,
+    "Type": 2,
+    "TargetID": 1001,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "It is said that someone heard the roar of orcs"
+  },
+  "1002": {
+    "Id": 1002,
+    "Type": 1,
+    "TargetID": 1002,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1003": {
+    "Id": 1003,
+    "Type": 3,
+    "TargetID": 1003,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": ""
+  },
+  "1004": {
+    "Id": 1004,
+    "Type": 3,
+    "TargetID": 1004,
+    "QuestStepID": 0,
+    "Exploration": 3,
+    "Param": ""
+  },
+  "1005": {
+    "Id": 1005,
+    "Type": 3,
+    "TargetID": 1005,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": ""
+  },
+  "1007": {
+    "Id": 1007,
+    "Type": 3,
+    "TargetID": 1006,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1050": {
+    "Id": 1050,
+    "Type": 1,
+    "TargetID": 1050,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1051": {
+    "Id": 1051,
+    "Type": 1,
+    "TargetID": 1051,
+    "QuestStepID": 0,
+    "Exploration": 15,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1052": {
+    "Id": 1052,
+    "Type": 3,
+    "TargetID": 1052,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1053": {
+    "Id": 1053,
+    "Type": 1,
+    "TargetID": 1053,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1054": {
+    "Id": 1054,
+    "Type": 2,
+    "TargetID": 1054,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "What were the Silver Wolf Legion soldiers who sacrificed here thinking in their last moments?"
+  },
+  "1055": {
+    "Id": 1055,
+    "Type": 1,
+    "TargetID": 1055,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "Temporarily Abandoned"
+  },
+  "1056": {
+    "Id": 1056,
+    "Type": 2,
+    "TargetID": 1056,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "There are traces of Silver Wolf Legion activities in the Towering Ruin... Perhaps they left something here."
+  },
+  "1057": {
+    "Id": 1057,
+    "Type": 3,
+    "TargetID": 1057,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1058": {
+    "Id": 1058,
+    "Type": 2,
+    "TargetID": 1058,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "It is said that many treasure chests are hidden in every corner of the tower..."
+  },
+  "1059": {
+    "Id": 1059,
+    "Type": 2,
+    "TargetID": 1059,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "Every action of the legion is recorded in combat logs. These logs are valuable materials for understanding the real situation of that year."
+  },
+  "1060": {
+    "Id": 1060,
+    "Type": 1,
+    "TargetID": 1060,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1061": {
+    "Id": 1061,
+    "Type": 1,
+    "TargetID": 1061,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1062": {
+    "Id": 1062,
+    "Type": 1,
+    "TargetID": 1062,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1063": {
+    "Id": 1063,
+    "Type": 1,
+    "TargetID": 1063,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1064": {
+    "Id": 1064,
+    "Type": 1,
+    "TargetID": 1064,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "1065": {
+    "Id": 1065,
+    "Type": 1,
+    "TargetID": 1065,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100151": {
+    "Id": 100151,
+    "Type": 1,
+    "TargetID": 100151,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100152": {
+    "Id": 100152,
+    "Type": 1,
+    "TargetID": 100152,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100153": {
+    "Id": 100153,
+    "Type": 1,
+    "TargetID": 100153,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100154": {
+    "Id": 100154,
+    "Type": 2,
+    "TargetID": 100154,
+    "QuestStepID": 0,
+    "Exploration": 15,
+    "Param": "Immune to All Poisons"
+  },
+  "100155": {
+    "Id": 100155,
+    "Type": 1,
+    "TargetID": 100155,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100156": {
+    "Id": 100156,
+    "Type": 1,
+    "TargetID": 100156,
+    "QuestStepID": 0,
+    "Exploration": 20,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100157": {
+    "Id": 100157,
+    "Type": 3,
+    "TargetID": 100157,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "Clone Killer"
+  },
+  "100158": {
+    "Id": 100158,
+    "Type": 2,
+    "TargetID": 100158,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "Bullseye"
+  },
+  "100159": {
+    "Id": 100159,
+    "Type": 1,
+    "TargetID": 100159,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100160": {
+    "Id": 100160,
+    "Type": 1,
+    "TargetID": 100160,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100181": {
+    "Id": 100181,
+    "Type": 1,
+    "TargetID": 100181,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100182": {
+    "Id": 100182,
+    "Type": 1,
+    "TargetID": 100182,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100183": {
+    "Id": 100183,
+    "Type": 1,
+    "TargetID": 100183,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "100184": {
+    "Id": 100184,
+    "Type": 1,
+    "TargetID": 100184,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120251": {
+    "Id": 120251,
+    "Type": 1,
+    "TargetID": 120251,
+    "QuestStepID": 0,
+    "Exploration": 20,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120252": {
+    "Id": 120252,
+    "Type": 1,
+    "TargetID": 120252,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120253": {
+    "Id": 120253,
+    "Type": 1,
+    "TargetID": 120253,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120254": {
+    "Id": 120254,
+    "Type": 1,
+    "TargetID": 120254,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120255": {
+    "Id": 120255,
+    "Type": 1,
+    "TargetID": 120255,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120256": {
+    "Id": 120256,
+    "Type": 1,
+    "TargetID": 120256,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120257": {
+    "Id": 120257,
+    "Type": 1,
+    "TargetID": 120257,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120258": {
+    "Id": 120258,
+    "Type": 1,
+    "TargetID": 120258,
+    "QuestStepID": 0,
+    "Exploration": 10,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120259": {
+    "Id": 120259,
+    "Type": 1,
+    "TargetID": 120259,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  },
+  "120260": {
+    "Id": 120260,
+    "Type": 1,
+    "TargetID": 120260,
+    "QuestStepID": 0,
+    "Exploration": 5,
+    "Param": "He crouched down and started digging with his hands. <br>Soon, he unearthed a box with a letter inside."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "Id": 1,
+    "StatusName": "Online",
+    "Res": "friend_icon_online",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 1
+  },
+  "2": {
+    "Id": 2,
+    "StatusName": "In the dungeon",
+    "Res": "friend_icon_copy",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 20
+  },
+  "3": {
+    "Id": 3,
+    "StatusName": "In animation",
+    "Res": "friend_icon_anim",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 30
+  },
+  "4": {
+    "Id": 4,
+    "StatusName": "In photo mode",
+    "Res": "friend_icon_photo",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 40
+  },
+  "5": {
+    "Id": 5,
+    "StatusName": "Recruiting",
+    "Res": "friend_icon_team",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 10
+  },
+  "6": {
+    "Id": 6,
+    "StatusName": "Offline",
+    "Res": "friend_icon_leave",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 0
+  },
+  "7": {
+    "Id": 7,
+    "StatusName": "Homestead",
+    "Res": "friend_icon_online",
+    "StatusSwitch": false,
+    "Sequence": 0,
+    "Priority": 10
+  }
+}
